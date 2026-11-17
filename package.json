@@ -1,0 +1,21 @@
+{
+  "name": "castle-asset-library",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Reusable asset library for realistic European medieval castles: CC0 PBR materials and procedurally modelled modular architecture (GLB)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:models": "node scripts/build-models.mjs",
+    "shot": "node scripts/shot.mjs",
+    "fetch-materials": "node scripts/fetch-materials.mjs"
+  },
+  "dependencies": {
+    "three": "^0.187.0",
+    "three-bvh-csg": "^0.0.18"
+  },
+  "devDependencies": {
+    "puppeteer-core": "25.17.0",
+    "vite": "^8.3.8"
+  }
+}

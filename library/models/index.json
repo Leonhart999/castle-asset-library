@@ -1,0 +1,261 @@
+[
+  {
+    "id": "wall_straight",
+    "name": "Straight wall, walkway",
+    "category": "wall",
+    "description": "4 m curtain wall with dressed plinth, corbel table and flat coping slab. No parapet, use it under your own top.",
+    "size_m": [
+      4,
+      8,
+      2.7
+    ],
+    "triangles": 132,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_straight.glb",
+    "preview": "previews/wall_straight.png",
+    "glb_bytes": 2284040
+  },
+  {
+    "id": "wall_straight_crenellated",
+    "name": "Straight wall, crenellated",
+    "category": "wall",
+    "description": "4 m curtain wall with outer battlement (two merlons) and a low inner parapet.",
+    "size_m": [
+      4,
+      10.2,
+      2.7
+    ],
+    "triangles": 180,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_straight_crenellated.glb",
+    "preview": "previews/wall_straight_crenellated.png",
+    "glb_bytes": 2287464
+  },
+  {
+    "id": "wall_straight_loophole",
+    "name": "Straight wall, arrow loop",
+    "category": "wall",
+    "description": "Crenellated 4 m wall with one splayed arrow loop through the body.",
+    "size_m": [
+      4,
+      10.2,
+      2.7
+    ],
+    "triangles": 367,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_straight_loophole.glb",
+    "preview": "previews/wall_straight_loophole.png",
+    "glb_bytes": 2296264
+  },
+  {
+    "id": "wall_corner",
+    "name": "Outer corner, crenellated",
+    "category": "wall",
+    "description": "90 degree L-shaped corner with an L-shaped corner merlon and a diagonal corbel. Arms end at x = -2 and z = -2.",
+    "size_m": [
+      3.67,
+      10.2,
+      3.67
+    ],
+    "triangles": 324,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_corner.glb",
+    "preview": "previews/wall_corner.png",
+    "glb_bytes": 2297140
+  },
+  {
+    "id": "battlement_straight",
+    "name": "Battlement, straight",
+    "category": "battlement",
+    "description": "4 m parapet with two merlons, positioned for the outer edge of a wall top. Place it at y = 8 over wall_straight.",
+    "size_m": [
+      4,
+      2.2,
+      0.6
+    ],
+    "triangles": 36,
+    "materials": [
+      "castle_wall_slates"
+    ],
+    "file": "glb/battlement_straight.glb",
+    "preview": "previews/battlement_straight.png",
+    "glb_bytes": 1510440
+  },
+  {
+    "id": "battlement_corner",
+    "name": "Battlement, corner",
+    "category": "battlement",
+    "description": "L-shaped parapet with a corner merlon, positioned for wall_corner. Place it at y = 8.",
+    "size_m": [
+      3.5,
+      2.2,
+      3.5
+    ],
+    "triangles": 72,
+    "materials": [
+      "castle_wall_slates"
+    ],
+    "file": "glb/battlement_corner.glb",
+    "preview": "previews/battlement_corner.png",
+    "glb_bytes": 1512956
+  },
+  {
+    "id": "wall_arch_round",
+    "name": "Wall with round arch",
+    "category": "arch",
+    "description": "4 m wall module with a 2.4 m round-arched passage (4.0 m high) and dressed voussoir rings.",
+    "size_m": [
+      4,
+      10.2,
+      2.7
+    ],
+    "triangles": 815,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_arch_round.glb",
+    "preview": "previews/wall_arch_round.png",
+    "glb_bytes": 2320828
+  },
+  {
+    "id": "wall_arch_pointed",
+    "name": "Wall with pointed arch",
+    "category": "arch",
+    "description": "4 m wall module with a 2.4 m pointed (gothic) passage, 4.6 m high, and dressed rings.",
+    "size_m": [
+      4,
+      10.2,
+      2.7
+    ],
+    "triangles": 778,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/wall_arch_pointed.glb",
+    "preview": "previews/wall_arch_pointed.png",
+    "glb_bytes": 2319108
+  },
+  {
+    "id": "tower_round",
+    "name": "Round tower, crenellated",
+    "category": "tower",
+    "description": "Round tower, radius 3.5 m, walkway at 12 m on a corbel ring with 12 merlons. Arrow loops, courtyard door on -Z, wall-walk doors on +-X. Wall modules centred at x = +-5.2 join it.",
+    "size_m": [
+      8.14,
+      14.7,
+      8.15
+    ],
+    "triangles": 2685,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "weathered_planks",
+      "void"
+    ],
+    "file": "glb/tower_round.glb",
+    "preview": "previews/tower_round.png",
+    "glb_bytes": 2940036
+  },
+  {
+    "id": "tower_round_roofed",
+    "name": "Round tower, conical roof",
+    "category": "tower",
+    "description": "Round tower, radius 3.5 m, with an eaves ring, bell-cast slate cone roof and finial. Same openings as tower_round plus a window under the roof.",
+    "size_m": [
+      9.41,
+      21.56,
+      9.41
+    ],
+    "triangles": 3094,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "weathered_planks",
+      "void",
+      "roof_slates_02",
+      "rusty_metal_03"
+    ],
+    "file": "glb/tower_round_roofed.glb",
+    "preview": "previews/tower_round_roofed.png",
+    "glb_bytes": 4598408
+  },
+  {
+    "id": "tower_square",
+    "name": "Square tower, crenellated",
+    "category": "tower",
+    "description": "Square tower 6 x 6 m, walkway at 12 m with corbels on all sides and a merlon parapet. Courtyard door on -Z, wall-walk doors on +-X. Wall modules centred at x = +-5 join it.",
+    "size_m": [
+      7,
+      14.7,
+      7
+    ],
+    "triangles": 2000,
+    "materials": [
+      "castle_wall_slates",
+      "weathered_planks",
+      "void",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/tower_square.glb",
+    "preview": "previews/tower_square.png",
+    "glb_bytes": 2923412
+  },
+  {
+    "id": "gatehouse",
+    "name": "Gatehouse, open",
+    "category": "gate",
+    "description": "Gatehouse 8 x 6 m, 11 m to the walkway, pointed passage 3.6 x 5.4 m through the body. Portcullis half raised, timber doors swung back, corbelled battlement, murder hole above the gate.",
+    "size_m": [
+      9,
+      13.2,
+      7.5
+    ],
+    "triangles": 2510,
+    "materials": [
+      "castle_wall_slates",
+      "void",
+      "large_sandstone_blocks",
+      "rusty_metal_03",
+      "weathered_planks"
+    ],
+    "file": "glb/gatehouse.glb",
+    "preview": "previews/gatehouse.png",
+    "glb_bytes": 3497448
+  },
+  {
+    "id": "gatehouse_closed",
+    "name": "Gatehouse, closed",
+    "category": "gate",
+    "description": "Same gatehouse with the portcullis lowered and the timber doors shut.",
+    "size_m": [
+      9,
+      13.45,
+      7.5
+    ],
+    "triangles": 2574,
+    "materials": [
+      "castle_wall_slates",
+      "void",
+      "large_sandstone_blocks",
+      "rusty_metal_03",
+      "weathered_planks"
+    ],
+    "file": "glb/gatehouse_closed.glb",
+    "preview": "previews/gatehouse_closed.png",
+    "glb_bytes": 3500712
+  }
+]
