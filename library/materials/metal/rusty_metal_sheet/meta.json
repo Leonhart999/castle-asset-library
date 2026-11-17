@@ -1,0 +1,32 @@
+{
+  "id": "rusty_metal_sheet",
+  "name": "Rusty Metal Sheet",
+  "category": "metal",
+  "tags": [
+    "metal",
+    "rusty",
+    "rust",
+    "rusted",
+    "corroded",
+    "sheet",
+    "tarnished",
+    "oxidized",
+    "corroded metal sheet"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "metal"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_metal_sheet"
+}

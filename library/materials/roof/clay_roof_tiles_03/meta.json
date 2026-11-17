@@ -1,0 +1,34 @@
+{
+  "id": "clay_roof_tiles_03",
+  "name": "Clay Roof Tiles 03",
+  "category": "roof",
+  "tags": [
+    "weathered",
+    "uneven",
+    "clay",
+    "clay tiles",
+    "roof",
+    "roofing",
+    "tile roofing",
+    "overlapping tiles",
+    "traditional",
+    "traditional roofing "
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "outdoor",
+    "roofing"
+  ],
+  "dimensions_mm": [
+    2599.9999046325684,
+    2599.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/clay_roof_tiles_03"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "stone_wall_03",
+  "name": "Stone Wall 03",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "wall",
+    "chipped",
+    "cracked",
+    "worn",
+    "discolored",
+    "brown",
+    "stones",
+    "rocks",
+    "concrete",
+    "stone"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "plaster-concrete",
+    "concrete",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2170.0000762939453,
+    2170.0000762939453
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_wall_03"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "dark_brick_wall",
+  "name": "Dark Brick Wall",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "dry",
+    "bricks",
+    "brick",
+    "dark"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1049.9998331069946,
+    1049.9999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_brick_wall"
+}

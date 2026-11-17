@@ -1,0 +1,32 @@
+{
+  "id": "large_sandstone_blocks_01",
+  "name": "Large Sandstone Blocks 01",
+  "category": "masonry-wall",
+  "tags": [
+    "wall",
+    "stones",
+    "rough",
+    "uneven",
+    "old",
+    "large"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "floor",
+    "man made",
+    "dirty",
+    "brick"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/large_sandstone_blocks_01"
+}

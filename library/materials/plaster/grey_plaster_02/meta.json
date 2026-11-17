@@ -1,0 +1,33 @@
+{
+  "id": "grey_plaster_02",
+  "name": "Grey Plaster 02",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "worn",
+    "cracked"
+  ],
+  "polyhaven_categories": [
+    "plaster",
+    "outdoor",
+    "indoor",
+    "man made",
+    "dirty",
+    "wall",
+    "floor",
+    "plaster-concrete",
+    "collection: the_shed"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grey_plaster_02"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cobblestone_floor_06",
+  "name": "Cobblestone Floor 06",
+  "category": "stone-floor",
+  "tags": [
+    "old",
+    "rough",
+    "weathered",
+    "dirty",
+    "pavement"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "cobblestone",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_06"
+}

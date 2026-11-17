@@ -1,0 +1,31 @@
+{
+  "id": "sandstone_blocks_05",
+  "name": "Sandstone Blocks 05",
+  "category": "masonry-wall",
+  "tags": [
+    "blocks",
+    "old",
+    "rough",
+    "uneven",
+    "large",
+    "sandstone"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "outdoor",
+    "brick"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/sandstone_blocks_05"
+}

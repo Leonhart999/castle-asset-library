@@ -1,0 +1,33 @@
+{
+  "id": "stone_wall_05",
+  "name": "Stone Wall 05",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "stone",
+    "stonework",
+    "wall",
+    "ancient walls",
+    "worn",
+    "timeworn",
+    "weatherbeaten",
+    "stone tile",
+    "stone block"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2055.000066757202,
+    2055.000066757202
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_wall_05"
+}

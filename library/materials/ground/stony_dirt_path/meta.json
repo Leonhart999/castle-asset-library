@@ -1,0 +1,38 @@
+{
+  "id": "stony_dirt_path",
+  "name": "Stony Dirt Path",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "ground",
+    "leaves",
+    "rocks",
+    "stones",
+    "dirt",
+    "pathway",
+    "path",
+    "forest",
+    "nature",
+    "autumn",
+    "twigs",
+    "rock"
+  ],
+  "polyhaven_categories": [
+    "dirty",
+    "floor",
+    "outdoor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2170.0000762939453,
+    2170.0000762939453
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stony_dirt_path"
+}

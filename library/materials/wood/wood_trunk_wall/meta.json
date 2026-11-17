@@ -1,0 +1,36 @@
+{
+  "id": "wood_trunk_wall",
+  "name": "Wood Trunk Wall",
+  "category": "wood",
+  "tags": [
+    "tree trunk",
+    "wood",
+    "wall",
+    "trunk",
+    "logs",
+    "log cabin",
+    "brown",
+    "timber",
+    "lumber",
+    "forest",
+    "cabin"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "wood",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1250,
+    1250
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_trunk_wall"
+}

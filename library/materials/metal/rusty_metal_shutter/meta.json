@@ -1,0 +1,35 @@
+{
+  "id": "rusty_metal_shutter",
+  "name": "Rusty Metal Shutter",
+  "category": "metal",
+  "tags": [
+    "weathered",
+    "rusted",
+    "metal shutter",
+    "corrugated iron",
+    "corrosion",
+    "painted",
+    "horizontal ridges",
+    "corroded metal sheet",
+    "metal",
+    "steel sheeting",
+    "oxidized metal",
+    "shutter"
+  ],
+  "polyhaven_categories": [
+    "metal",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_metal_shutter"
+}

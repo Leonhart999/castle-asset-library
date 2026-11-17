@@ -1,0 +1,40 @@
+{
+  "id": "rock_path",
+  "name": "Rock Path",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "weathered",
+    "leaves",
+    "rocks",
+    "rocky",
+    "grass",
+    "path",
+    "pathway",
+    "exterior",
+    "dirt",
+    "stony",
+    "trail",
+    "walkway",
+    "outdoor",
+    "outdoors",
+    "footpath"
+  ],
+  "polyhaven_categories": [
+    "natural",
+    "outdoor",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_path"
+}

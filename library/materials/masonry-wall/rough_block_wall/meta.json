@@ -1,0 +1,41 @@
+{
+  "id": "rough_block_wall",
+  "name": "Rough Block Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "stone",
+    "blocks",
+    "patterned",
+    "weathered",
+    "jagged",
+    "precast",
+    "cast stone blocks",
+    "exterior",
+    "dungeon",
+    "fortress walls",
+    "stonework",
+    "masonry",
+    "cladding",
+    "rock facade"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "outdoor",
+    "brick",
+    "wall"
+  ],
+  "dimensions_mm": [
+    3039.9999618530273,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rough_block_wall"
+}

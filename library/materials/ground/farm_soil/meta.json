@@ -1,0 +1,34 @@
+{
+  "id": "farm_soil",
+  "name": "Farm Soil",
+  "category": "ground",
+  "tags": [
+    "uneven",
+    "sand",
+    "sandy",
+    "dusty",
+    "ploughed",
+    "soil",
+    "earth",
+    "ground",
+    "granulated",
+    "cloddy"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "natural",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1999.9992847442627,
+    2000.000238418579
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/farm_soil"
+}

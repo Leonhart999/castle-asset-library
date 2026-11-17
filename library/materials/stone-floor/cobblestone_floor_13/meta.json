@@ -1,0 +1,30 @@
+{
+  "id": "cobblestone_floor_13",
+  "name": "Cobblestone Floor 13",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "farm",
+    "rural",
+    "old"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_13"
+}

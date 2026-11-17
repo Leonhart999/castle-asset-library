@@ -1,0 +1,30 @@
+{
+  "id": "rock_ground",
+  "name": "Rock Ground",
+  "category": "ground",
+  "tags": [
+    "gravel",
+    "rough",
+    "broken",
+    "rock",
+    "ground"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "natural",
+    "rock",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_ground"
+}

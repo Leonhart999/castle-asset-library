@@ -1,0 +1,32 @@
+{
+  "id": "medieval_blocks_02",
+  "name": "Medieval Blocks 02",
+  "category": "masonry-wall",
+  "tags": [
+    "stones",
+    "sandstone",
+    "old",
+    "weathered",
+    "rough",
+    "uneven"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "dirty",
+    "outdoor",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_blocks_02"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dry_ground_rocks",
+  "name": "Dry Ground Rocks",
+  "category": "ground",
+  "tags": [
+    "mud",
+    "rocks",
+    "cracked",
+    "ground",
+    "dry",
+    "parched",
+    "soil",
+    "dirt",
+    "stones",
+    "rough",
+    "stony"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    4000,
+    4000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dry_ground_rocks"
+}

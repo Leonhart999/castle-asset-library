@@ -1,0 +1,35 @@
+{
+  "id": "granite_tile_04",
+  "name": "Granite Tile 04",
+  "category": "fine-stone",
+  "tags": [
+    "rough",
+    "weathered",
+    "granite",
+    "stone tile",
+    "stone tiles",
+    "square tiles",
+    "grout lines",
+    "natural stone",
+    "course",
+    "sidewalk",
+    "gray",
+    "grey"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/granite_tile_04"
+}

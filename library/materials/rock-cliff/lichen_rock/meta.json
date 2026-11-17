@@ -1,0 +1,35 @@
+{
+  "id": "lichen_rock",
+  "name": "Lichen Rock",
+  "category": "rock-cliff",
+  "tags": [
+    "rock",
+    "cliff",
+    "lichen",
+    "moss",
+    "rock face",
+    "boulder",
+    "mossy",
+    "stone",
+    "nature",
+    "rugged"
+  ],
+  "polyhaven_categories": [
+    "collection: verdant_trail",
+    "rock",
+    "terrain",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/lichen_rock"
+}

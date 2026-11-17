@@ -1,0 +1,37 @@
+{
+  "id": "wood_planks_grey",
+  "name": "Wood Planks Grey",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "worn",
+    "old",
+    "grey",
+    "flat",
+    "seaside",
+    "costal",
+    "ocean",
+    "dirty",
+    "discolored",
+    "cabin"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "wall",
+    "wood",
+    "outdoor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500.0001192092896
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_planks_grey"
+}

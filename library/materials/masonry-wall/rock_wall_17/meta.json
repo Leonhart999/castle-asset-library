@@ -1,0 +1,34 @@
+{
+  "id": "rock_wall_17",
+  "name": "Rock Wall 17",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "rock",
+    "rocks",
+    "embedded rocks",
+    "coarse",
+    "stonework",
+    "fortress walls",
+    "dungeon",
+    "embedded rock"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "rock",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_17"
+}

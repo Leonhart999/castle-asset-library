@@ -1,0 +1,38 @@
+{
+  "id": "stone_pathway_02",
+  "name": "Stone Pathway 02",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "weathered",
+    "leaves",
+    "fallen leaves",
+    "plant debris",
+    "stones",
+    "cobblestone",
+    "garden walkway",
+    "stone pathway",
+    "path",
+    "cobblestones",
+    "scattered leaves",
+    "rough  ",
+    "damp"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1950.0000476837158,
+    1950.0000476837158
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_pathway_02"
+}

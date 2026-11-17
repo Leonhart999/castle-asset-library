@@ -1,0 +1,36 @@
+{
+  "id": "worn_brick_wall",
+  "name": "Worn Brick Wall",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "weathered",
+    "old",
+    "uneven",
+    "worn",
+    "weatherbeaten",
+    "concrete",
+    "rough  ",
+    "rough concrete",
+    "mortar",
+    "stained",
+    "mossy"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_brick_wall"
+}

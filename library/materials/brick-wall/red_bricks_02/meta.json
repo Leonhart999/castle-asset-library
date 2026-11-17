@@ -1,0 +1,39 @@
+{
+  "id": "red_bricks_02",
+  "name": "Red Bricks 02",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "broken",
+    "red",
+    "bricks",
+    "brick wall",
+    "old brick",
+    "brick",
+    "exposed brick",
+    "crumbling",
+    "deteriorating",
+    "deteriorated",
+    "plaster",
+    "exterior wall"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "dirty",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_bricks_02"
+}

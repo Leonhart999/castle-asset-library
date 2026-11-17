@@ -1,0 +1,38 @@
+{
+  "id": "marble_rock_02",
+  "name": "Marble Rock 02",
+  "category": "fine-stone",
+  "tags": [
+    "uneven",
+    "rock",
+    "cracked",
+    "weathered",
+    "marble",
+    "craggy",
+    "stone",
+    "rock face",
+    "chipped",
+    "striated",
+    "rugged",
+    "fissured",
+    "rock formation",
+    "veined"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2002.079963684082,
+    2002.0811557769775
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/marble_rock_02"
+}

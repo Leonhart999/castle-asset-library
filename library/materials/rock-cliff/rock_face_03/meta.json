@@ -1,0 +1,40 @@
+{
+  "id": "rock_face_03",
+  "name": "Rock Face 03",
+  "category": "rock-cliff",
+  "tags": [
+    "rough",
+    "rock",
+    "cliff",
+    "uneven",
+    "weathered",
+    "wall",
+    "cracked",
+    "stone",
+    "rock face",
+    "rugged",
+    "chipped",
+    "eroded",
+    "cracks",
+    "rocks"
+  ],
+  "polyhaven_categories": [
+    "natural",
+    "terrain",
+    "rock",
+    "outdoor",
+    "collection: verdant_trail"
+  ],
+  "dimensions_mm": [
+    2699.9995708465576,
+    2699.9995708465576
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_face_03"
+}

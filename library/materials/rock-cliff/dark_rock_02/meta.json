@@ -1,0 +1,39 @@
+{
+  "id": "dark_rock_02",
+  "name": "Dark Rock 02",
+  "category": "rock-cliff",
+  "tags": [
+    "rough",
+    "rock face",
+    "rock",
+    "weathered",
+    "fractured",
+    "stratified",
+    "craggy",
+    "striated",
+    "fissured",
+    "geological",
+    "veined",
+    "weathered rock",
+    "rock formation",
+    "striations",
+    "exposed rock"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000.9167194366455,
+    2000.917911529541
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_rock_02"
+}

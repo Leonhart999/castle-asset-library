@@ -1,0 +1,31 @@
+{
+  "id": "cobblestone_floor_08",
+  "name": "Cobblestone Floor 08",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "smooth",
+    "old",
+    "moss",
+    "pavement"
+  ],
+  "polyhaven_categories": [
+    "road",
+    "floor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_08"
+}

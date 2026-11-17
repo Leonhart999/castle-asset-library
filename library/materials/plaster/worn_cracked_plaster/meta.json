@@ -1,0 +1,37 @@
+{
+  "id": "worn_cracked_plaster",
+  "name": "Worn Cracked Plaster",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "weathered",
+    "cracked",
+    "cracks",
+    "damaged",
+    "old",
+    "worn",
+    "wall",
+    "discolored",
+    "weatherbeaten",
+    "snaking cracks",
+    "dilapidated"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "plaster-concrete",
+    "plaster"
+  ],
+  "dimensions_mm": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_cracked_plaster"
+}

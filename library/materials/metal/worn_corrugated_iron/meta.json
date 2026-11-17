@@ -1,0 +1,46 @@
+{
+  "id": "worn_corrugated_iron",
+  "name": "Worn Corrugated Iron",
+  "category": "metal",
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "chipped",
+    "corrugated",
+    "corrugation",
+    "metal",
+    "metal sheet",
+    "iron",
+    "steel sheeting",
+    "roof",
+    "sheet",
+    "steel",
+    "galvanized",
+    "paint",
+    "cracking paint",
+    "peeling paint",
+    "deteriorated",
+    "weatherbeaten",
+    "roofing",
+    "metallic",
+    "corrugated iron"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "metal"
+  ],
+  "dimensions_mm": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_corrugated_iron"
+}

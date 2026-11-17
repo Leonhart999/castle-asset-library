@@ -1,0 +1,38 @@
+{
+  "id": "weathered_plank_siding",
+  "name": "Weathered Plank Siding",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "wood",
+    "wooden planks",
+    "exterior",
+    "rustic",
+    "plank siding",
+    "weathered",
+    "weatherbeaten",
+    "horizontal planks",
+    "cladding",
+    "lap siding",
+    "lumber",
+    "timber",
+    "plank"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1570.0000524520874,
+    1570.0000524520874
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/weathered_plank_siding"
+}

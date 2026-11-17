@@ -1,0 +1,30 @@
+{
+  "id": "brick_wall_08",
+  "name": "Brick Wall 08",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "mortar",
+    "raw",
+    "grey",
+    "coarse"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "wall",
+    "outdoor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_wall_08"
+}

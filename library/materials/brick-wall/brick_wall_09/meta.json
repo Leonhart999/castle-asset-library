@@ -1,0 +1,33 @@
+{
+  "id": "brick_wall_09",
+  "name": "Brick Wall 09",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "wall",
+    "exterior",
+    "outdoor",
+    "brick",
+    "red brick",
+    "construction",
+    "building",
+    "structure"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2009.9999904632568,
+    2009.9999904632568
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_wall_09"
+}

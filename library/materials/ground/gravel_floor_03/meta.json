@@ -1,0 +1,32 @@
+{
+  "id": "gravel_floor_03",
+  "name": "Gravel Floor 03",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "gravel",
+    "gravelly",
+    "gravelly ground",
+    "driveway texture",
+    "driveway gravel",
+    "stones",
+    "driveway stones",
+    "driveway"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/gravel_floor_03"
+}

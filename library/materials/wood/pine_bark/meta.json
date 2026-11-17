@@ -1,0 +1,32 @@
+{
+  "id": "pine_bark",
+  "name": "Pine Bark",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "weathered",
+    "bark",
+    "tree",
+    "tree bark",
+    "pine",
+    "organic"
+  ],
+  "polyhaven_categories": [
+    "natural",
+    "bark",
+    "collection: pine_forest",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/pine_bark"
+}

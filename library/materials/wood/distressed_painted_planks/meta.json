@@ -1,0 +1,32 @@
+{
+  "id": "distressed_painted_planks",
+  "name": "Distressed Painted Planks",
+  "category": "wood",
+  "tags": [
+    "weathered",
+    "old",
+    "wood",
+    "planks",
+    "wooden planks",
+    "rustic",
+    "distressed",
+    "distressed wood",
+    "painted"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1599.9999046325684,
+    1599.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/distressed_painted_planks"
+}

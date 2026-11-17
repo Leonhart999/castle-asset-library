@@ -1,0 +1,35 @@
+{
+  "id": "old_mosaic_floor",
+  "name": "Old Mosaic Floor",
+  "category": "fine-stone",
+  "tags": [
+    "road",
+    "weathered",
+    "terrazzo",
+    "mosaic",
+    "tiles",
+    "gritty",
+    "rough surface",
+    "stone chips",
+    "irregular pattern",
+    "embedded-stones",
+    "stone embedded"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "dimensions_mm": [
+    2000.000238418579,
+    2000.000238418579
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/old_mosaic_floor"
+}

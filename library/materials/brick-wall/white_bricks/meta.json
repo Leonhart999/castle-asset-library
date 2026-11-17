@@ -1,0 +1,33 @@
+{
+  "id": "white_bricks",
+  "name": "White Bricks",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "old",
+    "uneven",
+    "damaged",
+    "worn",
+    "painted",
+    "peeling"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "wall",
+    "outdoor",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_bricks"
+}

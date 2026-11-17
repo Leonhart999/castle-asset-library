@@ -1,0 +1,36 @@
+{
+  "id": "mossy_brick_floor",
+  "name": "Mossy Brick Floor",
+  "category": "stone-floor",
+  "tags": [
+    "weathered",
+    "worn",
+    "brick",
+    "bricks",
+    "moss",
+    "pattern",
+    "outdoor",
+    "worndown",
+    "paving",
+    "herringbone",
+    "outdoor flooring",
+    "pavement patterned"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "brick",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1880.000114440918,
+    1879.9999952316284
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mossy_brick_floor"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rock_wall_09",
+  "name": "Rock Wall 09",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "rock",
+    "rocks",
+    "fort",
+    "dry",
+    "weathered",
+    "fortress walls"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "rock",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1220.0000286102295,
+    1220.0000286102295
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_09"
+}

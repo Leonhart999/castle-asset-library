@@ -1,0 +1,39 @@
+{
+  "id": "dark_wooden_planks",
+  "name": "Dark Wooden Planks",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "old",
+    "weathered",
+    "cracked",
+    "damaged",
+    "brown",
+    "wood",
+    "wooden",
+    "floor",
+    "planks",
+    "scratched",
+    "worn",
+    "chipped"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "indoor",
+    "wood",
+    "raw wood"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_wooden_planks"
+}

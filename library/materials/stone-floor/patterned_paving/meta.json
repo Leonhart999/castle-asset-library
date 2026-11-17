@@ -1,0 +1,42 @@
+{
+  "id": "patterned_paving",
+  "name": "Patterned Paving",
+  "category": "stone-floor",
+  "tags": [
+    "footpath",
+    "pavement",
+    "sidewalk",
+    "sidewalk texture",
+    "pavement patterned",
+    "walkway",
+    "urban",
+    "city",
+    "pavers",
+    "cityscape",
+    "architecture",
+    "interlocking",
+    "interlocking bricks",
+    "street",
+    "infrastructure",
+    "station",
+    "decorative bricks",
+    "stone paving"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_paving"
+}

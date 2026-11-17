@@ -1,0 +1,30 @@
+{
+  "id": "roof_3",
+  "name": "Roof 3",
+  "category": "roof",
+  "tags": [
+    "ceramic",
+    "old",
+    "worn",
+    "tiles",
+    "moss"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_3"
+}

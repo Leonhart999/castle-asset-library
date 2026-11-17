@@ -1,0 +1,38 @@
+{
+  "id": "rock_face_04",
+  "name": "Rock Face 04",
+  "category": "rock-cliff",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "old",
+    "cracked",
+    "chipped",
+    "rock face",
+    "rock",
+    "leaves",
+    "dry leaves",
+    "fallen leaves",
+    "cracks",
+    "striated",
+    "geological"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_face_04"
+}

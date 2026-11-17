@@ -1,0 +1,31 @@
+{
+  "id": "medieval_blocks_03",
+  "name": "Medieval Blocks 03",
+  "category": "masonry-wall",
+  "tags": [
+    "blocks",
+    "large",
+    "old",
+    "rough"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick",
+    "man made",
+    "outdoor",
+    "indoor",
+    "clean"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_blocks_03"
+}

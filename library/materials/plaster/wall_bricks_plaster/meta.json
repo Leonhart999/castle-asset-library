@@ -1,0 +1,32 @@
+{
+  "id": "wall_bricks_plaster",
+  "name": "Wall Bricks Plaster",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "uneven",
+    "damaged",
+    "plastered",
+    "chipped"
+  ],
+  "polyhaven_categories": [
+    "plaster-concrete",
+    "brick",
+    "man made",
+    "outdoor",
+    "dirty",
+    "wall"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wall_bricks_plaster"
+}

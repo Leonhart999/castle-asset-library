@@ -1,0 +1,38 @@
+{
+  "id": "gravel_floor_04",
+  "name": "Gravel Floor 04",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "uneven",
+    "granular",
+    "gravel",
+    "gravelly",
+    "coarse",
+    "gritty",
+    "gravelly ground",
+    "stones",
+    "rock fragments",
+    "weathered",
+    "ground",
+    "sand",
+    "sandy",
+    "dusty"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "gravel"
+  ],
+  "dimensions_mm": [
+    2460.0000381469727,
+    2460.0000381469727
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/gravel_floor_04"
+}

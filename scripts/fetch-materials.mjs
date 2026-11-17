@@ -58,8 +58,8 @@ async function fetchMaterial(category, id, res) {
   const got = [];
   await Promise.all(
     manifest.maps.map(async (m) => {
-      // A few Poly Haven sets store the base colour under another key (diff_png, coll1).
-      const ALT_KEYS = { diff: ['diff_png', 'coll1'] };
+      // A few Poly Haven sets store the base colour under another key (diff_png, coll1, col_01 / col_1 / col_03 variants).
+      const ALT_KEYS = { diff: ['diff_png', 'coll1', 'col_01', 'col_1', 'col_03'] };
       const keys = [MAP_KEYS[m] || m, ...(ALT_KEYS[m] || [])];
       const entry = keys.map((k) => files[k]?.[res]?.jpg || files[k]?.[res]?.png).find(Boolean);
       if (!entry) {

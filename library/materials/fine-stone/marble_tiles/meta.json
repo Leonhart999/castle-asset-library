@@ -1,0 +1,34 @@
+{
+  "id": "marble_tiles",
+  "name": "Marble Tiles",
+  "category": "fine-stone",
+  "tags": [
+    "floor",
+    "tiles",
+    "marble",
+    "dirty",
+    "ceramic",
+    "decorative",
+    "consistent",
+    "square",
+    "waterproof tiles"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/marble_tiles"
+}

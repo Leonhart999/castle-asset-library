@@ -1,0 +1,34 @@
+{
+  "id": "plaster_brick_01",
+  "name": "Plaster Brick 01",
+  "category": "plaster",
+  "tags": [
+    "plaster",
+    "rough",
+    "old",
+    "moss",
+    "sewer",
+    "tunnel",
+    "trimsheet"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "plaster-concrete",
+    "wall",
+    "man made",
+    "dirty",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2700.000286102295,
+    2700.000286102295
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plaster_brick_01"
+}

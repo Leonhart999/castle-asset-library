@@ -1,0 +1,32 @@
+{
+  "id": "rough_plaster_03",
+  "name": "Rough Plaster 03",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "uneven",
+    "plaster",
+    "brick",
+    "old",
+    "weathered"
+  ],
+  "polyhaven_categories": [
+    "plaster-concrete",
+    "man made",
+    "outdoor",
+    "brick",
+    "wall"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rough_plaster_03"
+}

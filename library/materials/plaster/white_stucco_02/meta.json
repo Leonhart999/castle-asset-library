@@ -1,0 +1,33 @@
+{
+  "id": "white_stucco_02",
+  "name": "White Stucco 02",
+  "category": "plaster",
+  "tags": [
+    "stucco",
+    "rough",
+    "coarse",
+    "exterior",
+    "architectural",
+    "rendered",
+    "skim-coat"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "plaster",
+    "plaster-concrete",
+    "man made"
+  ],
+  "dimensions_mm": [
+    0.00007868050033721374,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_stucco_02"
+}

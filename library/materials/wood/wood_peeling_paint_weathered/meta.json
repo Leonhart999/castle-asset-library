@@ -1,0 +1,44 @@
+{
+  "id": "wood_peeling_paint_weathered",
+  "name": "Wood Peeling Paint Weathered",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "old",
+    "weathered",
+    "wood",
+    "planks",
+    "painted",
+    "chipped",
+    "flaked",
+    "paint",
+    "worn",
+    "faded",
+    "dry",
+    "damaged",
+    "peeling",
+    "discolored",
+    "cracked",
+    "stained",
+    "wall"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "wood",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    761.9999647140503,
+    762.0000243186951
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_peeling_paint_weathered"
+}

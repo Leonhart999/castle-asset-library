@@ -1,0 +1,35 @@
+{
+  "id": "roots",
+  "name": "Roots",
+  "category": "ground",
+  "tags": [
+    "uneven",
+    "old",
+    "weathered",
+    "brown",
+    "dirty",
+    "ground",
+    "dry",
+    "nature",
+    "dirt",
+    "tree",
+    "forest"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "floor"
+  ],
+  "dimensions_mm": [
+    1670.0000762939453,
+    1670.0000762939453
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roots"
+}

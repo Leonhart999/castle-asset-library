@@ -1,0 +1,36 @@
+{
+  "id": "mixed_brick_wall",
+  "name": "Mixed Brick Wall",
+  "category": "brick-wall",
+  "tags": [
+    "brick",
+    "bricks",
+    "masonry",
+    "brick wall",
+    "worndown",
+    "walling",
+    "mortar",
+    "red brick",
+    "rough",
+    "weathered",
+    "old brick",
+    "worn down",
+    "mixed brick"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1700.0000476837158,
+    1700.0000476837158
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mixed_brick_wall"
+}

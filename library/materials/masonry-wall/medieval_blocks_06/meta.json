@@ -1,0 +1,37 @@
+{
+  "id": "medieval_blocks_06",
+  "name": "Medieval Blocks 06",
+  "category": "masonry-wall",
+  "tags": [
+    "wall",
+    "blocks",
+    "rocks",
+    "fortress walls",
+    "stonework",
+    "ancient walls",
+    "dungeon",
+    "fort",
+    "stone blocks",
+    "rough",
+    "stone wall"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "rock",
+    "dirty",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_blocks_06"
+}

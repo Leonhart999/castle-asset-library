@@ -1,0 +1,40 @@
+{
+  "id": "plastered_wall_05",
+  "name": "Plastered Wall 05",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "scratched",
+    "gray",
+    "plaster",
+    "plastered",
+    "concrete",
+    "plasterconcrete",
+    "industrial",
+    "weathered",
+    "scuffed",
+    "wall",
+    "plastering",
+    "coarse",
+    "bumpy"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "outdoor",
+    "plaster",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plastered_wall_05"
+}

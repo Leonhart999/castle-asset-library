@@ -1,0 +1,33 @@
+{
+  "id": "rock_wall_05",
+  "name": "Rock Wall 05",
+  "category": "masonry-wall",
+  "tags": [
+    "uneven",
+    "rough",
+    "weathered",
+    "stones",
+    "worn",
+    "discolored",
+    "rocks",
+    "wall",
+    "moss"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "rock",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2259.9997520446777,
+    2259.9997520446777
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_05"
+}

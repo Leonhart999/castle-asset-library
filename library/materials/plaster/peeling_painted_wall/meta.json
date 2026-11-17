@@ -1,0 +1,34 @@
+{
+  "id": "peeling_painted_wall",
+  "name": "Peeling Painted Wall",
+  "category": "plaster",
+  "tags": [
+    "painted",
+    "peeling",
+    "peeling paint",
+    "wall",
+    "concrete",
+    "cracked",
+    "scuffed",
+    "scratched",
+    "deteriorated",
+    "cracking paint",
+    "flaking"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/peeling_painted_wall"
+}

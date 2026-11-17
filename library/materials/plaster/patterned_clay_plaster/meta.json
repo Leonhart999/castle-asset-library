@@ -1,0 +1,37 @@
+{
+  "id": "patterned_clay_plaster",
+  "name": "Patterned Clay Plaster",
+  "category": "plaster",
+  "tags": [
+    "weathered",
+    "rough",
+    "wall",
+    "pattern",
+    "clay",
+    "patterned",
+    "lines",
+    "decorative",
+    "traditional",
+    "outdoor",
+    "exterior",
+    "handmade"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor",
+    "plaster-concrete",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_clay_plaster"
+}

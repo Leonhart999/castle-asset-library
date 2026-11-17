@@ -1,0 +1,41 @@
+{
+  "id": "forest_ground_06",
+  "name": "Forest Ground 06",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "dirty",
+    "soil",
+    "compact soil",
+    "loose earth",
+    "scattered leaves",
+    "forest soil",
+    "forest",
+    "scattered rocks",
+    "forest debris",
+    "pathway",
+    "dry soil",
+    "pebbly",
+    "twigs",
+    "leaves",
+    "fallen leaves"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2109.999895095825,
+    2109.999895095825
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/forest_ground_06"
+}

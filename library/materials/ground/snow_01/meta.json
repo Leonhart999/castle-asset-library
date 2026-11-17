@@ -1,0 +1,32 @@
+{
+  "id": "snow_01",
+  "name": "Snow 01",
+  "category": "ground",
+  "tags": [
+    "snow",
+    "rough",
+    "uneven",
+    "footprints",
+    "powdery",
+    "trail",
+    "snowfield"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "natural",
+    "outdoor",
+    "snow"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/snow_01"
+}

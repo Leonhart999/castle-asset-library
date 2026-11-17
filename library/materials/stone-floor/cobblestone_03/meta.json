@@ -1,0 +1,35 @@
+{
+  "id": "cobblestone_03",
+  "name": "Cobblestone 03",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "weathered",
+    "concrete",
+    "cobblestone",
+    "walkway",
+    "pavement",
+    "outdoor",
+    "floor",
+    "outdoor flooring",
+    "pavement patterned"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_03"
+}

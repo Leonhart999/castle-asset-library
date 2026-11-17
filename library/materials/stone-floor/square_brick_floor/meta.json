@@ -1,0 +1,38 @@
+{
+  "id": "square_brick_floor",
+  "name": "Square Brick Floor",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "chipped",
+    "brick",
+    "bricks",
+    "grouted",
+    "scratched",
+    "floor",
+    "discolored",
+    "grid",
+    "scuffed",
+    "old brick",
+    "pitted"
+  ],
+  "polyhaven_categories": [
+    "indoor",
+    "brick",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/square_brick_floor"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "leather_red_03",
+  "name": "Leather Red 03",
+  "category": "fabric-leather",
+  "tags": [
+    "leather",
+    "red",
+    "even",
+    "smooth",
+    "new",
+    "lustrous",
+    "textile ",
+    "upholstery"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "leather"
+  ],
+  "dimensions_mm": [
+    300.00001192092896,
+    300.00001192092896
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/leather_red_03"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "plastered_wall_02",
+  "name": "Plastered Wall 02",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "weathered",
+    "wall",
+    "discolored",
+    "flat",
+    "plastered",
+    "plaster",
+    "urban",
+    "exterior",
+    "concrete"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "outdoor",
+    "plaster",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    2229.999542236328,
+    2229.999542236328
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plastered_wall_02"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "medieval_wall_02",
+  "name": "Medieval Wall 02",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "old",
+    "wall",
+    "worn",
+    "chipped",
+    "damaged",
+    "cracked",
+    "brown",
+    "rock",
+    "rocks",
+    "concrete",
+    "dungeon",
+    "dry"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "rock",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    3499.999761581421,
+    3500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_wall_02"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "red_bricks_04",
+  "name": "Red Bricks 04",
+  "category": "brick-wall",
+  "tags": [
+    "textured",
+    "bricks",
+    "baked",
+    "rough",
+    "uneven",
+    "urban",
+    "clean",
+    "red"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_bricks_04"
+}

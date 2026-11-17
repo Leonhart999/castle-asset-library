@@ -1,0 +1,33 @@
+{
+  "id": "terrazzo_tiles",
+  "name": "Terrazzo Tiles",
+  "category": "fine-stone",
+  "tags": [
+    "floor",
+    "home decor",
+    "flooring",
+    "terrazzo",
+    "decorative tiles",
+    "speckled tiles ",
+    "speckled ",
+    "square tiles",
+    "tiled",
+    "interior",
+    "grid"
+  ],
+  "polyhaven_categories": [
+    "tiles"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/terrazzo_tiles"
+}

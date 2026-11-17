@@ -1,0 +1,33 @@
+{
+  "id": "dirt",
+  "name": "Dirt",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "dirty",
+    "ground",
+    "nature",
+    "earth",
+    "dusty",
+    "rocky",
+    "debris",
+    "footprints"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "dirty",
+    "sand"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dirt"
+}

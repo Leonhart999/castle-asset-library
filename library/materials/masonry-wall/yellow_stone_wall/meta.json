@@ -1,0 +1,37 @@
+{
+  "id": "yellow_stone_wall",
+  "name": "Yellow Stone Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "wall",
+    "damaged",
+    "old",
+    "cracked",
+    "chipped",
+    "worn",
+    "yellow",
+    "concrete",
+    "rocks",
+    "rock",
+    "rough",
+    "discolored",
+    "scratched"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "rock",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/yellow_stone_wall"
+}

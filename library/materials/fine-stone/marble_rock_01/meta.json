@@ -1,0 +1,35 @@
+{
+  "id": "marble_rock_01",
+  "name": "Marble Rock 01",
+  "category": "fine-stone",
+  "tags": [
+    "uneven",
+    "rock",
+    "rock face",
+    "geological",
+    "cracked",
+    "boulder",
+    "craggy",
+    "marble",
+    "veined",
+    "weathered",
+    "striated"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "rock",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2002.079963684082,
+    2002.0811557769775
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/marble_rock_01"
+}

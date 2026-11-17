@@ -1,0 +1,32 @@
+{
+  "id": "brown_brick_02",
+  "name": "Brown Brick 02",
+  "category": "brick-wall",
+  "tags": [
+    "brown",
+    "rough",
+    "sandy",
+    "urban",
+    "yellow"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "wall",
+    "outdoor",
+    "indoor",
+    "clean",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_brick_02"
+}

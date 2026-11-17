@@ -1,0 +1,40 @@
+{
+  "id": "forest_ground_05",
+  "name": "Forest Ground 05",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "uneven",
+    "dirt",
+    "soil",
+    "compact soil",
+    "scattered rocks",
+    "scattered leaves",
+    "forest debris",
+    "organic matter",
+    "leaf litter",
+    "forest floor",
+    "earthy",
+    "dry soil",
+    "natural path",
+    "hikers trail"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "terrain",
+    "natural",
+    "sand"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/forest_ground_05"
+}

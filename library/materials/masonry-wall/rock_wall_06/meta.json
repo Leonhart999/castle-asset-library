@@ -1,0 +1,33 @@
+{
+  "id": "rock_wall_06",
+  "name": "Rock Wall 06",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "wall",
+    "rock",
+    "chipped",
+    "rocks",
+    "dry"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "dirty",
+    "rock",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1309.999942779541,
+    1309.999942779541
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_06"
+}

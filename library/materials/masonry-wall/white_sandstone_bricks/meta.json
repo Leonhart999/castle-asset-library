@@ -1,0 +1,33 @@
+{
+  "id": "white_sandstone_bricks",
+  "name": "White Sandstone Bricks",
+  "category": "masonry-wall",
+  "tags": [
+    "blocks",
+    "sandstone",
+    "uneven",
+    "damaged",
+    "worn",
+    "plastered",
+    "old",
+    "crumbling"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "man made",
+    "outdoor",
+    "wall"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_sandstone_bricks"
+}

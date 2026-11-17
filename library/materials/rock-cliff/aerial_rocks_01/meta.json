@@ -1,0 +1,31 @@
+{
+  "id": "aerial_rocks_01",
+  "name": "Aerial Rocks 01",
+  "category": "rock-cliff",
+  "tags": [
+    "rocks",
+    "moss",
+    "cliff",
+    "rock face",
+    "cave"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "outdoor",
+    "natural",
+    "rock",
+    "aerial"
+  ],
+  "dimensions_mm": [
+    80000,
+    80000.20599365234
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/aerial_rocks_01"
+}

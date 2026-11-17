@@ -1,0 +1,35 @@
+{
+  "id": "grey_roof_01",
+  "name": "Grey Roof 01",
+  "category": "roof",
+  "tags": [
+    "modern",
+    "tiles",
+    "roofing material",
+    "gray",
+    "gray roof",
+    "tiled roofing",
+    "interlocking tiles",
+    "slate roofing",
+    "roof tiles",
+    "traditional roof tiles"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "outdoor",
+    "man made",
+    "clean"
+  ],
+  "dimensions_mm": [
+    8000,
+    8000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grey_roof_01"
+}

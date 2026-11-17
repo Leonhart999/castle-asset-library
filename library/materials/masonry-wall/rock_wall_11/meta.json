@@ -1,0 +1,35 @@
+{
+  "id": "rock_wall_11",
+  "name": "Rock Wall 11",
+  "category": "masonry-wall",
+  "tags": [
+    "weathered",
+    "wall",
+    "discolored",
+    "worn",
+    "stonework",
+    "fortress walls",
+    "rocks",
+    "rock",
+    "outdoor",
+    "exterior",
+    "weatherbeaten"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wall",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1909.9996089935303,
+    1909.9996089935303
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_11"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "marble_mosaic_tiles",
+  "name": "Marble Mosaic Tiles",
+  "category": "fine-stone",
+  "tags": [
+    "tiles",
+    "floor",
+    "ceramic",
+    "mosaic",
+    "marble",
+    "decorative",
+    "square",
+    "tiled"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/marble_mosaic_tiles"
+}

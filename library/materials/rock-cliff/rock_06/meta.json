@@ -1,0 +1,37 @@
+{
+  "id": "rock_06",
+  "name": "Rock 06",
+  "category": "rock-cliff",
+  "tags": [
+    "yellow",
+    "cliff",
+    "rough",
+    "rock face",
+    "solid rock",
+    "rock",
+    "striated",
+    "geological",
+    "exposed rock",
+    "uneven",
+    "weathered rock",
+    "striations"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "outdoor",
+    "terrain",
+    "natural"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_06"
+}

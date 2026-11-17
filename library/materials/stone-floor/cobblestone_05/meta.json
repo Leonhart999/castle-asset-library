@@ -1,0 +1,33 @@
+{
+  "id": "cobblestone_05",
+  "name": "Cobblestone 05",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "old",
+    "garden",
+    "pathway",
+    "moss",
+    "pavement"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "outdoor",
+    "dirty",
+    "road",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    2400.0000953674316,
+    2400.0000953674316
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_05"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wood_plank_wall",
+  "name": "Wood Plank Wall",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "varnished",
+    "dusty",
+    "dirty",
+    "brown",
+    "wood",
+    "cabin"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "wood",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_plank_wall"
+}

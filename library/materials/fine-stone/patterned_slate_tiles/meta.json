@@ -1,0 +1,35 @@
+{
+  "id": "patterned_slate_tiles",
+  "name": "Patterned Slate Tiles",
+  "category": "fine-stone",
+  "tags": [
+    "weathered",
+    "rough",
+    "tiles",
+    "slates",
+    "slate",
+    "exterior",
+    "tiled",
+    "outdoor",
+    "natural",
+    "stone",
+    "patterned",
+    "stonework"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2200.000047683716,
+    2200.000047683716
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_slate_tiles"
+}

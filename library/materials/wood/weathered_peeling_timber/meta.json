@@ -1,0 +1,37 @@
+{
+  "id": "weathered_peeling_timber",
+  "name": "Weathered Peeling Timber",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "weathered",
+    "wood",
+    "wood planks",
+    "peeling",
+    "peeling paint",
+    "wooden planks",
+    "rustic",
+    "plank",
+    "distressed",
+    "flaking paint",
+    "nail holes",
+    "dry"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wood",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1100.000023841858,
+    1100.000023841858
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/weathered_peeling_timber"
+}

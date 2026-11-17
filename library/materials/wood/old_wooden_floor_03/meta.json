@@ -1,0 +1,34 @@
+{
+  "id": "old_wooden_floor_03",
+  "name": "Old Wooden Floor 03",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "hardwood",
+    "hardwood floors",
+    "wooden flooring ",
+    "wooden planks",
+    "wooden floor",
+    "grain",
+    "aged wood",
+    "scratches",
+    "interior",
+    "varnished surface"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1199.049949645996,
+    1199.049949645996
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/old_wooden_floor_03"
+}

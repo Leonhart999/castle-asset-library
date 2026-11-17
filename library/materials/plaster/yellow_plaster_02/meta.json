@@ -1,0 +1,43 @@
+{
+  "id": "yellow_plaster_02",
+  "name": "Yellow Plaster 02",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "old",
+    "yellow",
+    "wall",
+    "wood",
+    "plastered",
+    "cracks",
+    "weathered",
+    "uneven",
+    "brown",
+    "tan",
+    "planks",
+    "mud",
+    "cabin",
+    "wooden"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "plaster-concrete",
+    "wood",
+    "concrete",
+    "plaster"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/yellow_plaster_02"
+}

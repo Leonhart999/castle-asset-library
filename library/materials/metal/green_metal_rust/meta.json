@@ -1,0 +1,31 @@
+{
+  "id": "green_metal_rust",
+  "name": "Green Metal Rust",
+  "category": "metal",
+  "tags": [
+    "painted",
+    "ship",
+    "tank",
+    "industrial",
+    "canister"
+  ],
+  "polyhaven_categories": [
+    "metal",
+    "outdoor",
+    "indoor",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/green_metal_rust"
+}

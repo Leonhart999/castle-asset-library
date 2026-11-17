@@ -1,0 +1,36 @@
+{
+  "id": "terracotta_floor_tiles",
+  "name": "Terracotta Floor Tiles",
+  "category": "stone-floor",
+  "tags": [
+    "terracotta",
+    "tiles",
+    "ceramic",
+    "square",
+    "consistent",
+    "grout lines",
+    "indoor flooring",
+    "chipped",
+    "ceramic tiles",
+    "uneven",
+    "weathered",
+    "grout"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "indoor",
+    "tiles"
+  ],
+  "dimensions_mm": [
+    2079.9999237060547,
+    2079.9999237060547
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/terracotta_floor_tiles"
+}

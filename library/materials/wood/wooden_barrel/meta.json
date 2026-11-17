@@ -1,0 +1,37 @@
+{
+  "id": "wooden_barrel",
+  "name": "Wooden Barrel",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "weathered",
+    "discolored",
+    "aged",
+    "metal hoops",
+    "barrel",
+    "wood",
+    "wood planks",
+    "timeworn",
+    "stained",
+    "wood grain",
+    "iron bands",
+    "scratched",
+    "nails"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1289.9999618530273,
+    1289.9999618530273
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wooden_barrel"
+}

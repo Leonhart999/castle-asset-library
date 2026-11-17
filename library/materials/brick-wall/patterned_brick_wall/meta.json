@@ -1,0 +1,32 @@
+{
+  "id": "patterned_brick_wall",
+  "name": "Patterned Brick Wall",
+  "category": "brick-wall",
+  "tags": [
+    "road",
+    "rough",
+    "wall",
+    "damaged",
+    "chipped",
+    "dry",
+    "bricks",
+    "brick"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "brick",
+    "wall"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_brick_wall"
+}

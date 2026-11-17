@@ -1,0 +1,33 @@
+{
+  "id": "raked_dirt",
+  "name": "Raked Dirt",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "nature",
+    "ground",
+    "sand",
+    "leaves",
+    "dirt",
+    "floor",
+    "dirty"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "dirty",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/raked_dirt"
+}

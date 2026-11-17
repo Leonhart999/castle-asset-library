@@ -1,0 +1,32 @@
+{
+  "id": "brick_wall_005",
+  "name": "Brick Wall 005",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "chipped",
+    "damaged",
+    "concrete",
+    "brick",
+    "bricks"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1440.000057220459,
+    1440.000057220459
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_wall_005"
+}

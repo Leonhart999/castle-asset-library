@@ -1,0 +1,30 @@
+{
+  "id": "planks_brown_10",
+  "name": "Planks Brown 10",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "old",
+    "discolored",
+    "weathered",
+    "rough"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "wall",
+    "man made",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/planks_brown_10"
+}

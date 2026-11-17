@@ -1,0 +1,33 @@
+{
+  "id": "plastered_wall",
+  "name": "Plastered Wall",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "concrete",
+    "discolored",
+    "damaged",
+    "scratched",
+    "plaster",
+    "plastered",
+    "exterior",
+    "worn",
+    "chipped"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "plaster"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plastered_wall"
+}

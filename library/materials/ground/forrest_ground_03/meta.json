@@ -1,0 +1,35 @@
+{
+  "id": "forrest_ground_03",
+  "name": "Forest Ground 03",
+  "category": "ground",
+  "tags": [
+    "pine",
+    "needles",
+    "forest",
+    "plant debris",
+    "dirt soil",
+    "leaf litter",
+    "twigs",
+    "fallen leaves",
+    "ground cover",
+    "fallen pine needles",
+    "dry grass"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/forrest_ground_03"
+}

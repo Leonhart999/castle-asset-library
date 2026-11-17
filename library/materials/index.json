@@ -1,5 +1,1081 @@
 [
   {
+    "id": "brick_wall_001",
+    "name": "Brick Wall 001",
+    "category": "brick-wall",
+    "tags": [
+      "red",
+      "rough",
+      "industrial",
+      "plain",
+      "baked"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_001"
+  },
+  {
+    "id": "brick_wall_003",
+    "name": "Brick Wall 003",
+    "category": "brick-wall",
+    "tags": [
+      "wall",
+      "modern",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "dimensions_mm": [
+      4000,
+      4000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_003"
+  },
+  {
+    "id": "brick_wall_005",
+    "name": "Brick Wall 005",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "wall",
+      "chipped",
+      "damaged",
+      "concrete",
+      "brick",
+      "bricks"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1440.000057220459,
+      1440.000057220459
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_005"
+  },
+  {
+    "id": "brick_wall_006",
+    "name": "Brick Wall 006",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "wall",
+      "chipped",
+      "worn",
+      "cracked",
+      "discolored",
+      "dry",
+      "red",
+      "brick",
+      "bricks",
+      "damaged",
+      "concrete",
+      "scratched",
+      "uneven"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_006"
+  },
+  {
+    "id": "brick_wall_02",
+    "name": "Brick Wall 02",
+    "category": "brick-wall",
+    "tags": [
+      "weathered",
+      "cracked",
+      "concrete",
+      "scratched",
+      "brick",
+      "bricks",
+      "wall",
+      "exterior",
+      "red brick"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "outdoor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_02"
+  },
+  {
+    "id": "brick_wall_04",
+    "name": "Brick Wall 04",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "wall",
+      "chipped",
+      "damaged",
+      "rock",
+      "rocks",
+      "concrete",
+      "plaster",
+      "brick",
+      "bricks",
+      "cement",
+      "weathered",
+      "stones",
+      "cracked",
+      "worn"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      1389.9999856948853,
+      1389.9999856948853
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_04"
+  },
+  {
+    "id": "brick_wall_07",
+    "name": "Brick Wall 07",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "old",
+      "brick",
+      "bricks",
+      "walling",
+      "coarse",
+      "outdoors",
+      "outdoor",
+      "wall",
+      "exterior",
+      "gritty",
+      "rough  "
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1700.0000476837158,
+      1700.0000476837158
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_07"
+  },
+  {
+    "id": "brick_wall_08",
+    "name": "Brick Wall 08",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "mortar",
+      "raw",
+      "grey",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "outdoor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_08"
+  },
+  {
+    "id": "brick_wall_09",
+    "name": "Brick Wall 09",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "wall",
+      "exterior",
+      "outdoor",
+      "brick",
+      "red brick",
+      "construction",
+      "building",
+      "structure"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      2009.9999904632568,
+      2009.9999904632568
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_09"
+  },
+  {
+    "id": "brick_wall_10",
+    "name": "Brick Wall 10",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "wall",
+      "brick wall",
+      "dark",
+      "weathered",
+      "walling",
+      "rough surface",
+      "exterior wall",
+      "weather-beaten",
+      "dark brick",
+      "exposed brick"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_10"
+  },
+  {
+    "id": "brick_wall_11",
+    "name": "Brick Wall 11",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "wall",
+      "bricks",
+      "brick wall",
+      "walling",
+      "weathered",
+      "weatherbeaten",
+      "exterior"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      4000,
+      4000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_11"
+  },
+  {
+    "id": "brick_wall_12",
+    "name": "Brick Wall 12",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "brick",
+      "wall",
+      "brick wall",
+      "coarse",
+      "outdoor",
+      "walling",
+      "masonry",
+      "bricks",
+      "exterior"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_12"
+  },
+  {
+    "id": "brick_wall_13",
+    "name": "Brick Wall 13",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "old",
+      "discolored",
+      "brick",
+      "bricks",
+      "brick wall",
+      "walling",
+      "wall"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "indoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_wall_13"
+  },
+  {
+    "id": "broken_brick_wall",
+    "name": "Broken Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "weathered",
+      "broken",
+      "brick",
+      "wall",
+      "bricks",
+      "crumbling",
+      "timeworn",
+      "exterior",
+      "red brick",
+      "deteriorating",
+      "damaged",
+      "aged"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/broken_brick_wall"
+  },
+  {
+    "id": "brown_brick_02",
+    "name": "Brown Brick 02",
+    "category": "brick-wall",
+    "tags": [
+      "brown",
+      "rough",
+      "sandy",
+      "urban",
+      "yellow"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "outdoor",
+      "indoor",
+      "clean",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_brick_02"
+  },
+  {
+    "id": "dark_brick_wall",
+    "name": "Dark Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "wall",
+      "dry",
+      "bricks",
+      "brick",
+      "dark"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1049.9998331069946,
+      1049.9999523162842
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dark_brick_wall"
+  },
+  {
+    "id": "large_red_bricks",
+    "name": "Large Red Bricks",
+    "category": "brick-wall",
+    "tags": [
+      "red",
+      "large",
+      "rough"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/large_red_bricks"
+  },
+  {
+    "id": "medieval_red_brick",
+    "name": "Medieval Red Brick",
+    "category": "brick-wall",
+    "tags": [
+      "concrete",
+      "medieval",
+      "red",
+      "brick",
+      "bricks",
+      "red brick",
+      "walling",
+      "building material",
+      "structural",
+      "textured",
+      "fired brick"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_red_brick"
+  },
+  {
+    "id": "mixed_brick_wall",
+    "name": "Mixed Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "masonry",
+      "brick wall",
+      "worndown",
+      "walling",
+      "mortar",
+      "red brick",
+      "rough",
+      "weathered",
+      "old brick",
+      "worn down",
+      "mixed brick"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1700.0000476837158,
+      1700.0000476837158
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/mixed_brick_wall"
+  },
+  {
+    "id": "patterned_brick_wall",
+    "name": "Patterned Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "road",
+      "rough",
+      "wall",
+      "damaged",
+      "chipped",
+      "dry",
+      "bricks",
+      "brick"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "brick",
+      "wall"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_brick_wall"
+  },
+  {
+    "id": "patterned_brick_wall_02",
+    "name": "Patterned Brick Wall 02",
+    "category": "brick-wall",
+    "tags": [
+      "stones",
+      "wall",
+      "chipped",
+      "rocks",
+      "pattern",
+      "weathered",
+      "concrete",
+      "bricks",
+      "brick",
+      "plastered",
+      "plaster",
+      "consistent"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      2210.0000381469727,
+      2210.0000381469727
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_brick_wall_02"
+  },
+  {
+    "id": "patterned_brick_wall_03",
+    "name": "Patterned Brick Wall 03",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "brick",
+      "bricks",
+      "patterned",
+      "interlocking bricks",
+      "building facade",
+      "urban",
+      "outdoor",
+      "pattern",
+      "brick design",
+      "decorative bricks"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_brick_wall_03"
+  },
+  {
+    "id": "random_bricks_thick",
+    "name": "Random Bricks Thick",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "old",
+      "uneven",
+      "discolored",
+      "damaged"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "dirty",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/random_bricks_thick"
+  },
+  {
+    "id": "red_brick",
+    "name": "Red Brick",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "wall",
+      "red brick",
+      "brick wall",
+      "rough",
+      "exterior"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1399.999976158142,
+      1399.999976158142
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_brick"
+  },
+  {
+    "id": "red_brick_03",
+    "name": "Red Brick 03",
+    "category": "brick-wall",
+    "tags": [
+      "red",
+      "industrial",
+      "factory",
+      "brown"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "clean",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_brick_03"
+  },
+  {
+    "id": "red_bricks_02",
+    "name": "Red Bricks 02",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "broken",
+      "red",
+      "bricks",
+      "brick wall",
+      "old brick",
+      "brick",
+      "exposed brick",
+      "crumbling",
+      "deteriorating",
+      "deteriorated",
+      "plaster",
+      "exterior wall"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "dirty",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_bricks_02"
+  },
+  {
+    "id": "red_bricks_04",
+    "name": "Red Bricks 04",
+    "category": "brick-wall",
+    "tags": [
+      "textured",
+      "bricks",
+      "baked",
+      "rough",
+      "uneven",
+      "urban",
+      "clean",
+      "red"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_bricks_04"
+  },
+  {
+    "id": "stacked_brick_wall",
+    "name": "Stacked Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "old",
+      "coarse",
+      "brick",
+      "bricks",
+      "stacked bricks",
+      "aged",
+      "irregular pattern",
+      "stacked"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1731.5727472305298,
+      1731.5782308578491
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stacked_brick_wall"
+  },
+  {
+    "id": "white_bricks",
+    "name": "White Bricks",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "old",
+      "uneven",
+      "damaged",
+      "worn",
+      "painted",
+      "peeling"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "outdoor",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_bricks"
+  },
+  {
+    "id": "worn_brick_wall",
+    "name": "Worn Brick Wall",
+    "category": "brick-wall",
+    "tags": [
+      "rough",
+      "weathered",
+      "old",
+      "uneven",
+      "worn",
+      "weatherbeaten",
+      "concrete",
+      "rough  ",
+      "rough concrete",
+      "mortar",
+      "stained",
+      "mossy"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/worn_brick_wall"
+  },
+  {
+    "id": "yellow_brick",
+    "name": "Yellow Brick",
+    "category": "brick-wall",
+    "tags": [
+      "yellow",
+      "rough",
+      "lines",
+      "neat"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/yellow_brick"
+  },
+  {
+    "id": "yellow_bricks",
+    "name": "Yellow Bricks",
+    "category": "brick-wall",
+    "tags": [
+      "wall",
+      "rough",
+      "uneven",
+      "moss",
+      "sewer",
+      "tunnel",
+      "old"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "wall",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/yellow_bricks"
+  },
+  {
     "id": "brown_leather",
     "name": "Brown Leather",
     "category": "fabric-leather",
@@ -98,6 +1174,104 @@
     "source": "https://polyhaven.com/a/fabric_leather_01"
   },
   {
+    "id": "fabric_leather_02",
+    "name": "Fabric Leather 02",
+    "category": "fabric-leather",
+    "tags": [
+      "leather",
+      "couch",
+      "seat",
+      "upholstery",
+      "stitched",
+      "vintage",
+      "wrinkled",
+      "aged",
+      "creased",
+      "chair"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "leather"
+    ],
+    "dimensions_mm": [
+      500,
+      499.9999403953552
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/fabric_leather_02"
+  },
+  {
+    "id": "fabric_pattern_05",
+    "name": "Fabric Pattern 05",
+    "category": "fabric-leather",
+    "tags": [
+      "plain",
+      "cloth",
+      "towel",
+      "checker",
+      "checkered",
+      "plaid",
+      "grid pattern",
+      "windowpane plaid",
+      "upholstery",
+      "textile ",
+      "woven",
+      "drape"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "cotton"
+    ],
+    "dimensions_mm": [
+      500,
+      499.9999403953552
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/fabric_pattern_05"
+  },
+  {
+    "id": "fabric_pattern_07",
+    "name": "Fabric Pattern 07",
+    "category": "fabric-leather",
+    "tags": [
+      "towel",
+      "plain",
+      "cloth",
+      "checkered",
+      "woven",
+      "textile",
+      "picnic"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "cotton"
+    ],
+    "dimensions_mm": [
+      400.0000059604645,
+      400.00003576278687
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/fabric_pattern_07"
+  },
+  {
     "id": "leather_red_02",
     "name": "Leather Red 02",
     "category": "fabric-leather",
@@ -130,6 +1304,69 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/leather_red_02"
+  },
+  {
+    "id": "leather_red_03",
+    "name": "Leather Red 03",
+    "category": "fabric-leather",
+    "tags": [
+      "leather",
+      "red",
+      "even",
+      "smooth",
+      "new",
+      "lustrous",
+      "textile ",
+      "upholstery"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "leather"
+    ],
+    "dimensions_mm": [
+      300.00001192092896,
+      300.00001192092896
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/leather_red_03"
+  },
+  {
+    "id": "leather_white",
+    "name": "Leather White",
+    "category": "fabric-leather",
+    "tags": [
+      "leather",
+      "white",
+      "smooth",
+      "new",
+      "even",
+      "textile ",
+      "upholstery",
+      "fashion",
+      "animal-hide"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "leather"
+    ],
+    "dimensions_mm": [
+      300.00001192092896,
+      300.00001192092896
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/leather_white"
   },
   {
     "id": "poly_wool_herringbone",
@@ -200,6 +1437,38 @@
     "source": "https://polyhaven.com/a/quatrefoil_jacquard_fabric"
   },
   {
+    "id": "rough_linen",
+    "name": "Rough Linen",
+    "category": "fabric-leather",
+    "tags": [
+      "blue",
+      "fine",
+      "textile ",
+      "fabric",
+      "woven",
+      "linen",
+      "weave",
+      "crosshatch"
+    ],
+    "polyhaven_categories": [
+      "fabric",
+      "cotton",
+      "hessian"
+    ],
+    "dimensions_mm": [
+      270.7081392676629,
+      271.29998803138733
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_linen"
+  },
+  {
     "id": "wool_boucle",
     "name": "Wool Boucle",
     "category": "fabric-leather",
@@ -232,6 +1501,457 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/wool_boucle"
+  },
+  {
+    "id": "granite_tile",
+    "name": "Granite Tile",
+    "category": "fine-stone",
+    "tags": [
+      "granite",
+      "tiles",
+      "tiled",
+      "stone tile",
+      "granite tile",
+      "flooring",
+      "interior",
+      "home decor",
+      "square tiles",
+      "grid",
+      "decorative tiles"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2299.999952316284,
+      2299.999952316284
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/granite_tile"
+  },
+  {
+    "id": "granite_tile_02",
+    "name": "Granite Tile 02",
+    "category": "fine-stone",
+    "tags": [
+      "home decor",
+      "tiled",
+      "decorative tiles",
+      "grid",
+      "interior",
+      "square tiles",
+      "stone tile",
+      "flooring",
+      "decor",
+      "multicoloured",
+      "rectangular",
+      "modern design",
+      "luxury"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1879.9999952316284,
+      1879.9999952316284
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/granite_tile_02"
+  },
+  {
+    "id": "granite_tile_03",
+    "name": "Granite Tile 03",
+    "category": "fine-stone",
+    "tags": [
+      "granite",
+      "granite tile",
+      "granite blocks",
+      "wall",
+      "urban",
+      "speckled ",
+      "slab",
+      "outdoor",
+      "stone tile"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "tiles"
+    ],
+    "dimensions_mm": [
+      1802.0000457763672,
+      1802.0000457763672
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/granite_tile_03"
+  },
+  {
+    "id": "granite_tile_04",
+    "name": "Granite Tile 04",
+    "category": "fine-stone",
+    "tags": [
+      "rough",
+      "weathered",
+      "granite",
+      "stone tile",
+      "stone tiles",
+      "square tiles",
+      "grout lines",
+      "natural stone",
+      "course",
+      "sidewalk",
+      "gray",
+      "grey"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/granite_tile_04"
+  },
+  {
+    "id": "marble_01",
+    "name": "Marble 01",
+    "category": "fine-stone",
+    "tags": [
+      "marble",
+      "smooth",
+      "even",
+      "tiles"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "indoor",
+      "clean",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_01"
+  },
+  {
+    "id": "marble_mosaic_tiles",
+    "name": "Marble Mosaic Tiles",
+    "category": "fine-stone",
+    "tags": [
+      "tiles",
+      "floor",
+      "ceramic",
+      "mosaic",
+      "marble",
+      "decorative",
+      "square",
+      "tiled"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_mosaic_tiles"
+  },
+  {
+    "id": "marble_rock_01",
+    "name": "Marble Rock 01",
+    "category": "fine-stone",
+    "tags": [
+      "uneven",
+      "rock",
+      "rock face",
+      "geological",
+      "cracked",
+      "boulder",
+      "craggy",
+      "marble",
+      "veined",
+      "weathered",
+      "striated"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "rock",
+      "natural"
+    ],
+    "dimensions_mm": [
+      2002.079963684082,
+      2002.0811557769775
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_rock_01"
+  },
+  {
+    "id": "marble_rock_02",
+    "name": "Marble Rock 02",
+    "category": "fine-stone",
+    "tags": [
+      "uneven",
+      "rock",
+      "cracked",
+      "weathered",
+      "marble",
+      "craggy",
+      "stone",
+      "rock face",
+      "chipped",
+      "striated",
+      "rugged",
+      "fissured",
+      "rock formation",
+      "veined"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2002.079963684082,
+      2002.0811557769775
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_rock_02"
+  },
+  {
+    "id": "marble_rock_03",
+    "name": "Marble Rock 03",
+    "category": "fine-stone",
+    "tags": [
+      "uneven",
+      "weathered",
+      "cracked",
+      "worn",
+      "rock face",
+      "rock",
+      "dirty",
+      "marble",
+      "rock formation",
+      "exposed rock",
+      "striated",
+      "craggy",
+      "fissured",
+      "veined",
+      "geological",
+      "stratified",
+      "fractured",
+      "striations",
+      "cliff"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1798.436999320984,
+      1798.4380722045898
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_rock_03"
+  },
+  {
+    "id": "marble_tiles",
+    "name": "Marble Tiles",
+    "category": "fine-stone",
+    "tags": [
+      "floor",
+      "tiles",
+      "marble",
+      "dirty",
+      "ceramic",
+      "decorative",
+      "consistent",
+      "square",
+      "waterproof tiles"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/marble_tiles"
+  },
+  {
+    "id": "old_mosaic_floor",
+    "name": "Old Mosaic Floor",
+    "category": "fine-stone",
+    "tags": [
+      "road",
+      "weathered",
+      "terrazzo",
+      "mosaic",
+      "tiles",
+      "gritty",
+      "rough surface",
+      "stone chips",
+      "irregular pattern",
+      "embedded-stones",
+      "stone embedded"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "dimensions_mm": [
+      2000.000238418579,
+      2000.000238418579
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_mosaic_floor"
+  },
+  {
+    "id": "patterned_slate_tiles",
+    "name": "Patterned Slate Tiles",
+    "category": "fine-stone",
+    "tags": [
+      "weathered",
+      "rough",
+      "tiles",
+      "slates",
+      "slate",
+      "exterior",
+      "tiled",
+      "outdoor",
+      "natural",
+      "stone",
+      "patterned",
+      "stonework"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_slate_tiles"
+  },
+  {
+    "id": "terrazzo_tiles",
+    "name": "Terrazzo Tiles",
+    "category": "fine-stone",
+    "tags": [
+      "floor",
+      "home decor",
+      "flooring",
+      "terrazzo",
+      "decorative tiles",
+      "speckled tiles ",
+      "speckled ",
+      "square tiles",
+      "tiled",
+      "interior",
+      "grid"
+    ],
+    "polyhaven_categories": [
+      "tiles"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/terrazzo_tiles"
   },
   {
     "id": "brown_mud",
@@ -270,6 +1990,149 @@
     "source": "https://polyhaven.com/a/brown_mud"
   },
   {
+    "id": "brown_mud_02",
+    "name": "Brown Mud 02",
+    "category": "ground",
+    "tags": [
+      "mud",
+      "dirt",
+      "stones",
+      "dry",
+      "ground",
+      "footprints",
+      "soil",
+      "compact soil",
+      "wet soil",
+      "plant debris",
+      "roots",
+      "sticks",
+      "earth"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1299.996018409729,
+      1299.996018409729
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_mud_02"
+  },
+  {
+    "id": "brown_mud_03",
+    "name": "Brown Mud 03",
+    "category": "ground",
+    "tags": [
+      "mud",
+      "dirt",
+      "stones",
+      "dry",
+      "ground",
+      "soil",
+      "wet soil",
+      "footprints",
+      "earth",
+      "muddy surface",
+      "wet patches",
+      "mud clumps",
+      "loose earth"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1299.996018409729,
+      1299.996018409729
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_mud_03"
+  },
+  {
+    "id": "brown_mud_leaves_01",
+    "name": "Brown Mud Leaves 01",
+    "category": "ground",
+    "tags": [
+      "grass",
+      "mud",
+      "moss",
+      "stones",
+      "orange",
+      "forest"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1299.9998331069946,
+      1299.9998331069946
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_mud_leaves_01"
+  },
+  {
+    "id": "brown_mud_rocks_01",
+    "name": "Brown Mud Rocks 01",
+    "category": "ground",
+    "tags": [
+      "gravel",
+      "mud",
+      "moss",
+      "stones",
+      "forest",
+      "rocks",
+      "loose stones",
+      "plants",
+      "weeds",
+      "scattered weeds",
+      "plant debris",
+      "riverbank",
+      "organic matter",
+      "rocky soil",
+      "wet ground"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1299.996018409729,
+      1299.996018409729
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_mud_rocks_01"
+  },
+  {
     "id": "cliff_side",
     "name": "Cliff Side",
     "category": "ground",
@@ -306,6 +2169,39 @@
     "source": "https://polyhaven.com/a/cliff_side"
   },
   {
+    "id": "dirt",
+    "name": "Dirt",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "dirty",
+      "ground",
+      "nature",
+      "earth",
+      "dusty",
+      "rocky",
+      "debris",
+      "footprints"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "dirty",
+      "sand"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dirt"
+  },
+  {
     "id": "dirt_floor",
     "name": "Dirt Floor",
     "category": "ground",
@@ -339,6 +2235,112 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/dirt_floor"
+  },
+  {
+    "id": "dry_ground_rocks",
+    "name": "Dry Ground Rocks",
+    "category": "ground",
+    "tags": [
+      "mud",
+      "rocks",
+      "cracked",
+      "ground",
+      "dry",
+      "parched",
+      "soil",
+      "dirt",
+      "stones",
+      "rough",
+      "stony"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      4000,
+      4000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dry_ground_rocks"
+  },
+  {
+    "id": "farm_soil",
+    "name": "Farm Soil",
+    "category": "ground",
+    "tags": [
+      "uneven",
+      "sand",
+      "sandy",
+      "dusty",
+      "ploughed",
+      "soil",
+      "earth",
+      "ground",
+      "granulated",
+      "cloddy"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "natural",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1999.9992847442627,
+      2000.000238418579
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/farm_soil"
+  },
+  {
+    "id": "forest_floor",
+    "name": "Forest Floor",
+    "category": "ground",
+    "tags": [
+      "sand",
+      "leaves",
+      "autumn",
+      "forest",
+      "dirt",
+      "nature",
+      "dry",
+      "mud",
+      "debris",
+      "pathway",
+      "twigs",
+      "yellow",
+      "ground"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "dimensions_mm": [
+      2139.9996280670166,
+      2139.9996280670166
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/forest_floor"
   },
   {
     "id": "forest_ground_04",
@@ -380,6 +2382,87 @@
     "source": "https://polyhaven.com/a/forest_ground_04"
   },
   {
+    "id": "forest_ground_05",
+    "name": "Forest Ground 05",
+    "category": "ground",
+    "tags": [
+      "rough",
+      "uneven",
+      "dirt",
+      "soil",
+      "compact soil",
+      "scattered rocks",
+      "scattered leaves",
+      "forest debris",
+      "organic matter",
+      "leaf litter",
+      "forest floor",
+      "earthy",
+      "dry soil",
+      "natural path",
+      "hikers trail"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "sand"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/forest_ground_05"
+  },
+  {
+    "id": "forest_ground_06",
+    "name": "Forest Ground 06",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "dirty",
+      "soil",
+      "compact soil",
+      "loose earth",
+      "scattered leaves",
+      "forest soil",
+      "forest",
+      "scattered rocks",
+      "forest debris",
+      "pathway",
+      "dry soil",
+      "pebbly",
+      "twigs",
+      "leaves",
+      "fallen leaves"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "floor"
+    ],
+    "dimensions_mm": [
+      2109.999895095825,
+      2109.999895095825
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/forest_ground_06"
+  },
+  {
     "id": "forrest_ground_01",
     "name": "Forest Ground 01",
     "category": "ground",
@@ -417,6 +2500,73 @@
     "source": "https://polyhaven.com/a/forrest_ground_01"
   },
   {
+    "id": "forrest_ground_03",
+    "name": "Forest Ground 03",
+    "category": "ground",
+    "tags": [
+      "pine",
+      "needles",
+      "forest",
+      "plant debris",
+      "dirt soil",
+      "leaf litter",
+      "twigs",
+      "fallen leaves",
+      "ground cover",
+      "fallen pine needles",
+      "dry grass"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/forrest_ground_03"
+  },
+  {
+    "id": "grass_ground",
+    "name": "Grass Ground",
+    "category": "ground",
+    "tags": [
+      "grass",
+      "dry grass",
+      "dirt",
+      "root",
+      "dead grass",
+      "turf",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "terrain",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2509.999990463257,
+      2509.999990463257
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grass_ground"
+  },
+  {
     "id": "grass_path_2",
     "name": "Grass Path 2",
     "category": "ground",
@@ -447,6 +2597,38 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/grass_path_2"
+  },
+  {
+    "id": "grass_path_3",
+    "name": "Grass Path 3",
+    "category": "ground",
+    "tags": [
+      "grass",
+      "pathway",
+      "path",
+      "ground",
+      "stones",
+      "sidewalk",
+      "rural",
+      "farm"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grass_path_3"
   },
   {
     "id": "gravel_floor",
@@ -490,6 +2672,144 @@
     "source": "https://polyhaven.com/a/gravel_floor"
   },
   {
+    "id": "gravel_floor_02",
+    "name": "Gravel Floor 02",
+    "category": "ground",
+    "tags": [
+      "rough",
+      "rocks",
+      "gravel",
+      "gravelly",
+      "gravelly ground",
+      "driveway gravel",
+      "driveway",
+      "stones",
+      "coarse",
+      "gray",
+      "driveway stones",
+      "stony",
+      "outdoors"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "gravel"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/gravel_floor_02"
+  },
+  {
+    "id": "gravel_floor_03",
+    "name": "Gravel Floor 03",
+    "category": "ground",
+    "tags": [
+      "rough",
+      "gravel",
+      "gravelly",
+      "gravelly ground",
+      "driveway texture",
+      "driveway gravel",
+      "stones",
+      "driveway stones",
+      "driveway"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/gravel_floor_03"
+  },
+  {
+    "id": "gravel_floor_04",
+    "name": "Gravel Floor 04",
+    "category": "ground",
+    "tags": [
+      "rough",
+      "uneven",
+      "granular",
+      "gravel",
+      "gravelly",
+      "coarse",
+      "gritty",
+      "gravelly ground",
+      "stones",
+      "rock fragments",
+      "weathered",
+      "ground",
+      "sand",
+      "sandy",
+      "dusty"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "gravel"
+    ],
+    "dimensions_mm": [
+      2460.0000381469727,
+      2460.0000381469727
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/gravel_floor_04"
+  },
+  {
+    "id": "gravel_ground_01",
+    "name": "Gravel Ground 01",
+    "category": "ground",
+    "tags": [
+      "gravel",
+      "pathway",
+      "path",
+      "stones",
+      "ground",
+      "sidewalk",
+      "rural",
+      "farm"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/gravel_ground_01"
+  },
+  {
     "id": "leafy_grass",
     "name": "Leafy Grass",
     "category": "ground",
@@ -522,6 +2842,40 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/leafy_grass"
+  },
+  {
+    "id": "leaves_forest_ground",
+    "name": "Leaves Forest Ground",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "leaves",
+      "twigs",
+      "yellow",
+      "green",
+      "sticks",
+      "autumn",
+      "nature",
+      "brown"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "dimensions_mm": [
+      1259.9999904632568,
+      1260.0001096725464
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/leaves_forest_ground"
   },
   {
     "id": "mossy_rock",
@@ -558,6 +2912,178 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/mossy_rock"
+  },
+  {
+    "id": "mud_forest",
+    "name": "Mud Forest",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "ground",
+      "dirty",
+      "leaves",
+      "mud",
+      "forest",
+      "sticks"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "floor",
+      "natural",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2349.9999046325684,
+      2349.9999046325684
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/mud_forest"
+  },
+  {
+    "id": "muddy_tracks",
+    "name": "Muddy Tracks",
+    "category": "ground",
+    "tags": [
+      "mud",
+      "muddy surface",
+      "tracks",
+      "tire tracks",
+      "wet",
+      "organic",
+      "outdoor",
+      "earth",
+      "dirty",
+      "earthy",
+      "loose earth",
+      "soil",
+      "moist ground",
+      "muddy terrain",
+      "off-road"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "natural",
+      "outdoor",
+      "sand",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2250,
+      2250
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/muddy_tracks"
+  },
+  {
+    "id": "pebble_ground_01",
+    "name": "Pebble Ground 01",
+    "category": "ground",
+    "tags": [
+      "pebble",
+      "stones",
+      "even",
+      "pebbles",
+      "pebbly",
+      "sticks",
+      "scattered pebbles",
+      "small stones",
+      "dirt",
+      "plant litter",
+      "dry leaves"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "road"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pebble_ground_01"
+  },
+  {
+    "id": "raked_dirt",
+    "name": "Raked Dirt",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "nature",
+      "ground",
+      "sand",
+      "leaves",
+      "dirt",
+      "floor",
+      "dirty"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "dirty",
+      "floor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/raked_dirt"
+  },
+  {
+    "id": "rock_ground",
+    "name": "Rock Ground",
+    "category": "ground",
+    "tags": [
+      "gravel",
+      "rough",
+      "broken",
+      "rock",
+      "ground"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "rock",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_ground"
   },
   {
     "id": "rock_pitted_mossy",
@@ -636,6 +3162,188 @@
     "source": "https://polyhaven.com/a/rocky_trail"
   },
   {
+    "id": "rocky_trail_02",
+    "name": "Rocky Trail 02",
+    "category": "ground",
+    "tags": [
+      "stones",
+      "earthy",
+      "rugged",
+      "rough",
+      "terrain",
+      "gravelly",
+      "pathway",
+      "gritty",
+      "dusty",
+      "rocky",
+      "outdoors",
+      "dirt",
+      "rocks",
+      "ground",
+      "sand",
+      "gravel",
+      "footprints",
+      "dusty",
+      "dry",
+      "stony",
+      "rocky"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "dirty",
+      "sand",
+      "floor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rocky_trail_02"
+  },
+  {
+    "id": "roots",
+    "name": "Roots",
+    "category": "ground",
+    "tags": [
+      "uneven",
+      "old",
+      "weathered",
+      "brown",
+      "dirty",
+      "ground",
+      "dry",
+      "nature",
+      "dirt",
+      "tree",
+      "forest"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "floor"
+    ],
+    "dimensions_mm": [
+      1670.0000762939453,
+      1670.0000762939453
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/roots"
+  },
+  {
+    "id": "sandy_gravel",
+    "name": "Sandy Gravel",
+    "category": "ground",
+    "tags": [
+      "rough",
+      "weathered",
+      "stones",
+      "sand",
+      "sandy",
+      "gravel",
+      "gravelly ground",
+      "gravelly texture",
+      "gravelly",
+      "gritty",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "sand",
+      "gravel"
+    ],
+    "dimensions_mm": [
+      2099.99942779541,
+      2099.99942779541
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/sandy_gravel"
+  },
+  {
+    "id": "snow_01",
+    "name": "Snow 01",
+    "category": "ground",
+    "tags": [
+      "snow",
+      "rough",
+      "uneven",
+      "footprints",
+      "powdery",
+      "trail",
+      "snowfield"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "snow"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/snow_01"
+  },
+  {
+    "id": "snow_02",
+    "name": "Snow 02",
+    "category": "ground",
+    "tags": [
+      "snow",
+      "uneven",
+      "smooth",
+      "powdery",
+      "frosty",
+      "snowfield",
+      "soft",
+      "wintery"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "natural",
+      "outdoor",
+      "snow"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/snow_02"
+  },
+  {
     "id": "sparse_grass",
     "name": "Sparse Grass",
     "category": "ground",
@@ -672,6 +3380,75 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/sparse_grass"
+  },
+  {
+    "id": "stony_dirt_path",
+    "name": "Stony Dirt Path",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "ground",
+      "leaves",
+      "rocks",
+      "stones",
+      "dirt",
+      "pathway",
+      "path",
+      "forest",
+      "nature",
+      "autumn",
+      "twigs",
+      "rock"
+    ],
+    "polyhaven_categories": [
+      "dirty",
+      "floor",
+      "outdoor",
+      "natural"
+    ],
+    "dimensions_mm": [
+      2170.0000762939453,
+      2170.0000762939453
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stony_dirt_path"
+  },
+  {
+    "id": "withered_grass",
+    "name": "Withered Grass",
+    "category": "ground",
+    "tags": [
+      "old",
+      "weathered",
+      "grass",
+      "dead grass",
+      "discolored",
+      "driedup",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "outdoor",
+      "floor"
+    ],
+    "dimensions_mm": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/withered_grass"
   },
   {
     "id": "castle_brick_01",
@@ -937,6 +3714,40 @@
     "source": "https://polyhaven.com/a/church_bricks_03"
   },
   {
+    "id": "granite_wall",
+    "name": "Granite Wall",
+    "category": "masonry-wall",
+    "tags": [
+      "granite",
+      "granite blocks",
+      "rough",
+      "coarse",
+      "uneven",
+      "wall",
+      "monument",
+      "fortress walls",
+      "stonework",
+      "architecture",
+      "ancient walls"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/granite_wall"
+  },
+  {
     "id": "large_sandstone_blocks",
     "name": "Large Sandstone Blocks",
     "category": "masonry-wall",
@@ -969,6 +3780,240 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/large_sandstone_blocks"
+  },
+  {
+    "id": "large_sandstone_blocks_01",
+    "name": "Large Sandstone Blocks 01",
+    "category": "masonry-wall",
+    "tags": [
+      "wall",
+      "stones",
+      "rough",
+      "uneven",
+      "old",
+      "large"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "floor",
+      "man made",
+      "dirty",
+      "brick"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/large_sandstone_blocks_01"
+  },
+  {
+    "id": "medieval_blocks_02",
+    "name": "Medieval Blocks 02",
+    "category": "masonry-wall",
+    "tags": [
+      "stones",
+      "sandstone",
+      "old",
+      "weathered",
+      "rough",
+      "uneven"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "dirty",
+      "outdoor",
+      "rock"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_blocks_02"
+  },
+  {
+    "id": "medieval_blocks_03",
+    "name": "Medieval Blocks 03",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "large",
+      "old",
+      "rough"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_blocks_03"
+  },
+  {
+    "id": "medieval_blocks_05",
+    "name": "Medieval Blocks 05",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "road",
+      "stones",
+      "gaps"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "man made",
+      "outdoor",
+      "dirty",
+      "floor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_blocks_05"
+  },
+  {
+    "id": "medieval_blocks_06",
+    "name": "Medieval Blocks 06",
+    "category": "masonry-wall",
+    "tags": [
+      "wall",
+      "blocks",
+      "rocks",
+      "fortress walls",
+      "stonework",
+      "ancient walls",
+      "dungeon",
+      "fort",
+      "stone blocks",
+      "rough",
+      "stone wall"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "rock",
+      "dirty",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_blocks_06"
+  },
+  {
+    "id": "medieval_wall_01",
+    "name": "Medieval Wall 01",
+    "category": "masonry-wall",
+    "tags": [
+      "wall",
+      "rough",
+      "uneven",
+      "plastered"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_wall_01"
+  },
+  {
+    "id": "medieval_wall_02",
+    "name": "Medieval Wall 02",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "wall",
+      "worn",
+      "chipped",
+      "damaged",
+      "cracked",
+      "brown",
+      "rock",
+      "rocks",
+      "concrete",
+      "dungeon",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "rock",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      3499.999761581421,
+      3500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/medieval_wall_02"
   },
   {
     "id": "mossy_brick",
@@ -1004,6 +4049,46 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/mossy_brick"
+  },
+  {
+    "id": "mossy_sandstone",
+    "name": "Mossy Sandstone",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "old",
+      "worn",
+      "wall",
+      "mosscovered",
+      "mossy",
+      "mossy ",
+      "outdoor",
+      "rock",
+      "timeworn",
+      "weatherbeaten",
+      "fortress walls",
+      "moss",
+      "rocks"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "sandstone"
+    ],
+    "dimensions_mm": [
+      1889.9996280670166,
+      1889.9996280670166
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/mossy_sandstone"
   },
   {
     "id": "mossy_stone_wall",
@@ -1043,6 +4128,43 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/mossy_stone_wall"
+  },
+  {
+    "id": "old_sandstone_02",
+    "name": "Old Sandstone 02",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "stone",
+      "sandstone",
+      "old",
+      "worn",
+      "chipped",
+      "aged",
+      "stonework",
+      "brown",
+      "timeworn"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "sandstone",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1529.9999713897705,
+      1529.9999713897705
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_sandstone_02"
   },
   {
     "id": "old_stone_wall",
@@ -1120,6 +4242,48 @@
     "source": "https://polyhaven.com/a/old_stone_wall_02"
   },
   {
+    "id": "red_sandstone_wall",
+    "name": "Red Sandstone Wall",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "weathered",
+      "wall",
+      "worn",
+      "chipped",
+      "damaged",
+      "cracked",
+      "discolored",
+      "dirty",
+      "concrete",
+      "sandstone",
+      "crumbling",
+      "brown",
+      "dusty"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "wall",
+      "outdoor",
+      "dirty",
+      "sandstone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_sandstone_wall"
+  },
+  {
     "id": "rock_wall",
     "name": "Rock Wall",
     "category": "masonry-wall",
@@ -1189,6 +4353,184 @@
     "source": "https://polyhaven.com/a/rock_wall_02"
   },
   {
+    "id": "rock_wall_03",
+    "name": "Rock Wall 03",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "weathered",
+      "cracked",
+      "wall",
+      "discolored",
+      "stones",
+      "brown",
+      "rock",
+      "stained",
+      "chipped",
+      "worn"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2569.9996948242188,
+      2570.000171661377
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_03"
+  },
+  {
+    "id": "rock_wall_04",
+    "name": "Rock Wall 04",
+    "category": "masonry-wall",
+    "tags": [
+      "old",
+      "rough",
+      "wall",
+      "stones",
+      "worn",
+      "rocks",
+      "dirty",
+      "weathered",
+      "stone",
+      "brown",
+      "rock"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2269.9999809265137,
+      2269.9999809265137
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_04"
+  },
+  {
+    "id": "rock_wall_05",
+    "name": "Rock Wall 05",
+    "category": "masonry-wall",
+    "tags": [
+      "uneven",
+      "rough",
+      "weathered",
+      "stones",
+      "worn",
+      "discolored",
+      "rocks",
+      "wall",
+      "moss"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2259.9997520446777,
+      2259.9997520446777
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_05"
+  },
+  {
+    "id": "rock_wall_06",
+    "name": "Rock Wall 06",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "stones",
+      "wall",
+      "rock",
+      "chipped",
+      "rocks",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "dirty",
+      "rock",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1309.999942779541,
+      1309.999942779541
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_06"
+  },
+  {
+    "id": "rock_wall_07",
+    "name": "Rock Wall 07",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "wall",
+      "worn",
+      "rock",
+      "concrete",
+      "exterior",
+      "stone",
+      "rocks",
+      "dungeon",
+      "castle",
+      "fortress walls"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "rock"
+    ],
+    "dimensions_mm": [
+      1799.9999523162842,
+      1799.9999523162842
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_07"
+  },
+  {
     "id": "rock_wall_08",
     "name": "Rock Wall 08",
     "category": "masonry-wall",
@@ -1223,6 +4565,357 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/rock_wall_08"
+  },
+  {
+    "id": "rock_wall_09",
+    "name": "Rock Wall 09",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "wall",
+      "rock",
+      "rocks",
+      "fort",
+      "dry",
+      "weathered",
+      "fortress walls"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1220.0000286102295,
+      1220.0000286102295
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_09"
+  },
+  {
+    "id": "rock_wall_10",
+    "name": "Rock Wall 10",
+    "category": "masonry-wall",
+    "tags": [
+      "uneven",
+      "rock",
+      "rocks",
+      "wall",
+      "rocky",
+      "cracks",
+      "dirt",
+      "exterior",
+      "stone",
+      "hard",
+      "earthy",
+      "stone wall"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "rock"
+    ],
+    "dimensions_mm": [
+      1799.9995946884155,
+      1799.9995946884155
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_10"
+  },
+  {
+    "id": "rock_wall_11",
+    "name": "Rock Wall 11",
+    "category": "masonry-wall",
+    "tags": [
+      "weathered",
+      "wall",
+      "discolored",
+      "worn",
+      "stonework",
+      "fortress walls",
+      "rocks",
+      "rock",
+      "outdoor",
+      "exterior",
+      "weatherbeaten"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "wall",
+      "rock"
+    ],
+    "dimensions_mm": [
+      1909.9996089935303,
+      1909.9996089935303
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_11"
+  },
+  {
+    "id": "rock_wall_12",
+    "name": "Rock Wall 12",
+    "category": "masonry-wall",
+    "tags": [
+      "rock",
+      "wall",
+      "fortress walls",
+      "exterior",
+      "weatherbeaten",
+      "dungeon",
+      "stonework",
+      "concrete",
+      "stone wall",
+      "scratched",
+      "mortar"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "rock"
+    ],
+    "dimensions_mm": [
+      1599.9999046325684,
+      1599.9999046325684
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_12"
+  },
+  {
+    "id": "rock_wall_13",
+    "name": "Rock Wall 13",
+    "category": "masonry-wall",
+    "tags": [
+      "outdoor",
+      "weathered",
+      "weatherbeaten",
+      "concrete",
+      "rocks",
+      "rock",
+      "stone",
+      "rugged",
+      "ancient walls",
+      "fortress walls",
+      "exterior",
+      "timeworn",
+      "masonry"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_13"
+  },
+  {
+    "id": "rock_wall_14",
+    "name": "Rock Wall 14",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "rocks",
+      "rock",
+      "concrete",
+      "wall",
+      "embedded rock",
+      "stonework",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_14"
+  },
+  {
+    "id": "rock_wall_15",
+    "name": "Rock Wall 15",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "rocks",
+      "rock",
+      "concrete",
+      "wall",
+      "embedded rock",
+      "stonework",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1850.000023841858,
+      1850.000023841858
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_15"
+  },
+  {
+    "id": "rock_wall_16",
+    "name": "Rock Wall 16",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "weathered",
+      "uneven",
+      "wall",
+      "rock wall",
+      "stone blocks",
+      "stonework",
+      "rock",
+      "timeworn",
+      "fortress walls",
+      "stone wall"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "outdoor",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_16"
+  },
+  {
+    "id": "rock_wall_17",
+    "name": "Rock Wall 17",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "rock",
+      "rocks",
+      "embedded rocks",
+      "coarse",
+      "stonework",
+      "fortress walls",
+      "dungeon",
+      "embedded rock"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_wall_17"
+  },
+  {
+    "id": "rough_block_wall",
+    "name": "Rough Block Wall",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "stone",
+      "blocks",
+      "patterned",
+      "weathered",
+      "jagged",
+      "precast",
+      "cast stone blocks",
+      "exterior",
+      "dungeon",
+      "fortress walls",
+      "stonework",
+      "masonry",
+      "cladding",
+      "rock facade"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "outdoor",
+      "brick",
+      "wall"
+    ],
+    "dimensions_mm": [
+      3039.9999618530273,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_block_wall"
   },
   {
     "id": "rubble",
@@ -1336,6 +5029,209 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/rustic_stone_wall_02"
+  },
+  {
+    "id": "sandstone_blocks_04",
+    "name": "Sandstone Blocks 04",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "sandstone",
+      "flat",
+      "uneven",
+      "old"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "clean",
+      "brick"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/sandstone_blocks_04"
+  },
+  {
+    "id": "sandstone_blocks_05",
+    "name": "Sandstone Blocks 05",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "old",
+      "rough",
+      "uneven",
+      "large",
+      "sandstone"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "brick"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/sandstone_blocks_05"
+  },
+  {
+    "id": "sandstone_blocks_08",
+    "name": "Sandstone Blocks 08",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "uneven",
+      "large",
+      "sandstone"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "floor",
+      "man made",
+      "outdoor",
+      "clean",
+      "indoor"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/sandstone_blocks_08"
+  },
+  {
+    "id": "sandstone_brick_wall_01",
+    "name": "Sandstone Brick Wall 01",
+    "category": "masonry-wall",
+    "tags": [
+      "red",
+      "rough",
+      "uneven",
+      "industrial",
+      "baked",
+      "urban",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made",
+      "outdoor",
+      "sandstone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/sandstone_brick_wall_01"
+  },
+  {
+    "id": "seaworn_sandstone_brick",
+    "name": "Seaworn Sandstone Brick",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "worn",
+      "precast",
+      "concrete",
+      "blocks",
+      "brick",
+      "bricks",
+      "sandstone",
+      "rustic",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "sandstone",
+      "outdoor",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1690.0001764297485,
+      1690.0001764297485
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/seaworn_sandstone_brick"
+  },
+  {
+    "id": "slumped_mortar_brick",
+    "name": "Slumped Mortar Brick",
+    "category": "masonry-wall",
+    "tags": [
+      "concrete",
+      "cement",
+      "plasterconcrete",
+      "mortar",
+      "brick",
+      "bricks",
+      "weathered",
+      "deteriorating",
+      "painted",
+      "rough",
+      "brick wall",
+      "dirty",
+      "slumped",
+      "loose mortar",
+      "cracking"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "brick",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      1769.9999809265137,
+      1769.9999809265137
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/slumped_mortar_brick"
   },
   {
     "id": "stacked_stone_wall",
@@ -1502,6 +5398,116 @@
     "source": "https://polyhaven.com/a/stone_wall_02"
   },
   {
+    "id": "stone_wall_03",
+    "name": "Stone Wall 03",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "wall",
+      "chipped",
+      "cracked",
+      "worn",
+      "discolored",
+      "brown",
+      "stones",
+      "rocks",
+      "concrete",
+      "stone"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "plaster-concrete",
+      "concrete",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2170.0000762939453,
+      2170.0000762939453
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stone_wall_03"
+  },
+  {
+    "id": "stone_wall_04",
+    "name": "Stone Wall 04",
+    "category": "masonry-wall",
+    "tags": [
+      "weathered",
+      "rough",
+      "worn",
+      "wall",
+      "uneven",
+      "rocks",
+      "rock",
+      "fortress walls",
+      "sturdy",
+      "ancient walls",
+      "rugged",
+      "durable",
+      "fort",
+      "stonework"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1700.0000476837158,
+      1700.0000476837158
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stone_wall_04"
+  },
+  {
+    "id": "stone_wall_05",
+    "name": "Stone Wall 05",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "stone",
+      "stonework",
+      "wall",
+      "ancient walls",
+      "worn",
+      "timeworn",
+      "weatherbeaten",
+      "stone tile",
+      "stone block"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2055.000066757202,
+      2055.000066757202
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stone_wall_05"
+  },
+  {
     "id": "white_sandstone_blocks_02",
     "name": "White Sandstone Blocks 02",
     "category": "masonry-wall",
@@ -1530,6 +5536,171 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/white_sandstone_blocks_02"
+  },
+  {
+    "id": "white_sandstone_bricks",
+    "name": "White Sandstone Bricks",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "sandstone",
+      "uneven",
+      "damaged",
+      "worn",
+      "plastered",
+      "old",
+      "crumbling"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "wall"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_sandstone_bricks"
+  },
+  {
+    "id": "white_sandstone_bricks_03",
+    "name": "White Sandstone Bricks 03",
+    "category": "masonry-wall",
+    "tags": [
+      "blocks",
+      "white",
+      "standstone",
+      "uneven"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "man made",
+      "outdoor",
+      "wall",
+      "clean"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_sandstone_bricks_03"
+  },
+  {
+    "id": "yellow_stone_wall",
+    "name": "Yellow Stone Wall",
+    "category": "masonry-wall",
+    "tags": [
+      "wall",
+      "damaged",
+      "old",
+      "cracked",
+      "chipped",
+      "worn",
+      "yellow",
+      "concrete",
+      "rocks",
+      "rock",
+      "rough",
+      "discolored",
+      "scratched"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/yellow_stone_wall"
+  },
+  {
+    "id": "blue_metal_plate",
+    "name": "Blue Metal Plate",
+    "category": "metal",
+    "tags": [
+      "scratched",
+      "metal sheet",
+      "metal",
+      "painted",
+      "industrial",
+      "scratches",
+      "scuffed",
+      "steel panel",
+      "abrasion marks",
+      "blue",
+      "metal plate"
+    ],
+    "polyhaven_categories": [
+      "metal",
+      "industrial"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/blue_metal_plate"
+  },
+  {
+    "id": "green_metal_rust",
+    "name": "Green Metal Rust",
+    "category": "metal",
+    "tags": [
+      "painted",
+      "ship",
+      "tank",
+      "industrial",
+      "canister"
+    ],
+    "polyhaven_categories": [
+      "metal",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/green_metal_rust"
   },
   {
     "id": "metal_grate_rusty",
@@ -1648,6 +5819,38 @@
     "source": "https://polyhaven.com/a/metal_plate_02"
   },
   {
+    "id": "painted_metal_shutter",
+    "name": "Painted Metal Shutter",
+    "category": "metal",
+    "tags": [
+      "weathered",
+      "worn",
+      "dirty",
+      "stained",
+      "scratched",
+      "discolored",
+      "painted",
+      "metal",
+      "corrugated"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "metal"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/painted_metal_shutter"
+  },
+  {
     "id": "rust_coarse_01",
     "name": "Rust Coarse 01",
     "category": "metal",
@@ -1684,6 +5887,42 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/rust_coarse_01"
+  },
+  {
+    "id": "rusty_corrugated_iron",
+    "name": "Rusty Corrugated Iron",
+    "category": "metal",
+    "tags": [
+      "rough",
+      "old",
+      "corrugated",
+      "corrugation",
+      "rusted",
+      "rusty",
+      "rust",
+      "corroded metal sheet",
+      "metal sheet",
+      "oxidized",
+      "corroded surface",
+      "weathered",
+      "corrugated iron"
+    ],
+    "polyhaven_categories": [
+      "metal",
+      "industrial"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rusty_corrugated_iron"
   },
   {
     "id": "rusty_metal",
@@ -1898,6 +6137,159 @@
     "source": "https://polyhaven.com/a/rusty_metal_grid"
   },
   {
+    "id": "rusty_metal_sheet",
+    "name": "Rusty Metal Sheet",
+    "category": "metal",
+    "tags": [
+      "metal",
+      "rusty",
+      "rust",
+      "rusted",
+      "corroded",
+      "sheet",
+      "tarnished",
+      "oxidized",
+      "corroded metal sheet"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "metal"
+    ],
+    "dimensions_mm": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rusty_metal_sheet"
+  },
+  {
+    "id": "rusty_metal_shutter",
+    "name": "Rusty Metal Shutter",
+    "category": "metal",
+    "tags": [
+      "weathered",
+      "rusted",
+      "metal shutter",
+      "corrugated iron",
+      "corrosion",
+      "painted",
+      "horizontal ridges",
+      "corroded metal sheet",
+      "metal",
+      "steel sheeting",
+      "oxidized metal",
+      "shutter"
+    ],
+    "polyhaven_categories": [
+      "metal",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1899.9998569488525,
+      1899.9998569488525
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rusty_metal_shutter"
+  },
+  {
+    "id": "rusty_painted_metal",
+    "name": "Rusty Painted Metal",
+    "category": "metal",
+    "tags": [
+      "weathered",
+      "worn",
+      "discolored",
+      "rough",
+      "metal sheet",
+      "rusty",
+      "rust",
+      "rusted",
+      "steel sheeting",
+      "painted",
+      "corrosion",
+      "industrial",
+      "metal",
+      "corroded metal sheet",
+      "iron",
+      "cracking paint",
+      "corrugated iron"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "metal"
+    ],
+    "dimensions_mm": [
+      2200.000047683716,
+      2200.000047683716
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rusty_painted_metal"
+  },
+  {
+    "id": "worn_corrugated_iron",
+    "name": "Worn Corrugated Iron",
+    "category": "metal",
+    "tags": [
+      "rough",
+      "weathered",
+      "worn",
+      "chipped",
+      "corrugated",
+      "corrugation",
+      "metal",
+      "metal sheet",
+      "iron",
+      "steel sheeting",
+      "roof",
+      "sheet",
+      "steel",
+      "galvanized",
+      "paint",
+      "cracking paint",
+      "peeling paint",
+      "deteriorated",
+      "weatherbeaten",
+      "roofing",
+      "metallic",
+      "corrugated iron"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "metal"
+    ],
+    "dimensions_mm": [
+      1799.9995946884155,
+      1799.9995946884155
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/worn_corrugated_iron"
+  },
+  {
     "id": "clay_plaster",
     "name": "Clay Plaster",
     "category": "plaster",
@@ -1973,6 +6365,281 @@
     "source": "https://polyhaven.com/a/damaged_plaster"
   },
   {
+    "id": "grey_plaster",
+    "name": "Grey Plaster",
+    "category": "plaster",
+    "tags": [
+      "moss",
+      "plain",
+      "bare"
+    ],
+    "polyhaven_categories": [
+      "plaster",
+      "outdoor",
+      "indoor",
+      "man made",
+      "wall",
+      "floor",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster"
+  },
+  {
+    "id": "grey_plaster_02",
+    "name": "Grey Plaster 02",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "worn",
+      "cracked"
+    ],
+    "polyhaven_categories": [
+      "plaster",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty",
+      "wall",
+      "floor",
+      "plaster-concrete",
+      "collection: the_shed"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_02"
+  },
+  {
+    "id": "grey_plaster_03",
+    "name": "Grey Plaster 03",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "grey",
+      "uneven"
+    ],
+    "polyhaven_categories": [
+      "plaster",
+      "outdoor",
+      "indoor",
+      "man made",
+      "dirty",
+      "wall",
+      "floor",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_03"
+  },
+  {
+    "id": "painted_plaster_wall",
+    "name": "Painted Plaster Wall",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "weathered",
+      "worn",
+      "wall",
+      "discolored",
+      "plaster",
+      "plastered",
+      "damaged",
+      "old",
+      "stained",
+      "dirty",
+      "exterior",
+      "timeworn"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "plaster-concrete",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/painted_plaster_wall"
+  },
+  {
+    "id": "patterned_clay_plaster",
+    "name": "Patterned Clay Plaster",
+    "category": "plaster",
+    "tags": [
+      "weathered",
+      "rough",
+      "wall",
+      "pattern",
+      "clay",
+      "patterned",
+      "lines",
+      "decorative",
+      "traditional",
+      "outdoor",
+      "exterior",
+      "handmade"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "outdoor",
+      "plaster-concrete",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_clay_plaster"
+  },
+  {
+    "id": "peeling_painted_wall",
+    "name": "Peeling Painted Wall",
+    "category": "plaster",
+    "tags": [
+      "painted",
+      "peeling",
+      "peeling paint",
+      "wall",
+      "concrete",
+      "cracked",
+      "scuffed",
+      "scratched",
+      "deteriorated",
+      "cracking paint",
+      "flaking"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1800.0000715255737,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/peeling_painted_wall"
+  },
+  {
+    "id": "plaster_brick_01",
+    "name": "Plaster Brick 01",
+    "category": "plaster",
+    "tags": [
+      "plaster",
+      "rough",
+      "old",
+      "moss",
+      "sewer",
+      "tunnel",
+      "trimsheet"
+    ],
+    "polyhaven_categories": [
+      "brick",
+      "plaster-concrete",
+      "wall",
+      "man made",
+      "dirty",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2700.000286102295,
+      2700.000286102295
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plaster_brick_01"
+  },
+  {
+    "id": "plaster_brick_pattern",
+    "name": "Plaster Brick Pattern",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "plastered",
+      "outdoor",
+      "patterned concrete",
+      "patterned",
+      "coarse",
+      "blocks",
+      "brick",
+      "bricks"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "plaster",
+      "brick",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plaster_brick_pattern"
+  },
+  {
     "id": "plaster_stone_wall_01",
     "name": "Plaster Stone Wall 01",
     "category": "plaster",
@@ -2009,6 +6676,42 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/plaster_stone_wall_01"
+  },
+  {
+    "id": "plaster_stone_wall_02",
+    "name": "Plaster Stone Wall 02",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "stone embedded",
+      "embedded rock",
+      "concrete",
+      "plaster",
+      "cement",
+      "mortar",
+      "coarse",
+      "timeworn"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "plaster",
+      "concrete"
+    ],
+    "dimensions_mm": [
+      2119.999885559082,
+      2119.999885559082
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plaster_stone_wall_02"
   },
   {
     "id": "plastered_stone_wall",
@@ -2055,6 +6758,258 @@
     "source": "https://polyhaven.com/a/plastered_stone_wall"
   },
   {
+    "id": "plastered_wall",
+    "name": "Plastered Wall",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "concrete",
+      "discolored",
+      "damaged",
+      "scratched",
+      "plaster",
+      "plastered",
+      "exterior",
+      "worn",
+      "chipped"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "plaster"
+    ],
+    "dimensions_mm": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plastered_wall"
+  },
+  {
+    "id": "plastered_wall_02",
+    "name": "Plastered Wall 02",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "weathered",
+      "wall",
+      "discolored",
+      "flat",
+      "plastered",
+      "plaster",
+      "urban",
+      "exterior",
+      "concrete"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "plaster",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      2229.999542236328,
+      2229.999542236328
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plastered_wall_02"
+  },
+  {
+    "id": "plastered_wall_03",
+    "name": "Plastered Wall 03",
+    "category": "plaster",
+    "tags": [
+      "plaster",
+      "plastered",
+      "chipped",
+      "concrete",
+      "scuffed",
+      "discolored",
+      "scratched",
+      "plasterconcrete",
+      "rough",
+      "cement",
+      "timeworn",
+      "wall"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      4000,
+      4000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plastered_wall_03"
+  },
+  {
+    "id": "plastered_wall_04",
+    "name": "Plastered Wall 04",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "scratched",
+      "gray",
+      "plaster",
+      "plastered",
+      "concrete",
+      "plasterconcrete",
+      "industrial",
+      "weathered",
+      "scuffed",
+      "wall",
+      "plastering"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "plaster-concrete",
+      "indoor"
+    ],
+    "dimensions_mm": [
+      3199.9998092651367,
+      3199.9998092651367
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plastered_wall_04"
+  },
+  {
+    "id": "plastered_wall_05",
+    "name": "Plastered Wall 05",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "scratched",
+      "gray",
+      "plaster",
+      "plastered",
+      "concrete",
+      "plasterconcrete",
+      "industrial",
+      "weathered",
+      "scuffed",
+      "wall",
+      "plastering",
+      "coarse",
+      "bumpy"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "outdoor",
+      "plaster",
+      "plaster-concrete"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/plastered_wall_05"
+  },
+  {
+    "id": "red_plaster_weathered",
+    "name": "Red Plaster Weathered",
+    "category": "plaster",
+    "tags": [
+      "weathered",
+      "red",
+      "wall",
+      "old",
+      "worn",
+      "damaged",
+      "discolored",
+      "stained",
+      "cracked",
+      "brown",
+      "dirty",
+      "plaster",
+      "house"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "dirty",
+      "plaster-concrete",
+      "plaster"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_plaster_weathered"
+  },
+  {
+    "id": "rough_plaster_03",
+    "name": "Rough Plaster 03",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "uneven",
+      "plaster",
+      "brick",
+      "old",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "outdoor",
+      "brick",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_plaster_03"
+  },
+  {
     "id": "rough_plaster_brick",
     "name": "Rough Plaster Brick",
     "category": "plaster",
@@ -2088,6 +7043,201 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/rough_plaster_brick"
+  },
+  {
+    "id": "rough_plaster_brick_02",
+    "name": "Rough Plaster Brick 02",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "plaster",
+      "discolored",
+      "patchey",
+      "damaged",
+      "worn"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "brick",
+      "wall",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_plaster_brick_02"
+  },
+  {
+    "id": "rough_plaster_brick_04",
+    "name": "Rough Plaster Brick 04",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "grey",
+      "weathered",
+      "plaster",
+      "old"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_plaster_brick_04"
+  },
+  {
+    "id": "rough_plaster_broken",
+    "name": "Rough Plaster Broken",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "brown",
+      "weathered",
+      "uneven",
+      "old",
+      "peeling",
+      "patches",
+      "cement",
+      "plastered",
+      "damaged"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_plaster_broken"
+  },
+  {
+    "id": "rough_plasterbrick_05",
+    "name": "Rough Plasterbrick 05",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "grey",
+      "flat",
+      "even"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "floor"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_plasterbrick_05"
+  },
+  {
+    "id": "wall_bricks_plaster",
+    "name": "Wall Bricks Plaster",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "uneven",
+      "damaged",
+      "plastered",
+      "chipped"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "brick",
+      "man made",
+      "outdoor",
+      "dirty",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wall_bricks_plaster"
+  },
+  {
+    "id": "white_plaster_02",
+    "name": "White Plaster 02",
+    "category": "plaster",
+    "tags": [
+      "smooth",
+      "flat",
+      "even"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean",
+      "floor"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_plaster_02"
   },
   {
     "id": "white_plaster_rough_01",
@@ -2155,6 +7305,177 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/white_plaster_rough_02"
+  },
+  {
+    "id": "white_rough_plaster",
+    "name": "White Rough Plaster",
+    "category": "plaster",
+    "tags": [
+      "broken",
+      "chipped",
+      "damaged",
+      "rough"
+    ],
+    "polyhaven_categories": [
+      "plaster-concrete",
+      "man made",
+      "wall",
+      "outdoor",
+      "indoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_rough_plaster"
+  },
+  {
+    "id": "white_stucco",
+    "name": "White Stucco",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "wall",
+      "painted",
+      "stucco",
+      "white",
+      "granular",
+      "matte",
+      "uneven",
+      "porous",
+      "plaster"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "wall",
+      "man made",
+      "plaster",
+      "indoor"
+    ],
+    "dimensions_mm": [
+      1998.0629682540894,
+      1998.0640411376953
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_stucco"
+  },
+  {
+    "id": "white_stucco_02",
+    "name": "White Stucco 02",
+    "category": "plaster",
+    "tags": [
+      "stucco",
+      "rough",
+      "coarse",
+      "exterior",
+      "architectural",
+      "rendered",
+      "skim-coat"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "plaster",
+      "plaster-concrete",
+      "man made"
+    ],
+    "dimensions_mm": [
+      0.00007868050033721374,
+      1800.0000715255737
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/white_stucco_02"
+  },
+  {
+    "id": "whitewashed_brick",
+    "name": "Whitewashed Brick",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "old",
+      "old brick",
+      "white",
+      "whitewashed",
+      "weathered",
+      "aged",
+      "distressed",
+      "painted"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/whitewashed_brick"
+  },
+  {
+    "id": "worn_cracked_plaster",
+    "name": "Worn Cracked Plaster",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "weathered",
+      "cracked",
+      "cracks",
+      "damaged",
+      "old",
+      "worn",
+      "wall",
+      "discolored",
+      "weatherbeaten",
+      "snaking cracks",
+      "dilapidated"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "plaster-concrete",
+      "plaster"
+    ],
+    "dimensions_mm": [
+      1799.9999523162842,
+      1799.9999523162842
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/worn_cracked_plaster"
   },
   {
     "id": "worn_mossy_plasterwall",
@@ -2269,6 +7590,576 @@
     "source": "https://polyhaven.com/a/yellow_plaster"
   },
   {
+    "id": "yellow_plaster_02",
+    "name": "Yellow Plaster 02",
+    "category": "plaster",
+    "tags": [
+      "rough",
+      "old",
+      "yellow",
+      "wall",
+      "wood",
+      "plastered",
+      "cracks",
+      "weathered",
+      "uneven",
+      "brown",
+      "tan",
+      "planks",
+      "mud",
+      "cabin",
+      "wooden"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "plaster-concrete",
+      "wood",
+      "concrete",
+      "plaster"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/yellow_plaster_02"
+  },
+  {
+    "id": "aerial_rocks_01",
+    "name": "Aerial Rocks 01",
+    "category": "rock-cliff",
+    "tags": [
+      "rocks",
+      "moss",
+      "cliff",
+      "rock face",
+      "cave"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "dimensions_mm": [
+      80000,
+      80000.20599365234
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/aerial_rocks_01"
+  },
+  {
+    "id": "aerial_rocks_02",
+    "name": "Aerial Rocks 02",
+    "category": "rock-cliff",
+    "tags": [
+      "rocks",
+      "rough",
+      "moss",
+      "cliff",
+      "rock face",
+      "cave"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "dimensions_mm": [
+      50000,
+      50000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/aerial_rocks_02"
+  },
+  {
+    "id": "aerial_rocks_04",
+    "name": "Aerial Rocks 04",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "rocks",
+      "moss",
+      "cliff",
+      "rock face",
+      "cave"
+    ],
+    "polyhaven_categories": [
+      "terrain",
+      "outdoor",
+      "natural",
+      "rock",
+      "aerial"
+    ],
+    "dimensions_mm": [
+      80000,
+      80000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/aerial_rocks_04"
+  },
+  {
+    "id": "dark_rock",
+    "name": "Dark Rock",
+    "category": "rock-cliff",
+    "tags": [
+      "uneven",
+      "rough",
+      "weathered",
+      "rock",
+      "fissured",
+      "cracked",
+      "craggy",
+      "striated",
+      "geological",
+      "rock formation",
+      "veined",
+      "stone",
+      "fractured",
+      "metamorphic",
+      "striations",
+      "exposed rock"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "outdoor",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2421.1976528167725,
+      2421.199083328247
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dark_rock"
+  },
+  {
+    "id": "dark_rock_02",
+    "name": "Dark Rock 02",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "rock face",
+      "rock",
+      "weathered",
+      "fractured",
+      "stratified",
+      "craggy",
+      "striated",
+      "fissured",
+      "geological",
+      "veined",
+      "weathered rock",
+      "rock formation",
+      "striations",
+      "exposed rock"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2000.9167194366455,
+      2000.917911529541
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dark_rock_02"
+  },
+  {
+    "id": "lichen_rock",
+    "name": "Lichen Rock",
+    "category": "rock-cliff",
+    "tags": [
+      "rock",
+      "cliff",
+      "lichen",
+      "moss",
+      "rock face",
+      "boulder",
+      "mossy",
+      "stone",
+      "nature",
+      "rugged"
+    ],
+    "polyhaven_categories": [
+      "collection: verdant_trail",
+      "rock",
+      "terrain",
+      "natural"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/lichen_rock"
+  },
+  {
+    "id": "rock_04",
+    "name": "Rock 04",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "uneven",
+      "stone",
+      "bumpy",
+      "rock",
+      "rock formation",
+      "weathered",
+      "dirty",
+      "coarse",
+      "mossy"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_04"
+  },
+  {
+    "id": "rock_05",
+    "name": "Rock 05",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "uneven",
+      "old",
+      "stone",
+      "geological",
+      "irregular",
+      "rock",
+      "pitted",
+      "rock face"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_05"
+  },
+  {
+    "id": "rock_06",
+    "name": "Rock 06",
+    "category": "rock-cliff",
+    "tags": [
+      "yellow",
+      "cliff",
+      "rough",
+      "rock face",
+      "solid rock",
+      "rock",
+      "striated",
+      "geological",
+      "exposed rock",
+      "uneven",
+      "weathered rock",
+      "striations"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "terrain",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_06"
+  },
+  {
+    "id": "rock_boulder_cracked",
+    "name": "Rock Boulder Cracked",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "weathered",
+      "rock face",
+      "rock",
+      "orange",
+      "cliff",
+      "cave",
+      "stone",
+      "uneven",
+      "eroded"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "terrain",
+      "rock",
+      "natural"
+    ],
+    "dimensions_mm": [
+      1389.9999856948853,
+      1390.0001049041748
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_boulder_cracked"
+  },
+  {
+    "id": "rock_boulder_dry",
+    "name": "Rock Boulder Dry",
+    "category": "rock-cliff",
+    "tags": [
+      "weathered",
+      "chipped",
+      "rocks",
+      "boulder",
+      "stone",
+      "flat",
+      "damaged",
+      "eroded",
+      "cracked",
+      "rough",
+      "uneven"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "natural",
+      "terrain"
+    ],
+    "dimensions_mm": [
+      1799.9999523162842,
+      1800.0001907348633
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_boulder_dry"
+  },
+  {
+    "id": "rock_face",
+    "name": "Rock Face",
+    "category": "rock-cliff",
+    "tags": [
+      "terrain",
+      "landscape",
+      "rock face",
+      "solid rock",
+      "cliff",
+      "solid"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "terrain",
+      "natural",
+      "rock",
+      "collection: namaqualand"
+    ],
+    "dimensions_mm": [
+      2380.000114440918,
+      2380.000114440918
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_face"
+  },
+  {
+    "id": "rock_face_03",
+    "name": "Rock Face 03",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "rock",
+      "cliff",
+      "uneven",
+      "weathered",
+      "wall",
+      "cracked",
+      "stone",
+      "rock face",
+      "rugged",
+      "chipped",
+      "eroded",
+      "cracks",
+      "rocks"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "terrain",
+      "rock",
+      "outdoor",
+      "collection: verdant_trail"
+    ],
+    "dimensions_mm": [
+      2699.9995708465576,
+      2699.9995708465576
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_face_03"
+  },
+  {
+    "id": "rock_face_04",
+    "name": "Rock Face 04",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "old",
+      "cracked",
+      "chipped",
+      "rock face",
+      "rock",
+      "leaves",
+      "dry leaves",
+      "fallen leaves",
+      "cracks",
+      "striated",
+      "geological"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "natural",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_face_04"
+  },
+  {
+    "id": "rock_surface",
+    "name": "Rock Surface",
+    "category": "rock-cliff",
+    "tags": [
+      "rough",
+      "weathered",
+      "discolored",
+      "dirty",
+      "stone",
+      "rock",
+      "boulder",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_surface"
+  },
+  {
     "id": "castle_wall_slates",
     "name": "Castle Wall Slates",
     "category": "roof",
@@ -2300,6 +8191,37 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/castle_wall_slates"
+  },
+  {
+    "id": "ceramic_roof_01",
+    "name": "Ceramic Roof 01",
+    "category": "roof",
+    "tags": [
+      "ceramic",
+      "tiles",
+      "roof",
+      "old",
+      "city",
+      "moss"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      3500.000238418579,
+      3500.000238418579
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/ceramic_roof_01"
   },
   {
     "id": "clay_roof_tiles",
@@ -2369,6 +8291,75 @@
     "source": "https://polyhaven.com/a/clay_roof_tiles_02"
   },
   {
+    "id": "clay_roof_tiles_03",
+    "name": "Clay Roof Tiles 03",
+    "category": "roof",
+    "tags": [
+      "weathered",
+      "uneven",
+      "clay",
+      "clay tiles",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "overlapping tiles",
+      "traditional",
+      "traditional roofing "
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "outdoor",
+      "roofing"
+    ],
+    "dimensions_mm": [
+      2599.9999046325684,
+      2599.9999046325684
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/clay_roof_tiles_03"
+  },
+  {
+    "id": "grey_roof_01",
+    "name": "Grey Roof 01",
+    "category": "roof",
+    "tags": [
+      "modern",
+      "tiles",
+      "roofing material",
+      "gray",
+      "gray roof",
+      "tiled roofing",
+      "interlocking tiles",
+      "slate roofing",
+      "roof tiles",
+      "traditional roof tiles"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "clean"
+    ],
+    "dimensions_mm": [
+      8000,
+      8000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_roof_01"
+  },
+  {
     "id": "grey_roof_tiles",
     "name": "Grey Roof Tiles",
     "category": "roof",
@@ -2403,6 +8394,43 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/grey_roof_tiles"
+  },
+  {
+    "id": "grey_roof_tiles_02",
+    "name": "Grey Roof Tiles 02",
+    "category": "roof",
+    "tags": [
+      "slates",
+      "moss",
+      "tiles",
+      "cottage",
+      "roofing material",
+      "lichen",
+      "housing material",
+      "gray",
+      "traditional roof tiles",
+      "tiled roofing",
+      "gray roof",
+      "storm clips "
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "outdoor",
+      "man made",
+      "clean"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_roof_tiles_02"
   },
   {
     "id": "red_slate_roof_tiles_01",
@@ -2473,6 +8501,146 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/reed_roof_03"
+  },
+  {
+    "id": "reed_roof_04",
+    "name": "Reed Roof 04",
+    "category": "roof",
+    "tags": [
+      "reed",
+      "rough",
+      "village",
+      "thatch",
+      "hay",
+      "straw",
+      "hut",
+      "medieval"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "outdoor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/reed_roof_04"
+  },
+  {
+    "id": "roof_07",
+    "name": "Roof 07",
+    "category": "roof",
+    "tags": [
+      "ceramic",
+      "tiles",
+      "old",
+      "worn",
+      "damaged",
+      "discolored",
+      "roofing material",
+      "roof",
+      "roofing",
+      "tile roofing",
+      "clay tiles",
+      "weathered",
+      "mossy",
+      "rustic",
+      "overlapping tiles"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/roof_07"
+  },
+  {
+    "id": "roof_09",
+    "name": "Roof 09",
+    "category": "roof",
+    "tags": [
+      "ceramic",
+      "old",
+      "worn",
+      "tiles",
+      "roofing material",
+      "roofing",
+      "roof",
+      "clay tiles",
+      "overlapping tiles",
+      "discolored",
+      "traditional roofing ",
+      "tile roofing",
+      "weather-beaten"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      4000,
+      4000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/roof_09"
+  },
+  {
+    "id": "roof_3",
+    "name": "Roof 3",
+    "category": "roof",
+    "tags": [
+      "ceramic",
+      "old",
+      "worn",
+      "tiles",
+      "moss"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/roof_3"
   },
   {
     "id": "roof_slates_02",
@@ -2587,6 +8755,37 @@
     "source": "https://polyhaven.com/a/roof_tiles"
   },
   {
+    "id": "roof_tiles_14",
+    "name": "Roof Tiles 14",
+    "category": "roof",
+    "tags": [
+      "ceramic",
+      "tiles",
+      "moss",
+      "old",
+      "discolored",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "roofing",
+      "man made",
+      "outdoor",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/roof_tiles_14"
+  },
+  {
     "id": "thatch_roof_angled",
     "name": "Thatch Roof Angled",
     "category": "roof",
@@ -2626,6 +8825,212 @@
     "source": "https://polyhaven.com/a/thatch_roof_angled"
   },
   {
+    "id": "brick_floor",
+    "name": "Brick Floor",
+    "category": "stone-floor",
+    "tags": [
+      "herringbone",
+      "diagonal",
+      "brick",
+      "paving",
+      "repeat pattern",
+      "aged"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "dirty",
+      "outdoor",
+      "brick"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_floor"
+  },
+  {
+    "id": "cobblestone_01",
+    "name": "Cobblestone 01",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "old",
+      "garden",
+      "moss"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_01"
+  },
+  {
+    "id": "cobblestone_02",
+    "name": "Cobblestone 02",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "path",
+      "footpath",
+      "stones",
+      "pebbles",
+      "dirty",
+      "walkway",
+      "garden walkway",
+      "outdoors",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "floor",
+      "outdoor",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      1799.9995946884155,
+      1799.9995946884155
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_02"
+  },
+  {
+    "id": "cobblestone_03",
+    "name": "Cobblestone 03",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "weathered",
+      "concrete",
+      "cobblestone",
+      "walkway",
+      "pavement",
+      "outdoor",
+      "floor",
+      "outdoor flooring",
+      "pavement patterned"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_03"
+  },
+  {
+    "id": "cobblestone_04",
+    "name": "Cobblestone 04",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "concrete",
+      "uneven",
+      "weathered",
+      "exterior",
+      "cobblestone",
+      "paving",
+      "stonework",
+      "square",
+      "grid",
+      "weatherbeaten",
+      "coarse",
+      "rough  ",
+      "timeworn",
+      "stone blocks"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "cobblestone",
+      "plaster-concrete",
+      "concrete"
+    ],
+    "dimensions_mm": [
+      2019.9999809265137,
+      2019.9999809265137
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_04"
+  },
+  {
+    "id": "cobblestone_05",
+    "name": "Cobblestone 05",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "old",
+      "garden",
+      "pathway",
+      "moss",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "outdoor",
+      "dirty",
+      "road",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_05"
+  },
+  {
     "id": "cobblestone_floor_01",
     "name": "Cobblestone Floor 01",
     "category": "stone-floor",
@@ -2656,6 +9061,68 @@
     "source": "https://polyhaven.com/a/cobblestone_floor_01"
   },
   {
+    "id": "cobblestone_floor_02",
+    "name": "Cobblestone Floor 02",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "plastered",
+      "cracked",
+      "fixed",
+      "smooth",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "man made",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_02"
+  },
+  {
+    "id": "cobblestone_floor_03",
+    "name": "Cobblestone Floor 03",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "plastered",
+      "mud",
+      "moss",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "dirty",
+      "man made",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_03"
+  },
+  {
     "id": "cobblestone_floor_04",
     "name": "Cobblestone Floor 04",
     "category": "stone-floor",
@@ -2684,6 +9151,195 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/cobblestone_floor_04"
+  },
+  {
+    "id": "cobblestone_floor_05",
+    "name": "Cobblestone Floor 05",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "uneven",
+      "old",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "dirty",
+      "man made",
+      "road",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_05"
+  },
+  {
+    "id": "cobblestone_floor_06",
+    "name": "Cobblestone Floor 06",
+    "category": "stone-floor",
+    "tags": [
+      "old",
+      "rough",
+      "weathered",
+      "dirty",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "cobblestone",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_06"
+  },
+  {
+    "id": "cobblestone_floor_07",
+    "name": "Cobblestone Floor 07",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "stacked",
+      "moss",
+      "old",
+      "damp",
+      "garden",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_07"
+  },
+  {
+    "id": "cobblestone_floor_08",
+    "name": "Cobblestone Floor 08",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "smooth",
+      "old",
+      "moss",
+      "pavement"
+    ],
+    "polyhaven_categories": [
+      "road",
+      "floor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_08"
+  },
+  {
+    "id": "cobblestone_floor_09",
+    "name": "Cobblestone Floor 09",
+    "category": "stone-floor",
+    "tags": [
+      "weathered",
+      "uneven",
+      "floor",
+      "cobblestone",
+      "cobblestones",
+      "stone pavement",
+      "gritty",
+      "stones",
+      "pavement",
+      "pavement patterned",
+      "pattern"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2174.999952316284,
+      2174.999952316284
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_09"
+  },
+  {
+    "id": "cobblestone_floor_13",
+    "name": "Cobblestone Floor 13",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "farm",
+      "rural",
+      "old"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "man made",
+      "dirty",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_floor_13"
   },
   {
     "id": "cobblestone_large_01",
@@ -2717,6 +9373,76 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/cobblestone_large_01"
+  },
+  {
+    "id": "cobblestone_pavement",
+    "name": "Cobblestone Pavement",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "cobblestones",
+      "rocks",
+      "squares",
+      "stone slabs",
+      "stone pavement",
+      "grout lines",
+      "rough",
+      "weathered surface",
+      "weathered",
+      "uneven surface",
+      "sidewalk",
+      "sidewalk texture"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      2500,
+      2500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/cobblestone_pavement"
+  },
+  {
+    "id": "grey_stone_path",
+    "name": "Grey Stone Path",
+    "category": "stone-floor",
+    "tags": [
+      "rocks",
+      "exterior",
+      "stonework",
+      "outdoors",
+      "path",
+      "pathway",
+      "footpath",
+      "concrete",
+      "walkway",
+      "grey",
+      "gray"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1799.999713897705,
+      1799.999713897705
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_stone_path"
   },
   {
     "id": "mixed_stone_tiles",
@@ -2785,6 +9511,42 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/monastery_stone_floor"
+  },
+  {
+    "id": "mossy_brick_floor",
+    "name": "Mossy Brick Floor",
+    "category": "stone-floor",
+    "tags": [
+      "weathered",
+      "worn",
+      "brick",
+      "bricks",
+      "moss",
+      "pattern",
+      "outdoor",
+      "worndown",
+      "paving",
+      "herringbone",
+      "outdoor flooring",
+      "pavement patterned"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1880.000114440918,
+      1879.9999952316284
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/mossy_brick_floor"
   },
   {
     "id": "mossy_cobblestone",
@@ -2859,6 +9621,161 @@
     "source": "https://polyhaven.com/a/patterned_cobblestone"
   },
   {
+    "id": "patterned_paving",
+    "name": "Patterned Paving",
+    "category": "stone-floor",
+    "tags": [
+      "footpath",
+      "pavement",
+      "sidewalk",
+      "sidewalk texture",
+      "pavement patterned",
+      "walkway",
+      "urban",
+      "city",
+      "pavers",
+      "cityscape",
+      "architecture",
+      "interlocking",
+      "interlocking bricks",
+      "street",
+      "infrastructure",
+      "station",
+      "decorative bricks",
+      "stone paving"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/patterned_paving"
+  },
+  {
+    "id": "rock_path",
+    "name": "Rock Path",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "weathered",
+      "leaves",
+      "rocks",
+      "rocky",
+      "grass",
+      "path",
+      "pathway",
+      "exterior",
+      "dirt",
+      "stony",
+      "trail",
+      "walkway",
+      "outdoor",
+      "outdoors",
+      "footpath"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "outdoor",
+      "floor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_path"
+  },
+  {
+    "id": "rock_tile_floor",
+    "name": "Rock Tile Floor",
+    "category": "stone-floor",
+    "tags": [
+      "stone",
+      "rough",
+      "rock",
+      "rocks",
+      "gray",
+      "rugged",
+      "floor",
+      "stonework",
+      "stone tile",
+      "paving",
+      "outdoors",
+      "coarse"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "floor",
+      "rock",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1960.0000381469727,
+      1960.0000381469727
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_tile_floor"
+  },
+  {
+    "id": "rock_tile_floor_02",
+    "name": "Rock Tile Floor 02",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "weathered",
+      "worn",
+      "walkway",
+      "rocks",
+      "rock",
+      "grass",
+      "dead grass",
+      "outdoor",
+      "outdoor walkway",
+      "pathway",
+      "stone pathway"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "rock"
+    ],
+    "dimensions_mm": [
+      2400.0000953674316,
+      2400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rock_tile_floor_02"
+  },
+  {
     "id": "slate_floor",
     "name": "Slate Floor",
     "category": "stone-floor",
@@ -2926,6 +9843,78 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/slate_floor_02"
+  },
+  {
+    "id": "slate_floor_03",
+    "name": "Slate Floor 03",
+    "category": "stone-floor",
+    "tags": [
+      "slates",
+      "slate",
+      "floor",
+      "rustic architecture",
+      "vintage",
+      "stone floor",
+      "rustic",
+      "mosaic",
+      "stone",
+      "stone tile"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "indoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/slate_floor_03"
+  },
+  {
+    "id": "square_brick_floor",
+    "name": "Square Brick Floor",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "uneven",
+      "weathered",
+      "chipped",
+      "brick",
+      "bricks",
+      "grouted",
+      "scratched",
+      "floor",
+      "discolored",
+      "grid",
+      "scuffed",
+      "old brick",
+      "pitted"
+    ],
+    "polyhaven_categories": [
+      "indoor",
+      "brick",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/square_brick_floor"
   },
   {
     "id": "square_cobblestone",
@@ -3045,6 +10034,78 @@
     "source": "https://polyhaven.com/a/stone_pathway"
   },
   {
+    "id": "stone_pathway_02",
+    "name": "Stone Pathway 02",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "weathered",
+      "leaves",
+      "fallen leaves",
+      "plant debris",
+      "stones",
+      "cobblestone",
+      "garden walkway",
+      "stone pathway",
+      "path",
+      "cobblestones",
+      "scattered leaves",
+      "rough  ",
+      "damp"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "outdoor",
+      "cobblestone"
+    ],
+    "dimensions_mm": [
+      1950.0000476837158,
+      1950.0000476837158
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stone_pathway_02"
+  },
+  {
+    "id": "stone_pavers",
+    "name": "Stone Pavers",
+    "category": "stone-floor",
+    "tags": [
+      "pavers",
+      "concrete",
+      "cracked",
+      "rough",
+      "coarse",
+      "weathered",
+      "stone",
+      "stonework",
+      "timeworn",
+      "cracks",
+      "paving"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stone_pavers"
+  },
+  {
     "id": "stone_tiles",
     "name": "Stone Tiles",
     "category": "stone-floor",
@@ -3084,6 +10145,42 @@
     "source": "https://polyhaven.com/a/stone_tiles"
   },
   {
+    "id": "terracotta_floor_tiles",
+    "name": "Terracotta Floor Tiles",
+    "category": "stone-floor",
+    "tags": [
+      "terracotta",
+      "tiles",
+      "ceramic",
+      "square",
+      "consistent",
+      "grout lines",
+      "indoor flooring",
+      "chipped",
+      "ceramic tiles",
+      "uneven",
+      "weathered",
+      "grout"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "indoor",
+      "tiles"
+    ],
+    "dimensions_mm": [
+      2079.9999237060547,
+      2079.9999237060547
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/terracotta_floor_tiles"
+  },
+  {
     "id": "worn_brick_floor",
     "name": "Worn Brick Floor",
     "category": "stone-floor",
@@ -3117,6 +10214,108 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/worn_brick_floor"
+  },
+  {
+    "id": "worn_brick_path",
+    "name": "Worn Brick Path",
+    "category": "stone-floor",
+    "tags": [
+      "rough",
+      "brick",
+      "bricks",
+      "herringbone",
+      "herringbone pattern",
+      "worn",
+      "old",
+      "pathway",
+      "moss",
+      "mosscovered",
+      "mossy",
+      "grimy",
+      "outdoor flooring",
+      "eroded",
+      "plant debris"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "floor",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1949.9682188034058,
+      1949.9682188034058
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/worn_brick_path"
+  },
+  {
+    "id": "bark_brown_01",
+    "name": "Bark Brown 01",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "tree",
+      "forest",
+      "knots",
+      "bark grooves",
+      "tree bark",
+      "tree trunk"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "natural",
+      "bark"
+    ],
+    "dimensions_mm": [
+      999.9990463256836,
+      999.998927116394
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/bark_brown_01"
+  },
+  {
+    "id": "bark_brown_02",
+    "name": "Bark Brown 02",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "tree",
+      "forest",
+      "knots",
+      "wooden knots",
+      "tree trunk"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "natural",
+      "bark"
+    ],
+    "dimensions_mm": [
+      999.9990463256836,
+      999.998927116394
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/bark_brown_02"
   },
   {
     "id": "beam_wall_01",
@@ -3182,6 +10381,241 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/black_painted_planks"
+  },
+  {
+    "id": "brown_planks_03",
+    "name": "Brown Planks 03",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "untreated",
+      "boat",
+      "costal",
+      "dry",
+      "old",
+      "withered"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "man made",
+      "indoor",
+      "outdoor",
+      "clean",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_03"
+  },
+  {
+    "id": "brown_planks_04",
+    "name": "Brown Planks 04",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "old",
+      "untreated",
+      "shed",
+      "cabin",
+      "cottage",
+      "rough"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "man made",
+      "indoor",
+      "outdoor",
+      "clean",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_04"
+  },
+  {
+    "id": "brown_planks_05",
+    "name": "Brown Planks 05",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "painted",
+      "shed",
+      "house",
+      "suburb"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_05"
+  },
+  {
+    "id": "brown_planks_07",
+    "name": "Brown Planks 07",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "shed",
+      "house",
+      "suburb",
+      "untreated"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_07"
+  },
+  {
+    "id": "brown_planks_08",
+    "name": "Brown Planks 08",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "rough",
+      "shed",
+      "untreated"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_08"
+  },
+  {
+    "id": "brown_planks_09",
+    "name": "Brown Planks 09",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "planks",
+      "shed",
+      "deck",
+      "raw wood",
+      "nail holes",
+      "horizontal layout",
+      "weathered wood",
+      "knots",
+      "natural grain",
+      "grain",
+      "natural wood",
+      "natural wood grain",
+      "unsanded wood",
+      "rough wood"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "indoor",
+      "clean",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brown_planks_09"
+  },
+  {
+    "id": "dark_paneled_wood",
+    "name": "Dark Paneled Wood",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "wood",
+      "painted wood",
+      "lacquered",
+      "paneling",
+      "wood panel ",
+      "inlaid",
+      "door"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      1400.0000953674316,
+      1400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dark_paneled_wood"
   },
   {
     "id": "dark_planks",
@@ -3251,6 +10685,107 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/dark_wood"
+  },
+  {
+    "id": "dark_wooden_planks",
+    "name": "Dark Wooden Planks",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "old",
+      "weathered",
+      "cracked",
+      "damaged",
+      "brown",
+      "wood",
+      "wooden",
+      "floor",
+      "planks",
+      "scratched",
+      "worn",
+      "chipped"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "man made",
+      "indoor",
+      "wood",
+      "raw wood"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/dark_wooden_planks"
+  },
+  {
+    "id": "distressed_painted_planks",
+    "name": "Distressed Painted Planks",
+    "category": "wood",
+    "tags": [
+      "weathered",
+      "old",
+      "wood",
+      "planks",
+      "wooden planks",
+      "rustic",
+      "distressed",
+      "distressed wood",
+      "painted"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "wood"
+    ],
+    "dimensions_mm": [
+      1599.9999046325684,
+      1599.9999046325684
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/distressed_painted_planks"
+  },
+  {
+    "id": "green_rough_planks",
+    "name": "Green Rough Planks",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "painted",
+      "peeling",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "outdoor",
+      "man made",
+      "dirty",
+      "wall"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/green_rough_planks"
   },
   {
     "id": "medieval_wood",
@@ -3382,6 +10917,168 @@
     "source": "https://polyhaven.com/a/old_wood_floor"
   },
   {
+    "id": "old_wooden_floor_01",
+    "name": "Old Wooden Floor 01",
+    "category": "wood",
+    "tags": [
+      "wood",
+      "hardwood",
+      "hardwood floors",
+      "wooden flooring ",
+      "wooden planks",
+      "wooden floor",
+      "grain",
+      "aged wood",
+      "scratches",
+      "interior",
+      "varnished surface"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_wooden_floor_01"
+  },
+  {
+    "id": "old_wooden_floor_02",
+    "name": "Old Wooden Floor 02",
+    "category": "wood",
+    "tags": [
+      "wood",
+      "hardwood",
+      "hardwood floors",
+      "wooden flooring ",
+      "wooden planks",
+      "wooden floor",
+      "grain",
+      "aged wood",
+      "scratches",
+      "interior",
+      "varnished surface"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      2029.9999713897705,
+      2029.9999713897705
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_wooden_floor_02"
+  },
+  {
+    "id": "old_wooden_floor_03",
+    "name": "Old Wooden Floor 03",
+    "category": "wood",
+    "tags": [
+      "wood",
+      "hardwood",
+      "hardwood floors",
+      "wooden flooring ",
+      "wooden planks",
+      "wooden floor",
+      "grain",
+      "aged wood",
+      "scratches",
+      "interior",
+      "varnished surface"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "wood"
+    ],
+    "dimensions_mm": [
+      1199.049949645996,
+      1199.049949645996
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/old_wooden_floor_03"
+  },
+  {
+    "id": "pine_bark",
+    "name": "Pine Bark",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "weathered",
+      "bark",
+      "tree",
+      "tree bark",
+      "pine",
+      "organic"
+    ],
+    "polyhaven_categories": [
+      "natural",
+      "bark",
+      "collection: pine_forest",
+      "wood"
+    ],
+    "dimensions_mm": [
+      1999.9996423721313,
+      1999.9996423721313
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pine_bark"
+  },
+  {
+    "id": "planks_brown_10",
+    "name": "Planks Brown 10",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "old",
+      "discolored",
+      "weathered",
+      "rough"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "wall",
+      "man made",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/planks_brown_10"
+  },
+  {
     "id": "raw_plank_wall",
     "name": "Raw Plank Wall",
     "category": "wood",
@@ -3494,6 +11191,107 @@
     "source": "https://polyhaven.com/a/rough_pine_door"
   },
   {
+    "id": "rough_wood",
+    "name": "Rough Wood",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "weathered",
+      "old",
+      "uneven",
+      "aged",
+      "cracked",
+      "natural grain",
+      "natural wood",
+      "natural",
+      "timber"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "natural",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/rough_wood"
+  },
+  {
+    "id": "stair_planks",
+    "name": "Stair Planks",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "wooden",
+      "wooden flooring ",
+      "wood",
+      "wooden planks",
+      "varnished",
+      "grain",
+      "wood grain",
+      "stairs",
+      "timber",
+      "weathered",
+      "scratched",
+      "plank",
+      "wooden floor",
+      "coated",
+      "flooring"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      1200.0000476837158,
+      1200.0000476837158
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/stair_planks"
+  },
+  {
+    "id": "tree_bark_03",
+    "name": "Tree Bark 03",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "moss",
+      "rough",
+      "old"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "natural",
+      "outdoor",
+      "bark"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/tree_bark_03"
+  },
+  {
     "id": "weathered_brown_planks",
     "name": "Weathered Brown Planks",
     "category": "wood",
@@ -3532,6 +11330,81 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/weathered_brown_planks"
+  },
+  {
+    "id": "weathered_peeling_timber",
+    "name": "Weathered Peeling Timber",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "weathered",
+      "wood",
+      "wood planks",
+      "peeling",
+      "peeling paint",
+      "wooden planks",
+      "rustic",
+      "plank",
+      "distressed",
+      "flaking paint",
+      "nail holes",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wood",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1100.000023841858,
+      1100.000023841858
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/weathered_peeling_timber"
+  },
+  {
+    "id": "weathered_plank_siding",
+    "name": "Weathered Plank Siding",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "wood",
+      "wooden planks",
+      "exterior",
+      "rustic",
+      "plank siding",
+      "weathered",
+      "weatherbeaten",
+      "horizontal planks",
+      "cladding",
+      "lap siding",
+      "lumber",
+      "timber",
+      "plank"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "wood"
+    ],
+    "dimensions_mm": [
+      1570.0000524520874,
+      1570.0000524520874
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/weathered_plank_siding"
   },
   {
     "id": "weathered_planks",
@@ -3614,6 +11487,83 @@
     "source": "https://polyhaven.com/a/wood_floor_worn"
   },
   {
+    "id": "wood_peeling_paint_weathered",
+    "name": "Wood Peeling Paint Weathered",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "old",
+      "weathered",
+      "wood",
+      "planks",
+      "painted",
+      "chipped",
+      "flaked",
+      "paint",
+      "worn",
+      "faded",
+      "dry",
+      "damaged",
+      "peeling",
+      "discolored",
+      "cracked",
+      "stained",
+      "wall"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "man made",
+      "wall",
+      "wood",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      761.9999647140503,
+      762.0000243186951
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_peeling_paint_weathered"
+  },
+  {
+    "id": "wood_plank_wall",
+    "name": "Wood Plank Wall",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "varnished",
+      "dusty",
+      "dirty",
+      "brown",
+      "wood",
+      "cabin"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "wood",
+      "man made",
+      "dirty"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_plank_wall"
+  },
+  {
     "id": "wood_planks",
     "name": "Wood Planks",
     "category": "wood",
@@ -3655,6 +11605,73 @@
     "source": "https://polyhaven.com/a/wood_planks"
   },
   {
+    "id": "wood_planks_dirt",
+    "name": "Wood Planks Dirt",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "even",
+      "weathered"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "wall",
+      "man made",
+      "outdoor",
+      "indoor",
+      "clean"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_planks_dirt"
+  },
+  {
+    "id": "wood_planks_grey",
+    "name": "Wood Planks Grey",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "worn",
+      "old",
+      "grey",
+      "flat",
+      "seaside",
+      "costal",
+      "ocean",
+      "dirty",
+      "discolored",
+      "cabin"
+    ],
+    "polyhaven_categories": [
+      "floor",
+      "wall",
+      "wood",
+      "outdoor",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500.0001192092896
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_planks_grey"
+  },
+  {
     "id": "wood_shutter",
     "name": "Wood Shutter",
     "category": "wood",
@@ -3693,6 +11710,76 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/wood_shutter"
+  },
+  {
+    "id": "wood_table",
+    "name": "Wood Table",
+    "category": "wood",
+    "tags": [
+      "pine",
+      "coated finish",
+      "coated wood",
+      "wood",
+      "planks",
+      "knots",
+      "wooden",
+      "wooden knots",
+      "pine wood",
+      "plank",
+      "wood grain",
+      "roughhewn",
+      "saw marks"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_table"
+  },
+  {
+    "id": "wood_table_001",
+    "name": "Wood Table 001",
+    "category": "wood",
+    "tags": [
+      "wood",
+      "table",
+      "varnished",
+      "clean",
+      "stained",
+      "red",
+      "furniture",
+      "fancy",
+      "fine",
+      "grain",
+      "vinyl"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "clean",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500.0001192092896
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_table_001"
   },
   {
     "id": "wood_table_large",
@@ -3767,6 +11854,79 @@
     "source": "https://polyhaven.com/a/wood_table_worn"
   },
   {
+    "id": "wood_trunk_wall",
+    "name": "Wood Trunk Wall",
+    "category": "wood",
+    "tags": [
+      "tree trunk",
+      "wood",
+      "wall",
+      "trunk",
+      "logs",
+      "log cabin",
+      "brown",
+      "timber",
+      "lumber",
+      "forest",
+      "cabin"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "wood",
+      "man made"
+    ],
+    "dimensions_mm": [
+      1250,
+      1250
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wood_trunk_wall"
+  },
+  {
+    "id": "wooden_barrel",
+    "name": "Wooden Barrel",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "weathered",
+      "discolored",
+      "aged",
+      "metal hoops",
+      "barrel",
+      "wood",
+      "wood planks",
+      "timeworn",
+      "stained",
+      "wood grain",
+      "iron bands",
+      "scratched",
+      "nails"
+    ],
+    "polyhaven_categories": [
+      "man made",
+      "wood"
+    ],
+    "dimensions_mm": [
+      1289.9999618530273,
+      1289.9999618530273
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wooden_barrel"
+  },
+  {
     "id": "wooden_gate",
     "name": "Wooden Gate",
     "category": "wood",
@@ -3798,6 +11958,38 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/wooden_gate"
+  },
+  {
+    "id": "wooden_planks",
+    "name": "Wooden Planks",
+    "category": "wood",
+    "tags": [
+      "cracked",
+      "flat",
+      "even",
+      "wooden",
+      "wood",
+      "old",
+      "worn",
+      "dry"
+    ],
+    "polyhaven_categories": [
+      "wood",
+      "raw wood",
+      "outdoor"
+    ],
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/wooden_planks"
   },
   {
     "id": "wooden_rough_planks",
@@ -3835,5 +12027,39 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/wooden_rough_planks"
+  },
+  {
+    "id": "worn_planks",
+    "name": "Worn Planks",
+    "category": "wood",
+    "tags": [
+      "aged wood",
+      "distressed",
+      "wood",
+      "wooden planks",
+      "wooden",
+      "wooden flooring ",
+      "wooden floor",
+      "peeling",
+      "rustic",
+      "weathered",
+      "distressed wood",
+      "worn"
+    ],
+    "polyhaven_categories": [
+      "wood"
+    ],
+    "dimensions_mm": [
+      1400.0000953674316,
+      1400.0000953674316
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/worn_planks"
   }
 ]

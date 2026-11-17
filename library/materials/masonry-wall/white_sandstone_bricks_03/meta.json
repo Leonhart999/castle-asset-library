@@ -1,0 +1,30 @@
+{
+  "id": "white_sandstone_bricks_03",
+  "name": "White Sandstone Bricks 03",
+  "category": "masonry-wall",
+  "tags": [
+    "blocks",
+    "white",
+    "standstone",
+    "uneven"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "man made",
+    "outdoor",
+    "wall",
+    "clean"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_sandstone_bricks_03"
+}

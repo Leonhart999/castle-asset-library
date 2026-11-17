@@ -1,0 +1,39 @@
+{
+  "id": "worn_brick_path",
+  "name": "Worn Brick Path",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "brick",
+    "bricks",
+    "herringbone",
+    "herringbone pattern",
+    "worn",
+    "old",
+    "pathway",
+    "moss",
+    "mosscovered",
+    "mossy",
+    "grimy",
+    "outdoor flooring",
+    "eroded",
+    "plant debris"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "floor",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1949.9682188034058,
+    1949.9682188034058
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_brick_path"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cobblestone_floor_09",
+  "name": "Cobblestone Floor 09",
+  "category": "stone-floor",
+  "tags": [
+    "weathered",
+    "uneven",
+    "floor",
+    "cobblestone",
+    "cobblestones",
+    "stone pavement",
+    "gritty",
+    "stones",
+    "pavement",
+    "pavement patterned",
+    "pattern"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    2174.999952316284,
+    2174.999952316284
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_09"
+}

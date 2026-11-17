@@ -1,0 +1,38 @@
+{
+  "id": "stair_planks",
+  "name": "Stair Planks",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "wooden",
+    "wooden flooring ",
+    "wood",
+    "wooden planks",
+    "varnished",
+    "grain",
+    "wood grain",
+    "stairs",
+    "timber",
+    "weathered",
+    "scratched",
+    "plank",
+    "wooden floor",
+    "coated",
+    "flooring"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1200.0000476837158,
+    1200.0000476837158
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stair_planks"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "grey_roof_tiles_02",
+  "name": "Grey Roof Tiles 02",
+  "category": "roof",
+  "tags": [
+    "slates",
+    "moss",
+    "tiles",
+    "cottage",
+    "roofing material",
+    "lichen",
+    "housing material",
+    "gray",
+    "traditional roof tiles",
+    "tiled roofing",
+    "gray roof",
+    "storm clips "
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "outdoor",
+    "man made",
+    "clean"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grey_roof_tiles_02"
+}

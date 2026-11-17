@@ -1,0 +1,30 @@
+{
+  "id": "dark_paneled_wood",
+  "name": "Dark Paneled Wood",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "wood",
+    "painted wood",
+    "lacquered",
+    "paneling",
+    "wood panel ",
+    "inlaid",
+    "door"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1400.0000953674316,
+    1400.0000953674316
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_paneled_wood"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tree_bark_03",
+  "name": "Tree Bark 03",
+  "category": "wood",
+  "tags": [
+    "bark",
+    "moss",
+    "rough",
+    "old"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "natural",
+    "outdoor",
+    "bark"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/tree_bark_03"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "gravel_ground_01",
+  "name": "Gravel Ground 01",
+  "category": "ground",
+  "tags": [
+    "gravel",
+    "pathway",
+    "path",
+    "stones",
+    "ground",
+    "sidewalk",
+    "rural",
+    "farm"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/gravel_ground_01"
+}

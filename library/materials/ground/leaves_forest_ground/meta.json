@@ -1,0 +1,34 @@
+{
+  "id": "leaves_forest_ground",
+  "name": "Leaves Forest Ground",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "forest",
+    "leaves",
+    "twigs",
+    "yellow",
+    "green",
+    "sticks",
+    "autumn",
+    "nature",
+    "brown"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "terrain"
+  ],
+  "dimensions_mm": [
+    1259.9999904632568,
+    1260.0001096725464
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/leaves_forest_ground"
+}

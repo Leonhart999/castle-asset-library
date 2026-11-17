@@ -1,0 +1,40 @@
+{
+  "id": "mossy_sandstone",
+  "name": "Mossy Sandstone",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "weathered",
+    "uneven",
+    "old",
+    "worn",
+    "wall",
+    "mosscovered",
+    "mossy",
+    "mossy ",
+    "outdoor",
+    "rock",
+    "timeworn",
+    "weatherbeaten",
+    "fortress walls",
+    "moss",
+    "rocks"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "sandstone"
+  ],
+  "dimensions_mm": [
+    1889.9996280670166,
+    1889.9996280670166
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mossy_sandstone"
+}

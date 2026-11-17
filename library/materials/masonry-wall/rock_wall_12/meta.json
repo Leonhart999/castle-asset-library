@@ -1,0 +1,35 @@
+{
+  "id": "rock_wall_12",
+  "name": "Rock Wall 12",
+  "category": "masonry-wall",
+  "tags": [
+    "rock",
+    "wall",
+    "fortress walls",
+    "exterior",
+    "weatherbeaten",
+    "dungeon",
+    "stonework",
+    "concrete",
+    "stone wall",
+    "scratched",
+    "mortar"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1599.9999046325684,
+    1599.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_12"
+}

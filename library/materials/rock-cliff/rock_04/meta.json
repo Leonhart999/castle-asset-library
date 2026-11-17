@@ -1,0 +1,35 @@
+{
+  "id": "rock_04",
+  "name": "Rock 04",
+  "category": "rock-cliff",
+  "tags": [
+    "rough",
+    "uneven",
+    "stone",
+    "bumpy",
+    "rock",
+    "rock formation",
+    "weathered",
+    "dirty",
+    "coarse",
+    "mossy"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "outdoor",
+    "terrain",
+    "natural"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_04"
+}

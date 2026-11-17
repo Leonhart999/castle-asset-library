@@ -1,0 +1,36 @@
+{
+  "id": "brick_wall_07",
+  "name": "Brick Wall 07",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "old",
+    "brick",
+    "bricks",
+    "walling",
+    "coarse",
+    "outdoors",
+    "outdoor",
+    "wall",
+    "exterior",
+    "gritty",
+    "rough  "
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1700.0000476837158,
+    1700.0000476837158
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_wall_07"
+}

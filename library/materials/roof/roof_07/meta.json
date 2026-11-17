@@ -1,0 +1,40 @@
+{
+  "id": "roof_07",
+  "name": "Roof 07",
+  "category": "roof",
+  "tags": [
+    "ceramic",
+    "tiles",
+    "old",
+    "worn",
+    "damaged",
+    "discolored",
+    "roofing material",
+    "roof",
+    "roofing",
+    "tile roofing",
+    "clay tiles",
+    "weathered",
+    "mossy",
+    "rustic",
+    "overlapping tiles"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_07"
+}

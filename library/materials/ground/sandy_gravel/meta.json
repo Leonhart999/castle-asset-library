@@ -1,0 +1,35 @@
+{
+  "id": "sandy_gravel",
+  "name": "Sandy Gravel",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "weathered",
+    "stones",
+    "sand",
+    "sandy",
+    "gravel",
+    "gravelly ground",
+    "gravelly texture",
+    "gravelly",
+    "gritty",
+    "coarse"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "sand",
+    "gravel"
+  ],
+  "dimensions_mm": [
+    2099.99942779541,
+    2099.99942779541
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/sandy_gravel"
+}

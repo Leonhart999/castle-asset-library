@@ -1,0 +1,32 @@
+{
+  "id": "brown_planks_07",
+  "name": "Brown Planks 07",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "shed",
+    "house",
+    "suburb",
+    "untreated"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "outdoor",
+    "indoor",
+    "clean",
+    "wall",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_planks_07"
+}

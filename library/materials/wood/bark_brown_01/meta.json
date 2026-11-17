@@ -1,0 +1,32 @@
+{
+  "id": "bark_brown_01",
+  "name": "Bark Brown 01",
+  "category": "wood",
+  "tags": [
+    "bark",
+    "tree",
+    "forest",
+    "knots",
+    "bark grooves",
+    "tree bark",
+    "tree trunk"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "outdoor",
+    "natural",
+    "bark"
+  ],
+  "dimensions_mm": [
+    999.9990463256836,
+    999.998927116394
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/bark_brown_01"
+}

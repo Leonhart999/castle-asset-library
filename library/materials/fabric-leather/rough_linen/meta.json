@@ -1,0 +1,32 @@
+{
+  "id": "rough_linen",
+  "name": "Rough Linen",
+  "category": "fabric-leather",
+  "tags": [
+    "blue",
+    "fine",
+    "textile ",
+    "fabric",
+    "woven",
+    "linen",
+    "weave",
+    "crosshatch"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "cotton",
+    "hessian"
+  ],
+  "dimensions_mm": [
+    270.7081392676629,
+    271.29998803138733
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rough_linen"
+}

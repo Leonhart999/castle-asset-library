@@ -1,0 +1,38 @@
+{
+  "id": "patterned_brick_wall_02",
+  "name": "Patterned Brick Wall 02",
+  "category": "brick-wall",
+  "tags": [
+    "stones",
+    "wall",
+    "chipped",
+    "rocks",
+    "pattern",
+    "weathered",
+    "concrete",
+    "bricks",
+    "brick",
+    "plastered",
+    "plaster",
+    "consistent"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    2210.0000381469727,
+    2210.0000381469727
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_brick_wall_02"
+}

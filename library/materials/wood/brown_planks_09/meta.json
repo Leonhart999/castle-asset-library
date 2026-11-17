@@ -1,0 +1,42 @@
+{
+  "id": "brown_planks_09",
+  "name": "Brown Planks 09",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "planks",
+    "shed",
+    "deck",
+    "raw wood",
+    "nail holes",
+    "horizontal layout",
+    "weathered wood",
+    "knots",
+    "natural grain",
+    "grain",
+    "natural wood",
+    "natural wood grain",
+    "unsanded wood",
+    "rough wood"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "outdoor",
+    "indoor",
+    "clean",
+    "wall",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_planks_09"
+}

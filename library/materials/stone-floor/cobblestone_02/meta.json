@@ -1,0 +1,35 @@
+{
+  "id": "cobblestone_02",
+  "name": "Cobblestone 02",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "path",
+    "footpath",
+    "stones",
+    "pebbles",
+    "dirty",
+    "walkway",
+    "garden walkway",
+    "outdoors",
+    "dry"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "floor",
+    "outdoor",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_02"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wood_table",
+  "name": "Wood Table",
+  "category": "wood",
+  "tags": [
+    "pine",
+    "coated finish",
+    "coated wood",
+    "wood",
+    "planks",
+    "knots",
+    "wooden",
+    "wooden knots",
+    "pine wood",
+    "plank",
+    "wood grain",
+    "roughhewn",
+    "saw marks"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_table"
+}

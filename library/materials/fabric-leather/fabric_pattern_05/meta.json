@@ -1,0 +1,35 @@
+{
+  "id": "fabric_pattern_05",
+  "name": "Fabric Pattern 05",
+  "category": "fabric-leather",
+  "tags": [
+    "plain",
+    "cloth",
+    "towel",
+    "checker",
+    "checkered",
+    "plaid",
+    "grid pattern",
+    "windowpane plaid",
+    "upholstery",
+    "textile ",
+    "woven",
+    "drape"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "cotton"
+  ],
+  "dimensions_mm": [
+    500,
+    499.9999403953552
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/fabric_pattern_05"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "granite_wall",
+  "name": "Granite Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "granite",
+    "granite blocks",
+    "rough",
+    "coarse",
+    "uneven",
+    "wall",
+    "monument",
+    "fortress walls",
+    "stonework",
+    "architecture",
+    "ancient walls"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/granite_wall"
+}

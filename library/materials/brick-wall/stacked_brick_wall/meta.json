@@ -1,0 +1,36 @@
+{
+  "id": "stacked_brick_wall",
+  "name": "Stacked Brick Wall",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "weathered",
+    "uneven",
+    "old",
+    "coarse",
+    "brick",
+    "bricks",
+    "stacked bricks",
+    "aged",
+    "irregular pattern",
+    "stacked"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1731.5727472305298,
+    1731.5782308578491
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stacked_brick_wall"
+}

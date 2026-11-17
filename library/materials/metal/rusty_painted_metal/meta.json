@@ -1,0 +1,40 @@
+{
+  "id": "rusty_painted_metal",
+  "name": "Rusty Painted Metal",
+  "category": "metal",
+  "tags": [
+    "weathered",
+    "worn",
+    "discolored",
+    "rough",
+    "metal sheet",
+    "rusty",
+    "rust",
+    "rusted",
+    "steel sheeting",
+    "painted",
+    "corrosion",
+    "industrial",
+    "metal",
+    "corroded metal sheet",
+    "iron",
+    "cracking paint",
+    "corrugated iron"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "metal"
+  ],
+  "dimensions_mm": [
+    2200.000047683716,
+    2200.000047683716
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_painted_metal"
+}

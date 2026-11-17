@@ -1,0 +1,32 @@
+{
+  "id": "mud_forest",
+  "name": "Mud Forest",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "ground",
+    "dirty",
+    "leaves",
+    "mud",
+    "forest",
+    "sticks"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "floor",
+    "natural",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2349.9999046325684,
+    2349.9999046325684
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mud_forest"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "slate_floor_03",
+  "name": "Slate Floor 03",
+  "category": "stone-floor",
+  "tags": [
+    "slates",
+    "slate",
+    "floor",
+    "rustic architecture",
+    "vintage",
+    "stone floor",
+    "rustic",
+    "mosaic",
+    "stone",
+    "stone tile"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "indoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/slate_floor_03"
+}

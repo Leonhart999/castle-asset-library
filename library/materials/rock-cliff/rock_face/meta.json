@@ -1,0 +1,32 @@
+{
+  "id": "rock_face",
+  "name": "Rock Face",
+  "category": "rock-cliff",
+  "tags": [
+    "terrain",
+    "landscape",
+    "rock face",
+    "solid rock",
+    "cliff",
+    "solid"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "terrain",
+    "natural",
+    "rock",
+    "collection: namaqualand"
+  ],
+  "dimensions_mm": [
+    2380.000114440918,
+    2380.000114440918
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_face"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rock_wall_10",
+  "name": "Rock Wall 10",
+  "category": "masonry-wall",
+  "tags": [
+    "uneven",
+    "rock",
+    "rocks",
+    "wall",
+    "rocky",
+    "cracks",
+    "dirt",
+    "exterior",
+    "stone",
+    "hard",
+    "earthy",
+    "stone wall"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1799.9995946884155,
+    1799.9995946884155
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_10"
+}

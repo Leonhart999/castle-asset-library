@@ -1,0 +1,31 @@
+{
+  "id": "rock_surface",
+  "name": "Rock Surface",
+  "category": "rock-cliff",
+  "tags": [
+    "rough",
+    "weathered",
+    "discolored",
+    "dirty",
+    "stone",
+    "rock",
+    "boulder",
+    "coarse"
+  ],
+  "polyhaven_categories": [
+    "natural",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_surface"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "slumped_mortar_brick",
+  "name": "Slumped Mortar Brick",
+  "category": "masonry-wall",
+  "tags": [
+    "concrete",
+    "cement",
+    "plasterconcrete",
+    "mortar",
+    "brick",
+    "bricks",
+    "weathered",
+    "deteriorating",
+    "painted",
+    "rough",
+    "brick wall",
+    "dirty",
+    "slumped",
+    "loose mortar",
+    "cracking"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "brick",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    1769.9999809265137,
+    1769.9999809265137
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/slumped_mortar_brick"
+}

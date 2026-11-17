@@ -1,0 +1,32 @@
+{
+  "id": "rock_wall_14",
+  "name": "Rock Wall 14",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "rocks",
+    "rock",
+    "concrete",
+    "wall",
+    "embedded rock",
+    "stonework",
+    "coarse"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "rock",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_14"
+}

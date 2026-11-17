@@ -1,0 +1,31 @@
+{
+  "id": "red_brick",
+  "name": "Red Brick",
+  "category": "brick-wall",
+  "tags": [
+    "brick",
+    "bricks",
+    "wall",
+    "red brick",
+    "brick wall",
+    "rough",
+    "exterior"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1399.999976158142,
+    1399.999976158142
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_brick"
+}

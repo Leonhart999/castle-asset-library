@@ -1,0 +1,32 @@
+{
+  "id": "grass_ground",
+  "name": "Grass Ground",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "dry grass",
+    "dirt",
+    "root",
+    "dead grass",
+    "turf",
+    "dry"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2509.999990463257,
+    2509.999990463257
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grass_ground"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "medieval_red_brick",
+  "name": "Medieval Red Brick",
+  "category": "brick-wall",
+  "tags": [
+    "concrete",
+    "medieval",
+    "red",
+    "brick",
+    "bricks",
+    "red brick",
+    "walling",
+    "building material",
+    "structural",
+    "textured",
+    "fired brick"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_red_brick"
+}

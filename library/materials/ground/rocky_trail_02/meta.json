@@ -1,0 +1,47 @@
+{
+  "id": "rocky_trail_02",
+  "name": "Rocky Trail 02",
+  "category": "ground",
+  "tags": [
+    "stones",
+    "earthy",
+    "rugged",
+    "rough",
+    "terrain",
+    "gravelly",
+    "pathway",
+    "gritty",
+    "dusty",
+    "rocky",
+    "outdoors",
+    "dirt",
+    "rocks",
+    "ground",
+    "sand",
+    "gravel",
+    "footprints",
+    "dusty",
+    "dry",
+    "stony",
+    "rocky"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "dirty",
+    "sand",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rocky_trail_02"
+}

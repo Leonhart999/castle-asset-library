@@ -1,0 +1,30 @@
+{
+  "id": "rough_plasterbrick_05",
+  "name": "Rough Plasterbrick 05",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "grey",
+    "flat",
+    "even"
+  ],
+  "polyhaven_categories": [
+    "plaster-concrete",
+    "man made",
+    "wall",
+    "outdoor",
+    "floor"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rough_plasterbrick_05"
+}

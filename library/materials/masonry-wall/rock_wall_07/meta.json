@@ -1,0 +1,38 @@
+{
+  "id": "rock_wall_07",
+  "name": "Rock Wall 07",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "wall",
+    "worn",
+    "rock",
+    "concrete",
+    "exterior",
+    "stone",
+    "rocks",
+    "dungeon",
+    "castle",
+    "fortress walls"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "wall",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_07"
+}

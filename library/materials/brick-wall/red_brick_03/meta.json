@@ -1,0 +1,30 @@
+{
+  "id": "red_brick_03",
+  "name": "Red Brick 03",
+  "category": "brick-wall",
+  "tags": [
+    "red",
+    "industrial",
+    "factory",
+    "brown"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "clean",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_brick_03"
+}

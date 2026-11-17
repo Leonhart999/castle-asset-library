@@ -1,0 +1,41 @@
+{
+  "id": "cobblestone_04",
+  "name": "Cobblestone 04",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "concrete",
+    "uneven",
+    "weathered",
+    "exterior",
+    "cobblestone",
+    "paving",
+    "stonework",
+    "square",
+    "grid",
+    "weatherbeaten",
+    "coarse",
+    "rough  ",
+    "timeworn",
+    "stone blocks"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made",
+    "cobblestone",
+    "plaster-concrete",
+    "concrete"
+  ],
+  "dimensions_mm": [
+    2019.9999809265137,
+    2019.9999809265137
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_04"
+}

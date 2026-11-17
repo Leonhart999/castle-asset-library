@@ -1,0 +1,34 @@
+{
+  "id": "granite_tile",
+  "name": "Granite Tile",
+  "category": "fine-stone",
+  "tags": [
+    "granite",
+    "tiles",
+    "tiled",
+    "stone tile",
+    "granite tile",
+    "flooring",
+    "interior",
+    "home decor",
+    "square tiles",
+    "grid",
+    "decorative tiles"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2299.999952316284,
+    2299.999952316284
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/granite_tile"
+}

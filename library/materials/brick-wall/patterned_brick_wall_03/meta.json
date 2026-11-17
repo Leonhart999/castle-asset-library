@@ -1,0 +1,34 @@
+{
+  "id": "patterned_brick_wall_03",
+  "name": "Patterned Brick Wall 03",
+  "category": "brick-wall",
+  "tags": [
+    "rough",
+    "brick",
+    "bricks",
+    "patterned",
+    "interlocking bricks",
+    "building facade",
+    "urban",
+    "outdoor",
+    "pattern",
+    "brick design",
+    "decorative bricks"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_brick_wall_03"
+}

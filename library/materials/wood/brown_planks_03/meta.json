@@ -1,0 +1,34 @@
+{
+  "id": "brown_planks_03",
+  "name": "Brown Planks 03",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "untreated",
+    "boat",
+    "costal",
+    "dry",
+    "old",
+    "withered"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "man made",
+    "indoor",
+    "outdoor",
+    "clean",
+    "wall"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_planks_03"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wood_table_001",
+  "name": "Wood Table 001",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "table",
+    "varnished",
+    "clean",
+    "stained",
+    "red",
+    "furniture",
+    "fancy",
+    "fine",
+    "grain",
+    "vinyl"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "clean",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500.0001192092896
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_table_001"
+}
