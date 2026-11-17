@@ -26,16 +26,16 @@
     "size_m": [
       4,
       10.2,
-      2.91
+      3.3
     ],
-    "triangles": 204,
+    "triangles": 228,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_straight_crenellated.glb",
     "preview": "previews/wall_straight_crenellated.png",
-    "glb_bytes": 2289200
+    "glb_bytes": 2290884
   },
   {
     "id": "wall_straight_loophole",
@@ -45,16 +45,16 @@
     "size_m": [
       4,
       10.2,
-      2.91
+      3.3
     ],
-    "triangles": 439,
+    "triangles": 463,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_straight_loophole.glb",
     "preview": "previews/wall_straight_loophole.png",
-    "glb_bytes": 2301344
+    "glb_bytes": 2303024
   },
   {
     "id": "wall_corner",
@@ -121,16 +121,16 @@
     "size_m": [
       4,
       10.2,
-      2.91
+      3.3
     ],
-    "triangles": 839,
+    "triangles": 887,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_arch_round.glb",
     "preview": "previews/wall_arch_round.png",
-    "glb_bytes": 2322552
+    "glb_bytes": 2325916
   },
   {
     "id": "wall_arch_pointed",
@@ -140,16 +140,16 @@
     "size_m": [
       4,
       10.2,
-      2.91
+      3.3
     ],
-    "triangles": 802,
+    "triangles": 850,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_arch_pointed.glb",
     "preview": "previews/wall_arch_pointed.png",
-    "glb_bytes": 2320832
+    "glb_bytes": 2324192
   },
   {
     "id": "tower_round",
@@ -180,21 +180,22 @@
     "description": "Round tower, radius 3.5 m, with an eaves ring, bell-cast slate cone roof and finial. Same openings as tower_round plus a window under the roof.",
     "size_m": [
       9.41,
-      21.56,
+      21.6,
       9.41
     ],
-    "triangles": 3278,
+    "triangles": 3474,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks",
       "weathered_planks",
       "void",
       "rusty_metal_03",
-      "roof_slates_02"
+      "roof_slates_02",
+      "gilt"
     ],
     "file": "glb/tower_round_roofed.glb",
     "preview": "previews/tower_round_roofed.png",
-    "glb_bytes": 4606268
+    "glb_bytes": 4612644
   },
   {
     "id": "tower_square",
@@ -206,7 +207,7 @@
       14.7,
       7.12
     ],
-    "triangles": 3104,
+    "triangles": 3152,
     "materials": [
       "castle_wall_slates",
       "weathered_planks",
@@ -216,7 +217,7 @@
     ],
     "file": "glb/tower_square.glb",
     "preview": "previews/tower_square.png",
-    "glb_bytes": 3540624
+    "glb_bytes": 3543980
   },
   {
     "id": "gatehouse",
@@ -228,7 +229,7 @@
       13.2,
       7.62
     ],
-    "triangles": 3518,
+    "triangles": 3926,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -238,7 +239,7 @@
     ],
     "file": "glb/gatehouse.glb",
     "preview": "previews/gatehouse.png",
-    "glb_bytes": 3568084
+    "glb_bytes": 3596664
   },
   {
     "id": "gatehouse_closed",
@@ -250,7 +251,7 @@
       13.45,
       7.62
     ],
-    "triangles": 3582,
+    "triangles": 3990,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -260,6 +261,6 @@
     ],
     "file": "glb/gatehouse_closed.glb",
     "preview": "previews/gatehouse_closed.png",
-    "glb_bytes": 3571348
+    "glb_bytes": 3599912
   }
 ]

@@ -58,11 +58,21 @@ function battlementCorner(b, y = H) {
   merlon(b, t, DIM.merlonW, [z, y + p, -1]);
 }
 
+/** Stone drain spout through the outer parapet at x: a cantilevered block on a small corbel. */
+function waterSpout(b, x) {
+  const z = PARAPET_Z + DIM.parapetT / 2; // outer face of the parapet
+  b.add('dressed', G.block(0.26, 0.22, 0.6), [x, H - 0.02, z + 0.15]);
+  b.add('dressed', G.block(0.26, 0.3, 0.3), [x, H - 0.32, z]);
+}
+
 /** Coping slab, corbel table and (optionally) the parapets on top of a straight wall. */
 function wallTop(b, len, { battlement = true, innerParapet = true } = {}) {
   b.add('dressed', G.block(len, DIM.coping, T + DIM.slabOut), [0, BODY_H, DIM.slabOut / 2]);
   corbelRow(b, 'dressed', [-len / 2 + 0.5, T / 2], [1, 0], Math.round(len), 1, [0, 1], BODY_H);
-  if (battlement) battlementStraight(b, len);
+  if (battlement) {
+    battlementStraight(b, len);
+    waterSpout(b, 0); // sits in the gap between the two merlons
+  }
   if (innerParapet) b.add('stone', G.block(len, 0.9, 0.4), [0, H, -T / 2 + 0.2]);
 }
 
@@ -96,6 +106,8 @@ function archModule(id, name, description, o) {
       wallBody(b, len, { openings: [o], plinth: [[-len / 2, -o.w / 2 - 0.0], [o.w / 2, len / 2]] });
       b.add('dressed', archRing(o), [0, 0, T / 2]);
       b.add('dressed', archRing(o), [0, 0, -T / 2], Math.PI);
+      // keystones: start at the crown of the opening and stand 0.15 m proud of the wall on both faces
+      for (const s of [-1, 1]) b.add('dressed', G.block(0.45, 0.5, 0.3), [0, o.h, (s * T) / 2]);
       wallTop(b, len);
       return b.build(id);
     },

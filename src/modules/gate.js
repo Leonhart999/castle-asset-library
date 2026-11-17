@@ -6,7 +6,7 @@
 
 import * as THREE from 'three';
 import * as G from '../lib/geo.js';
-import { DIM, newBuilder, corbelRow, archRing, merlon, quoins } from '../lib/kit.js';
+import { DIM, newBuilder, corbelRow, archRing, merlon, quoins, slitFrame } from '../lib/kit.js';
 
 const W = 8;
 const D = 6;
@@ -40,6 +40,27 @@ function gateBody(b) {
   b.add('dressed', archRing(PASS, 0.4, 0.12), [0, 0, -D / 2], Math.PI);
   // quoins on the four corners, stopping below the corbel tables
   for (const sx of [-1, 1]) for (const sz of [-1, 1]) quoins(b, (sx * W) / 2, (sz * D) / 2, sx, sz, 1.1, BODY_H - 1.0);
+  // dressed frames around the upper windows: outer face first, then the courtyard face (rotated half a turn)
+  for (const x of [-2.6, 2.6]) {
+    slitFrame(b, x, 7.3, 0.9, 1.8, D / 2, { f: 0.2, proud: 0.08 });
+    b.push([0, 0, 0], Math.PI);
+    slitFrame(b, -x, 7.3, 0.9, 1.8, D / 2, { f: 0.2, proud: 0.08 });
+    b.pop();
+  }
+  // iron guide rails for the portcullis on both passage walls
+  for (const sx of [-1, 1]) b.add('iron', G.block(0.14, 2.4, 0.24), [sx * 1.73, 0, D / 2 - 1.2]);
+  machicolation(b);
+}
+
+/** Machicolation over the gate on the outer face: corbels, a floor with two drop slots and a closing wall. */
+function machicolation(b) {
+  const y = 8.6; // top of the corbels
+  corbelRow(b, 'dressed', [-1.5, D / 2], [1, 0], 5, 0.75, [0, 1], y, { size: 0.4, proj: 0.8 });
+  for (const [x0, x1] of [[-1.9, -0.75], [-0.45, 0.45], [0.75, 1.9]]) {
+    b.add('dressed', G.block(x1 - x0, 0.2, 0.9), [(x0 + x1) / 2, y, D / 2 + 0.45]);
+  }
+  b.add('stone', G.block(3.8, 1.0, 0.3), [0, y + 0.2, D / 2 + 0.75]);
+  for (const sx of [-1, 1]) b.add('stone', G.block(0.3, 1.0, 0.6), [sx * 1.75, y + 0.2, D / 2 + 0.3]);
 }
 
 /** Overhanging walkway on corbels (deeper on the outer face) with a merlon parapet all round. */

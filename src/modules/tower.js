@@ -53,7 +53,8 @@ function roundTop(b, roofed) {
     soffit.rotateX(Math.PI / 2);
     b.add('timber', G.boxUV(soffit), [0, H - 0.2, 0]);
     b.add('iron', G.cylinder(0.05, 0.08, 1.8, 6), [0, H + 7.0, 0]);
-    b.add('iron', new THREE.SphereGeometry(0.16, 12, 8), [0, H + 8.9, 0]);
+    b.add('gilt', new THREE.SphereGeometry(0.2, 16, 12), [0, H + 8.9, 0]);
+    b.add('iron', G.box(0.7, 0.3, 0.02), [0.4, H + 8.45, 0]); // small weather vane
     return;
   }
   // corbel ring under the overhanging walkway
@@ -126,6 +127,9 @@ function squareTower(b) {
   const plinth = G.block(S + 0.4, 1.0, S + 0.4);
   b.add('dressed', G.boxUV(G.carve(plinth, [G.openingCutter(DOOR, 1.5).applyMatrix4(fm('n'))])));
   b.add('dressed', archRing(DOOR_RING, 0.3, 0.12), [0, 0, -S / 2], Math.PI);
+  // string course (belt) below the wall-walk doorways; the x-face pieces stop short of the corners to avoid coplanar overlap
+  for (const z of [-1, 1]) b.add('dressed', G.block(S + 0.2, 0.25, 0.2), [0, 6.6, (z * S) / 2]);
+  for (const x of [-1, 1]) b.add('dressed', G.block(0.2, 0.25, S - 0.2), [(x * S) / 2, 6.6, 0]);
   // quoins on the four corners (stopping below the corbel tables) and iron straps across the courtyard door
   for (const sx of [-1, 1]) for (const sz of [-1, 1]) quoins(b, (sx * S) / 2, (sz * S) / 2, sx, sz, 1.1, BODY_H - 0.8);
   for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.05).translate(0, yy, -0.94).applyMatrix4(fm('n')));

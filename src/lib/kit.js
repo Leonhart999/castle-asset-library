@@ -33,6 +33,7 @@ export function makeMaterials() {
     iron: pbr('rusty_metal_03', { metalness: 1, color: 0x9a9a9a }),
     // double-sided: hip and cone roofs are thin shells that are also seen from below
     roof: pbr('roof_slates_02', { side: THREE.DoubleSide }),
+    gilt: new THREE.MeshStandardMaterial({ name: 'gilt', color: 0xb8923a, metalness: 1, roughness: 0.35 }),
     void: new THREE.MeshStandardMaterial({ name: 'void', color: 0x050505, roughness: 1 }),
   };
 }
