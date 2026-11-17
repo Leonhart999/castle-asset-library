@@ -181,6 +181,30 @@ async function main() {
 
   await texturesReady();
   show(params.get('module'));
+  // Axis views (?view=front|back|side|top) use a narrow field of view so elevations read like orthographic drawings.
+  // ?demo=1 replaces the gallery with an assembled run of castle (src/modules/demo.js) to check that modules join.
+  const AXES = { front: [0, 0.02, 1], back: [0, 0.02, -1], side: [1, 0.02, 0], top: [0, 1, 0.001] };
+  const demo = params.has('demo') ? (await import('../src/modules/demo.js')).buildDemo(M) : null;
+  if (demo) {
+    demo.traverse((o) => {
+      if (o.isMesh) {
+        o.castShadow = true;
+        o.receiveShadow = true;
+      }
+    });
+    scene.add(demo);
+    for (const e of entries) e.group.visible = false;
+  }
+  const axis = AXES[params.get('view')];
+  const focusEntry = entries.find((e) => e.def.id === params.get('module'));
+  const focus = demo ? new THREE.Box3().setFromObject(demo) : focusEntry ? focusEntry.box : galleryBox;
+  if (axis) {
+    camera.fov = 10;
+    camera.updateProjectionMatrix();
+    frame(focus, new THREE.Vector3(...axis));
+  } else if (demo) {
+    frame(focus, new THREE.Vector3(0.4, 0.9, 1.2));
+  }
   let frames = 0;
   renderer.setAnimationLoop(() => {
     controls.update();

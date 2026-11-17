@@ -12,3 +12,4 @@ Thumbs.db
 # Generated build output (rebuild with: npm run build:models)
 dist/
 library/models/glb/
+scratch/
