@@ -1,0 +1,31 @@
+{
+  "id": "rusty_metal_02",
+  "name": "Rusty Metal 02",
+  "category": "metal",
+  "tags": [
+    "rust",
+    "old",
+    "weathered",
+    "painted"
+  ],
+  "polyhaven_categories": [
+    "metal",
+    "man made",
+    "dirty",
+    "wall",
+    "indoor",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_metal_02"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "slate_floor_02",
+  "name": "Slate Floor 02",
+  "category": "stone-floor",
+  "tags": [
+    "old",
+    "weathered",
+    "worn",
+    "slates",
+    "slate",
+    "floor",
+    "vintage",
+    "rustic",
+    "rustic architecture",
+    "natural",
+    "traditional",
+    "stone floor"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "cobblestone",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/slate_floor_02"
+}

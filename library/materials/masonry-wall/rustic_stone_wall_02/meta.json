@@ -1,0 +1,45 @@
+{
+  "id": "rustic_stone_wall_02",
+  "name": "Rustic Stone Wall 02",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "wall",
+    "rock",
+    "old",
+    "worn",
+    "chipped",
+    "damaged",
+    "cracked",
+    "rocks",
+    "cracks",
+    "stone",
+    "rustic architecture",
+    "rugged",
+    "exterior",
+    "stonework",
+    "crumbling",
+    "timeworn",
+    "rustic"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "outdoor",
+    "wall",
+    "rock"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rustic_stone_wall_02"
+}

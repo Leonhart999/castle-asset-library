@@ -1,0 +1,34 @@
+{
+  "id": "dark_wood",
+  "name": "Dark Wood",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "wood",
+    "wooden",
+    "cabinet",
+    "mahogany",
+    "dark cherry",
+    "cherry wood",
+    "grain",
+    "hardwood",
+    "satin finish",
+    "smooth"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "indoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_wood"
+}

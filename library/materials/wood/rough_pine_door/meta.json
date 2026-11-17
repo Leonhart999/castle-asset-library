@@ -1,0 +1,39 @@
+{
+  "id": "rough_pine_door",
+  "name": "Rough Pine Door",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "weathered",
+    "weatherbeaten",
+    "outdoor",
+    "pine",
+    "pine wood",
+    "wood",
+    "roughhewn",
+    "barn door",
+    "rustic",
+    "aged",
+    "door",
+    "rough hewn",
+    "knots",
+    "wooden knots",
+    "saw marks"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rough_pine_door"
+}

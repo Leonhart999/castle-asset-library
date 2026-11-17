@@ -1,0 +1,33 @@
+{
+  "id": "cobblestone_large_01",
+  "name": "Cobblestone Large 01",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "farm",
+    "old",
+    "village",
+    "path",
+    "dry",
+    "mud"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "road",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    4000,
+    4000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_large_01"
+}

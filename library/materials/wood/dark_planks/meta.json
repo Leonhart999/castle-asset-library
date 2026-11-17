@@ -1,0 +1,35 @@
+{
+  "id": "dark_planks",
+  "name": "Dark Planks",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "cabin",
+    "shed",
+    "overlapping planks ",
+    "nail holes",
+    "weathered",
+    "distressed",
+    "knots",
+    "plank",
+    "wooden planks"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "outdoor",
+    "wall",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dark_planks"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "worn_plaster_wall",
+  "name": "Worn Plaster Wall",
+  "category": "plaster",
+  "tags": [
+    "uneven",
+    "rough",
+    "plaster",
+    "concrete",
+    "wall",
+    "crumbling",
+    "chipped",
+    "weathered",
+    "cracked",
+    "damaged",
+    "plasterconcrete",
+    "deteriorating"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "concrete",
+    "plaster-concrete",
+    "plaster"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_plaster_wall"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "stone_wall",
+  "name": "Stone Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "weathered",
+    "cracked",
+    "stones",
+    "worn",
+    "chipped",
+    "dry",
+    "rocks",
+    "rock",
+    "dirty"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "rock",
+    "wall"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_wall"
+}

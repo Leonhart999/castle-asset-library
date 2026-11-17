@@ -1,0 +1,32 @@
+{
+  "id": "clay_roof_tiles",
+  "name": "Clay Roof Tiles",
+  "category": "roof",
+  "tags": [
+    "weathered",
+    "rough",
+    "worn",
+    "uneven",
+    "discolored",
+    "clay",
+    "roof",
+    "roofing",
+    "tile roofing",
+    "exterior"
+  ],
+  "polyhaven_categories": [
+    "roofing"
+  ],
+  "dimensions_mm": [
+    4000,
+    4000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/clay_roof_tiles"
+}

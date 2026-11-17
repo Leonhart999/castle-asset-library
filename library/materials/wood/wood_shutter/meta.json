@@ -1,0 +1,40 @@
+{
+  "id": "wood_shutter",
+  "name": "Wood Shutter",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "rough",
+    "shutter",
+    "wood shutter",
+    "planks",
+    "wooden planks",
+    "wooden",
+    "plank",
+    "timber",
+    "cabin",
+    "antique",
+    "nails",
+    "lumber",
+    "saw marks",
+    "natural grain",
+    "grain",
+    "nail heads"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "raw wood"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_shutter"
+}

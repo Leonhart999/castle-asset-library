@@ -1,0 +1,37 @@
+{
+  "id": "rusty_metal_03",
+  "name": "Rusty Metal 03",
+  "category": "metal",
+  "tags": [
+    "rough",
+    "weathered",
+    "worn",
+    "old",
+    "metal",
+    "rusted",
+    "rusty",
+    "rust",
+    "metal sheet",
+    "corroded",
+    "corroded metal sheet",
+    "oxidized",
+    "corroded surface",
+    "oxidized metal"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "metal"
+  ],
+  "dimensions_mm": [
+    1350.0001430511475,
+    1350.0001430511475
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_metal_03"
+}

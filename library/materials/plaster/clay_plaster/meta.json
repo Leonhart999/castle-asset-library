@@ -1,0 +1,36 @@
+{
+  "id": "clay_plaster",
+  "name": "Clay Plaster",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "wall",
+    "plaster",
+    "plastered",
+    "cracked",
+    "exterior",
+    "cracks",
+    "scratched",
+    "uneven",
+    "clay",
+    "coarse"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "plaster-concrete",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/clay_plaster"
+}

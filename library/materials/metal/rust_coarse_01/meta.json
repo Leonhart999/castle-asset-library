@@ -1,0 +1,38 @@
+{
+  "id": "rust_coarse_01",
+  "name": "Rust Coarse 01",
+  "category": "metal",
+  "tags": [
+    "coarse",
+    "rusty",
+    "rust",
+    "red",
+    "stained",
+    "grunge",
+    "old",
+    "weathered",
+    "iron",
+    "metal",
+    "steel",
+    "rough"
+  ],
+  "polyhaven_categories": [
+    "metal",
+    "outdoor",
+    "man made",
+    "dirty",
+    "wall"
+  ],
+  "dimensions_mm": [
+    2199.9998092651367,
+    2200.000286102295
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rust_coarse_01"
+}

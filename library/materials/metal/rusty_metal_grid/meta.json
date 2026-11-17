@@ -1,0 +1,37 @@
+{
+  "id": "rusty_metal_grid",
+  "name": "Rusty Metal Grid",
+  "category": "metal",
+  "tags": [
+    "rusted",
+    "metal sheet",
+    "metal",
+    "painted",
+    "rusty",
+    "rust",
+    "corroded metal sheet",
+    "rusty metal",
+    "grunge",
+    "corrosion",
+    "scratched",
+    "steel sheeting",
+    "metal sheet ",
+    "corroded surface"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "metal"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rusty_metal_grid"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "old_stone_wall",
+  "name": "Old Stone Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "stone",
+    "wall",
+    "rock wall",
+    "stone wall",
+    "fortress walls",
+    "stonework",
+    "ancient walls",
+    "fort",
+    "masonry",
+    "rough surface",
+    "uneven",
+    "weathered",
+    "weathered stone"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/old_stone_wall"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "white_plaster_rough_01",
+  "name": "White Plaster Rough 01",
+  "category": "plaster",
+  "tags": [
+    "moss",
+    "smooth",
+    "flat",
+    "even",
+    "patches"
+  ],
+  "polyhaven_categories": [
+    "plaster-concrete",
+    "wall",
+    "floor",
+    "man made",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_plaster_rough_01"
+}

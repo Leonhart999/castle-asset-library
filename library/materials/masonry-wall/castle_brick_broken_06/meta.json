@@ -1,0 +1,33 @@
+{
+  "id": "castle_brick_broken_06",
+  "name": "Castle Brick Broken 06",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "uneven",
+    "cracked",
+    "loose",
+    "gaps",
+    "old",
+    "castle"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "outdoor",
+    "man made",
+    "indoor",
+    "wall"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/castle_brick_broken_06"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "medieval_wood",
+  "name": "Medieval Wood",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "weathered",
+    "old",
+    "uneven"
+  ],
+  "polyhaven_categories": [
+    "wood",
+    "wall",
+    "man made",
+    "outdoor",
+    "indoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/medieval_wood"
+}

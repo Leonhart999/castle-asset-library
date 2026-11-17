@@ -1,0 +1,33 @@
+{
+  "id": "wooden_gate",
+  "name": "Wooden Gate",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "wooden",
+    "wooden planks",
+    "gate",
+    "varnished",
+    "planks",
+    "grain",
+    "timber",
+    "plank",
+    "wood grain"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1899.9998569488525,
+    1899.9998569488525
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wooden_gate"
+}

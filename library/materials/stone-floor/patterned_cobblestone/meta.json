@@ -1,0 +1,38 @@
+{
+  "id": "patterned_cobblestone",
+  "name": "Patterned Cobblestone",
+  "category": "stone-floor",
+  "tags": [
+    "uneven",
+    "weathered",
+    "cobblestone",
+    "walkway",
+    "bricks",
+    "pattern",
+    "pavement",
+    "ground",
+    "pathway",
+    "driveway stones",
+    "pavement patterned",
+    "outdoor"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "outdoor",
+    "cobblestone",
+    "floor",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2499.999523162842,
+    2499.999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/patterned_cobblestone"
+}

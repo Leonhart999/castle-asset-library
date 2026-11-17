@@ -1,0 +1,34 @@
+{
+  "id": "wood_table_large",
+  "name": "Wood Table Large",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "damaged",
+    "weathered",
+    "wooden",
+    "wooden planks",
+    "furniture",
+    "table",
+    "rustic",
+    "varnished",
+    "coated",
+    "antique",
+    "rough hewn"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1550.0000715255737,
+    1550.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_table_large"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rock_pitted_mossy",
+  "name": "Rock Pitted Mossy",
+  "category": "ground",
+  "tags": [
+    "cracked",
+    "weathered",
+    "rock face",
+    "rock",
+    "boulder",
+    "red",
+    "discolored",
+    "eroded",
+    "moss",
+    "stone",
+    "uneven",
+    "rough",
+    "orange"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "rock",
+    "terrain",
+    "natural",
+    "sandstone"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_pitted_mossy"
+}

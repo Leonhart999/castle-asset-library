@@ -1,0 +1,39 @@
+{
+  "id": "thatch_roof_angled",
+  "name": "Thatch Roof Angled",
+  "category": "roof",
+  "tags": [
+    "rough",
+    "thatch",
+    "reed",
+    "roof",
+    "roofing",
+    "structure",
+    "structural",
+    "weathered",
+    "straw",
+    "grass",
+    "hut",
+    "medieval",
+    "village",
+    "house",
+    "hay"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "roofing"
+  ],
+  "dimensions_mm": [
+    539.9999618530273,
+    539.9999618530273
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/thatch_roof_angled"
+}

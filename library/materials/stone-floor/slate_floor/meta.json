@@ -1,0 +1,33 @@
+{
+  "id": "slate_floor",
+  "name": "Slate Floor",
+  "category": "stone-floor",
+  "tags": [
+    "slates",
+    "slate",
+    "shiny",
+    "coated",
+    "polished",
+    "reflective",
+    "stone",
+    "flooring",
+    "interior design",
+    "stone tile"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2289.9999618530273,
+    2290.0002002716064
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/slate_floor"
+}

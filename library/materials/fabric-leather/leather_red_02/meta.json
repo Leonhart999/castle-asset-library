@@ -1,0 +1,34 @@
+{
+  "id": "leather_red_02",
+  "name": "Leather Red 02",
+  "category": "fabric-leather",
+  "tags": [
+    "leather",
+    "even",
+    "smooth",
+    "new",
+    "creased",
+    "wrinkled",
+    "semi-gloss",
+    "upholstery",
+    "textile ",
+    "animal-hide"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "leather"
+  ],
+  "dimensions_mm": [
+    600.0000238418579,
+    600.0000238418579
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "diff_alt_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/leather_red_02"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "black_painted_planks",
+  "name": "Black Painted Planks",
+  "category": "wood",
+  "tags": [
+    "painted",
+    "painted wood",
+    "wood",
+    "wooden planks",
+    "weathered",
+    "scratched",
+    "worn",
+    "grain",
+    "wood grain",
+    "distressed wood",
+    "timber",
+    "plank"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1599.9999046325684,
+    1599.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/black_painted_planks"
+}

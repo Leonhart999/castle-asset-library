@@ -1,0 +1,37 @@
+{
+  "id": "quatrefoil_jacquard_fabric",
+  "name": "Quatrefoil Jacquard Fabric",
+  "category": "fabric-leather",
+  "tags": [
+    "red",
+    "patterned",
+    "floral",
+    "jacquard",
+    "quatrefoil pattern",
+    "red fabric",
+    "burgundy",
+    "material",
+    "fabric",
+    "woven",
+    "brocade",
+    "damask",
+    "matelasse",
+    "complex weave"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "jacquard"
+  ],
+  "dimensions_mm": [
+    280.11855714681565,
+    283.80000591278076
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/quatrefoil_jacquard_fabric"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "worn_brick_floor",
+  "name": "Worn Brick Floor",
+  "category": "stone-floor",
+  "tags": [
+    "old",
+    "weathered",
+    "weatherbeaten",
+    "brick",
+    "bricks",
+    "broken",
+    "cracked",
+    "crumbling",
+    "dilapidated",
+    "damaged",
+    "uneven",
+    "rough"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_brick_floor"
+}

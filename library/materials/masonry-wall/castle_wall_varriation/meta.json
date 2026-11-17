@@ -1,0 +1,31 @@
+{
+  "id": "castle_wall_varriation",
+  "name": "Castle Wall Variation",
+  "category": "masonry-wall",
+  "tags": [
+    "wall",
+    "rough",
+    "blocks",
+    "old",
+    "castle"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "wall",
+    "outdoor",
+    "clean",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/castle_wall_varriation"
+}

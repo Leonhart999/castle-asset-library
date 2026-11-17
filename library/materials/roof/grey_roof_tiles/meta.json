@@ -1,0 +1,36 @@
+{
+  "id": "grey_roof_tiles",
+  "name": "Grey Roof Tiles",
+  "category": "roof",
+  "tags": [
+    "grey",
+    "moss",
+    "damp",
+    "mosscovered",
+    "ceramic tiles",
+    "overlapping",
+    "weathered",
+    "overlapping tiles",
+    "roofing material",
+    "roof tiles",
+    "traditional roof tiles"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "outdoor",
+    "man made",
+    "clean"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grey_roof_tiles"
+}

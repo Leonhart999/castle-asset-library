@@ -1,0 +1,39 @@
+{
+  "id": "old_stone_wall_02",
+  "name": "Old Stone Wall 02",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "weathered",
+    "uneven",
+    "old",
+    "worn",
+    "wall",
+    "discolored",
+    "cracked",
+    "chipped",
+    "stone",
+    "rock",
+    "exterior",
+    "fortress walls",
+    "masonry",
+    "stone wall",
+    "rock wall"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2085.0000381469727,
+    2085.0000381469727
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/old_stone_wall_02"
+}

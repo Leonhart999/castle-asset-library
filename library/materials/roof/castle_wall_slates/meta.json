@@ -1,0 +1,33 @@
+{
+  "id": "castle_wall_slates",
+  "name": "Castle Wall Slates",
+  "category": "roof",
+  "tags": [
+    "wall",
+    "rough",
+    "blocks",
+    "stacked",
+    "old",
+    "castle",
+    "medieval"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "outdoor",
+    "wall",
+    "clean",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/castle_wall_slates"
+}

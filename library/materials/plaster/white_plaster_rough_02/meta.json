@@ -1,0 +1,36 @@
+{
+  "id": "white_plaster_rough_02",
+  "name": "White Plaster Rough 02",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "broken",
+    "cracked",
+    "moss",
+    "uneven",
+    "cement",
+    "damaged",
+    "old",
+    "sewer",
+    "tunnel"
+  ],
+  "polyhaven_categories": [
+    "plaster-concrete",
+    "wall",
+    "man made",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/white_plaster_rough_02"
+}

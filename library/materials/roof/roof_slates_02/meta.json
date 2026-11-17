@@ -1,0 +1,38 @@
+{
+  "id": "roof_slates_02",
+  "name": "Roof Slates 02",
+  "category": "roof",
+  "tags": [
+    "slates",
+    "uneven",
+    "old",
+    "tiles",
+    "weathered",
+    "discolored",
+    "slate roofing",
+    "slate",
+    "roofing material",
+    "roof",
+    "roofing",
+    "tile roofing",
+    "housing material",
+    "flat tiles"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "man made",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_slates_02"
+}

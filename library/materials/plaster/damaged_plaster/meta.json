@@ -1,0 +1,39 @@
+{
+  "id": "damaged_plaster",
+  "name": "Damaged Plaster",
+  "category": "plaster",
+  "tags": [
+    "brick",
+    "bricks",
+    "plaster",
+    "plasterconcrete",
+    "chipped",
+    "deteriorating",
+    "weathered",
+    "cracked",
+    "crumbling",
+    "plastering",
+    "cracking",
+    "exposed brick",
+    "damaged",
+    "old brick",
+    "worn down"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "brick",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    1850.0001430511475,
+    1850.0001430511475
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/damaged_plaster"
+}

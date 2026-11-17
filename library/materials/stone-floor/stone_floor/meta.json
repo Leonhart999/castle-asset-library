@@ -1,0 +1,39 @@
+{
+  "id": "stone_floor",
+  "name": "Stone Floor",
+  "category": "stone-floor",
+  "tags": [
+    "rough",
+    "old",
+    "uneven",
+    "worn",
+    "brown",
+    "dirty",
+    "dry",
+    "rock",
+    "floor",
+    "pathway",
+    "paving",
+    "stone",
+    "cobblestone"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "rock",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1849.9999046325684,
+    1849.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_floor"
+}

@@ -1,0 +1,70 @@
+{
+  "source": "Poly Haven (https://polyhaven.com), CC0",
+  "maps": ["diff", "nor", "arm"],
+  "categories": {
+    "masonry-wall": {
+      "res": "2k",
+      "ids": [
+        "castle_brick_01", "castle_brick_02_red", "castle_brick_02_white", "castle_brick_07",
+        "castle_brick_broken_06", "castle_wall_varriation", "church_bricks_02", "church_bricks_03",
+        "old_stone_wall", "old_stone_wall_02", "mossy_stone_wall", "stone_block_wall",
+        "stacked_stone_wall", "stone_wall", "stone_wall_02", "rustic_stone_wall",
+        "rustic_stone_wall_02", "large_sandstone_blocks", "white_sandstone_blocks_02",
+        "stone_brick_wall_001", "mossy_brick", "rock_wall", "rock_wall_02", "rock_wall_08", "rubble"
+      ]
+    },
+    "stone-floor": {
+      "res": "2k",
+      "ids": [
+        "mossy_cobblestone", "cobblestone_floor_01", "cobblestone_floor_04", "cobblestone_large_01",
+        "monastery_stone_floor", "stone_tiles", "slate_floor", "slate_floor_02", "worn_brick_floor",
+        "stone_floor", "patterned_cobblestone", "stone_pathway", "square_cobblestone", "mixed_stone_tiles"
+      ]
+    },
+    "plaster": {
+      "res": "2k",
+      "ids": [
+        "white_plaster_rough_01", "white_plaster_rough_02", "rough_plaster_brick", "plastered_stone_wall",
+        "worn_plaster_wall", "damaged_plaster", "plaster_stone_wall_01", "worn_mossy_plasterwall",
+        "clay_plaster", "yellow_plaster"
+      ]
+    },
+    "wood": {
+      "res": "2k",
+      "ids": [
+        "medieval_wood", "wood_planks", "oak_wood_planks", "weathered_planks", "dark_wood", "dark_planks",
+        "old_planks_02", "wooden_gate", "wood_shutter", "rough_pine_door", "beam_wall_01", "wood_table_worn",
+        "wood_table_large", "roof_planks", "weathered_brown_planks", "raw_plank_wall", "wooden_rough_planks",
+        "old_wood_floor", "wood_floor_worn", "black_painted_planks"
+      ]
+    },
+    "roof": {
+      "res": "2k",
+      "ids": [
+        "roof_slates_02", "roof_slates_03", "clay_roof_tiles", "clay_roof_tiles_02", "red_slate_roof_tiles_01",
+        "thatch_roof_angled", "reed_roof_03", "roof_tiles", "castle_wall_slates", "grey_roof_tiles"
+      ]
+    },
+    "metal": {
+      "res": "1k",
+      "ids": [
+        "rusty_metal", "rusty_metal_02", "rusty_metal_03", "rusty_metal_04", "rusty_metal_05",
+        "metal_plate", "metal_plate_02", "metal_grate_rusty", "rusty_metal_grid", "rust_coarse_01"
+      ]
+    },
+    "fabric-leather": {
+      "res": "1k",
+      "ids": [
+        "brown_leather", "leather_red_02", "fabric_leather_01", "dirty_carpet",
+        "quatrefoil_jacquard_fabric", "wool_boucle", "poly_wool_herringbone"
+      ]
+    },
+    "ground": {
+      "res": "1k",
+      "ids": [
+        "forrest_ground_01", "forest_ground_04", "rocky_trail", "brown_mud", "gravel_floor", "leafy_grass",
+        "sparse_grass", "dirt_floor", "cliff_side", "rock_pitted_mossy", "mossy_rock", "grass_path_2"
+      ]
+    }
+  }
+}

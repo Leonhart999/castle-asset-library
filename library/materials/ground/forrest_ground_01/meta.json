@@ -1,0 +1,37 @@
+{
+  "id": "forrest_ground_01",
+  "name": "Forest Ground 01",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "twigs",
+    "forest",
+    "leaves",
+    "sticks",
+    "foliage",
+    "dead grass",
+    "plant litter",
+    "underbrush",
+    "underbrush",
+    "organic",
+    "dry grass",
+    "dry leaves"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "outdoor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/forrest_ground_01"
+}

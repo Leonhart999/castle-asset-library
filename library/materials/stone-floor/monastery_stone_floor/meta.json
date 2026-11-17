@@ -1,0 +1,35 @@
+{
+  "id": "monastery_stone_floor",
+  "name": "Monastery Stone Floor",
+  "category": "stone-floor",
+  "tags": [
+    "rock",
+    "rocks",
+    "stone",
+    "floor",
+    "pathway",
+    "slates",
+    "slate",
+    "path",
+    "walkway",
+    "weathered"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "outdoor",
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/monastery_stone_floor"
+}

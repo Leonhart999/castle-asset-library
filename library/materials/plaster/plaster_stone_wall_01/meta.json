@@ -1,0 +1,38 @@
+{
+  "id": "plaster_stone_wall_01",
+  "name": "Plaster Stone Wall 01",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "uneven",
+    "wall",
+    "rocks",
+    "weathered",
+    "old",
+    "stone embedded",
+    "coarse",
+    "weatherbeaten",
+    "exterior",
+    "embedded rock",
+    "plaster",
+    "plasterconcrete",
+    "concrete"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "plaster",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    2299.999952316284,
+    2299.999952316284
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plaster_stone_wall_01"
+}

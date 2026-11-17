@@ -1,0 +1,32 @@
+{
+  "id": "oak_wood_planks",
+  "name": "Oak Wood Planks",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "planks",
+    "oak",
+    "wooden floor",
+    "wooden flooring ",
+    "wooden planks",
+    "varnished",
+    "timber",
+    "plank",
+    "coated"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1200.0000476837158,
+    1200.0000476837158
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/oak_wood_planks"
+}

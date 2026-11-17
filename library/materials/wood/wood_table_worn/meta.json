@@ -1,0 +1,38 @@
+{
+  "id": "wood_table_worn",
+  "name": "Wood Table Worn",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "planks",
+    "table",
+    "worn",
+    "old",
+    "damaged",
+    "discolored",
+    "stained",
+    "brown",
+    "dry",
+    "furniture",
+    "grain",
+    "scratched"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wood",
+    "dirty",
+    "raw wood"
+  ],
+  "dimensions_mm": [
+    549.9999523162842,
+    550.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_table_worn"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "metal_plate_02",
+  "name": "Metal Plate 02",
+  "category": "metal",
+  "tags": [
+    "worn",
+    "metal sheet",
+    "corroded metal sheet",
+    "metal sheet ",
+    "steel sheeting",
+    "rusted",
+    "rusty",
+    "iron",
+    "industrial",
+    "grunge",
+    "oxidized metal",
+    "steel",
+    "rust",
+    "metallic",
+    "sheet",
+    "metal",
+    "corroded"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "metal"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/metal_plate_02"
+}

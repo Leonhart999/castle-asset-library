@@ -1,0 +1,34 @@
+{
+  "id": "wool_boucle",
+  "name": "Wool Boucle",
+  "category": "fabric-leather",
+  "tags": [
+    "checker",
+    "blanket",
+    "boucle",
+    "wool",
+    "textile ",
+    "woven",
+    "upholstery",
+    "wool boucle",
+    "looped",
+    "looped fibers"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "wool",
+    "knitted"
+  ],
+  "dimensions_mm": [
+    314.78237097288206,
+    390.10000228881836
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wool_boucle"
+}

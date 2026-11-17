@@ -1,0 +1,34 @@
+{
+  "id": "large_sandstone_blocks",
+  "name": "Large Sandstone Blocks",
+  "category": "masonry-wall",
+  "tags": [
+    "grey",
+    "discolored",
+    "blocks",
+    "sandstone",
+    "wall",
+    "trimsheet",
+    "urban",
+    "stained"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor",
+    "sandstone",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000.000238418579
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/large_sandstone_blocks"
+}

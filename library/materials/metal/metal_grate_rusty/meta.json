@@ -1,0 +1,41 @@
+{
+  "id": "metal_grate_rusty",
+  "name": "Metal Grate Rusty",
+  "category": "metal",
+  "tags": [
+    "rusty",
+    "rust",
+    "metallic",
+    "grate",
+    "weathered",
+    "worn",
+    "old",
+    "manhole",
+    "pattern",
+    "pavement",
+    "iron",
+    "urban",
+    "city",
+    "steel",
+    "metal",
+    "rough",
+    "industrial"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "metal",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    500,
+    500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/metal_grate_rusty"
+}

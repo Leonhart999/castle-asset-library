@@ -1,0 +1,36 @@
+{
+  "id": "mossy_rock",
+  "name": "Mossy Rock",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "moss",
+    "rock face",
+    "cracked",
+    "lichen",
+    "striations",
+    "striated",
+    "mosscovered",
+    "mossy",
+    "uneven",
+    "rock"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "natural",
+    "outdoor",
+    "terrain"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mossy_rock"
+}

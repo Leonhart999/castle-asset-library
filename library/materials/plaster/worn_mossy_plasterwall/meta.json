@@ -1,0 +1,40 @@
+{
+  "id": "worn_mossy_plasterwall",
+  "name": "Worn Mossy Plasterwall",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "weathered",
+    "weatherbeaten",
+    "moss",
+    "aged",
+    "exterior",
+    "worn",
+    "discolored",
+    "old",
+    "chipped",
+    "wall",
+    "damaged",
+    "cracked",
+    "peeling",
+    "deteriorating"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor",
+    "plaster",
+    "plaster-concrete"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/worn_mossy_plasterwall"
+}

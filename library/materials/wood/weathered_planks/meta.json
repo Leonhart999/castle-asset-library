@@ -1,0 +1,41 @@
+{
+  "id": "weathered_planks",
+  "name": "Weathered Planks",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "wooden",
+    "bridge",
+    "planks",
+    "old",
+    "weathered",
+    "worn",
+    "damaged",
+    "discolored",
+    "chipped",
+    "stained",
+    "wall",
+    "brown",
+    "cracked",
+    "cabin"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wood",
+    "man made",
+    "wall",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/weathered_planks"
+}

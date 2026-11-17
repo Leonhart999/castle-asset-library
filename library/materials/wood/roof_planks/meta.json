@@ -1,0 +1,35 @@
+{
+  "id": "roof_planks",
+  "name": "Roof Planks",
+  "category": "wood",
+  "tags": [
+    "weathered",
+    "wood",
+    "wooden",
+    "wooden flooring ",
+    "wooden planks",
+    "wooden floor",
+    "planks",
+    "plank",
+    "varnished",
+    "pine",
+    "timber",
+    "beams",
+    "lumber"
+  ],
+  "polyhaven_categories": [
+    "wood"
+  ],
+  "dimensions_mm": [
+    1500.0001192092896,
+    1500.0001192092896
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_planks"
+}

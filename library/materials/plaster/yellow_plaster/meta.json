@@ -1,0 +1,35 @@
+{
+  "id": "yellow_plaster",
+  "name": "Yellow Plaster",
+  "category": "plaster",
+  "tags": [
+    "yellow",
+    "plastered",
+    "worn",
+    "scratched",
+    "smooth",
+    "concrete",
+    "cement",
+    "moss"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "plaster-concrete",
+    "man made",
+    "indoor",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/yellow_plaster"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "stone_block_wall",
+  "name": "Stone Block Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "stone",
+    "wall",
+    "stone blocks",
+    "ancient walls",
+    "fortress walls",
+    "stonework",
+    "stone wall",
+    "weathered",
+    "coarse",
+    "masonry"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2099.9999046325684,
+    2099.9999046325684
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_block_wall"
+}

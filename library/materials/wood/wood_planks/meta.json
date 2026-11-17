@@ -1,0 +1,41 @@
+{
+  "id": "wood_planks",
+  "name": "Wood Planks",
+  "category": "wood",
+  "tags": [
+    "rough",
+    "weathered",
+    "old",
+    "discolored",
+    "wood",
+    "floor",
+    "wooden planks",
+    "wooden flooring ",
+    "planks",
+    "plank",
+    "grain",
+    "aged",
+    "worn",
+    "scratched",
+    "wooden",
+    "timber"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "wood",
+    "raw wood",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1499.999761581421,
+    1499.999761581421
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_planks"
+}

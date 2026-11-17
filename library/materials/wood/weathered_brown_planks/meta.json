@@ -1,0 +1,40 @@
+{
+  "id": "weathered_brown_planks",
+  "name": "Weathered Brown Planks",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "planks",
+    "old",
+    "worn",
+    "brown",
+    "maroon",
+    "painted",
+    "chipped",
+    "damaged",
+    "dirty",
+    "aged",
+    "stained",
+    "discolored"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wood",
+    "dirty",
+    "wall",
+    "outdoor",
+    "floor"
+  ],
+  "dimensions_mm": [
+    1799.9999523162842,
+    1799.9999523162842
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/weathered_brown_planks"
+}

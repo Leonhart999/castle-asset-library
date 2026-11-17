@@ -1,0 +1,35 @@
+{
+  "id": "clay_roof_tiles_02",
+  "name": "Clay Roof Tiles 02",
+  "category": "roof",
+  "tags": [
+    "weathered",
+    "old",
+    "interlocking",
+    "roof",
+    "roofing",
+    "tile roofing",
+    "clay",
+    "clay tiles",
+    "traditional",
+    "traditional roofing ",
+    "overlapping tiles"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "roofing",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/clay_roof_tiles_02"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "stone_pathway",
+  "name": "Stone Pathway",
+  "category": "stone-floor",
+  "tags": [
+    "weathered",
+    "rock",
+    "pathway",
+    "path",
+    "uneven",
+    "rocks",
+    "discolored",
+    "dry",
+    "brown",
+    "chipped",
+    "worn",
+    "floor",
+    "walkway",
+    "slates",
+    "cracked",
+    "stones"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_pathway"
+}

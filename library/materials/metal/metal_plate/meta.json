@@ -1,0 +1,35 @@
+{
+  "id": "metal_plate",
+  "name": "Metal Plate",
+  "category": "metal",
+  "tags": [
+    "bare",
+    "painted",
+    "rusty",
+    "pattern",
+    "iron",
+    "factory",
+    "industrial",
+    "steel"
+  ],
+  "polyhaven_categories": [
+    "metal",
+    "floor",
+    "man made",
+    "indoor",
+    "outdoor",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    500,
+    500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/metal_plate"
+}

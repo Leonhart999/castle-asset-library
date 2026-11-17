@@ -1,0 +1,30 @@
+{
+  "id": "church_bricks_02",
+  "name": "Church Bricks 02",
+  "category": "masonry-wall",
+  "tags": [
+    "red",
+    "rough",
+    "old",
+    "city",
+    "factory",
+    "industrial"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "man made",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/church_bricks_02"
+}

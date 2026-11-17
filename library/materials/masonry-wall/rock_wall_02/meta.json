@@ -1,0 +1,37 @@
+{
+  "id": "rock_wall_02",
+  "name": "Rock Wall 02",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "rock face",
+    "bare",
+    "rock",
+    "uneven",
+    "rough  ",
+    "discolored",
+    "coastal landscape",
+    "weathered",
+    "eroded",
+    "weather-beaten",
+    "mossy patches"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "natural",
+    "terrain",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rock_wall_02"
+}

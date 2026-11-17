@@ -1,0 +1,30 @@
+{
+  "id": "cobblestone_floor_04",
+  "name": "Cobblestone Floor 04",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "moss",
+    "damp",
+    "wet"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor",
+    "dirty",
+    "man made",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_04"
+}

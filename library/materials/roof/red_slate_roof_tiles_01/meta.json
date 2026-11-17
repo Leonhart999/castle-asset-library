@@ -1,0 +1,38 @@
+{
+  "id": "red_slate_roof_tiles_01",
+  "name": "Red Slate Roof Tiles 01",
+  "category": "roof",
+  "tags": [
+    "old",
+    "slate",
+    "moss",
+    "roofing material",
+    "roof tiles",
+    "tiled roofing",
+    "overlapping",
+    "weathered",
+    "mosscovered",
+    "overlapping tiles",
+    "green",
+    "roof",
+    "roofing"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "outdoor",
+    "man made",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_slate_roof_tiles_01"
+}

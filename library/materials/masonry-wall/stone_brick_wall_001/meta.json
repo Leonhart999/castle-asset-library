@@ -1,0 +1,31 @@
+{
+  "id": "stone_brick_wall_001",
+  "name": "Stone Brick Wall 001",
+  "category": "masonry-wall",
+  "tags": [
+    "stones",
+    "bricks",
+    "blocks",
+    "castle",
+    "fort",
+    "dungeon",
+    "dark"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "brick"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_brick_wall_001"
+}

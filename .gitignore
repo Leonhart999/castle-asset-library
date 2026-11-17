@@ -1,0 +1,10 @@
+# Textures are re-downloadable with: node scripts/fetch-materials.mjs
+library/materials/**/*.jpg
+library/materials/**/*.jpeg
+library/materials/**/*.png
+
+# Misc
+node_modules/
+*.part
+.DS_Store
+Thumbs.db

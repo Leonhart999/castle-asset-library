@@ -1,0 +1,33 @@
+{
+  "id": "mixed_stone_tiles",
+  "name": "Mixed Stone Tiles",
+  "category": "stone-floor",
+  "tags": [
+    "tiles",
+    "floor",
+    "embedded pebble",
+    "stone embedded",
+    "tiled",
+    "square tiles",
+    "pebble finish ",
+    "mixed stone",
+    "speckled tiles ",
+    "speckled "
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mixed_stone_tiles"
+}

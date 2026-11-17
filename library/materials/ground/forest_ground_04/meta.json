@@ -1,0 +1,39 @@
+{
+  "id": "forest_ground_04",
+  "name": "Forest Ground 04",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "ground",
+    "forest",
+    "dry",
+    "brown",
+    "gravel",
+    "rock",
+    "debris",
+    "nature",
+    "dirt"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "rock",
+    "collection: pine_forest",
+    "collection: verdant_trail"
+  ],
+  "dimensions_mm": [
+    3150.0000953674316,
+    3150.0000953674316
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/forest_ground_04"
+}

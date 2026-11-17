@@ -1,0 +1,44 @@
+{
+  "id": "plastered_stone_wall",
+  "name": "Plastered Stone Wall",
+  "category": "plaster",
+  "tags": [
+    "rough",
+    "weathered",
+    "chipped",
+    "wall",
+    "damaged",
+    "cracked",
+    "discolored",
+    "worn",
+    "concrete",
+    "scratched",
+    "plaster",
+    "cement",
+    "rocks",
+    "cracked cement",
+    "scuffed",
+    "plastered",
+    "crumbling",
+    "stone",
+    "exterior"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "plaster-concrete",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/plastered_stone_wall"
+}

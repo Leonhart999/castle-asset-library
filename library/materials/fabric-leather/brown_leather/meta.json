@@ -1,0 +1,33 @@
+{
+  "id": "brown_leather",
+  "name": "Brown Leather",
+  "category": "fabric-leather",
+  "tags": [
+    "leather",
+    "brown",
+    "chair",
+    "seat",
+    "upholstery",
+    "vintage",
+    "matte",
+    "wrinkled",
+    "textile ",
+    "creased"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "leather"
+  ],
+  "dimensions_mm": [
+    400.0000059604645,
+    400.00003576278687
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_leather"
+}

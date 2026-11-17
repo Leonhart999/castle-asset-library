@@ -1,0 +1,34 @@
+{
+  "id": "mossy_cobblestone",
+  "name": "Mossy Cobblestone",
+  "category": "stone-floor",
+  "tags": [
+    "weathered",
+    "stone",
+    "earthy",
+    "moss",
+    "cobblestone",
+    "walkway",
+    "stonework",
+    "outdoor flooring",
+    "pathway"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "outdoor",
+    "man made",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mossy_cobblestone"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "brown_mud",
+  "name": "Brown Mud",
+  "category": "ground",
+  "tags": [
+    "mud",
+    "dirt",
+    "stones",
+    "dry",
+    "ground",
+    "soil",
+    "plant debris",
+    "granular",
+    "organic matter",
+    "earthy",
+    "twigs",
+    "earth"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "natural",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1299.996018409729,
+    1299.996018409729
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brown_mud"
+}

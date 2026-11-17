@@ -1,0 +1,37 @@
+{
+  "id": "rocky_trail",
+  "name": "Rocky Trail",
+  "category": "ground",
+  "tags": [
+    "rough",
+    "uneven",
+    "stones",
+    "rock",
+    "gravel",
+    "chipped",
+    "rocks",
+    "nature",
+    "path",
+    "broken",
+    "cliff"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "rock",
+    "collection: pine_forest"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/rocky_trail"
+}

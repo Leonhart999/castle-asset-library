@@ -1,0 +1,30 @@
+{
+  "id": "castle_brick_02_white",
+  "name": "Castle Brick 02 White",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "painted",
+    "uneven"
+  ],
+  "polyhaven_categories": [
+    "brick",
+    "outdoor",
+    "indoor",
+    "wall",
+    "dirty",
+    "man made"
+  ],
+  "dimensions_mm": [
+    2500,
+    2500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/castle_brick_02_white"
+}

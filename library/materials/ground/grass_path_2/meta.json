@@ -1,0 +1,32 @@
+{
+  "id": "grass_path_2",
+  "name": "Grass Path 2",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "pathway",
+    "path",
+    "ground",
+    "stones",
+    "sidewalk",
+    "rural",
+    "farm"
+  ],
+  "polyhaven_categories": [
+    "terrain",
+    "natural",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/grass_path_2"
+}

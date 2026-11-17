@@ -1,0 +1,39 @@
+{
+  "id": "wood_floor_worn",
+  "name": "Wood Floor Worn",
+  "category": "wood",
+  "tags": [
+    "old",
+    "weathered",
+    "rough",
+    "worn",
+    "discolored",
+    "flat",
+    "pine",
+    "wood",
+    "planks",
+    "wooden flooring ",
+    "wooden planks",
+    "aged",
+    "antique",
+    "timber",
+    "rustic"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "wood",
+    "man made"
+  ],
+  "dimensions_mm": [
+    1999.9996423721313,
+    1999.9996423721313
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/wood_floor_worn"
+}

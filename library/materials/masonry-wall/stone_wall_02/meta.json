@@ -1,0 +1,33 @@
+{
+  "id": "stone_wall_02",
+  "name": "Stone Wall 02",
+  "category": "masonry-wall",
+  "tags": [
+    "cracked",
+    "damaged",
+    "weathered",
+    "dirty",
+    "wall",
+    "brown",
+    "rough",
+    "chipped",
+    "old"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "rock"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_wall_02"
+}

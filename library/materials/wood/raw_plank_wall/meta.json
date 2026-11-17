@@ -1,0 +1,38 @@
+{
+  "id": "raw_plank_wall",
+  "name": "Raw Plank Wall",
+  "category": "wood",
+  "tags": [
+    "weathered",
+    "chipped",
+    "worn",
+    "scratched",
+    "wooden",
+    "discolored",
+    "damaged",
+    "wood",
+    "planks",
+    "cabin",
+    "grain",
+    "knotty pine",
+    "roughhewn"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "raw wood",
+    "wood"
+  ],
+  "dimensions_mm": [
+    1870.0001239776611,
+    1870.0001239776611
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/raw_plank_wall"
+}

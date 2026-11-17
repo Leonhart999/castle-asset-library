@@ -1,0 +1,38 @@
+{
+  "id": "sparse_grass",
+  "name": "Sparse Grass",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "nature",
+    "sparse",
+    "roots",
+    "root",
+    "vegetation",
+    "greenery",
+    "landscape",
+    "soil",
+    "environment",
+    "dirt",
+    "plants",
+    "ground",
+    "growth",
+    "flora"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "natural"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/sparse_grass"
+}

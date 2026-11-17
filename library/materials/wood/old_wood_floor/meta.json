@@ -1,0 +1,36 @@
+{
+  "id": "old_wood_floor",
+  "name": "Old Wood Floor",
+  "category": "wood",
+  "tags": [
+    "wood",
+    "wooden",
+    "deck",
+    "planks",
+    "old",
+    "uneven",
+    "weathered",
+    "worn",
+    "brown",
+    "floor"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "man made",
+    "floor",
+    "wood",
+    "dirty"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/old_wood_floor"
+}

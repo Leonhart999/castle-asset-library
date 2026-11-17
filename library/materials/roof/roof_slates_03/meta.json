@@ -1,0 +1,36 @@
+{
+  "id": "roof_slates_03",
+  "name": "Roof Slates 03",
+  "category": "roof",
+  "tags": [
+    "slates",
+    "even",
+    "tiles",
+    "slate",
+    "roof tiles",
+    "overlapping",
+    "roofing material",
+    "aged",
+    "durable roofing",
+    "slate roofing",
+    "traditional roof tiles"
+  ],
+  "polyhaven_categories": [
+    "roofing",
+    "man made",
+    "outdoor",
+    "clean"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/roof_slates_03"
+}

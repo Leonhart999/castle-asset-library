@@ -1,0 +1,35 @@
+{
+  "id": "mossy_brick",
+  "name": "Mossy Brick",
+  "category": "masonry-wall",
+  "tags": [
+    "brick",
+    "moss",
+    "mossy",
+    "mosscovered",
+    "outdoor",
+    "wall",
+    "green",
+    "weathered",
+    "outdoors",
+    "dark brick",
+    "weatherbeaten",
+    "dilapidated",
+    "growth"
+  ],
+  "polyhaven_categories": [
+    "brick"
+  ],
+  "dimensions_mm": [
+    1449.9999284744263,
+    1449.9999284744263
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/mossy_brick"
+}

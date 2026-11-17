@@ -1,0 +1,31 @@
+{
+  "id": "dirty_carpet",
+  "name": "Dirty Carpet",
+  "category": "fabric-leather",
+  "tags": [
+    "carpet",
+    "dirty",
+    "floor",
+    "textile ",
+    "rug",
+    "discolored",
+    "faded"
+  ],
+  "polyhaven_categories": [
+    "floor",
+    "fabric",
+    "carpet"
+  ],
+  "dimensions_mm": [
+    599.9999046325684,
+    599.9999046325684
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/dirty_carpet"
+}

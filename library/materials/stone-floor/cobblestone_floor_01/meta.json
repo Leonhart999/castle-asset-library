@@ -1,0 +1,30 @@
+{
+  "id": "cobblestone_floor_01",
+  "name": "Cobblestone Floor 01",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "mud",
+    "path",
+    "pavement"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "floor",
+    "man made",
+    "dirty",
+    "cobblestone"
+  ],
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/cobblestone_floor_01"
+}

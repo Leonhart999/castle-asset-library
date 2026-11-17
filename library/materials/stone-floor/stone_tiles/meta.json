@@ -1,0 +1,39 @@
+{
+  "id": "stone_tiles",
+  "name": "Stone Tiles",
+  "category": "stone-floor",
+  "tags": [
+    "tiles",
+    "stones",
+    "flat",
+    "rocks",
+    "shiny",
+    "reflective",
+    "uneven",
+    "rock",
+    "floor",
+    "smooth",
+    "wall",
+    "pavement",
+    "pathway"
+  ],
+  "polyhaven_categories": [
+    "man made",
+    "wall",
+    "floor",
+    "indoor",
+    "outdoor"
+  ],
+  "dimensions_mm": [
+    3170.0000762939453,
+    3169.999837875366
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/stone_tiles"
+}

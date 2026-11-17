@@ -1,0 +1,34 @@
+{
+  "id": "fabric_leather_01",
+  "name": "Fabric Leather 01",
+  "category": "fabric-leather",
+  "tags": [
+    "leather",
+    "couch",
+    "seat",
+    "chair",
+    "wrinkled",
+    "aged",
+    "vintage",
+    "textile ",
+    "creased",
+    "stitched",
+    "upholstery"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "leather"
+  ],
+  "dimensions_mm": [
+    400.0000059604645,
+    400.00003576278687
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/fabric_leather_01"
+}

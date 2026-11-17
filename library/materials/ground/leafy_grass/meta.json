@@ -1,0 +1,34 @@
+{
+  "id": "leafy_grass",
+  "name": "Leafy Grass",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "green",
+    "nature",
+    "ground",
+    "foliage",
+    "leaves",
+    "plants",
+    "outdoors",
+    "twigs",
+    "sticks",
+    "trampled"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "floor"
+  ],
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/leafy_grass"
+}

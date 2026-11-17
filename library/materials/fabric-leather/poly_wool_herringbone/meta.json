@@ -1,0 +1,31 @@
+{
+  "id": "poly_wool_herringbone",
+  "name": "Poly Wool Herringbone",
+  "category": "fabric-leather",
+  "tags": [
+    "grey",
+    "rough",
+    "textile ",
+    "poly wool",
+    "fabric blend",
+    "polyester",
+    "wool",
+    "woven"
+  ],
+  "polyhaven_categories": [
+    "fabric",
+    "wool"
+  ],
+  "dimensions_mm": [
+    270.0788548673393,
+    275.70000290870667
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/poly_wool_herringbone"
+}
