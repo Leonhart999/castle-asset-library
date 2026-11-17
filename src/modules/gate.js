@@ -6,7 +6,7 @@
 
 import * as THREE from 'three';
 import * as G from '../lib/geo.js';
-import { DIM, newBuilder, corbelRow, archRing } from '../lib/kit.js';
+import { DIM, newBuilder, corbelRow, archRing, merlon, quoins } from '../lib/kit.js';
 
 const W = 8;
 const D = 6;
@@ -38,6 +38,8 @@ function gateBody(b) {
   // dressed arch rings on both faces
   b.add('dressed', archRing(PASS, 0.4, 0.12), [0, 0, D / 2]);
   b.add('dressed', archRing(PASS, 0.4, 0.12), [0, 0, -D / 2], Math.PI);
+  // quoins on the four corners, stopping below the corbel tables
+  for (const sx of [-1, 1]) for (const sz of [-1, 1]) quoins(b, (sx * W) / 2, (sz * D) / 2, sx, sz, 1.1, BODY_H - 1.0);
 }
 
 /** Overhanging walkway on corbels (deeper on the outer face) with a merlon parapet all round. */
@@ -55,10 +57,10 @@ function gateTop(b) {
   b.add('stone', G.block(0.6, ph, 6.3), [-4.2, H, 0.25]);
   const y = H + ph;
   for (const x of [-3.9, -1.95, 0, 1.95, 3.9]) {
-    for (const z of [3.7, -3.2]) b.add('stone', G.block(DIM.merlonW, DIM.merlonH, 0.6), [x, y, z]);
+    for (const z of [3.7, -3.2]) merlon(b, DIM.merlonW, 0.6, [x, y, z]);
   }
   for (const z of [-1.625, 0.25, 2.125]) {
-    for (const x of [-4.2, 4.2]) b.add('stone', G.block(0.6, DIM.merlonH, DIM.merlonW), [x, y, z]);
+    for (const x of [-4.2, 4.2]) merlon(b, 0.6, DIM.merlonW, [x, y, z]);
   }
 }
 

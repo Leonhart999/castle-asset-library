@@ -7,7 +7,7 @@
 
 import * as THREE from 'three';
 import * as G from '../lib/geo.js';
-import { DIM, newBuilder, corbelRow, archRing } from '../lib/kit.js';
+import { DIM, newBuilder, corbelRow, archRing, merlon, quoins } from '../lib/kit.js';
 
 const R = 3.5; // round tower radius
 const S = 6; // square tower side
@@ -79,7 +79,7 @@ function roundTop(b, roofed) {
   for (let i = 0; i < count; i++) {
     const a = (i / count) * Math.PI * 2;
     b.push([Math.cos(a) * rm, H + ph, Math.sin(a) * rm], A - a);
-    b.add('stone', G.block(DIM.merlonW, DIM.merlonH, 0.6));
+    merlon(b, DIM.merlonW, 0.6, [0, 0, 0]);
     b.pop();
   }
 }
@@ -98,6 +98,9 @@ function roundTower(b, roofed) {
   ];
   roundBody(b, openings);
   b.add('dressed', archRing(DOOR_RING, 0.3, 0.35), [0, 0, -(R - 0.3)], Math.PI);
+  // string course between the loops and iron straps across the courtyard door
+  b.add('dressed', G.cylinder(R + 0.08, R + 0.08, 0.25, 40, { y0: 7.0 }));
+  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.05).translate(0, yy, -0.94).applyMatrix4(cylMatrix(-A)));
   roundTop(b, roofed);
 }
 
@@ -123,6 +126,9 @@ function squareTower(b) {
   const plinth = G.block(S + 0.4, 1.0, S + 0.4);
   b.add('dressed', G.boxUV(G.carve(plinth, [G.openingCutter(DOOR, 1.5).applyMatrix4(fm('n'))])));
   b.add('dressed', archRing(DOOR_RING, 0.3, 0.12), [0, 0, -S / 2], Math.PI);
+  // quoins on the four corners (stopping below the corbel tables) and iron straps across the courtyard door
+  for (const sx of [-1, 1]) for (const sz of [-1, 1]) quoins(b, (sx * S) / 2, (sz * S) / 2, sx, sz, 1.1, BODY_H - 0.8);
+  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.05).translate(0, yy, -0.94).applyMatrix4(fm('n')));
 
   // coping slab, corbel tables on all four sides, parapet with merlons
   b.add('dressed', G.block(S + 1, DIM.coping, S + 1), [0, BODY_H, 0]);
@@ -137,10 +143,10 @@ function squareTower(b) {
   b.add('stone', G.block(0.6, ph, 5.8), [-3.2, H, 0]);
   const y = H + ph;
   for (const x of [-2.9, -0.967, 0.967, 2.9]) {
-    for (const z of [-3.2, 3.2]) b.add('stone', G.block(DIM.merlonW, DIM.merlonH, 0.6), [x, y, z]);
+    for (const z of [-3.2, 3.2]) merlon(b, DIM.merlonW, 0.6, [x, y, z]);
   }
   for (const z of [-1.75, 0, 1.75]) {
-    for (const x of [-3.2, 3.2]) b.add('stone', G.block(0.6, DIM.merlonH, DIM.merlonW), [x, y, z]);
+    for (const x of [-3.2, 3.2]) merlon(b, 0.6, DIM.merlonW, [x, y, z]);
   }
 }
 

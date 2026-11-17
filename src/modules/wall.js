@@ -6,7 +6,7 @@
 
 import * as THREE from 'three';
 import * as G from '../lib/geo.js';
-import { DIM, newBuilder, prismXZ, corbelRow, archRing } from '../lib/kit.js';
+import { DIM, newBuilder, prismXZ, corbelRow, archRing, merlon, quoins, slitFrame, batteredPlinth, cornerPlinth } from '../lib/kit.js';
 
 const H = DIM.wallH;
 const T = DIM.wallT;
@@ -32,7 +32,8 @@ function wallBody(b, len, { openings = [], slits = [], plinth = [[-len / 2, len 
     cutters.push(splay.applyMatrix4(G.faceMatrix('n', len, T)));
   }
   b.add('stone', G.boxUV(G.carve(box, cutters)));
-  for (const [x0, x1] of plinth) b.add('dressed', G.block(x1 - x0, 1.0, T + 0.4), [(x0 + x1) / 2, 0, 0]);
+  for (const [x0, x1] of plinth) b.add('dressed', batteredPlinth(x0, x1, T));
+  for (const s of slits) slitFrame(b, s.x, s.y, 0.16, 1.5, T / 2);
 }
 
 /** Parapet with merlons on the outer edge; one merlon per 2 m cell. */
@@ -40,7 +41,7 @@ function battlementStraight(b, len, y = H) {
   const t = DIM.parapetT;
   b.add('stone', G.block(len, DIM.parapetH, t), [0, y, PARAPET_Z]);
   for (let i = 0; i < len / 2; i++) {
-    b.add('stone', G.block(DIM.merlonW, DIM.merlonH, t), [-len / 2 + 1 + i * 2, y + DIM.parapetH, PARAPET_Z]);
+    merlon(b, DIM.merlonW, t, [-len / 2 + 1 + i * 2, y + DIM.parapetH, PARAPET_Z]);
   }
 }
 
@@ -48,14 +49,13 @@ function battlementStraight(b, len, y = H) {
 function battlementCorner(b, y = H) {
   const t = DIM.parapetT;
   const p = DIM.parapetH;
-  const m = DIM.merlonH;
   const z = PARAPET_Z;
   b.add('stone', G.block(3.5, p, t), [-0.25, y, z]);
   b.add('stone', G.block(t, p, 2.9), [z, y, -0.55]);
-  b.add('stone', G.block(DIM.merlonW, m, t), [-1, y + p, z]);
-  b.add('stone', G.block(1.1, m, t), [0.95, y + p, z]);
-  b.add('stone', G.block(t, m, 0.5), [z, y + p, 0.65]);
-  b.add('stone', G.block(t, m, DIM.merlonW), [z, y + p, -1]);
+  merlon(b, DIM.merlonW, t, [-1, y + p, z]);
+  merlon(b, 1.1, t, [0.95, y + p, z]);
+  merlon(b, t, 0.5, [z, y + p, 0.65], 0, 0.002); // its cap overlaps the neighbour's cap, so it sits 2 mm higher
+  merlon(b, t, DIM.merlonW, [z, y + p, -1]);
 }
 
 /** Coping slab, corbel table and (optionally) the parapets on top of a straight wall. */
@@ -68,7 +68,8 @@ function wallTop(b, len, { battlement = true, innerParapet = true } = {}) {
 
 function cornerModule(b, { battlement = true } = {}) {
   b.add('stone', prismXZ([[-2, -1], [-1, -1], [-1, -2], [1, -2], [1, 1], [-2, 1]], 0, BODY_H));
-  b.add('dressed', prismXZ([[-2, -1.2], [-1.2, -1.2], [-1.2, -2], [1.2, -2], [1.2, 1.2], [-2, 1.2]], 0, 1.0));
+  for (const g of cornerPlinth()) b.add('dressed', g);
+  quoins(b, 1, 1, 1, 1, 1.1, 6.9);
   b.add('dressed', prismXZ([[-2, -1], [-1, -1], [-1, -2], [1.5, -2], [1.5, 1.5], [-2, 1.5]], BODY_H, H));
   corbelRow(b, 'dressed', [-1.5, T / 2], [1, 0], 3, 1, [0, 1], BODY_H);
   corbelRow(b, 'dressed', [T / 2, -1.5], [0, 1], 3, 1, [1, 0], BODY_H);

@@ -7,7 +7,7 @@
     "size_m": [
       4,
       8,
-      2.7
+      2.85
     ],
     "triangles": 132,
     "materials": [
@@ -16,7 +16,7 @@
     ],
     "file": "glb/wall_straight.glb",
     "preview": "previews/wall_straight.png",
-    "glb_bytes": 2284040
+    "glb_bytes": 2284064
   },
   {
     "id": "wall_straight_crenellated",
@@ -26,16 +26,16 @@
     "size_m": [
       4,
       10.2,
-      2.7
+      2.91
     ],
-    "triangles": 180,
+    "triangles": 204,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_straight_crenellated.glb",
     "preview": "previews/wall_straight_crenellated.png",
-    "glb_bytes": 2287464
+    "glb_bytes": 2289200
   },
   {
     "id": "wall_straight_loophole",
@@ -45,16 +45,16 @@
     "size_m": [
       4,
       10.2,
-      2.7
+      2.91
     ],
-    "triangles": 367,
+    "triangles": 439,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_straight_loophole.glb",
     "preview": "previews/wall_straight_loophole.png",
-    "glb_bytes": 2296264
+    "glb_bytes": 2301344
   },
   {
     "id": "wall_corner",
@@ -66,14 +66,14 @@
       10.2,
       3.67
     ],
-    "triangles": 324,
+    "triangles": 500,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_corner.glb",
     "preview": "previews/wall_corner.png",
-    "glb_bytes": 2297140
+    "glb_bytes": 2309520
   },
   {
     "id": "battlement_straight",
@@ -83,15 +83,16 @@
     "size_m": [
       4,
       2.2,
-      0.6
+      0.72
     ],
-    "triangles": 36,
+    "triangles": 60,
     "materials": [
-      "castle_wall_slates"
+      "castle_wall_slates",
+      "large_sandstone_blocks"
     ],
     "file": "glb/battlement_straight.glb",
     "preview": "previews/battlement_straight.png",
-    "glb_bytes": 1510440
+    "glb_bytes": 2279188
   },
   {
     "id": "battlement_corner",
@@ -99,17 +100,18 @@
     "category": "battlement",
     "description": "L-shaped parapet with a corner merlon, positioned for wall_corner. Place it at y = 8.",
     "size_m": [
-      3.5,
+      3.56,
       2.2,
-      3.5
+      3.56
     ],
-    "triangles": 72,
+    "triangles": 120,
     "materials": [
-      "castle_wall_slates"
+      "castle_wall_slates",
+      "large_sandstone_blocks"
     ],
     "file": "glb/battlement_corner.glb",
     "preview": "previews/battlement_corner.png",
-    "glb_bytes": 1512956
+    "glb_bytes": 2283380
   },
   {
     "id": "wall_arch_round",
@@ -119,16 +121,16 @@
     "size_m": [
       4,
       10.2,
-      2.7
+      2.91
     ],
-    "triangles": 815,
+    "triangles": 839,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_arch_round.glb",
     "preview": "previews/wall_arch_round.png",
-    "glb_bytes": 2320828
+    "glb_bytes": 2322552
   },
   {
     "id": "wall_arch_pointed",
@@ -138,16 +140,16 @@
     "size_m": [
       4,
       10.2,
-      2.7
+      2.91
     ],
-    "triangles": 778,
+    "triangles": 802,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks"
     ],
     "file": "glb/wall_arch_pointed.glb",
     "preview": "previews/wall_arch_pointed.png",
-    "glb_bytes": 2319108
+    "glb_bytes": 2320832
   },
   {
     "id": "tower_round",
@@ -159,16 +161,17 @@
       14.7,
       8.15
     ],
-    "triangles": 2685,
+    "triangles": 3013,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks",
       "weathered_planks",
-      "void"
+      "void",
+      "rusty_metal_03"
     ],
     "file": "glb/tower_round.glb",
     "preview": "previews/tower_round.png",
-    "glb_bytes": 2940036
+    "glb_bytes": 3497872
   },
   {
     "id": "tower_round_roofed",
@@ -180,18 +183,18 @@
       21.56,
       9.41
     ],
-    "triangles": 3094,
+    "triangles": 3278,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks",
       "weathered_planks",
       "void",
-      "roof_slates_02",
-      "rusty_metal_03"
+      "rusty_metal_03",
+      "roof_slates_02"
     ],
     "file": "glb/tower_round_roofed.glb",
     "preview": "previews/tower_round_roofed.png",
-    "glb_bytes": 4598408
+    "glb_bytes": 4606268
   },
   {
     "id": "tower_square",
@@ -199,20 +202,21 @@
     "category": "tower",
     "description": "Square tower 6 x 6 m, walkway at 12 m with corbels on all sides and a merlon parapet. Courtyard door on -Z, wall-walk doors on +-X. Wall modules centred at x = +-5 join it.",
     "size_m": [
-      7,
+      7.12,
       14.7,
-      7
+      7.12
     ],
-    "triangles": 2000,
+    "triangles": 3104,
     "materials": [
       "castle_wall_slates",
       "weathered_planks",
       "void",
-      "large_sandstone_blocks"
+      "large_sandstone_blocks",
+      "rusty_metal_03"
     ],
     "file": "glb/tower_square.glb",
     "preview": "previews/tower_square.png",
-    "glb_bytes": 2923412
+    "glb_bytes": 3540624
   },
   {
     "id": "gatehouse",
@@ -220,11 +224,11 @@
     "category": "gate",
     "description": "Gatehouse 8 x 6 m, 11 m to the walkway, pointed passage 3.6 x 5.4 m through the body. Portcullis half raised, timber doors swung back, corbelled battlement, murder hole above the gate.",
     "size_m": [
-      9,
+      9.12,
       13.2,
-      7.5
+      7.62
     ],
-    "triangles": 2510,
+    "triangles": 3518,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -234,7 +238,7 @@
     ],
     "file": "glb/gatehouse.glb",
     "preview": "previews/gatehouse.png",
-    "glb_bytes": 3497448
+    "glb_bytes": 3568084
   },
   {
     "id": "gatehouse_closed",
@@ -242,11 +246,11 @@
     "category": "gate",
     "description": "Same gatehouse with the portcullis lowered and the timber doors shut.",
     "size_m": [
-      9,
+      9.12,
       13.45,
-      7.5
+      7.62
     ],
-    "triangles": 2574,
+    "triangles": 3582,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -256,6 +260,6 @@
     ],
     "file": "glb/gatehouse_closed.glb",
     "preview": "previews/gatehouse_closed.png",
-    "glb_bytes": 3500712
+    "glb_bytes": 3571348
   }
 ]
