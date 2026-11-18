@@ -35,6 +35,18 @@ export function makeMaterials() {
     roof: pbr('roof_slates_02', { side: THREE.DoubleSide }),
     gilt: new THREE.MeshStandardMaterial({ name: 'gilt', color: 0xb8923a, metalness: 1, roughness: 0.35 }),
     void: new THREE.MeshStandardMaterial({ name: 'void', color: 0x050505, roughness: 1 }),
+    // Prop materials (all texture-backed entries trace back to library/materials/<cat>/<id>)
+    oak: pbr('oak_wood_planks', { tile: 1.2, color: 0xdecbb0 }),
+    darkWood: pbr('dark_wood', { tile: 1.4, color: 0xb8a898 }),
+    barrel: pbr('wooden_barrel', { tile: 1.1 }),
+    steel: pbr('metal_plate', { tile: 0.5, metalness: 1, roughness: 0.42, color: 0xd8dce0 }),
+    leather: pbr('brown_leather', { tile: 0.4 }),
+    fabric: pbr('quatrefoil_jacquard_fabric', { name: 'crimson_fabric', tile: 0.32, color: 0x8c2222 }),
+    linen: pbr('rough_linen', { tile: 0.35, color: 0xe6decb }),
+    straw: pbr('thatch_roof_angled', { tile: 0.8, color: 0xdcc89a }),
+    wax: new THREE.MeshStandardMaterial({ name: 'wax', color: 0xede0bd, roughness: 0.52 }),
+    flame: new THREE.MeshStandardMaterial({ name: 'flame', color: 0xffb840, emissive: 0xff6b12, emissiveIntensity: 2.6, roughness: 0.35 }),
+    ember: new THREE.MeshStandardMaterial({ name: 'ember', color: 0x3b1808, emissive: 0xd9440a, emissiveIntensity: 1.8, roughness: 0.85 }),
   };
 }
 
@@ -149,4 +161,36 @@ export function cornerPlinth(h = 1.0, d0 = 0.35, d1 = 0.15) {
   top.rotateX(-Math.PI / 2);
   top.translate(0, h, 0);
   return [G.boxUV(skirt), G.boxUV(top)];
+}
+
+/**
+ * Closed cylinder-like lathe from [r, y] points (ascending in y so normals point outward).
+ */
+export function lathe(pts, segs = 28) {
+  const vecs = pts.map(([r, y]) => new THREE.Vector2(Math.max(r, 0), y));
+  return G.cylUV(new THREE.LatheGeometry(vecs, segs));
+}
+
+/** Solid circular ring band centred at the origin, base at y = 0, radius r to centre of ring. */
+export function ringBand(r, thick, h, segs = 36) {
+  const ro = r + thick / 2;
+  const ri = Math.max(0.005, r - thick / 2);
+  const shape = new THREE.Shape();
+  shape.absarc(0, 0, ro, 0, Math.PI * 2, false);
+  const hole = new THREE.Path();
+  hole.absarc(0, 0, ri, 0, Math.PI * 2, true);
+  shape.holes.push(hole);
+  const g = new THREE.ExtrudeGeometry(shape, { depth: h, bevelEnabled: false, curveSegments: segs });
+  g.rotateX(-Math.PI / 2);
+  return G.cylUV(g, ro);
+}
+
+/** Small candle sitting on an iron drip pan with wick and teardrop flame; base of pan at pos. */
+export function candle(b, pos, { h = 0.22, r = 0.024, panR = 0.055, matPan = 'iron' } = {}) {
+  const [x, y, z] = pos;
+  b.add(matPan, lathe([[0, 0], [panR * 0.65, 0], [panR, 0.018], [panR * 0.92, 0.022], [0.01, 0.01], [0, 0.01]], 16), [x, y, z]);
+  b.add('wax', G.cylinder(r * 0.92, r, h, 14, { y0: 0.01 }), [x, y, z]);
+  b.add('void', G.cylinder(0.003, 0.003, 0.025, 6, { y0: 0.01 + h }), [x, y, z]);
+  const f = lathe([[0, 0], [0.014, 0.015], [0.012, 0.032], [0.004, 0.052], [0, 0.064]], 10);
+  b.add('flame', f, [x, y + 0.01 + h + 0.015, z]);
 }

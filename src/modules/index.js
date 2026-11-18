@@ -4,8 +4,20 @@
 import { wallModules } from './wall.js';
 import { towerModules } from './tower.js';
 import { gateModules } from './gate.js';
+import { furnitureModules } from './furniture.js';
+import { containerModules } from './containers.js';
+import { weaponModules } from './weapons.js';
+import { lightingModules } from './lighting.js';
 
-export const MODULES = [...wallModules, ...towerModules, ...gateModules];
+export const MODULES = [
+  ...wallModules,
+  ...towerModules,
+  ...gateModules,
+  ...furnitureModules,
+  ...containerModules,
+  ...weaponModules,
+  ...lightingModules,
+];
 
 export function byId(id) {
   return MODULES.find((m) => m.id === id);

@@ -71,10 +71,24 @@ gives a narrow-field-of-view elevation. `node scripts/shot.mjs <out.png> [module
 while the dev server runs (`VIEW=` and `DEMO=1` env vars match the parameters), and
 `node scripts/ascii-preview.mjs <png> [cols] [rows] ['' diff]` prints a rough text map of a render.
 
-Material slots are shared by every module (`src/lib/kit.js`): `stone`, `dressed`, `timber`, `iron`, `roof`, `gilt`,
-`void`. Change the library ids there to re-skin the whole kit. Material names in the exported GLBs equal the library
-ids, so they can be traced back to `library/materials/<category>/<id>`.
+Material slots are shared by every module (`src/lib/kit.js`): `stone`, `dressed`, `timber`, `iron`, `roof`, `oak`,
+`darkWood`, `barrel`, `steel`, `leather`, `fabric`, `linen`, `straw`, `gilt`, `wax`, `flame`, `ember`, `void`.
+Change the library ids there to re-skin the kit. Material names in the exported GLBs equal the library
+ids (except tint/emissive variants like `crimson_fabric`, `wax`, `flame`, `ember`), so textures can be traced back to
+`library/materials/<category>/<id>`.
+
+## Stage 3: props
+
+19 medieval castle props built with the same unit (`1 unit = 1 m`, base at `y = 0`) and export pipeline (`start.bat`
+launches the viewer directly on Windows):
+
+| Family | Props |
+| --- | --- |
+| furniture | `table_banquet`, `bench_wooden`, `chair_lord`, `bed_canopy`, `bookshelf_oak` |
+| container | `barrel_oak`, `crate_wooden`, `chest_treasure`, `sack_grain` |
+| weapon | `sword_arming`, `halberd`, `shield_heater`, `weapon_rack`, `archery_target` |
+| lighting | `torch_wall`, `sconce_candle`, `chandelier_wheel`, `brazier_standing`, `candelabra_floor` |
 
 ## Planned next stages
 
-Props (furniture, barrels, weapons, lighting).
+Workshop, kitchen and chapel props (forge/anvil, cauldron, altar, banners/heraldry), or scene assembly.
