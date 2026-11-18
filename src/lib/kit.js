@@ -4,6 +4,8 @@
 // is centred on x = 0 and z = 0 (wall centre line) with its base at y = 0.
 
 import * as THREE from 'three';
+import { RoundedBoxGeometry } from 'three/addons/geometries/RoundedBoxGeometry.js';
+import { ConvexGeometry } from 'three/addons/geometries/ConvexGeometry.js';
 import * as G from './geo.js';
 import { pbr } from './materials.js';
 
@@ -30,23 +32,24 @@ export function makeMaterials() {
     stone: pbr('castle_wall_slates'),
     dressed: pbr('large_sandstone_blocks', { color: 0xe6e0d4 }),
     timber: pbr('weathered_planks', { color: 0xb8a58c }),
-    iron: pbr('rusty_metal_03', { metalness: 1, color: 0x9a9a9a }),
+    iron: pbr('rusty_metal_03', { metalness: 0.92, roughness: 0.85, color: 0x626266, normalScale: 1.15 }),
     // double-sided: hip and cone roofs are thin shells that are also seen from below
     roof: pbr('roof_slates_02', { side: THREE.DoubleSide }),
-    gilt: new THREE.MeshStandardMaterial({ name: 'gilt', color: 0xb8923a, metalness: 1, roughness: 0.35 }),
+    gilt: pbr('metal_plate', { name: 'brass_gilt', tile: 0.35, metalness: 0.95, roughness: 0.42, color: 0xc29842, normalScale: 0.9 }),
     void: new THREE.MeshStandardMaterial({ name: 'void', color: 0x050505, roughness: 1 }),
     // Prop materials (all texture-backed entries trace back to library/materials/<cat>/<id>)
-    oak: pbr('oak_wood_planks', { tile: 1.2, color: 0xdecbb0 }),
-    darkWood: pbr('dark_wood', { tile: 1.4, color: 0xb8a898 }),
-    barrel: pbr('wooden_barrel', { tile: 1.1 }),
-    steel: pbr('metal_plate', { tile: 0.5, metalness: 1, roughness: 0.42, color: 0xd8dce0 }),
-    leather: pbr('brown_leather', { tile: 0.4 }),
-    fabric: pbr('quatrefoil_jacquard_fabric', { name: 'crimson_fabric', tile: 0.32, color: 0x8c2222 }),
-    linen: pbr('rough_linen', { tile: 0.35, color: 0xe6decb }),
-    straw: pbr('thatch_roof_angled', { tile: 0.8, color: 0xdcc89a }),
-    wax: new THREE.MeshStandardMaterial({ name: 'wax', color: 0xede0bd, roughness: 0.52 }),
-    flame: new THREE.MeshStandardMaterial({ name: 'flame', color: 0xffb840, emissive: 0xff6b12, emissiveIntensity: 2.6, roughness: 0.35 }),
-    ember: new THREE.MeshStandardMaterial({ name: 'ember', color: 0x3b1808, emissive: 0xd9440a, emissiveIntensity: 1.8, roughness: 0.85 }),
+    oak: pbr('oak_wood_planks', { tile: 1.2, color: 0xc8b193, normalScale: 1.25 }),
+    darkWood: pbr('dark_wood', { tile: 1.4, color: 0x907f70, normalScale: 1.25 }),
+    barrel: pbr('wooden_barrel', { tile: 1.1, color: 0xcbb9a0, normalScale: 1.3 }),
+    steel: pbr('metal_plate', { tile: 0.4, metalness: 1, roughness: 0.5, color: 0xd0d5dc, normalScale: 1.05 }),
+    leather: pbr('brown_leather', { tile: 0.4, color: 0xb59172, normalScale: 1.3 }),
+    fabric: pbr('quatrefoil_jacquard_fabric', { name: 'crimson_fabric', tile: 0.32, color: 0x761d1d, normalScale: 1.35 }),
+    linen: pbr('rough_linen', { tile: 0.35, color: 0xd9ceb8, normalScale: 1.25 }),
+    straw: pbr('thatch_roof_angled', { tile: 0.7, color: 0xd6c192, normalScale: 1.35 }),
+    wax: pbr('white_plaster_rough_01', { name: 'beeswax', tile: 0.25, color: 0xe7d6aa, roughness: 0.62, normalScale: 0.12 }),
+    flameCore: new THREE.MeshStandardMaterial({ name: 'flame_core', color: 0xfff4c2, emissive: 0xffd260, emissiveIntensity: 3.0, roughness: 0.3 }),
+    flame: new THREE.MeshStandardMaterial({ name: 'flame_outer', color: 0xff7818, emissive: 0xff5208, emissiveIntensity: 1.8, transparent: true, opacity: 0.46, depthWrite: false, roughness: 1 }),
+    ember: pbr('dark_rock', { name: 'glowing_charcoal', tile: 0.3, color: 0x2c1b15, emissive: 0xb82e06, emissiveIntensity: 0.85, roughness: 0.92, normalScale: 1.4 }),
   };
 }
 
@@ -185,12 +188,146 @@ export function ringBand(r, thick, h, segs = 36) {
   return G.cylUV(g, ro);
 }
 
-/** Small candle sitting on an iron drip pan with wick and teardrop flame; base of pan at pos. */
-export function candle(b, pos, { h = 0.22, r = 0.024, panR = 0.055, matPan = 'iron' } = {}) {
+/** Chamfered/bevelled block centred on X and Z with base at y = 0. */
+export function bevelBlock(w, h, d, bevel = 0.008, segs = 1, uvOpts) {
+  const r = Math.min(bevel, w * 0.35, h * 0.35, d * 0.35);
+  const g = new RoundedBoxGeometry(w, h, d, segs, r);
+  g.translate(0, h / 2, 0);
+  return G.boxUV(g, uvOpts);
+}
+
+/** Chamfered/bevelled box centred on X, Y and Z. */
+export function bevelBox(w, h, d, bevel = 0.008, segs = 1, uvOpts) {
+  const r = Math.min(bevel, w * 0.35, h * 0.35, d * 0.35);
+  return G.boxUV(new RoundedBoxGeometry(w, h, d, segs, r), uvOpts);
+}
+
+/** Places small dome rivets at every [x, y, z] position (or oriented [x, y, z, rotY, rotX]). */
+export function rivets(b, mat, pts, r = 0.007) {
+  const dome = new THREE.SphereGeometry(r, 7, 5);
+  for (const p of pts) b.add(mat, dome, [p[0], p[1], p[2]], p[3] || 0, p[4] || 0);
+}
+
+/**
+ * Sweeps a rectangular flat bar (width w in XY plane, thickness t along Z) along a 2D curve,
+ * capped at both ends. Never twists like Frenet frames, ideal for forged iron scrollwork.
+ */
+export function flatScroll(pts, w = 0.022, t = 0.008, steps = 20) {
+  const curve = new THREE.CatmullRomCurve3(pts.map(([x, y]) => new THREE.Vector3(x, y, 0)));
+  const sp = curve.getSpacedPoints(steps);
+  const hw = w / 2;
+  const ht = t / 2;
+  const ring = [];
+  for (let i = 0; i < sp.length; i++) {
+    const prev = sp[Math.max(0, i - 1)];
+    const next = sp[Math.min(sp.length - 1, i + 1)];
+    const dx = next.x - prev.x;
+    const dy = next.y - prev.y;
+    const len = Math.hypot(dx, dy) || 1;
+    const nx = -dy / len;
+    const ny = dx / len;
+    const cx = sp[i].x;
+    const cy = sp[i].y;
+    ring.push([
+      [cx + nx * hw, cy + ny * hw, ht],
+      [cx - nx * hw, cy - ny * hw, ht],
+      [cx - nx * hw, cy - ny * hw, -ht],
+      [cx + nx * hw, cy + ny * hw, -ht],
+    ]);
+  }
+  const v = [];
+  const tri = (a, b2, c) => v.push(...a, ...b2, ...c);
+  for (let i = 0; i < ring.length - 1; i++) {
+    const r0 = ring[i];
+    const r1 = ring[i + 1];
+    for (let k = 0; k < 4; k++) {
+      const n = (k + 1) % 4;
+      tri(r0[k], r0[n], r1[n]);
+      tri(r0[k], r1[n], r1[k]);
+    }
+  }
+  // end caps
+  const s = ring[0];
+  tri(s[0], s[3], s[2]);
+  tri(s[0], s[2], s[1]);
+  const e = ring[ring.length - 1];
+  tri(e[0], e[1], e[2]);
+  tri(e[0], e[2], e[3]);
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.Float32BufferAttribute(v, 3));
+  g.computeVertexNormals();
+  return G.boxUV(g);
+}
+
+/** Irregular faceted charcoal lump built from a perturbed sphere's convex hull. */
+export function charcoalLump(radius = 0.045, seed = 1) {
+  let s = seed * 9301 + 49297;
+  const rand = () => {
+    s = (s * 9301 + 49297) % 233280;
+    return s / 233280;
+  };
+  const pts = [];
+  for (let i = 0; i < 14; i++) {
+    const u = rand() * 2 - 1;
+    const th = rand() * Math.PI * 2;
+    const sq = Math.sqrt(1 - u * u);
+    const r = radius * (0.65 + rand() * 0.55);
+    pts.push(new THREE.Vector3(sq * Math.cos(th) * r, u * r * 0.72, sq * Math.sin(th) * r));
+  }
+  return G.boxUV(new ConvexGeometry(pts));
+}
+
+/** Dual-layer candle flame (bright core + soft translucent outer halo). Base at pos. */
+export function softFlame(b, pos, scale = 1) {
+  const core = lathe([[0, 0], [0.008 * scale, 0.01 * scale], [0.006 * scale, 0.025 * scale], [0, 0.042 * scale]], 10);
+  const outer = lathe([[0, 0], [0.016 * scale, 0.015 * scale], [0.013 * scale, 0.036 * scale], [0.004 * scale, 0.058 * scale], [0, 0.072 * scale]], 12);
+  b.add('flameCore', core, pos);
+  b.add('flame', outer, [pos[0], pos[1] - 0.004 * scale, pos[2]]);
+}
+
+/** Candle with scalloped drip pan, sunken wax pool, wax drips, burnt wick and soft dual-layer flame. */
+export function candle(b, pos, { h = 0.22, r = 0.024, panR = 0.058, matPan = 'iron', seed = 1 } = {}) {
   const [x, y, z] = pos;
-  b.add(matPan, lathe([[0, 0], [panR * 0.65, 0], [panR, 0.018], [panR * 0.92, 0.022], [0.01, 0.01], [0, 0.01]], 16), [x, y, z]);
-  b.add('wax', G.cylinder(r * 0.92, r, h, 14, { y0: 0.01 }), [x, y, z]);
-  b.add('void', G.cylinder(0.003, 0.003, 0.025, 6, { y0: 0.01 + h }), [x, y, z]);
-  const f = lathe([[0, 0], [0.014, 0.015], [0.012, 0.032], [0.004, 0.052], [0, 0.064]], 10);
-  b.add('flame', f, [x, y + 0.01 + h + 0.015, z]);
+  // flared wrought-iron drip pan with raised candle cup collar
+  b.add(
+    matPan,
+    lathe(
+      [
+        [0, 0],
+        [panR * 0.55, 0],
+        [panR, 0.018],
+        [panR * 0.94, 0.024],
+        [r + 0.006, 0.012],
+        [r + 0.007, 0.034],
+        [r + 0.002, 0.036],
+        [0, 0.01],
+      ],
+      18,
+    ),
+    [x, y, z],
+  );
+  // wax pillar with slightly flared top rim and sunken melted pool
+  const wPts = [
+    [0, 0.01],
+    [r, 0.01],
+    [r * 0.96, 0.01 + h * 0.55],
+    [r * 0.94, 0.01 + h * 0.96],
+    [r, 0.01 + h],
+    [r * 0.72, 0.01 + h - 0.012],
+    [0, 0.01 + h - 0.014],
+  ];
+  b.add('wax', lathe(wPts, 16), [x, y, z]);
+  // 2 solidified wax drips running down the side
+  for (let d = 0; d < 2; d++) {
+    const a = seed * 2.1 + d * 2.6;
+    const dl = h * (0.32 + ((seed + d) % 3) * 0.14);
+    b.add(
+      'wax',
+      G.cylinder(0.003, 0.005, dl, 6),
+      [x + Math.cos(a) * (r - 0.001), y + 0.01 + h - dl / 2, z + Math.sin(a) * (r - 0.001)],
+    );
+  }
+  // slightly bent burnt wick + dual-layer flame
+  b.add('void', G.cylinder(0.0025, 0.003, 0.028, 6, { y0: 0.01 + h - 0.012 }), [x, y, z], 0, 0.14);
+  softFlame(b, [x, y + 0.01 + h + 0.008, z], 0.95);
 }

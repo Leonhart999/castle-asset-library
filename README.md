@@ -72,9 +72,9 @@ while the dev server runs (`VIEW=` and `DEMO=1` env vars match the parameters), 
 `node scripts/ascii-preview.mjs <png> [cols] [rows] ['' diff]` prints a rough text map of a render.
 
 Material slots are shared by every module (`src/lib/kit.js`): `stone`, `dressed`, `timber`, `iron`, `roof`, `oak`,
-`darkWood`, `barrel`, `steel`, `leather`, `fabric`, `linen`, `straw`, `gilt`, `wax`, `flame`, `ember`, `void`.
-Change the library ids there to re-skin the kit. Material names in the exported GLBs equal the library
-ids (except tint/emissive variants like `crimson_fabric`, `wax`, `flame`, `ember`), so textures can be traced back to
+`darkWood`, `barrel`, `steel`, `leather`, `fabric`, `linen`, `straw`, `gilt`, `wax`, `flameCore`, `flame`, `ember`,
+`void`. Change the library ids there to re-skin the kit. Texture-backed material names match the library ids (except
+variants like `crimson_fabric`, `beeswax`, `brass_gilt`, `glowing_charcoal`), so maps trace back to
 `library/materials/<category>/<id>`.
 
 ## Stage 3: props

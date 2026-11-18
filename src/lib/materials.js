@@ -81,6 +81,8 @@ export function pbr(id, o = {}) {
     roughness: o.roughness ?? 1,
     metalness: o.metalness ?? 0,
     color: new THREE.Color(o.color ?? 0xffffff),
+    emissive: new THREE.Color(o.emissive ?? 0x000000),
+    emissiveIntensity: o.emissiveIntensity ?? 1,
     side: o.side ?? THREE.FrontSide,
   });
   mat.normalScale.set(o.normalScale ?? 1, o.normalScale ?? 1);

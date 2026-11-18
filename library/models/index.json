@@ -171,7 +171,7 @@
     ],
     "file": "glb/tower_round.glb",
     "preview": "previews/tower_round.png",
-    "glb_bytes": 3497872
+    "glb_bytes": 3497892
   },
   {
     "id": "tower_round_roofed",
@@ -191,11 +191,11 @@
       "void",
       "rusty_metal_03",
       "roof_slates_02",
-      "gilt"
+      "brass_gilt"
     ],
     "file": "glb/tower_round_roofed.glb",
     "preview": "previews/tower_round_roofed.png",
-    "glb_bytes": 4612644
+    "glb_bytes": 5467972
   },
   {
     "id": "tower_square",
@@ -217,7 +217,7 @@
     ],
     "file": "glb/tower_square.glb",
     "preview": "previews/tower_square.png",
-    "glb_bytes": 3543984
+    "glb_bytes": 3544004
   },
   {
     "id": "gatehouse",
@@ -239,7 +239,7 @@
     ],
     "file": "glb/gatehouse.glb",
     "preview": "previews/gatehouse.png",
-    "glb_bytes": 3596664
+    "glb_bytes": 3596688
   },
   {
     "id": "gatehouse_closed",
@@ -261,19 +261,19 @@
     ],
     "file": "glb/gatehouse_closed.glb",
     "preview": "previews/gatehouse_closed.png",
-    "glb_bytes": 3599912
+    "glb_bytes": 3599932
   },
   {
     "id": "table_banquet",
     "name": "Banquet table",
     "category": "furniture",
-    "description": "2.6 m oak hall table with trestle legs, iron corner brackets, stretcher rail and wedged tenons.",
+    "description": "2.6 m carved oak hall table with four bevelled planks, breadboard ends, turned baluster trestles and iron corner straps.",
     "size_m": [
-      2.6,
-      0.78,
-      1
+      2.65,
+      0.79,
+      1.01
     ],
-    "triangles": 312,
+    "triangles": 4812,
     "materials": [
       "oak_wood_planks",
       "dark_wood",
@@ -281,122 +281,129 @@
     ],
     "file": "glb/table_banquet.glb",
     "preview": "previews/table_banquet.png",
-    "glb_bytes": 1824688
+    "glb_bytes": 1955164
   },
   {
     "id": "bench_wooden",
     "name": "Wooden bench",
     "category": "furniture",
-    "description": "2.0 m oak trestle bench sized to pair with the banquet table.",
+    "description": "2.0 m oak trestle bench with arched carved standards, wedged through-tenons and chamfered plank top.",
     "size_m": [
       2,
-      0.46,
+      0.47,
       0.44
     ],
-    "triangles": 144,
+    "triangles": 1476,
     "materials": [
       "oak_wood_planks",
       "dark_wood"
     ],
     "file": "glb/bench_wooden.glb",
     "preview": "previews/bench_wooden.png",
-    "glb_bytes": 1272976
+    "glb_bytes": 1323416
   },
   {
     "id": "chair_lord",
     "name": "Lord high-back chair",
     "category": "furniture",
-    "description": "High-back carved oak armchair with crimson fabric cushions and gilt post finials.",
+    "description": "Gothic carved oak armchair with turned front legs, arched crest rail, tufted damask cushions, brass studs and finials.",
     "size_m": [
-      0.69,
-      1.45,
-      0.63
+      0.7,
+      1.5,
+      0.64
     ],
-    "triangles": 440,
+    "triangles": 4916,
     "materials": [
       "dark_wood",
-      "gilt",
       "oak_wood_planks",
+      "brass_gilt",
       "crimson_fabric"
     ],
     "file": "glb/chair_lord.glb",
     "preview": "previews/chair_lord.png",
-    "glb_bytes": 1975816
+    "glb_bytes": 2958060
   },
   {
     "id": "bed_canopy",
     "name": "Four-poster bed",
     "category": "furniture",
-    "description": "Oak four-poster bed with linen mattress, pillows, crimson wool blanket and hanging valance.",
+    "description": "Turned oak four-poster bed with panelled headboard, soft pillows, naturally draped wool blanket and pleated valance.",
     "size_m": [
-      1.56,
-      2.22,
-      2.21
+      1.62,
+      2.34,
+      2.26
     ],
-    "triangles": 528,
+    "triangles": 9900,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
+      "brass_gilt",
       "rough_linen",
       "crimson_fabric"
     ],
     "file": "glb/bed_canopy.glb",
     "preview": "previews/bed_canopy.png",
-    "glb_bytes": 2939196
+    "glb_bytes": 4244028
   },
   {
     "id": "bookshelf_oak",
     "name": "Oak bookshelf",
     "category": "furniture",
-    "description": "Four-tier oak bookcase with cornice and varied leather- and cloth-bound medieval volumes.",
+    "description": "Dentil-corniced oak bookcase with fluted pilasters, rounded-spine bound volumes with raised bands, flat stacks and a brass candle.",
     "size_m": [
-      1.5,
-      2.12,
-      0.5
+      1.58,
+      2.14,
+      0.58
     ],
-    "triangles": 1440,
+    "triangles": 16512,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
       "rough_linen",
+      "brown_leather",
+      "brass_gilt",
       "crimson_fabric",
-      "brown_leather"
+      "beeswax",
+      "void",
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/bookshelf_oak.glb",
     "preview": "previews/bookshelf_oak.png",
-    "glb_bytes": 4263832
+    "glb_bytes": 6876536
   },
   {
     "id": "barrel_oak",
     "name": "Oak barrel",
     "category": "container",
-    "description": "0.92 m bilged oak wine/ale barrel with recessed heads, four iron hoops and bung.",
+    "description": "0.92 m bilged barrel with individually creased oak staves, riveted lap-joint iron hoops, bung and brass spigot.",
     "size_m": [
-      0.68,
+      0.7,
       0.92,
-      0.72
+      0.75
     ],
-    "triangles": 2952,
+    "triangles": 8820,
     "materials": [
       "wooden_barrel",
       "rusty_metal_03",
-      "dark_wood"
+      "dark_wood",
+      "brass_gilt"
     ],
     "file": "glb/barrel_oak.glb",
     "preview": "previews/barrel_oak.png",
-    "glb_bytes": 2198744
+    "glb_bytes": 3236296
   },
   {
     "id": "crate_wooden",
     "name": "Wooden crate",
     "category": "container",
-    "description": "0.86 m reinforced timber supply crate with diagonal cross-braces and iron corner brackets.",
+    "description": "0.88 m slatted supply crate with bevelled planks, diagonal bracing and riveted forged iron corner brackets.",
     "size_m": [
-      0.88,
-      0.82,
-      0.88
+      0.91,
+      0.84,
+      0.91
     ],
-    "triangles": 300,
+    "triangles": 7024,
     "materials": [
       "oak_wood_planks",
       "weathered_planks",
@@ -404,262 +411,271 @@
     ],
     "file": "glb/crate_wooden.glb",
     "preview": "previews/crate_wooden.png",
-    "glb_bytes": 1799372
+    "glb_bytes": 2018196
   },
   {
     "id": "chest_treasure",
     "name": "Iron-bound chest",
     "category": "container",
-    "description": "Arched-lid oak storage chest bound with four iron straps, front lockplate and side rings.",
+    "description": "Arched plank-stave chest bound with four riveted iron bands, gothic lock escutcheon, padlock and side rings.",
     "size_m": [
-      1.2,
-      0.78,
-      0.68
+      1.26,
+      0.81,
+      0.72
     ],
-    "triangles": 1008,
+    "triangles": 6296,
     "materials": [
-      "oak_wood_planks",
       "dark_wood",
+      "oak_wood_planks",
       "rusty_metal_03",
-      "gilt"
+      "brass_gilt"
     ],
     "file": "glb/chest_treasure.glb",
     "preview": "previews/chest_treasure.png",
-    "glb_bytes": 1843628
+    "glb_bytes": 2879300
   },
   {
     "id": "sack_grain",
     "name": "Grain sack",
     "category": "container",
-    "description": "Heavy tied linen grain sack with pinched neck, rope binding and flared collar.",
+    "description": "Heavy pleated linen grain sack with organic slouch, triple rope binding, ruffled collar and visible grain.",
     "size_m": [
-      0.56,
+      0.54,
       0.72,
       0.45
     ],
-    "triangles": 688,
+    "triangles": 1740,
     "materials": [
       "rough_linen",
       "thatch_roof_angled"
     ],
     "file": "glb/sack_grain.glb",
     "preview": "previews/sack_grain.png",
-    "glb_bytes": 2188500
+    "glb_bytes": 2221208
   },
   {
     "id": "sword_arming",
     "name": "Arming sword",
     "category": "weapon",
-    "description": "1.15 m medieval knightly sword with diamond-section steel blade, crossguard, leather grip and gilt wheel pommel.",
+    "description": "1.15 m knightly sword with fullered steel blade, drooped quillons, spiral leather grip and bossed wheel pommel.",
     "size_m": [
       0.28,
       1.16,
-      0.04
+      0.05
     ],
-    "triangles": 236,
+    "triangles": 1632,
     "materials": [
       "metal_plate",
       "rusty_metal_03",
       "brown_leather",
-      "gilt"
+      "brass_gilt"
     ],
     "file": "glb/sword_arming.glb",
     "preview": "previews/sword_arming.png",
-    "glb_bytes": 2664724
+    "glb_bytes": 2909620
   },
   {
     "id": "halberd",
     "name": "Medieval halberd",
     "category": "weapon",
-    "description": "2.27 m polearm with octagonal haft, iron langets, top spike, crescent axe blade and rear fluke.",
+    "description": "2.31 m polearm with bevel-edged crescent axe, rear fluke, riveted iron langets and octagonal ash haft.",
     "size_m": [
-      0.33,
-      2.27,
+      0.37,
+      2.31,
       0.05
     ],
-    "triangles": 196,
+    "triangles": 720,
     "materials": [
       "rusty_metal_03",
       "dark_wood",
+      "brass_gilt",
       "metal_plate"
     ],
     "file": "glb/halberd.glb",
     "preview": "previews/halberd.png",
-    "glb_bytes": 1962856
+    "glb_bytes": 2182768
   },
   {
     "id": "shield_heater",
     "name": "Heater shield",
     "category": "weapon",
-    "description": "Curved oak and crimson damask knightly heater shield with gilt heraldic cross and leather arm straps.",
+    "description": "Curved oak and crimson damask shield with iron perimeter binding, brass rivets, steel umbo boss and leather straps.",
     "size_m": [
-      0.62,
-      0.84,
-      0.11
+      0.66,
+      0.88,
+      0.14
     ],
-    "triangles": 280,
+    "triangles": 2840,
     "materials": [
       "oak_wood_planks",
       "crimson_fabric",
-      "gilt",
       "rusty_metal_03",
+      "brass_gilt",
+      "metal_plate",
       "brown_leather"
     ],
     "file": "glb/shield_heater.glb",
     "preview": "previews/shield_heater.png",
-    "glb_bytes": 3211524
+    "glb_bytes": 4379368
   },
   {
     "id": "weapon_rack",
     "name": "Armoury weapon rack",
     "category": "weapon",
-    "description": "Timber A-frame rack holding three halberds, two arming swords and a leaning heater shield.",
+    "description": "Timber A-frame armoury rack holding three halberds, two swords, a leaning shield and a steel kettle helmet.",
     "size_m": [
-      1.97,
-      2.43,
-      0.56
+      2.16,
+      2.47,
+      0.58
     ],
-    "triangles": 1472,
+    "triangles": 9884,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
       "rusty_metal_03",
+      "brass_gilt",
       "metal_plate",
       "brown_leather",
-      "gilt",
       "crimson_fabric"
     ],
     "file": "glb/weapon_rack.glb",
     "preview": "previews/weapon_rack.png",
-    "glb_bytes": 4686596
+    "glb_bytes": 5184912
   },
   {
     "id": "archery_target",
     "name": "Archery target",
     "category": "weapon",
-    "description": "Woven straw target boss on a timber tripod stand, with painted rings and three embedded arrows.",
+    "description": "Coiled-straw rope target boss on a rope-lashed timber tripod, with linen rings and three fletched arrows.",
     "size_m": [
-      0.92,
-      1.54,
+      0.9,
+      1.58,
       1.46
     ],
-    "triangles": 592,
+    "triangles": 8116,
     "materials": [
       "dark_wood",
-      "oak_wood_planks",
       "thatch_roof_angled",
+      "oak_wood_planks",
       "rough_linen",
       "crimson_fabric",
-      "gilt"
+      "brass_gilt",
+      "metal_plate"
     ],
     "file": "glb/archery_target.glb",
     "preview": "previews/archery_target.png",
-    "glb_bytes": 4151132
+    "glb_bytes": 5460092
   },
   {
     "id": "torch_wall",
     "name": "Wall torch & bracket",
     "category": "lighting",
-    "description": "Forged iron wall bracket holding an angled timber torch with cloth wrap, embers and flame.",
+    "description": "Gothic iron wall plate with rivets, scrolled bracket, carved timber torch, wrapped cloth, embers and dual-layer flame.",
     "size_m": [
-      0.13,
-      0.81,
-      0.44
+      0.12,
+      0.72,
+      0.42
     ],
-    "triangles": 568,
+    "triangles": 2320,
     "materials": [
       "rusty_metal_03",
       "dark_wood",
       "rough_linen",
-      "ember",
-      "flame"
+      "glowing_charcoal",
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/torch_wall.glb",
     "preview": "previews/torch_wall.png",
-    "glb_bytes": 2079572
+    "glb_bytes": 2905492
   },
   {
     "id": "sconce_candle",
     "name": "Twin candle sconce",
     "category": "lighting",
-    "description": "Wall-mounted wrought-iron sconce with gilt crest and two lit beeswax candles.",
+    "description": "Gothic iron sconce with brass crest, twin flat-bar scrolled arms, drip pans and beeswax candles.",
     "size_m": [
-      0.42,
+      0.38,
       0.51,
-      0.27
+      0.23
     ],
-    "triangles": 1240,
+    "triangles": 2424,
     "materials": [
       "rusty_metal_03",
-      "gilt",
-      "wax",
+      "brass_gilt",
+      "beeswax",
       "void",
-      "flame"
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/sconce_candle.glb",
     "preview": "previews/sconce_candle.png",
-    "glb_bytes": 587080
+    "glb_bytes": 2639948
   },
   {
     "id": "chandelier_wheel",
     "name": "Iron wheel chandelier",
     "category": "lighting",
-    "description": "1.7 m forged iron wheel chandelier with 8 candles, drip pans and 4 link chains to a top hook.",
+    "description": "1.7 m flanged iron wheel chandelier with cross-spokes, turned hub, 8 dripping candles and 4 suspension chains.",
     "size_m": [
       1.81,
-      1.49,
-      1.81
+      1.51,
+      1.82
     ],
-    "triangles": 11744,
+    "triangles": 17700,
     "materials": [
       "rusty_metal_03",
-      "wax",
+      "brass_gilt",
+      "beeswax",
       "void",
-      "flame"
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/chandelier_wheel.glb",
     "preview": "previews/chandelier_wheel.png",
-    "glb_bytes": 1026460
+    "glb_bytes": 3224200
   },
   {
     "id": "brazier_standing",
     "name": "Standing iron brazier",
     "category": "lighting",
-    "description": "Four-legged wrought-iron fire basket filled with glowing charcoal embers and flames.",
+    "description": "Four-legged scrolled iron fire basket filled with faceted glowing charcoal chunks and soft flames.",
     "size_m": [
-      0.74,
-      1.1,
-      0.74
+      0.77,
+      1.07,
+      0.77
     ],
-    "triangles": 4760,
+    "triangles": 5574,
     "materials": [
       "rusty_metal_03",
-      "ember",
-      "flame"
+      "glowing_charcoal",
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/brazier_standing.glb",
     "preview": "previews/brazier_standing.png",
-    "glb_bytes": 729552
+    "glb_bytes": 1596656
   },
   {
     "id": "candelabra_floor",
     "name": "Floor candelabra",
     "category": "lighting",
-    "description": "1.5 m tripod wrought-iron standing candelabra holding five lit beeswax candles.",
+    "description": "1.5 m tripod scrolled wrought-iron standing candelabra with turned collars and five dripping beeswax candles.",
     "size_m": [
-      0.54,
-      1.59,
-      0.54
+      0.56,
+      1.58,
+      0.56
     ],
-    "triangles": 3468,
+    "triangles": 4828,
     "materials": [
       "rusty_metal_03",
-      "wax",
+      "beeswax",
       "void",
-      "flame"
+      "flame_core",
+      "flame_outer"
     ],
     "file": "glb/candelabra_floor.glb",
     "preview": "previews/candelabra_floor.png",
-    "glb_bytes": 654312
+    "glb_bytes": 1856876
   }
 ]
