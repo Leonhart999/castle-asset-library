@@ -9,6 +9,7 @@ import { GLTFExporter } from 'three/addons/exporters/GLTFExporter.js';
 import { loadMaterialIndex, setMaxAnisotropy, texturesReady } from '../src/lib/materials.js';
 import { makeMaterials } from '../src/lib/kit.js';
 import { MODULES } from '../src/modules/index.js';
+import { buildDemo } from '../src/modules/demo.js';
 
 const params = new URLSearchParams(location.search);
 const shot = params.has('shot');
@@ -111,6 +112,21 @@ async function main() {
     sun.shadow.camera.updateProjectionMatrix();
   }
 
+  let demoGroup = null;
+  function getDemo() {
+    if (demoGroup) return demoGroup;
+    demoGroup = buildDemo(M);
+    demoGroup.traverse((o) => {
+      if (o.isMesh) {
+        o.castShadow = true;
+        o.receiveShadow = true;
+      }
+    });
+    scene.add(demoGroup);
+    demoGroup.box = new THREE.Box3().setFromObject(demoGroup);
+    return demoGroup;
+  }
+
   const hud = document.createElement('div');
   hud.className = 'hud';
   if (shot) hud.style.display = 'none';
@@ -126,6 +142,7 @@ async function main() {
     buttons.set(id, btn);
   };
   addButton('All modules', null);
+  addButton('Assembly demo', '__demo__');
   let lastCat = '';
   for (const e of entries) {
     if (e.def.category !== lastCat) {
@@ -143,18 +160,28 @@ async function main() {
   document.body.appendChild(hud);
 
   function show(id) {
-    const only = id ? entries.find((e) => e.def.id === id) : null;
-    if (id && !only) throw new Error('Unknown module ' + id);
+    const isDemo = id === '__demo__';
+    const only = !isDemo && id ? entries.find((e) => e.def.id === id) : null;
+    if (!isDemo && id && !only) throw new Error('Unknown module ' + id);
+    if (demoGroup) demoGroup.visible = false;
     for (const e of entries) {
-      e.group.visible = !only || e === only;
+      e.group.visible = !isDemo && (!only || e === only);
       if (only) e.group.position.set(0, 0, 0);
       else e.group.position.copy(e.home);
     }
-    frame(only ? only.box : galleryBox, only ? new THREE.Vector3(1, 0.55, 1.4) : new THREE.Vector3(0.3, 1, 1.1));
+    if (isDemo) {
+      const dg = getDemo();
+      dg.visible = true;
+      frame(dg.box, new THREE.Vector3(0.4, 0.9, 1.2));
+    } else {
+      frame(only ? only.box : galleryBox, only ? new THREE.Vector3(1, 0.55, 1.4) : new THREE.Vector3(0.3, 1, 1.1));
+    }
     for (const [key, btn] of buttons) btn.classList.toggle('on', key === id);
-    info.textContent = only
-      ? only.def.description + '  ' + only.size.toArray().map((v) => v.toFixed(2)).join(' x ') + ' m, ' + only.tris + ' tris'
-      : '';
+    info.textContent = isDemo
+      ? 'Assembled castle wall run: gatehouse, arches, towers, walls and corner.'
+      : only
+        ? only.def.description + '  ' + only.size.toArray().map((v) => v.toFixed(2)).join(' x ') + ' m, ' + only.tris + ' tris'
+        : '';
   }
 
   window.__list = () =>
@@ -180,30 +207,16 @@ async function main() {
   };
 
   await texturesReady();
-  show(params.get('module'));
+  show(params.has('demo') ? '__demo__' : params.get('module'));
   // Axis views (?view=front|back|side|top) use a narrow field of view so elevations read like orthographic drawings.
-  // ?demo=1 replaces the gallery with an assembled run of castle (src/modules/demo.js) to check that modules join.
   const AXES = { front: [0, 0.02, 1], back: [0, 0.02, -1], side: [1, 0.02, 0], top: [0, 1, 0.001] };
-  const demo = params.has('demo') ? (await import('../src/modules/demo.js')).buildDemo(M) : null;
-  if (demo) {
-    demo.traverse((o) => {
-      if (o.isMesh) {
-        o.castShadow = true;
-        o.receiveShadow = true;
-      }
-    });
-    scene.add(demo);
-    for (const e of entries) e.group.visible = false;
-  }
   const axis = AXES[params.get('view')];
   const focusEntry = entries.find((e) => e.def.id === params.get('module'));
-  const focus = demo ? new THREE.Box3().setFromObject(demo) : focusEntry ? focusEntry.box : galleryBox;
+  const focus = params.has('demo') ? getDemo().box : focusEntry ? focusEntry.box : galleryBox;
   if (axis) {
     camera.fov = 10;
     camera.updateProjectionMatrix();
     frame(focus, new THREE.Vector3(...axis));
-  } else if (demo) {
-    frame(focus, new THREE.Vector3(0.4, 0.9, 1.2));
   }
   let frames = 0;
   renderer.setAnimationLoop(() => {
