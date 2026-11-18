@@ -1,6 +1,7 @@
 // Module viewer: lays every module of the kit out in a gallery, lets you focus on one,
 // and exposes a small API (window.__list / __show / __exportGLB) for the headless build.
-// URL parameters: ?module=<id> focuses one module, ?shot=1 hides the HUD, ?dpr=<n> caps pixel ratio.
+// URL parameters: ?module=<id> focuses one module, ?shot=1 hides the HUD, ?dpr=<n> caps pixel ratio,
+// ?filter=<text> limits the build to matching modules, ?bg=<hex> sets the background, ?ground=0 hides the floor.
 
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
@@ -13,6 +14,10 @@ import { buildDemo } from '../src/modules/demo.js';
 
 const params = new URLSearchParams(location.search);
 const shot = params.has('shot');
+// ?filter=<text>[,<text>] builds only the modules whose id contains the text (cat:<name> matches a whole category),
+// so single-module rebuilds and reviews stay fast even though the registry holds many modules.
+const filters = (params.get('filter') || '').split(',').filter(Boolean);
+const wanted = (def) => !filters.length || filters.some((f) => (f.startsWith('cat:') ? def.category === f.slice(4) : def.id.includes(f)));
 
 function measure(group) {
   const box = new THREE.Box3().setFromObject(group);
@@ -37,7 +42,7 @@ async function main() {
   document.body.appendChild(renderer.domElement);
 
   const scene = new THREE.Scene();
-  scene.background = new THREE.Color(0xaeb9c4);
+  scene.background = new THREE.Color(params.has('bg') ? '#' + params.get('bg') : 0xaeb9c4);
   scene.environment = new THREE.PMREMGenerator(renderer).fromScene(new RoomEnvironment(), 0.04).texture;
   scene.environmentIntensity = 0.8;
 
@@ -56,6 +61,7 @@ async function main() {
   ground.rotation.x = -Math.PI / 2;
   ground.position.y = -0.01;
   ground.receiveShadow = true;
+  ground.visible = params.get('ground') !== '0';
   scene.add(ground);
 
   window.addEventListener('resize', () => {
@@ -69,7 +75,7 @@ async function main() {
   const M = makeMaterials();
 
   // Build every module once at the origin, measure it, then lay the gallery out in rows.
-  const entries = MODULES.map((def) => {
+  const entries = MODULES.filter(wanted).map((def) => {
     const group = def.build(M);
     group.traverse((o) => {
       if (o.isMesh) {
@@ -195,6 +201,34 @@ async function main() {
       materials: e.mats,
     }));
   window.__show = show;
+  window.__ids = MODULES.map((m) => m.id);
+  // Geometry data for scripts/review.mjs: bounding box at the origin, NaN and zero-area triangles, triangles per material.
+  window.__inspect = (id) => {
+    const e = entries.find((x) => x.def.id === id);
+    if (!e) throw new Error('Unknown module ' + id);
+    const r3 = (v) => Math.round(v * 1000) / 1000;
+    const perMat = {};
+    const a = new THREE.Vector3();
+    const b = new THREE.Vector3();
+    const c = new THREE.Vector3();
+    let nan = 0;
+    let degenerate = 0;
+    e.group.traverse((o) => {
+      if (!o.isMesh) return;
+      const pos = o.geometry.attributes.position;
+      const ix = o.geometry.index;
+      const n = (ix ? ix.count : pos.count) / 3;
+      perMat[o.material.name] = (perMat[o.material.name] || 0) + n;
+      for (let t = 0; t < n; t++) {
+        a.fromBufferAttribute(pos, ix ? ix.getX(t * 3) : t * 3);
+        b.fromBufferAttribute(pos, ix ? ix.getX(t * 3 + 1) : t * 3 + 1);
+        c.fromBufferAttribute(pos, ix ? ix.getX(t * 3 + 2) : t * 3 + 2);
+        if (![a, b, c].every((p) => Number.isFinite(p.x + p.y + p.z))) nan++;
+        else if (b.sub(a).cross(c.sub(a)).lengthSq() < 1e-14) degenerate++;
+      }
+    });
+    return { min: e.box.min.toArray().map(r3), max: e.box.max.toArray().map(r3), size: e.size.toArray().map(r3), tris: e.tris, nan, degenerate, perMat };
+  };
   window.__exportGLB = async (id) => {
     const def = MODULES.find((m) => m.id === id);
     if (!def) throw new Error('Unknown module ' + id);

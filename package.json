@@ -8,6 +8,7 @@
     "dev": "vite",
     "build:models": "node scripts/build-models.mjs",
     "shot": "node scripts/shot.mjs",
+    "review": "node scripts/review.mjs",
     "fetch-materials": "node scripts/fetch-materials.mjs"
   },
   "dependencies": {

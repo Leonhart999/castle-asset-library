@@ -7,37 +7,41 @@ import * as G from '../lib/geo.js';
 import { newBuilder, lathe, ringBand, candle, bevelBox, rivets, flatScroll, charcoalLump, softFlame } from '../lib/kit.js';
 
 function wallTorch(b) {
-  // pointed gothic iron backplate at z = 0 with forged bevel & nail heads
+  // pointed gothic iron backplate at z = 0, flush at y = 0
   const plate = new THREE.Shape();
-  plate.moveTo(0, 0.02);
-  plate.lineTo(0.055, 0.08);
+  plate.moveTo(0, 0.005);
+  plate.lineTo(0.055, 0.07);
   plate.lineTo(0.055, 0.38);
   plate.quadraticCurveTo(0.055, 0.45, 0, 0.49);
   plate.quadraticCurveTo(-0.055, 0.45, -0.055, 0.38);
-  plate.lineTo(-0.055, 0.08);
+  plate.lineTo(-0.055, 0.07);
   plate.closePath();
   const pg = new THREE.ExtrudeGeometry(plate, { depth: 0.014, bevelEnabled: true, bevelThickness: 0.003, bevelSize: 0.003, bevelSegments: 1, curveSegments: 10 });
   b.add('iron', G.boxUV(pg), [0, 0, 0.003]);
-  rivets(b, 'iron', [[0, 0.07, 0.02], [0, 0.43, 0.02], [-0.032, 0.25, 0.02], [0.032, 0.25, 0.02]], 0.007);
+  rivets(b, 'iron', [[0, 0.06, 0.02], [0, 0.43, 0.02], [-0.032, 0.25, 0.02], [0.032, 0.25, 0.02]], 0.007);
 
-  // scrolled flat-bar bracket + forged collar ring holding the torch
-  b.add('iron', flatScroll([[0.01, 0.14], [0.08, 0.17], [0.14, 0.23], [0.18, 0.25]], 0.02, 0.008, 16), [0, 0, 0], -Math.PI / 2);
-  b.add('iron', ringBand(0.054, 0.014, 0.042, 18), [0, 0.23, 0.175], 0, 0.45);
-  b.add('iron', ringBand(0.036, 0.012, 0.032, 16), [0, 0.09, 0.11], 0, 0.45);
+  // brackets connect backplate (z = 0.015) straight to the two tight collar rings on the angled shaft
+  // shaft local origin at [0, 0.03, 0.075], tilted +0.45 rad around X: y(h)=0.03+h*0.9004, z(h)=0.075+h*0.4350
+  b.add('iron', flatScroll([[0.015, 0.32], [0.09, 0.31], [0.16, 0.29], [0.195, 0.285]], 0.02, 0.008, 16), [0, 0, 0], -Math.PI / 2);
+  b.add('iron', flatScroll([[0.015, 0.14], [0.07, 0.13], [0.12, 0.125]], 0.018, 0.008, 12), [0, 0, 0], -Math.PI / 2);
 
-  // angled carved timber torch + spirally wrapped oil-soaked linen + charred embers + soft flame
+  // angled carved timber torch + tight coaxial collar rings + oil-soaked linen + embers
   b.push([0, 0.03, 0.075], 0, 0.45);
-  b.add('darkWood', lathe([[0, 0], [0.018, 0], [0.024, 0.12], [0.028, 0.32], [0.042, 0.48], [0, 0.48]], 14));
-  // overlapping wrapped cloth bands
+  b.add('darkWood', lathe([[0, 0], [0.018, 0], [0.023, 0.12], [0.03, 0.32], [0.042, 0.48], [0, 0.48]], 14));
+  // coaxial iron collar bands gripping the shaft tightly at h = 0.11 (r~0.023) and h = 0.285 (r~0.029)
+  b.add('iron', ringBand(0.027, 0.01, 0.032, 16), [0, 0.095, 0]);
+  b.add('iron', ringBand(0.034, 0.012, 0.038, 18), [0, 0.27, 0]);
   for (let i = 0; i < 4; i++) {
-    const t = new THREE.TorusGeometry(0.046, 0.013, 7, 16);
+    const t = new THREE.TorusGeometry(0.045, 0.013, 7, 16);
     t.rotateX(Math.PI / 2 + (i % 2 ? 0.14 : -0.14));
     b.add('linen', G.boxUV(t), [0, 0.46 + i * 0.03, 0]);
   }
   b.add('ember', charcoalLump(0.056, 7), [0, 0.59, 0]);
   b.add('ember', charcoalLump(0.042, 12), [0.018, 0.62, -0.01]);
-  softFlame(b, [0, 0.62, 0], 2.4);
   b.pop();
+
+  // flame burns vertically upward in world space at the torch head (h = 0.63)
+  softFlame(b, [0, 0.03 + 0.63 * Math.cos(0.45), 0.075 + 0.63 * Math.sin(0.45)], 2.4);
 }
 
 function candleSconce(b) {
@@ -89,13 +93,15 @@ function wheelChandelier(b) {
     rivets(b, 'gilt', [[ca * (R + 0.036), ringY + 0.03, sa * (R + 0.036)], [ca * (R + 0.036), ringY + 0.07, sa * (R + 0.036)]], 0.006);
     candle(b, [ca * R, ringY + 0.098, sa * R], { h: 0.22, r: 0.024, panR: 0.058, seed: i + 1 });
   }
-  // 4 chains converging to forged top suspension ring & hook
+  // 4 forged eyelets on top of the band + chains converging to top suspension ring & hook
   const topY = 1.33;
   b.add('iron', ringBand(0.07, 0.018, 0.03, 20), [0, topY, 0], 0, Math.PI / 2);
   b.add('iron', flatScroll([[0, topY + 0.06], [0.04, topY + 0.12], [0, topY + 0.18], [-0.03, topY + 0.14]], 0.016, 0.012, 14));
   for (let i = 0; i < 4; i++) {
     const a = (i / 4) * Math.PI * 2 + Math.PI / 4;
-    const p0 = new THREE.Vector3(Math.cos(a) * R, ringY + 0.095, Math.sin(a) * R);
+    const eye = new THREE.TorusGeometry(0.026, 0.008, 6, 14);
+    b.add('iron', G.boxUV(eye), [Math.cos(a) * R, ringY + 0.105, Math.sin(a) * R], Math.PI / 2 - a);
+    const p0 = new THREE.Vector3(Math.cos(a) * R, ringY + 0.115, Math.sin(a) * R);
     const p1 = new THREE.Vector3(0, topY, 0);
     const dir = p1.clone().sub(p0);
     const links = 18;
@@ -154,10 +160,10 @@ function standingBrazier(b) {
 }
 
 function floorCandelabra(b) {
-  // tripod scrolled wrought-iron base feet
+  // tripod scrolled wrought-iron base feet (raised slightly so flat-bar thickness rests at y = 0)
   for (let i = 0; i < 3; i++) {
     const a = (i / 3) * Math.PI * 2;
-    const foot = flatScroll([[0.27, 0.045], [0.25, 0.01], [0.2, 0.03], [0.12, 0.08], [0.03, 0.28]], 0.022, 0.014, 18);
+    const foot = flatScroll([[0.27, 0.048], [0.25, 0.012], [0.2, 0.032], [0.12, 0.08], [0.03, 0.28]], 0.022, 0.014, 18);
     b.add('iron', foot, [0, 0, 0], -a);
   }
   // turned multi-collar iron shaft

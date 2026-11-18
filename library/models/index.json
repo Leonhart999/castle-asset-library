@@ -26,7 +26,7 @@
     "size_m": [
       4,
       10.2,
-      3.3
+      3.29
     ],
     "triangles": 228,
     "materials": [
@@ -35,7 +35,7 @@
     ],
     "file": "glb/wall_straight_crenellated.glb",
     "preview": "previews/wall_straight_crenellated.png",
-    "glb_bytes": 2290884
+    "glb_bytes": 2290880
   },
   {
     "id": "wall_straight_loophole",
@@ -45,7 +45,7 @@
     "size_m": [
       4,
       10.2,
-      3.3
+      3.29
     ],
     "triangles": 463,
     "materials": [
@@ -111,7 +111,7 @@
     ],
     "file": "glb/battlement_corner.glb",
     "preview": "previews/battlement_corner.png",
-    "glb_bytes": 2283380
+    "glb_bytes": 2283384
   },
   {
     "id": "wall_arch_round",
@@ -121,7 +121,7 @@
     "size_m": [
       4,
       10.2,
-      3.3
+      3.29
     ],
     "triangles": 887,
     "materials": [
@@ -130,7 +130,7 @@
     ],
     "file": "glb/wall_arch_round.glb",
     "preview": "previews/wall_arch_round.png",
-    "glb_bytes": 2325916
+    "glb_bytes": 2325912
   },
   {
     "id": "wall_arch_pointed",
@@ -140,7 +140,7 @@
     "size_m": [
       4,
       10.2,
-      3.3
+      3.29
     ],
     "triangles": 850,
     "materials": [
@@ -158,20 +158,20 @@
     "description": "Round tower, radius 3.5 m, walkway at 12 m on a corbel ring with 12 merlons. Arrow loops, courtyard door on -Z, wall-walk doors on +-X. Wall modules centred at x = +-5.2 join it.",
     "size_m": [
       8.14,
-      14.7,
+      14.2,
       8.15
     ],
-    "triangles": 3013,
+    "triangles": 3473,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks",
       "weathered_planks",
       "void",
-      "rusty_metal_03"
+      "wrought_iron"
     ],
     "file": "glb/tower_round.glb",
     "preview": "previews/tower_round.png",
-    "glb_bytes": 3497892
+    "glb_bytes": 3126920
   },
   {
     "id": "tower_round_roofed",
@@ -180,22 +180,22 @@
     "description": "Round tower, radius 3.5 m, with an eaves ring, bell-cast slate cone roof and finial. Same openings as tower_round plus a window under the roof.",
     "size_m": [
       9.41,
-      21.6,
+      21.1,
       9.41
     ],
-    "triangles": 3474,
+    "triangles": 3934,
     "materials": [
       "castle_wall_slates",
       "large_sandstone_blocks",
       "weathered_planks",
       "void",
-      "rusty_metal_03",
+      "wrought_iron",
       "roof_slates_02",
-      "brass_gilt"
+      "aged_brass"
     ],
     "file": "glb/tower_round_roofed.glb",
     "preview": "previews/tower_round_roofed.png",
-    "glb_bytes": 5467972
+    "glb_bytes": 4379856
   },
   {
     "id": "tower_square",
@@ -204,20 +204,20 @@
     "description": "Square tower 6 x 6 m, walkway at 12 m with corbels on all sides and a merlon parapet. Courtyard door on -Z, wall-walk doors on +-X. Wall modules centred at x = +-5 join it.",
     "size_m": [
       7.12,
-      14.7,
+      14.2,
       7.12
     ],
-    "triangles": 3152,
+    "triangles": 3612,
     "materials": [
       "castle_wall_slates",
       "weathered_planks",
       "void",
       "large_sandstone_blocks",
-      "rusty_metal_03"
+      "wrought_iron"
     ],
     "file": "glb/tower_square.glb",
     "preview": "previews/tower_square.png",
-    "glb_bytes": 3544004
+    "glb_bytes": 3173048
   },
   {
     "id": "gatehouse",
@@ -229,17 +229,18 @@
       13.2,
       7.62
     ],
-    "triangles": 3926,
+    "triangles": 3938,
     "materials": [
       "castle_wall_slates",
       "void",
       "large_sandstone_blocks",
-      "rusty_metal_03",
+      "wrought_iron",
+      "roof_slates_02",
       "weathered_planks"
     ],
     "file": "glb/gatehouse.glb",
     "preview": "previews/gatehouse.png",
-    "glb_bytes": 3596688
+    "glb_bytes": 4349860
   },
   {
     "id": "gatehouse_closed",
@@ -248,20 +249,21 @@
     "description": "Same gatehouse with the portcullis lowered and the timber doors shut.",
     "size_m": [
       9.12,
-      13.45,
+      13.2,
       7.62
     ],
-    "triangles": 3990,
+    "triangles": 4910,
     "materials": [
       "castle_wall_slates",
       "void",
       "large_sandstone_blocks",
-      "rusty_metal_03",
+      "wrought_iron",
+      "roof_slates_02",
       "weathered_planks"
     ],
     "file": "glb/gatehouse_closed.glb",
     "preview": "previews/gatehouse_closed.png",
-    "glb_bytes": 3599932
+    "glb_bytes": 4384512
   },
   {
     "id": "table_banquet",
@@ -270,18 +272,18 @@
     "description": "2.6 m carved oak hall table with four bevelled planks, breadboard ends, turned baluster trestles and iron corner straps.",
     "size_m": [
       2.65,
-      0.79,
-      1.01
+      0.78,
+      1.02
     ],
     "triangles": 4812,
     "materials": [
       "oak_wood_planks",
       "dark_wood",
-      "rusty_metal_03"
+      "wrought_iron"
     ],
     "file": "glb/table_banquet.glb",
     "preview": "previews/table_banquet.png",
-    "glb_bytes": 1955164
+    "glb_bytes": 1568124
   },
   {
     "id": "bench_wooden",
@@ -316,12 +318,12 @@
     "materials": [
       "dark_wood",
       "oak_wood_planks",
-      "brass_gilt",
+      "aged_brass",
       "crimson_fabric"
     ],
     "file": "glb/chair_lord.glb",
     "preview": "previews/chair_lord.png",
-    "glb_bytes": 2958060
+    "glb_bytes": 2240916
   },
   {
     "id": "bed_canopy",
@@ -337,13 +339,13 @@
     "materials": [
       "dark_wood",
       "oak_wood_planks",
-      "brass_gilt",
+      "aged_brass",
       "rough_linen",
       "crimson_fabric"
     ],
     "file": "glb/bed_canopy.glb",
     "preview": "previews/bed_canopy.png",
-    "glb_bytes": 4244028
+    "glb_bytes": 3527364
   },
   {
     "id": "bookshelf_oak",
@@ -353,15 +355,15 @@
     "size_m": [
       1.58,
       2.14,
-      0.58
+      0.63
     ],
-    "triangles": 16512,
+    "triangles": 15688,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
       "rough_linen",
       "brown_leather",
-      "brass_gilt",
+      "aged_brass",
       "crimson_fabric",
       "beeswax",
       "void",
@@ -370,7 +372,7 @@
     ],
     "file": "glb/bookshelf_oak.glb",
     "preview": "previews/bookshelf_oak.png",
-    "glb_bytes": 6876536
+    "glb_bytes": 6118604
   },
   {
     "id": "barrel_oak",
@@ -380,18 +382,18 @@
     "size_m": [
       0.7,
       0.92,
-      0.75
+      0.78
     ],
     "triangles": 8820,
     "materials": [
       "wooden_barrel",
-      "rusty_metal_03",
+      "wrought_iron",
       "dark_wood",
-      "brass_gilt"
+      "aged_brass"
     ],
     "file": "glb/barrel_oak.glb",
     "preview": "previews/barrel_oak.png",
-    "glb_bytes": 3236296
+    "glb_bytes": 2132116
   },
   {
     "id": "crate_wooden",
@@ -407,11 +409,11 @@
     "materials": [
       "oak_wood_planks",
       "weathered_planks",
-      "rusty_metal_03"
+      "wrought_iron"
     ],
     "file": "glb/crate_wooden.glb",
     "preview": "previews/crate_wooden.png",
-    "glb_bytes": 2018196
+    "glb_bytes": 1631160
   },
   {
     "id": "chest_treasure",
@@ -423,16 +425,16 @@
       0.81,
       0.72
     ],
-    "triangles": 6296,
+    "triangles": 6736,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
-      "rusty_metal_03",
-      "brass_gilt"
+      "wrought_iron",
+      "aged_brass"
     ],
     "file": "glb/chest_treasure.glb",
     "preview": "previews/chest_treasure.png",
-    "glb_bytes": 2879300
+    "glb_bytes": 1789792
   },
   {
     "id": "sack_grain",
@@ -457,22 +459,22 @@
     "id": "sword_arming",
     "name": "Arming sword",
     "category": "weapon",
-    "description": "1.15 m knightly sword with fullered steel blade, drooped quillons, spiral leather grip and bossed wheel pommel.",
+    "description": "1.15 m knightly sword with fullered forged-steel blade, drooped quillons, spiral leather grip with riser ring and bossed wheel pommel.",
     "size_m": [
       0.28,
       1.16,
       0.05
     ],
-    "triangles": 1632,
+    "triangles": 1688,
     "materials": [
-      "metal_plate",
-      "rusty_metal_03",
+      "forged_steel",
+      "wrought_iron",
       "brown_leather",
-      "brass_gilt"
+      "aged_brass"
     ],
     "file": "glb/sword_arming.glb",
     "preview": "previews/sword_arming.png",
-    "glb_bytes": 2909620
+    "glb_bytes": 1784892
   },
   {
     "id": "halberd",
@@ -486,37 +488,37 @@
     ],
     "triangles": 720,
     "materials": [
-      "rusty_metal_03",
+      "wrought_iron",
       "dark_wood",
-      "brass_gilt",
-      "metal_plate"
+      "aged_brass",
+      "forged_steel"
     ],
     "file": "glb/halberd.glb",
     "preview": "previews/halberd.png",
-    "glb_bytes": 2182768
+    "glb_bytes": 1055780
   },
   {
     "id": "shield_heater",
     "name": "Heater shield",
     "category": "weapon",
-    "description": "Curved oak and crimson damask shield with iron perimeter binding, brass rivets, steel umbo boss and leather straps.",
+    "description": "Subdivided parabolic-curved oak & crimson damask shield with iron perimeter binding, brass rivets, steel umbo boss and leather straps.",
     "size_m": [
-      0.66,
-      0.88,
+      0.65,
+      0.86,
       0.14
     ],
-    "triangles": 2840,
+    "triangles": 6800,
     "materials": [
       "oak_wood_planks",
       "crimson_fabric",
-      "rusty_metal_03",
-      "brass_gilt",
-      "metal_plate",
+      "aged_brass",
+      "forged_steel",
+      "wrought_iron",
       "brown_leather"
     ],
     "file": "glb/shield_heater.glb",
     "preview": "previews/shield_heater.png",
-    "glb_bytes": 4379368
+    "glb_bytes": 3374212
   },
   {
     "id": "weapon_rack",
@@ -524,47 +526,47 @@
     "category": "weapon",
     "description": "Timber A-frame armoury rack holding three halberds, two swords, a leaning shield and a steel kettle helmet.",
     "size_m": [
-      2.16,
-      2.47,
+      2.17,
+      2.1,
       0.58
     ],
-    "triangles": 9884,
+    "triangles": 13996,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
-      "rusty_metal_03",
-      "brass_gilt",
-      "metal_plate",
+      "wrought_iron",
+      "aged_brass",
+      "forged_steel",
       "brown_leather",
       "crimson_fabric"
     ],
     "file": "glb/weapon_rack.glb",
     "preview": "previews/weapon_rack.png",
-    "glb_bytes": 5184912
+    "glb_bytes": 4186196
   },
   {
     "id": "archery_target",
     "name": "Archery target",
     "category": "weapon",
-    "description": "Coiled-straw rope target boss on a rope-lashed timber tripod, with linen rings and three fletched arrows.",
+    "description": "Ribbed coiled-straw target boss on a rope-lashed timber tripod, with linen target rings and three feathered arrows.",
     "size_m": [
       0.9,
-      1.58,
-      1.46
+      1.59,
+      1.49
     ],
-    "triangles": 8116,
+    "triangles": 3456,
     "materials": [
       "dark_wood",
       "thatch_roof_angled",
       "oak_wood_planks",
       "rough_linen",
       "crimson_fabric",
-      "brass_gilt",
-      "metal_plate"
+      "aged_brass",
+      "forged_steel"
     ],
     "file": "glb/archery_target.glb",
     "preview": "previews/archery_target.png",
-    "glb_bytes": 5460092
+    "glb_bytes": 4552608
   },
   {
     "id": "torch_wall",
@@ -573,12 +575,12 @@
     "description": "Gothic iron wall plate with rivets, scrolled bracket, carved timber torch, wrapped cloth, embers and dual-layer flame.",
     "size_m": [
       0.12,
-      0.72,
-      0.42
+      0.76,
+      0.39
     ],
-    "triangles": 2320,
+    "triangles": 2420,
     "materials": [
-      "rusty_metal_03",
+      "wrought_iron",
       "dark_wood",
       "rough_linen",
       "glowing_charcoal",
@@ -587,7 +589,7 @@
     ],
     "file": "glb/torch_wall.glb",
     "preview": "previews/torch_wall.png",
-    "glb_bytes": 2905492
+    "glb_bytes": 2524056
   },
   {
     "id": "sconce_candle",
@@ -601,8 +603,8 @@
     ],
     "triangles": 2424,
     "materials": [
-      "rusty_metal_03",
-      "brass_gilt",
+      "wrought_iron",
+      "aged_brass",
       "beeswax",
       "void",
       "flame_core",
@@ -610,7 +612,7 @@
     ],
     "file": "glb/sconce_candle.glb",
     "preview": "previews/sconce_candle.png",
-    "glb_bytes": 2639948
+    "glb_bytes": 1535764
   },
   {
     "id": "chandelier_wheel",
@@ -622,10 +624,10 @@
       1.51,
       1.82
     ],
-    "triangles": 17700,
+    "triangles": 18372,
     "materials": [
-      "rusty_metal_03",
-      "brass_gilt",
+      "wrought_iron",
+      "aged_brass",
       "beeswax",
       "void",
       "flame_core",
@@ -633,7 +635,7 @@
     ],
     "file": "glb/chandelier_wheel.glb",
     "preview": "previews/chandelier_wheel.png",
-    "glb_bytes": 3224200
+    "glb_bytes": 2145040
   },
   {
     "id": "brazier_standing",
@@ -647,14 +649,14 @@
     ],
     "triangles": 5574,
     "materials": [
-      "rusty_metal_03",
+      "wrought_iron",
       "glowing_charcoal",
       "flame_core",
       "flame_outer"
     ],
     "file": "glb/brazier_standing.glb",
     "preview": "previews/brazier_standing.png",
-    "glb_bytes": 1596656
+    "glb_bytes": 1209620
   },
   {
     "id": "candelabra_floor",
@@ -668,7 +670,7 @@
     ],
     "triangles": 4828,
     "materials": [
-      "rusty_metal_03",
+      "wrought_iron",
       "beeswax",
       "void",
       "flame_core",
@@ -676,6 +678,6 @@
     ],
     "file": "glb/candelabra_floor.glb",
     "preview": "previews/candelabra_floor.png",
-    "glb_bytes": 1856876
+    "glb_bytes": 1469840
   }
 ]

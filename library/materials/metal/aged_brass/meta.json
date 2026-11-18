@@ -1,0 +1,27 @@
+{
+  "id": "aged_brass",
+  "name": "Aged Medieval Brass",
+  "category": "metal",
+  "tags": [
+    "brass",
+    "bronze",
+    "gilt",
+    "polished",
+    "procedural"
+  ],
+  "polyhaven_categories": [
+    "metal"
+  ],
+  "dimensions_mm": [
+    500,
+    500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "procedural (scripts/generate-metal-pbr.py)"
+}

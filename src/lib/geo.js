@@ -162,6 +162,18 @@ export class Builder {
     for (const [key, list] of this.parts) {
       // Merge in chunks to stay below 32-bit index issues and keep culling useful.
       const merged = mergeVertices(mergeGeometries(list, false), 1e-4);
+      // Ensure unit normals after merging/scaling so GLTFExporter stays clean.
+      const nor = merged.attributes.normal;
+      if (nor) {
+        const v = new THREE.Vector3();
+        for (let i = 0; i < nor.count; i++) {
+          v.fromBufferAttribute(nor, i);
+          if (v.lengthSq() > 1e-12) v.normalize();
+          else v.set(0, 1, 0);
+          nor.setXYZ(i, v.x, v.y, v.z);
+        }
+        nor.needsUpdate = true;
+      }
       merged.computeBoundingSphere();
       const mesh = new THREE.Mesh(merged, this.materials[key]);
       mesh.name = `${name}_${key}`;

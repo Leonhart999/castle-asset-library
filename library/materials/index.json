@@ -5638,6 +5638,33 @@
     "source": "https://polyhaven.com/a/yellow_stone_wall"
   },
   {
+    "id": "aged_brass",
+    "name": "Aged Medieval Brass",
+    "category": "metal",
+    "tags": [
+      "brass",
+      "bronze",
+      "gilt",
+      "polished",
+      "procedural"
+    ],
+    "polyhaven_categories": [
+      "metal"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "procedural (scripts/generate-metal-pbr.py)"
+  },
+  {
     "id": "blue_metal_plate",
     "name": "Blue Metal Plate",
     "category": "metal",
@@ -5670,6 +5697,33 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/blue_metal_plate"
+  },
+  {
+    "id": "forged_steel",
+    "name": "Forged Weapon Steel",
+    "category": "metal",
+    "tags": [
+      "steel",
+      "forged",
+      "sword",
+      "armour",
+      "procedural"
+    ],
+    "polyhaven_categories": [
+      "metal"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "procedural (scripts/generate-metal-pbr.py)"
   },
   {
     "id": "green_metal_rust",
@@ -6288,6 +6342,33 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/worn_corrugated_iron"
+  },
+  {
+    "id": "wrought_iron",
+    "name": "Hammered Wrought Iron",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "forged",
+      "hammered",
+      "blacksmith",
+      "procedural"
+    ],
+    "polyhaven_categories": [
+      "metal"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "procedural (scripts/generate-metal-pbr.py)"
   },
   {
     "id": "clay_plaster",

@@ -158,12 +158,12 @@ function banquetTable(b) {
     for (const sz of [-0.3, 0, 0.3]) {
       b.add('darkWood', bevelBlock(0.025, 0.024, 0.05, 0.004), [sx * (L / 2 + 0.003), H - 0.042, sz]);
     }
-    // forged iron corner straps + rivets on the breadboard ends
+    // forged iron corner straps + rivets proud of the breadboard ends (avoid coplanar z-fighting)
     for (const sz of [-1, 1]) {
-      b.add('iron', bevelBlock(0.18, 0.074, 0.045, 0.004), [sx * (L / 2 - 0.08), H - 0.07, sz * (W / 2 - 0.015)]);
+      b.add('iron', bevelBlock(0.18, 0.074, 0.052, 0.004), [sx * (L / 2 - 0.08), H - 0.07, sz * (W / 2 - 0.012)]);
       rivets(b, 'iron', [
-        [sx * (L / 2 - 0.03), H - 0.035, sz * (W / 2 + 0.008)],
-        [sx * (L / 2 - 0.13), H - 0.035, sz * (W / 2 + 0.008)],
+        [sx * (L / 2 - 0.03), H - 0.035, sz * (W / 2 + 0.014)],
+        [sx * (L / 2 - 0.13), H - 0.035, sz * (W / 2 + 0.014)],
       ]);
     }
   }
@@ -172,7 +172,7 @@ function banquetTable(b) {
   // two trestle assemblies with twin turned balusters and chamfered sledge feet
   for (const sx of [-1, 1]) {
     const lx = sx * 0.92;
-    // sledge foot with chamfered ends (extruded trapezoid)
+    // sledge foot with chamfered ends (bevelSize 0.006 shifts y down by 0.006, so lift +0.006 to sit at y = 0)
     const footShape = new THREE.Shape();
     footShape.moveTo(-0.46, 0);
     footShape.lineTo(0.46, 0);
@@ -180,7 +180,7 @@ function banquetTable(b) {
     footShape.lineTo(-0.42, 0.075);
     footShape.closePath();
     const fg = new THREE.ExtrudeGeometry(footShape, { depth: 0.13, bevelEnabled: true, bevelThickness: 0.006, bevelSize: 0.006, bevelSegments: 1 });
-    fg.translate(0, 0, -0.065);
+    fg.translate(0, 0.006, -0.065);
     fg.rotateY(Math.PI / 2);
     b.add('darkWood', G.boxUV(fg), [lx, 0, 0]);
     // top cross-bearer
@@ -208,7 +208,7 @@ function woodenBench(b) {
   for (const sz of [-0.102, 0.102]) {
     b.add('oak', bevelBlock(L, 0.055, 0.194, 0.007), [0, H - 0.055, sz]);
   }
-  // arched trestle board legs (carved profile with gothic arch cutout at the bottom)
+  // arched trestle board legs (lifted +0.006 so bevel bottom stays at y = 0)
   const legShape = new THREE.Shape();
   legShape.moveTo(-0.19, 0);
   legShape.lineTo(-0.11, 0);
@@ -218,7 +218,7 @@ function woodenBench(b) {
   legShape.lineTo(-0.15, H - 0.055);
   legShape.closePath();
   const legG = new THREE.ExtrudeGeometry(legShape, { depth: 0.065, bevelEnabled: true, bevelThickness: 0.006, bevelSize: 0.006, bevelSegments: 1 });
-  legG.translate(0, 0, -0.0325);
+  legG.translate(0, 0.006, -0.0325);
   legG.rotateY(Math.PI / 2);
   for (const sx of [-1, 1]) {
     const lx = sx * 0.72;
@@ -312,9 +312,9 @@ function canopyBed(b) {
     p.rotateX(0.2);
     b.add('linen', p, [sx * 0.34, 0.63, -L / 2 + 0.35]);
   }
-  // naturally draped crimson wool blanket covering the lower 62% and falling down the sides & foot
-  const blanket = drapedBlanket(W - 0.16, L * 0.56, 0.028, 0.25);
-  b.add('fabric', blanket, [0, 0.605, -0.15]);
+  // naturally draped crimson wool blanket clearing the footboard and corner posts cleanly
+  const blanket = drapedBlanket(W - 0.24, 1.15, 0.028, 0.24);
+  b.add('fabric', blanket, [0, 0.605, -0.34]);
 
   // stepped canopy cornice
   b.add('darkWood', bevelBlock(W + 0.08, 0.11, 0.09, 0.01), [0, H - 0.03, L / 2 - 0.07]);
@@ -402,7 +402,8 @@ function bookshelfOak(b) {
   for (let s = 0; s < 4; s++) {
     const sy = ys[s] + 0.04;
     let x = -W / 2 + 0.09;
-    const endX = W / 2 - 0.09;
+    // leave space on the right of the top shelf (s === 3) for the candlestick & parchment scrolls
+    const endX = s === 3 ? 0.24 : W / 2 - 0.09;
     while (x < endX - 0.12) {
       const r = rand();
       if (r < 0.12) {
@@ -429,8 +430,12 @@ function bookshelfOak(b) {
       x += bw + 0.005;
     }
   }
-  // small brass candlestick and rolled parchment scroll on top shelf
-  candle(b, [0.46, 1.51, 0.06], { h: 0.16, r: 0.018, panR: 0.045, matPan: 'gilt', seed: 4 });
+  // brass candlestick and rolled parchment scrolls on the clear right end of shelf 4
+  candle(b, [0.46, 1.51, 0.05], { h: 0.16, r: 0.018, panR: 0.045, matPan: 'gilt', seed: 4 });
+  for (const [sx, sz, rot] of [[0.34, 0.04, 0.12], [0.35, -0.04, -0.08]]) {
+    b.add('linen', G.cylinder(0.024, 0.024, 0.26, 12), [sx, 1.534, sz], rot, Math.PI / 2);
+    b.add('darkWood', G.cylinder(0.008, 0.008, 0.3, 8), [sx, 1.534, sz], rot, Math.PI / 2);
+  }
 }
 
 export const furnitureModules = [

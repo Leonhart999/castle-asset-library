@@ -58,9 +58,9 @@ function oakBarrel(b) {
     }
     rivets(b, 'iron', rPts, 0.0065);
   }
-  // wooden bung on top head and brass/oak tap spigot on lower front (+Z)
+  // wooden bung on top head and brass/oak tap spigot seated properly on the lower belly (r at y=0.16 is ~0.312)
   b.add('darkWood', G.cylinder(0.022, 0.019, 0.025, 12), [0.1, H - 0.032, 0.06]);
-  b.push([0, 0.16, rEnd + 0.01]);
+  b.push([0, 0.16, 0.308]);
   b.add('darkWood', G.cylinder(0.026, 0.022, 0.055, 12), [0, 0, 0.02], 0, Math.PI / 2);
   b.add('gilt', G.cylinder(0.012, 0.012, 0.07, 10), [0, 0, 0.055], 0, Math.PI / 2);
   b.add('gilt', G.cylinder(0.008, 0.008, 0.04, 10), [0, 0.028, 0.075]);
@@ -124,8 +124,8 @@ function treasureChest(b) {
   const D = 0.64;
   const boxH = 0.46;
   const lidR = D / 2;
-  // stepped dark oak base skirt
-  b.add('darkWood', bevelBlock(W + 0.05, 0.065, D + 0.05, 0.008), [0, 0, 0]);
+  // stepped dark oak base skirt recessed inside the iron straps so straps wrap cleanly outside
+  b.add('darkWood', bevelBlock(W + 0.01, 0.065, D + 0.01, 0.006), [0, 0, 0]);
   // planked front/back/side walls (4 horizontal oak planks per side)
   for (let i = 0; i < 4; i++) {
     const y = 0.06 + i * 0.1;
@@ -148,19 +148,24 @@ function treasureChest(b) {
   }
   // 4 forged iron bands with domed rivets wrapping body and arched lid
   for (const x of [-0.46, -0.16, 0.16, 0.46]) {
-    b.add('iron', bevelBlock(0.052, boxH + 0.01, D + 0.026, 0.004), [x, 0, 0]);
+    b.add('iron', bevelBlock(0.052, boxH + 0.01, D + 0.032, 0.004), [x, 0, 0]);
     const band = new THREE.CylinderGeometry(lidR + 0.022, lidR + 0.022, 0.052, 20, 1, false, 0, Math.PI);
     band.rotateZ(Math.PI / 2);
     b.add('iron', G.boxUV(band), [x, boxH, 0]);
     // rivets up the front, back and over the arch
     const rPts = [];
     for (const sz of [-1, 1]) {
-      for (const ry of [0.13, 0.28, 0.41]) rPts.push([x, ry, sz * (D / 2 + 0.014)]);
+      for (const ry of [0.13, 0.28, 0.41]) rPts.push([x, ry, sz * (D / 2 + 0.017)]);
     }
     for (const a of [-1.05, -0.45, 0, 0.45, 1.05]) {
       rPts.push([x, boxH + Math.cos(a) * (lidR + 0.023), Math.sin(a) * (lidR + 0.023)]);
     }
     rivets(b, 'gilt', rPts, 0.0075);
+  }
+  // rear iron strap hinges at back (-Z)
+  for (const x of [-0.32, 0.32]) {
+    b.add('iron', bevelBox(0.065, 0.14, 0.022, 0.004), [x, boxH, -D / 2 - 0.014]);
+    rivets(b, 'gilt', [[x, boxH - 0.04, -D / 2 - 0.026], [x, boxH + 0.04, -D / 2 - 0.026]], 0.007);
   }
   // gothic forged lock escutcheon, keyhole, hasp and hanging iron padlock on +Z
   const esc = new THREE.Shape();

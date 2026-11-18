@@ -42,14 +42,16 @@ try {
     if (['error', 'warning', 'warn'].includes(m.type())) logs.push(m.type() + ': ' + m.text());
   });
   page.on('pageerror', (e) => logs.push('pageerror: ' + e.message));
-  await page.goto('http://127.0.0.1:' + PORT + '/viewer/index.html?shot=1&dpr=1', { waitUntil: 'load', timeout: 300000 });
+  const query = '?shot=1&dpr=1' + (filter ? '&filter=' + encodeURIComponent(filter) : '');
+  await page.goto('http://127.0.0.1:' + PORT + '/viewer/index.html' + query, { waitUntil: 'load', timeout: 300000 });
   await page.waitForFunction('window.__ready === true', { timeout: 300000, polling: 500 });
 
-  const list = await page.evaluate(() => window.__list());
+  const list = await page.evaluate(() => window.__list()); // already limited to the filter by the viewer
+  const order = await page.evaluate(() => window.__ids); // full registry order, used to sort index.json
   fs.mkdirSync(path.join(outDir, 'previews'), { recursive: true });
   const built = [];
   for (const m of list) {
-    if (!m.id.includes(filter)) continue;
+    // every module in the list matches the filter, the viewer applied it
     const bytes = await page.evaluate((id) => window.__exportGLB(id), m.id);
     await page.evaluate((id) => window.__show(id), m.id);
     await new Promise((r) => setTimeout(r, 700));
@@ -60,8 +62,8 @@ try {
 
   let index = built;
   if (filter && fs.existsSync(indexPath)) {
-    const old = JSON.parse(fs.readFileSync(indexPath, 'utf8')).filter((x) => !built.some((b) => b.id === x.id));
-    index = [...old, ...built].sort((a, b) => list.findIndex((l) => l.id === a.id) - list.findIndex((l) => l.id === b.id));
+    const old = JSON.parse(fs.readFileSync(indexPath, 'utf8')).filter((x) => order.includes(x.id) && !built.some((b) => b.id === x.id));
+    index = [...old, ...built].sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
   }
   fs.writeFileSync(indexPath, JSON.stringify(index, null, 2) + '\n');
   console.log('index.json: ' + index.length + ' modules');

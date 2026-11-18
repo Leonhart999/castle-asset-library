@@ -4,8 +4,9 @@ A reusable asset library for realistic European medieval castles (3D, glTF/GLB, 
 
 ## Stage 1: PBR materials
 
-346 curated CC0 material sets from [Poly Haven](https://polyhaven.com) in 11 categories, each with
-`diff` (base colour), `nor` (OpenGL normal) and `arm` (AO / roughness / metalness packed in R/G/B).
+349 curated CC0 material sets in 11 categories (346 from [Poly Haven](https://polyhaven.com) plus 3 seamless
+procedural medieval metals: `forged_steel`, `wrought_iron`, `aged_brass`), each with `diff` (base colour), `nor`
+(OpenGL normal) and `arm` (AO / roughness / metalness packed in R/G/B).
 
 | Category | Sets | What it covers | Res |
 | --- | --- | --- | --- |
@@ -17,7 +18,7 @@ A reusable asset library for realistic European medieval castles (3D, glTF/GLB, 
 | `plaster` | 38 | lime plaster, stucco, worn, damaged and peeling render | 2k |
 | `wood` | 52 | planks, beams, gates, doors, tables, shutters, floors, bark | 2k |
 | `roof` | 19 | slate, clay tile, thatch, reed | 2k |
-| `metal` | 18 | rusty iron, plates, grates, shutters | 1k |
+| `metal` | 21 | forged weapon steel, wrought iron, aged brass, rusty iron, plates, grates | 1k |
 | `fabric-leather` | 13 | leather, wool, carpet, jacquard, linen | 1k |
 | `ground` | 42 | mud, gravel, grass, forest floor, snow, dirt paths | 1k |
 
@@ -27,6 +28,7 @@ Some ids were picked by name and not looked at yet (for example the modern-looki
 ```bash
 node scripts/fetch-materials.mjs          # download everything in manifest/materials.json
 node scripts/fetch-materials.mjs wood     # only a category or ids containing "wood"
+python scripts/generate-metal-pbr.py      # generate forged_steel, wrought_iron, aged_brass (needs numpy + Pillow)
 ```
 
 Layout:

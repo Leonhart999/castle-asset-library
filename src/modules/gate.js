@@ -61,6 +61,8 @@ function machicolation(b) {
   }
   b.add('stone', G.block(3.8, 1.0, 0.3), [0, y + 0.2, D / 2 + 0.75]);
   for (const sx of [-1, 1]) b.add('stone', G.block(0.3, 1.0, 0.6), [sx * 1.75, y + 0.2, D / 2 + 0.3]);
+  // sloped slate roof cap over the machicolation box (eave at outer face, rising back toward wall)
+  b.add('roof', G.roofSlab(4.1, 0.95, 0.5, 0.12), [0, y + 1.15, D / 2 + 0.95]);
 }
 
 /** Overhanging walkway on corbels (deeper on the outer face) with a merlon parapet all round. */
@@ -106,13 +108,18 @@ function doorsOpen(b) {
   }
 }
 
-/** One panel filling the pointed arch at the inner end, with a centre seam and iron straps. */
+/** One panel filling the pointed arch at the inner end, with full-height centre seam, straps and door rings. */
 function doorsClosed(b) {
-  const o = { x: 0, y: 0, w: 3.5, h: 5.25, arch: 'pointed' };
+  const o = { x: 0, y: 0, w: 3.6, h: 5.3, arch: 'pointed' };
   const leaf = G.boxUV(new THREE.ExtrudeGeometry(G.openingShape(o), { depth: 0.2, bevelEnabled: false, curveSegments: 8 }));
   b.add('timber', leaf, [0, 0, -D / 2 + 0.4]);
-  b.add('void', G.box(0.04, 4.5, 0.24), [0, 2.3, -D / 2 + 0.5]);
-  for (const y of [0.9, 2.0]) b.add('iron', G.box(3.2, 0.14, 0.26), [0, y, -D / 2 + 0.5]);
+  b.add('void', G.box(0.04, 5.2, 0.23), [0, 2.6, -D / 2 + 0.5]);
+  for (const y of [0.9, 2.0, 3.1]) b.add('iron', G.box(3.3, 0.14, 0.25), [0, y, -D / 2 + 0.5]);
+  for (const sx of [-0.42, 0.42]) {
+    const r = new THREE.TorusGeometry(0.11, 0.016, 7, 16);
+    b.add('iron', G.boxUV(r), [sx, 1.55, -D / 2 + 0.36]);
+    b.add('iron', G.boxUV(r.clone()), [sx, 1.55, -D / 2 + 0.64]);
+  }
 }
 
 export const gateModules = [
@@ -139,7 +146,8 @@ export const gateModules = [
       const b = newBuilder(M);
       gateBody(b);
       gateTop(b);
-      portcullis(b, 0.05, 5.8);
+      // bottom = 0.30 puts the 0.30 m iron spikes flush on the ground (y = 0) instead of sinking below it
+      portcullis(b, 0.3, 5.55);
       doorsClosed(b);
       return b.build('gatehouse_closed');
     },

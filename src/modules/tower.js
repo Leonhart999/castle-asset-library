@@ -35,7 +35,8 @@ function roundBody(b, openings) {
   for (const q of openings) {
     const m = cylMatrix(q.ang);
     cuts.push(G.openingCutter(q.o, q.depth).applyMatrix4(m));
-    fills.push([q.fill, G.openingPane(q.o, q.depth).applyMatrix4(m)]);
+    const paneO = q.o.y < 0 ? { ...q.o, y: 0, h: q.o.h + q.o.y } : q.o;
+    fills.push([q.fill, G.openingPane(paneO, q.depth).applyMatrix4(m)]);
     // the plinth must not close the door
     if (q.door) plinthCuts.push(G.openingCutter(q.o, q.depth + 0.5).applyMatrix4(m));
   }
@@ -99,9 +100,14 @@ function roundTower(b, roofed) {
   ];
   roundBody(b, openings);
   b.add('dressed', archRing(DOOR_RING, 0.3, 0.35), [0, 0, -(R - 0.3)], Math.PI);
-  // string course between the loops and iron straps across the courtyard door
+  // string course between the loops and iron straps + door rings flush against the courtyard door (pane at z = -0.98)
   b.add('dressed', G.cylinder(R + 0.08, R + 0.08, 0.25, 40, { y0: 7.0 }));
-  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.05).translate(0, yy, -0.94).applyMatrix4(cylMatrix(-A)));
+  b.add('void', G.box(0.03, 2.5, 0.02).translate(0, 1.25, -0.97).applyMatrix4(cylMatrix(-A)));
+  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.04).translate(0, yy, -0.955).applyMatrix4(cylMatrix(-A)));
+  for (const sx of [-0.24, 0.24]) {
+    const r = new THREE.TorusGeometry(0.075, 0.013, 7, 16);
+    b.add('iron', G.boxUV(r).translate(sx, 1.15, -0.945).applyMatrix4(cylMatrix(-A)));
+  }
   roundTop(b, roofed);
 }
 
@@ -112,7 +118,8 @@ function squareTower(b) {
   const fills = [];
   const hole = (face, o, depth, mat) => {
     cuts.push(G.openingCutter(o, depth).applyMatrix4(fm(face)));
-    fills.push([mat, G.openingPane(o, depth).applyMatrix4(fm(face))]);
+    const paneO = o.y < 0 ? { ...o, y: 0, h: o.h + o.y } : o;
+    fills.push([mat, G.openingPane(paneO, depth).applyMatrix4(fm(face))]);
   };
   hole('n', DOOR, 1.0, 'timber');
   hole('n', win(7.5), 0.6, 'void');
@@ -130,9 +137,14 @@ function squareTower(b) {
   // string course (belt) below the wall-walk doorways; the x-face pieces stop short of the corners to avoid coplanar overlap
   for (const z of [-1, 1]) b.add('dressed', G.block(S + 0.2, 0.25, 0.2), [0, 6.6, (z * S) / 2]);
   for (const x of [-1, 1]) b.add('dressed', G.block(0.2, 0.25, S - 0.2), [(x * S) / 2, 6.6, 0]);
-  // quoins on the four corners (stopping below the corbel tables) and iron straps across the courtyard door
+  // quoins on the four corners (stopping below the corbel tables) and iron straps + door rings flush on the courtyard door
   for (const sx of [-1, 1]) for (const sz of [-1, 1]) quoins(b, (sx * S) / 2, (sz * S) / 2, sx, sz, 1.1, BODY_H - 0.8);
-  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.05).translate(0, yy, -0.94).applyMatrix4(fm('n')));
+  b.add('void', G.box(0.03, 2.5, 0.02).translate(0, 1.25, -0.97).applyMatrix4(fm('n')));
+  for (const yy of [0.7, 1.6]) b.add('iron', G.box(1.5, 0.12, 0.04).translate(0, yy, -0.955).applyMatrix4(fm('n')));
+  for (const sx of [-0.24, 0.24]) {
+    const r = new THREE.TorusGeometry(0.075, 0.013, 7, 16);
+    b.add('iron', G.boxUV(r).translate(sx, 1.15, -0.945).applyMatrix4(fm('n')));
+  }
 
   // coping slab, corbel tables on all four sides, parapet with merlons
   b.add('dressed', G.block(S + 1, DIM.coping, S + 1), [0, BODY_H, 0]);
