@@ -162,7 +162,26 @@ export class Builder {
     for (const [key, list] of this.parts) {
       // Merge in chunks to stay below 32-bit index issues and keep culling useful.
       const merged = mergeVertices(mergeGeometries(list, false), 1e-4);
-      // Ensure unit normals after merging/scaling so GLTFExporter stays clean.
+      // Drop degenerate (zero-area) triangles left by Lathe poles or CSG slivers, then ensure unit normals.
+      const pos = merged.attributes.position;
+      const ix = merged.index;
+      if (ix) {
+        const a = new THREE.Vector3();
+        const b = new THREE.Vector3();
+        const c = new THREE.Vector3();
+        const keep = [];
+        for (let i = 0; i < ix.count; i += 3) {
+          const i0 = ix.getX(i);
+          const i1 = ix.getX(i + 1);
+          const i2 = ix.getX(i + 2);
+          if (i0 === i1 || i1 === i2 || i2 === i0) continue;
+          a.fromBufferAttribute(pos, i0);
+          b.fromBufferAttribute(pos, i1);
+          c.fromBufferAttribute(pos, i2);
+          if (b.sub(a).cross(c.sub(a)).lengthSq() >= 1e-14) keep.push(i0, i1, i2);
+        }
+        if (keep.length < ix.count) merged.setIndex(keep);
+      }
       const nor = merged.attributes.normal;
       if (nor) {
         const v = new THREE.Vector3();

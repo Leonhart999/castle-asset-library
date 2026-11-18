@@ -111,7 +111,7 @@
     ],
     "file": "glb/battlement_corner.glb",
     "preview": "previews/battlement_corner.png",
-    "glb_bytes": 2283384
+    "glb_bytes": 2283380
   },
   {
     "id": "wall_arch_round",
@@ -195,7 +195,7 @@
     ],
     "file": "glb/tower_round_roofed.glb",
     "preview": "previews/tower_round_roofed.png",
-    "glb_bytes": 4379856
+    "glb_bytes": 4379860
   },
   {
     "id": "tower_square",
@@ -207,7 +207,7 @@
       14.2,
       7.12
     ],
-    "triangles": 3612,
+    "triangles": 3610,
     "materials": [
       "castle_wall_slates",
       "weathered_planks",
@@ -217,7 +217,7 @@
     ],
     "file": "glb/tower_square.glb",
     "preview": "previews/tower_square.png",
-    "glb_bytes": 3173048
+    "glb_bytes": 3173036
   },
   {
     "id": "gatehouse",
@@ -229,7 +229,7 @@
       13.2,
       7.62
     ],
-    "triangles": 3938,
+    "triangles": 3936,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -240,7 +240,7 @@
     ],
     "file": "glb/gatehouse.glb",
     "preview": "previews/gatehouse.png",
-    "glb_bytes": 4349860
+    "glb_bytes": 4349848
   },
   {
     "id": "gatehouse_closed",
@@ -252,7 +252,7 @@
       13.2,
       7.62
     ],
-    "triangles": 4910,
+    "triangles": 4908,
     "materials": [
       "castle_wall_slates",
       "void",
@@ -263,7 +263,7 @@
     ],
     "file": "glb/gatehouse_closed.glb",
     "preview": "previews/gatehouse_closed.png",
-    "glb_bytes": 4384512
+    "glb_bytes": 4384500
   },
   {
     "id": "table_banquet",
@@ -275,7 +275,7 @@
       0.78,
       1.02
     ],
-    "triangles": 4812,
+    "triangles": 4668,
     "materials": [
       "oak_wood_planks",
       "dark_wood",
@@ -283,7 +283,7 @@
     ],
     "file": "glb/table_banquet.glb",
     "preview": "previews/table_banquet.png",
-    "glb_bytes": 1568124
+    "glb_bytes": 1567264
   },
   {
     "id": "bench_wooden",
@@ -314,7 +314,7 @@
       1.5,
       0.64
     ],
-    "triangles": 4916,
+    "triangles": 4780,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
@@ -323,7 +323,7 @@
     ],
     "file": "glb/chair_lord.glb",
     "preview": "previews/chair_lord.png",
-    "glb_bytes": 2240916
+    "glb_bytes": 2240100
   },
   {
     "id": "bed_canopy",
@@ -335,7 +335,7 @@
       2.34,
       2.26
     ],
-    "triangles": 9900,
+    "triangles": 9644,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
@@ -345,7 +345,7 @@
     ],
     "file": "glb/bed_canopy.glb",
     "preview": "previews/bed_canopy.png",
-    "glb_bytes": 3527364
+    "glb_bytes": 3525828
   },
   {
     "id": "bookshelf_oak",
@@ -357,7 +357,7 @@
       2.14,
       0.63
     ],
-    "triangles": 15688,
+    "triangles": 15576,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
@@ -372,7 +372,7 @@
     ],
     "file": "glb/bookshelf_oak.glb",
     "preview": "previews/bookshelf_oak.png",
-    "glb_bytes": 6118604
+    "glb_bytes": 6117932
   },
   {
     "id": "barrel_oak",
@@ -384,7 +384,7 @@
       0.92,
       0.78
     ],
-    "triangles": 8820,
+    "triangles": 8660,
     "materials": [
       "wooden_barrel",
       "wrought_iron",
@@ -393,7 +393,7 @@
     ],
     "file": "glb/barrel_oak.glb",
     "preview": "previews/barrel_oak.png",
-    "glb_bytes": 2132116
+    "glb_bytes": 2131156
   },
   {
     "id": "crate_wooden",
@@ -446,14 +446,14 @@
       0.72,
       0.45
     ],
-    "triangles": 1740,
+    "triangles": 1648,
     "materials": [
       "rough_linen",
       "thatch_roof_angled"
     ],
     "file": "glb/sack_grain.glb",
     "preview": "previews/sack_grain.png",
-    "glb_bytes": 2221208
+    "glb_bytes": 2220656
   },
   {
     "id": "sword_arming",
@@ -465,7 +465,7 @@
       1.16,
       0.05
     ],
-    "triangles": 1688,
+    "triangles": 1652,
     "materials": [
       "forged_steel",
       "wrought_iron",
@@ -474,7 +474,7 @@
     ],
     "file": "glb/sword_arming.glb",
     "preview": "previews/sword_arming.png",
-    "glb_bytes": 1784892
+    "glb_bytes": 1784676
   },
   {
     "id": "halberd",
@@ -507,7 +507,7 @@
       0.86,
       0.14
     ],
-    "triangles": 6800,
+    "triangles": 6764,
     "materials": [
       "oak_wood_planks",
       "crimson_fabric",
@@ -518,7 +518,7 @@
     ],
     "file": "glb/shield_heater.glb",
     "preview": "previews/shield_heater.png",
-    "glb_bytes": 3374212
+    "glb_bytes": 3374000
   },
   {
     "id": "weapon_rack",
@@ -530,7 +530,7 @@
       2.1,
       0.58
     ],
-    "triangles": 13996,
+    "triangles": 13864,
     "materials": [
       "dark_wood",
       "oak_wood_planks",
@@ -542,7 +542,7 @@
     ],
     "file": "glb/weapon_rack.glb",
     "preview": "previews/weapon_rack.png",
-    "glb_bytes": 4186196
+    "glb_bytes": 4185404
   },
   {
     "id": "archery_target",
@@ -554,7 +554,7 @@
       1.59,
       1.49
     ],
-    "triangles": 3456,
+    "triangles": 3384,
     "materials": [
       "dark_wood",
       "thatch_roof_angled",
@@ -566,7 +566,7 @@
     ],
     "file": "glb/archery_target.glb",
     "preview": "previews/archery_target.png",
-    "glb_bytes": 4552608
+    "glb_bytes": 4552176
   },
   {
     "id": "torch_wall",
@@ -578,7 +578,7 @@
       0.76,
       0.39
     ],
-    "triangles": 2420,
+    "triangles": 2348,
     "materials": [
       "wrought_iron",
       "dark_wood",
@@ -589,7 +589,7 @@
     ],
     "file": "glb/torch_wall.glb",
     "preview": "previews/torch_wall.png",
-    "glb_bytes": 2524056
+    "glb_bytes": 2523624
   },
   {
     "id": "sconce_candle",
@@ -601,7 +601,7 @@
       0.51,
       0.23
     ],
-    "triangles": 2424,
+    "triangles": 2200,
     "materials": [
       "wrought_iron",
       "aged_brass",
@@ -612,7 +612,7 @@
     ],
     "file": "glb/sconce_candle.glb",
     "preview": "previews/sconce_candle.png",
-    "glb_bytes": 1535764
+    "glb_bytes": 1534420
   },
   {
     "id": "chandelier_wheel",
@@ -624,7 +624,7 @@
       1.51,
       1.82
     ],
-    "triangles": 18372,
+    "triangles": 17444,
     "materials": [
       "wrought_iron",
       "aged_brass",
@@ -635,7 +635,7 @@
     ],
     "file": "glb/chandelier_wheel.glb",
     "preview": "previews/chandelier_wheel.png",
-    "glb_bytes": 2145040
+    "glb_bytes": 2139472
   },
   {
     "id": "brazier_standing",
@@ -647,7 +647,7 @@
       1.07,
       0.77
     ],
-    "triangles": 5574,
+    "triangles": 5442,
     "materials": [
       "wrought_iron",
       "glowing_charcoal",
@@ -656,7 +656,7 @@
     ],
     "file": "glb/brazier_standing.glb",
     "preview": "previews/brazier_standing.png",
-    "glb_bytes": 1209620
+    "glb_bytes": 1208828
   },
   {
     "id": "candelabra_floor",
@@ -668,7 +668,7 @@
       1.58,
       0.56
     ],
-    "triangles": 4828,
+    "triangles": 4232,
     "materials": [
       "wrought_iron",
       "beeswax",
@@ -678,6 +678,6 @@
     ],
     "file": "glb/candelabra_floor.glb",
     "preview": "previews/candelabra_floor.png",
-    "glb_bytes": 1469840
+    "glb_bytes": 1466264
   }
 ]
