@@ -991,5 +991,73 @@
     "file": "glb/arms_shield_wall.glb",
     "preview": "previews/arms_shield_wall.png",
     "glb_bytes": 1771604
+  },
+  {
+    "id": "well_stone",
+    "name": "Stone well",
+    "category": "courtyard",
+    "description": "Round stone well 3.3 m high with dressed capstone, oak posts, slate gable roof, windlass with rope coils and crank, iron-hooped bucket and a water surface.",
+    "size_m": [
+      2.7,
+      3.34,
+      2
+    ],
+    "triangles": 4296,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "void",
+      "water",
+      "dark_wood",
+      "roof_slates_02",
+      "thatch_roof_angled",
+      "wrought_iron",
+      "wooden_barrel"
+    ],
+    "file": "glb/well_stone.glb",
+    "preview": "previews/well_stone.png",
+    "glb_bytes": 6497392
+  },
+  {
+    "id": "trough_stone",
+    "name": "Stone horse trough",
+    "category": "courtyard",
+    "description": "Dressed-stone trough 1.7 m long with four walls, a water surface and two iron tie rods with riveted heads.",
+    "size_m": [
+      1.7,
+      0.5,
+      0.66
+    ],
+    "triangles": 840,
+    "materials": [
+      "large_sandstone_blocks",
+      "water",
+      "wrought_iron"
+    ],
+    "file": "glb/trough_stone.glb",
+    "preview": "previews/trough_stone.png",
+    "glb_bytes": 950808
+  },
+  {
+    "id": "cart_hand",
+    "name": "Hand cart",
+    "category": "courtyard",
+    "description": "Two-wheeled cart with iron-tyred spoked wheels, boarded bed, long shafts, front stand and a hay load. Shafts point towards +Z.",
+    "size_m": [
+      1.3,
+      1,
+      2.61
+    ],
+    "triangles": 6400,
+    "materials": [
+      "oak_wood_planks",
+      "wrought_iron",
+      "dark_wood",
+      "weathered_planks",
+      "thatch_roof_angled"
+    ],
+    "file": "glb/cart_hand.glb",
+    "preview": "previews/cart_hand.png",
+    "glb_bytes": 3440148
   }
 ]
