@@ -747,5 +747,119 @@
     "file": "glb/grindstone_wheel.glb",
     "preview": "previews/grindstone_wheel.png",
     "glb_bytes": 2527600
+  },
+  {
+    "id": "cauldron_tripod",
+    "name": "Cauldron on tripod",
+    "category": "kitchen",
+    "description": "Bellied iron cauldron with rivet band, bail and chain, hung from a rope-lashed timber tripod over a log fire in a ring of hearth stones.",
+    "size_m": [
+      1.53,
+      1.76,
+      1.43
+    ],
+    "triangles": 7242,
+    "materials": [
+      "dark_wood",
+      "thatch_roof_angled",
+      "void",
+      "glowing_charcoal",
+      "hearth_stone",
+      "bark_brown_01",
+      "flame_core",
+      "flame_outer",
+      "wrought_iron",
+      "broth"
+    ],
+    "file": "glb/cauldron_tripod.glb",
+    "preview": "previews/cauldron_tripod.png",
+    "glb_bytes": 5263840
+  },
+  {
+    "id": "jug_clay",
+    "name": "Clay jug",
+    "category": "kitchen",
+    "description": "Terracotta jug 0.36 m high with flared neck, loop handle, cork stopper and two incised bands.",
+    "size_m": [
+      0.3,
+      0.37,
+      0.27
+    ],
+    "triangles": 1952,
+    "materials": [
+      "terracotta",
+      "dark_wood",
+      "oak_wood_planks"
+    ],
+    "file": "glb/jug_clay.glb",
+    "preview": "previews/jug_clay.png",
+    "glb_bytes": 1701028
+  },
+  {
+    "id": "amphora_wine",
+    "name": "Wine amphora on stand",
+    "category": "kitchen",
+    "description": "Pointed 0.88 m terracotta amphora with strap handles, painted bands and wax seal, on a three-legged oak ring stand.",
+    "size_m": [
+      0.63,
+      0.89,
+      0.57
+    ],
+    "triangles": 3816,
+    "materials": [
+      "terracotta",
+      "dark_wood",
+      "beeswax",
+      "oak_wood_planks"
+    ],
+    "file": "glb/amphora_wine.glb",
+    "preview": "previews/amphora_wine.png",
+    "glb_bytes": 2918124
+  },
+  {
+    "id": "tableware_pewter",
+    "name": "Pewter tableware board",
+    "category": "kitchen",
+    "description": "Oak serving board with a pewter plate and round loaf, tankard, wine goblet and a table knife.",
+    "size_m": [
+      0.62,
+      0.2,
+      0.42
+    ],
+    "triangles": 3832,
+    "materials": [
+      "oak_wood_planks",
+      "pewter",
+      "bread_crust",
+      "dark_wood",
+      "wine",
+      "aged_brass",
+      "forged_steel"
+    ],
+    "file": "glb/tableware_pewter.glb",
+    "preview": "previews/tableware_pewter.png",
+    "glb_bytes": 2971068
+  },
+  {
+    "id": "table_butcher",
+    "name": "Butcher table",
+    "category": "kitchen",
+    "description": "Plank-top butcher table with apron and lower shelf, a cleaver stuck in the top, a cutting board with knife and a rail with four iron hooks.",
+    "size_m": [
+      1.2,
+      1.47,
+      0.62
+    ],
+    "triangles": 4364,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "forged_steel",
+      "aged_brass",
+      "wrought_iron"
+    ],
+    "file": "glb/table_butcher.glb",
+    "preview": "previews/table_butcher.png",
+    "glb_bytes": 1885060
   }
 ]

@@ -56,6 +56,13 @@ export function makeMaterials() {
     // double-sided: the pleated bellows band is a thin shell seen from both sides
     bellowsLeather: pbr('brown_leather', { name: 'bellows_leather', tile: 0.4, color: 0x8f6a48, normalScale: 1.3, side: THREE.DoubleSide }),
     water: new THREE.MeshStandardMaterial({ name: 'water', color: 0x3f6670, roughness: 0.05, metalness: 0, transparent: true, opacity: 0.8 }),
+    // Kitchen props (stage 4)
+    clay: pbr('clay_plaster', { name: 'terracotta', tile: 0.5, color: 0xb86a42, roughness: 0.9, normalScale: 0.7 }),
+    pewter: pbr('forged_steel', { name: 'pewter', tile: 0.4, metalness: 0.85, roughness: 0.62, color: 0xb4b8bd, normalScale: 0.5 }),
+    bread: pbr('white_plaster_rough_02', { name: 'bread_crust', tile: 0.3, color: 0xc4883f, roughness: 0.95, normalScale: 0.7 }),
+    hearth: pbr('rock_boulder_dry', { name: 'hearth_stone', tile: 0.8, color: 0xc2b8aa, normalScale: 1.1 }),
+    wine: new THREE.MeshStandardMaterial({ name: 'wine', color: 0x4a0f18, roughness: 0.15 }),
+    broth: new THREE.MeshStandardMaterial({ name: 'broth', color: 0x5e3b1e, roughness: 0.3 }),
   };
 }
 
