@@ -1059,5 +1059,107 @@
     "file": "glb/cart_hand.glb",
     "preview": "previews/cart_hand.png",
     "glb_bytes": 3440148
+  },
+  {
+    "id": "stocks_wooden",
+    "name": "Wooden stocks",
+    "category": "dungeon",
+    "description": "Oak stocks on sleeper feet: fixed lower and hinged upper board notched for three ankles, riveted iron hinge straps, hasp and padlock, plank seat behind.",
+    "size_m": [
+      1.57,
+      1.21,
+      0.88
+    ],
+    "triangles": 3436,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "wrought_iron",
+      "forged_steel"
+    ],
+    "file": "glb/stocks_wooden.glb",
+    "preview": "previews/stocks_wooden.png",
+    "glb_bytes": 1755656
+  },
+  {
+    "id": "cage_iron",
+    "name": "Iron prisoner cage",
+    "category": "dungeon",
+    "description": "Standing round cage 2.1 m high: sixteen bars, three riveted bands, plank floor on an iron platform, barred door with hinges and padlock, ribbed dome and top ring.",
+    "size_m": [
+      1,
+      2.16,
+      1
+    ],
+    "triangles": 8104,
+    "materials": [
+      "wrought_iron",
+      "dark_wood",
+      "forged_steel"
+    ],
+    "file": "glb/cage_iron.glb",
+    "preview": "previews/cage_iron.png",
+    "glb_bytes": 1208564
+  },
+  {
+    "id": "shackles_wall",
+    "name": "Wall shackles",
+    "category": "dungeon",
+    "description": "Riveted iron bar with two eye plates, thirteen-link chains and hinged cuffs. Wall-mounted with its back at z = 0; place it at the mounting height of the bar minus 0.76 m.",
+    "size_m": [
+      0.9,
+      0.76,
+      0.08
+    ],
+    "triangles": 4556,
+    "materials": [
+      "wrought_iron",
+      "forged_steel"
+    ],
+    "file": "glb/shackles_wall.glb",
+    "preview": "previews/shackles_wall.png",
+    "glb_bytes": 515924
+  },
+  {
+    "id": "pallet_straw",
+    "name": "Straw pallet",
+    "category": "dungeon",
+    "description": "Low plank bed frame 1.9 m long with slats, straw mattress, linen blanket, rolled pillow and loose straw around it.",
+    "size_m": [
+      1.44,
+      0.35,
+      2.49
+    ],
+    "triangles": 2612,
+    "materials": [
+      "weathered_planks",
+      "oak_wood_planks",
+      "thatch_roof_angled",
+      "rough_linen"
+    ],
+    "file": "glb/pallet_straw.glb",
+    "preview": "previews/pallet_straw.png",
+    "glb_bytes": 3496456
+  },
+  {
+    "id": "bucket_wooden",
+    "name": "Wooden bucket",
+    "category": "dungeon",
+    "description": "Stave bucket 0.3 m high with two iron hoops, rope bail on iron ears and a water surface.",
+    "size_m": [
+      0.36,
+      0.47,
+      0.34
+    ],
+    "triangles": 1392,
+    "materials": [
+      "wooden_barrel",
+      "wrought_iron",
+      "water",
+      "thatch_roof_angled"
+    ],
+    "file": "glb/bucket_wooden.glb",
+    "preview": "previews/bucket_wooden.png",
+    "glb_bytes": 2395816
   }
 ]

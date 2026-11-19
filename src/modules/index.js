@@ -12,6 +12,7 @@ import { workshopModules } from './workshop.js';
 import { kitchenModules } from './kitchen.js';
 import { chapelModules, heraldryModules } from './chapel.js';
 import { courtyardModules } from './yard.js';
+import { dungeonModules } from './dungeon.js';
 
 export const MODULES = [
   ...wallModules,
@@ -26,6 +27,7 @@ export const MODULES = [
   ...chapelModules,
   ...heraldryModules,
   ...courtyardModules,
+  ...dungeonModules,
 ];
 
 export function byId(id) {
