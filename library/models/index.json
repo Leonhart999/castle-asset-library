@@ -679,5 +679,73 @@
     "file": "glb/candelabra_floor.glb",
     "preview": "previews/candelabra_floor.png",
     "glb_bytes": 1466264
+  },
+  {
+    "id": "anvil_smith",
+    "name": "Smith anvil on stump",
+    "category": "workshop",
+    "description": "Forged anvil with conical horn, steel face plate, hardy and pritchel holes, iron staples, on a hooped bark stump. Working height 0.79 m.",
+    "size_m": [
+      0.77,
+      0.79,
+      0.61
+    ],
+    "triangles": 4936,
+    "materials": [
+      "bark_brown_01",
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "forged_steel",
+      "void"
+    ],
+    "file": "glb/anvil_smith.glb",
+    "preview": "previews/anvil_smith.png",
+    "glb_bytes": 3237376
+  },
+  {
+    "id": "bellows_hand",
+    "name": "Hand bellows",
+    "category": "workshop",
+    "description": "Forge bellows on a trestle stand: tapered oak boards hinged at the rear, pleated leather band, turned handles and an iron nozzle.",
+    "size_m": [
+      0.56,
+      0.79,
+      1.76
+    ],
+    "triangles": 4264,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "aged_brass",
+      "wrought_iron",
+      "bellows_leather"
+    ],
+    "file": "glb/bellows_hand.glb",
+    "preview": "previews/bellows_hand.png",
+    "glb_bytes": 2986156
+  },
+  {
+    "id": "grindstone_wheel",
+    "name": "Water grindstone",
+    "category": "workshop",
+    "description": "Sandstone grinding wheel on an iron axle between two A-frame trestles, hand crank and a water trough with a water surface.",
+    "size_m": [
+      1.21,
+      1,
+      0.72
+    ],
+    "triangles": 2816,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "water",
+      "old_sandstone_02",
+      "forged_steel"
+    ],
+    "file": "glb/grindstone_wheel.glb",
+    "preview": "previews/grindstone_wheel.png",
+    "glb_bytes": 2527600
   }
 ]

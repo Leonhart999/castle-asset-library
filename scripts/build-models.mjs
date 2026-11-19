@@ -3,7 +3,7 @@
 // Starts its own Vite server on port 5175 and a headless Chrome, so nothing else needs to run.
 //
 // Usage: npm run build:models [filter]
-//   filter: optional substring; only modules whose id contains it are rebuilt
+//   filter: optional, comma-separated id substrings or cat:<category>; only matching modules are rebuilt
 //           (their entries replace the old ones in index.json).
 
 import fs from 'node:fs';

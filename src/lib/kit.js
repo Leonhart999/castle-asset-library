@@ -50,6 +50,12 @@ export function makeMaterials() {
     flameCore: new THREE.MeshStandardMaterial({ name: 'flame_core', color: 0xfff4c2, emissive: 0xffd260, emissiveIntensity: 3.0, roughness: 0.3 }),
     flame: new THREE.MeshStandardMaterial({ name: 'flame_outer', color: 0xff7818, emissive: 0xff5208, emissiveIntensity: 1.8, transparent: true, opacity: 0.46, depthWrite: false, roughness: 1 }),
     ember: pbr('dark_rock', { name: 'glowing_charcoal', tile: 0.3, color: 0x2c1b15, emissive: 0xb82e06, emissiveIntensity: 0.85, roughness: 0.92, normalScale: 1.4 }),
+    // Workshop props (stage 4)
+    bark: pbr('bark_brown_01', { tile: 0.9, color: 0xb8a58c, normalScale: 1.3 }),
+    grindstone: pbr('old_sandstone_02', { tile: 0.6, color: 0xcfc4ae, normalScale: 1.2 }),
+    // double-sided: the pleated bellows band is a thin shell seen from both sides
+    bellowsLeather: pbr('brown_leather', { name: 'bellows_leather', tile: 0.4, color: 0x8f6a48, normalScale: 1.3, side: THREE.DoubleSide }),
+    water: new THREE.MeshStandardMaterial({ name: 'water', color: 0x3f6670, roughness: 0.05, metalness: 0, transparent: true, opacity: 0.8 }),
   };
 }
 

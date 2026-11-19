@@ -8,6 +8,7 @@ import { furnitureModules } from './furniture.js';
 import { containerModules } from './containers.js';
 import { weaponModules } from './weapons.js';
 import { lightingModules } from './lighting.js';
+import { workshopModules } from './workshop.js';
 
 export const MODULES = [
   ...wallModules,
@@ -17,6 +18,7 @@ export const MODULES = [
   ...containerModules,
   ...weaponModules,
   ...lightingModules,
+  ...workshopModules,
 ];
 
 export function byId(id) {
