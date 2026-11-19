@@ -91,6 +91,19 @@ launches the viewer directly on Windows):
 | weapon | `sword_arming`, `halberd`, `shield_heater`, `weapon_rack`, `archery_target` |
 | lighting | `torch_wall`, `sconce_candle`, `chandelier_wheel`, `brazier_standing`, `candelabra_floor` |
 
+## Stage 4: room props
+
+14 props for the rooms of a castle, built with the same conventions and export pipeline as stage 3 (shared helpers live in `src/lib/props.js`):
+
+| Family | Props |
+| --- | --- |
+| workshop | `anvil_smith`, `bellows_hand`, `grindstone_wheel` |
+| kitchen | `cauldron_tripod`, `jug_clay`, `amphora_wine`, `tableware_pewter`, `table_butcher` |
+| chapel | `altar_stone`, `pew_wooden`, `lectern_book`, `font_baptismal` |
+| heraldry | `banner_standing`, `arms_shield_wall` (wall-mounted, back at `z = 0`) |
+
+Review tooling: `npm run review <filter|all> [cols] [rows] [views|none]` checks every matching module (NaN and zero-area triangles, lowest point at y = 0, triangles per material) and prints ASCII renders from several directions. Filters are comma-separated id substrings or `cat:<category>`, and work the same way in `npm run build:models`, in the viewer (`?filter=`) and in the review script.
+
 ## Planned next stages
 
-Workshop, kitchen and chapel props (forge/anvil, cauldron, altar, banners/heraldry), or scene assembly.
+Courtyard, stable and dungeon props, or scene assembly.
