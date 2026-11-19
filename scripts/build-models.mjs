@@ -16,15 +16,17 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = path.join(root, 'library', 'models');
 const indexPath = path.join(outDir, 'index.json');
 const filter = process.argv[2] || '';
-const PORT = 5175;
+let PORT = 5175; // the real port is read back after listen(), so several sessions can build side by side
 
 const server = await createServer({
   root,
   configFile: path.join(root, 'vite.config.js'),
-  server: { port: PORT, strictPort: true },
+  // hmr off: other sessions edit src/ while this build runs, and a hot reload would destroy the page mid-export
+  server: { port: PORT, strictPort: false, hmr: false },
   logLevel: 'warn',
 });
 await server.listen();
+PORT = server.httpServer.address().port;
 
 const browser = await puppeteer.launch({
   executablePath: process.env.CHROME || 'C:/Program Files/Google/Chrome/Application/chrome.exe',

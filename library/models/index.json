@@ -861,5 +861,135 @@
     "file": "glb/table_butcher.glb",
     "preview": "previews/table_butcher.png",
     "glb_bytes": 1885060
+  },
+  {
+    "id": "altar_stone",
+    "name": "Stone altar",
+    "category": "chapel",
+    "description": "Marble-topped altar 1.8 m wide on a stepped plinth with solid ends, crimson frontal with gilt orphreys, linen cloth, brass crucifix, two candlesticks, chalice and missal.",
+    "size_m": [
+      1.96,
+      1.62,
+      0.96
+    ],
+    "triangles": 4644,
+    "materials": [
+      "large_sandstone_blocks",
+      "marble_white",
+      "crimson_fabric",
+      "aged_brass",
+      "rough_linen",
+      "beeswax",
+      "void",
+      "flame_core",
+      "flame_outer",
+      "wine",
+      "brown_leather"
+    ],
+    "file": "glb/altar_stone.glb",
+    "preview": "previews/altar_stone.png",
+    "glb_bytes": 5424280
+  },
+  {
+    "id": "pew_wooden",
+    "name": "Church pew",
+    "category": "chapel",
+    "description": "Two-seat oak pew with gothic-profile end panels, poppyhead finials, plank seat, three back rails, cap rail and foot rail.",
+    "size_m": [
+      1.81,
+      1.19,
+      0.56
+    ],
+    "triangles": 944,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood"
+    ],
+    "file": "glb/pew_wooden.glb",
+    "preview": "previews/pew_wooden.png",
+    "glb_bytes": 1298660
+  },
+  {
+    "id": "lectern_book",
+    "name": "Book lectern",
+    "category": "chapel",
+    "description": "Turned oak lectern with a tilted reading desk, front lip and a closed leather-bound book with a gilt boss.",
+    "size_m": [
+      0.56,
+      1.3,
+      0.5
+    ],
+    "triangles": 1284,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "brown_leather",
+      "rough_linen",
+      "aged_brass"
+    ],
+    "file": "glb/lectern_book.glb",
+    "preview": "previews/lectern_book.png",
+    "glb_bytes": 3652512
+  },
+  {
+    "id": "font_baptismal",
+    "name": "Baptismal font",
+    "category": "chapel",
+    "description": "Octagonal stone font: stepped plinth, stem ringed by eight colonnettes, round bowl with rim moulding and a water surface.",
+    "size_m": [
+      0.92,
+      1,
+      0.92
+    ],
+    "triangles": 1776,
+    "materials": [
+      "large_sandstone_blocks",
+      "water"
+    ],
+    "file": "glb/font_baptismal.glb",
+    "preview": "previews/font_baptismal.png",
+    "glb_bytes": 826164
+  },
+  {
+    "id": "banner_standing",
+    "name": "Standing banner",
+    "category": "heraldry",
+    "description": "Processional banner on a 2.4 m pole with cross-shaped foot: rippled azure cloth with a gilt cross, gilt crossbar, tassels and spear finial.",
+    "size_m": [
+      0.91,
+      2.57,
+      0.62
+    ],
+    "triangles": 3796,
+    "materials": [
+      "dark_wood",
+      "wrought_iron",
+      "aged_brass",
+      "azure_fabric"
+    ],
+    "file": "glb/banner_standing.glb",
+    "preview": "previews/banner_standing.png",
+    "glb_bytes": 1661280
+  },
+  {
+    "id": "arms_shield_wall",
+    "name": "Wall-hung coat of arms",
+    "category": "heraldry",
+    "description": "Heater-shaped oak frame with studded rim, azure field, gilt chevron and three gilt roundels, hung from an iron eye. Back at z = 0.",
+    "size_m": [
+      0.62,
+      1.07,
+      0.08
+    ],
+    "triangles": 2112,
+    "materials": [
+      "oak_wood_planks",
+      "azure_fabric",
+      "aged_brass",
+      "wrought_iron"
+    ],
+    "file": "glb/arms_shield_wall.glb",
+    "preview": "previews/arms_shield_wall.png",
+    "glb_bytes": 1771604
   }
 ]

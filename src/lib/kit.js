@@ -63,6 +63,9 @@ export function makeMaterials() {
     hearth: pbr('rock_boulder_dry', { name: 'hearth_stone', tile: 0.8, color: 0xc2b8aa, normalScale: 1.1 }),
     wine: new THREE.MeshStandardMaterial({ name: 'wine', color: 0x4a0f18, roughness: 0.15 }),
     broth: new THREE.MeshStandardMaterial({ name: 'broth', color: 0x5e3b1e, roughness: 0.3 }),
+    // Chapel and heraldry props (stage 4)
+    marble: pbr('marble_01', { name: 'marble_white', tile: 1.0, color: 0xe2ddd4, normalScale: 0.8 }),
+    azure: pbr('quatrefoil_jacquard_fabric', { name: 'azure_fabric', tile: 0.32, color: 0x1f3f78, normalScale: 1.35 }),
   };
 }
 
@@ -344,3 +347,4 @@ export function candle(b, pos, { h = 0.22, r = 0.024, panR = 0.058, matPan = 'ir
   b.add('void', G.cylinder(0.0025, 0.003, 0.028, 6, { y0: 0.01 + h - 0.012 }), [x, y, z], 0, 0.14);
   softFlame(b, [x, y + 0.01 + h + 0.008, z], 0.95);
 }
+

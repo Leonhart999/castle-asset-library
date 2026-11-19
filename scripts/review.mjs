@@ -45,7 +45,8 @@ function describe(id, s) {
 const server = await createServer({
   root,
   configFile: path.join(root, 'vite.config.js'),
-  server: { port: 5176, strictPort: false },
+  // hmr off: other sessions edit src/ while a review runs, and a hot reload would break the page mid-render
+  server: { port: 5176, strictPort: false, hmr: false },
   logLevel: 'warn',
 });
 await server.listen();
