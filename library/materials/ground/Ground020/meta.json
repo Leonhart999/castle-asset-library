@@ -1,0 +1,25 @@
+{
+  "id": "Ground020",
+  "name": "Ground 020",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "forest",
+    "grass",
+    "ground",
+    "leaves"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground020",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

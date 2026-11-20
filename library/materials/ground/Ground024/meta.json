@@ -1,0 +1,26 @@
+{
+  "id": "Ground024",
+  "name": "Ground 024",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "forest",
+    "ground",
+    "moss",
+    "mud",
+    "sticks"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground024",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

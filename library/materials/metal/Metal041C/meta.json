@@ -1,0 +1,27 @@
+{
+  "id": "Metal041C",
+  "name": "Metal 041 C",
+  "category": "metal",
+  "tags": [
+    "iron",
+    "metal",
+    "rust"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal041C",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PavingStones005",
+  "name": "Paving Stones 005",
+  "category": "stone-floor",
+  "tags": [
+    "cobblestone",
+    "pavement",
+    "paving",
+    "stones"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": [
+    1250,
+    1250
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones005",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

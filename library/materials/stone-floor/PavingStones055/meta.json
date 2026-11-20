@@ -1,0 +1,33 @@
+{
+  "id": "PavingStones055",
+  "name": "Paving Stones 055",
+  "category": "stone-floor",
+  "tags": [
+    "medieval",
+    "old",
+    "paved",
+    "pavement",
+    "paving",
+    "pebbles",
+    "road",
+    "rocks",
+    "roman",
+    "stones"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones055",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Marble014",
+  "name": "Marble 014",
+  "category": "fine-stone",
+  "tags": [
+    "beige",
+    "light",
+    "marble",
+    "smooth",
+    "stone"
+  ],
+  "ambientcg_category": "Marble",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Marble014",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

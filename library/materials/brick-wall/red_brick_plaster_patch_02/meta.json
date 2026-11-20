@@ -1,0 +1,37 @@
+{
+  "id": "red_brick_plaster_patch_02",
+  "name": "Red Brick Plaster Patch 02",
+  "category": "brick-wall",
+  "tags": [
+    "red",
+    "rough",
+    "broken",
+    "bricks",
+    "crumbling",
+    "timeworn",
+    "worn down",
+    "exposed brick",
+    "plaster",
+    "deteriorating facade",
+    "deteriorated"
+  ],
+  "polyhaven_categories": [
+    "outdoor",
+    "wall",
+    "dirty",
+    "man made",
+    "brick"
+  ],
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/red_brick_plaster_patch_02"
+}

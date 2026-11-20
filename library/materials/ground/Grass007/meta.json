@@ -1,0 +1,24 @@
+{
+  "id": "Grass007",
+  "name": "Grass 007",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "lawn",
+    "moss",
+    "weeds"
+  ],
+  "ambientcg_category": "Grass",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Grass007",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

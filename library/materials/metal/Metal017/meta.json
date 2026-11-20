@@ -1,0 +1,32 @@
+{
+  "id": "Metal017",
+  "name": "Metal 017",
+  "category": "metal",
+  "tags": [
+    "bronze",
+    "dark",
+    "erode",
+    "erosion",
+    "metal",
+    "old",
+    "scratched",
+    "scratches"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal017",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Fabric034",
+  "name": "Fabric 034",
+  "category": "fabric-leather",
+  "tags": [
+    "fabric",
+    "felt",
+    "grey",
+    "white"
+  ],
+  "ambientcg_category": "Fabric",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Fabric034",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

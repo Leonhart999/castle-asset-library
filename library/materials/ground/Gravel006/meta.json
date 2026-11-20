@@ -1,0 +1,24 @@
+{
+  "id": "Gravel006",
+  "name": "Gravel 006",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "dark",
+    "dirt",
+    "gravel"
+  ],
+  "ambientcg_category": "Gravel",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Gravel006",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

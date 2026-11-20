@@ -1,0 +1,29 @@
+{
+  "id": "Bark014",
+  "name": "Bark 014",
+  "category": "wood",
+  "tags": [
+    "bark",
+    "brown",
+    "fir",
+    "forest",
+    "tree",
+    "wood"
+  ],
+  "ambientcg_category": "Bark",
+  "dimensions_mm": [
+    1200,
+    1200
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bark014",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

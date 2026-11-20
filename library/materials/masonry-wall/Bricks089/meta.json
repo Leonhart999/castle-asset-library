@@ -1,0 +1,31 @@
+{
+  "id": "Bricks089",
+  "name": "Bricks 089",
+  "category": "masonry-wall",
+  "tags": [
+    "brick",
+    "bricks",
+    "dark",
+    "gray",
+    "medieval",
+    "random",
+    "stone",
+    "wall"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    2200,
+    1100
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks089",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

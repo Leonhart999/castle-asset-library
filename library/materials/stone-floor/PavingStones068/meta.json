@@ -1,0 +1,28 @@
+{
+  "id": "PavingStones068",
+  "name": "Paving Stones 068",
+  "category": "stone-floor",
+  "tags": [
+    "broken",
+    "old",
+    "paved",
+    "pavement",
+    "paving",
+    "square",
+    "stones",
+    "tiles"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones068",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

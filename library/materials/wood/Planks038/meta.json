@@ -1,0 +1,29 @@
+{
+  "id": "Planks038",
+  "name": "Planks 038",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "dirt",
+    "green",
+    "mold",
+    "moss",
+    "planks"
+  ],
+  "ambientcg_category": "Planks",
+  "dimensions_mm": [
+    1100,
+    550
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Planks038",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

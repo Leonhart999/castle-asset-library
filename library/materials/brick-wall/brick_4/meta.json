@@ -1,0 +1,32 @@
+{
+  "id": "brick_4",
+  "name": "Brick 4",
+  "category": "brick-wall",
+  "tags": [
+    "red",
+    "moss",
+    "urban",
+    "city",
+    "damp",
+    "wet"
+  ],
+  "polyhaven_categories": [
+    "wall",
+    "man made",
+    "dirty",
+    "outdoor",
+    "brick"
+  ],
+  "dimensions_mm": [
+    500,
+    500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/brick_4"
+}

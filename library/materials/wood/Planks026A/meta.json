@@ -1,0 +1,19 @@
+{
+  "id": "Planks026A",
+  "name": "Planks 026 A",
+  "category": "wood",
+  "tags": [
+    "planks",
+    "wood"
+  ],
+  "ambientcg_category": "Planks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Planks026A"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "RoofingTiles012A",
+  "name": "Roofing Tiles 012 A",
+  "category": "roof",
+  "tags": [
+    "clay",
+    "roof",
+    "roofing",
+    "tiles",
+    "tiling"
+  ],
+  "ambientcg_category": "Roofing Tiles",
+  "dimensions_mm": [
+    2900,
+    2900
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg",
+    "opacity_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/RoofingTiles012A",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

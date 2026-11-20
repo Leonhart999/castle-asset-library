@@ -1,0 +1,25 @@
+{
+  "id": "Rock022",
+  "name": "Rock 022",
+  "category": "rock-cliff",
+  "tags": [
+    "cliff",
+    "rock",
+    "rocks",
+    "stone",
+    "wall"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock022",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

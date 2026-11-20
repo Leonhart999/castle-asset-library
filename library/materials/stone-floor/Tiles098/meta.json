@@ -1,0 +1,26 @@
+{
+  "id": "Tiles098",
+  "name": "Tiles 098",
+  "category": "stone-floor",
+  "tags": [
+    "medieval",
+    "paving",
+    "tiles"
+  ],
+  "ambientcg_category": "Tiles",
+  "dimensions_mm": [
+    1850,
+    1850
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Tiles098",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

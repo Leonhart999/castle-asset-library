@@ -1,0 +1,27 @@
+{
+  "id": "Bricks083",
+  "name": "Bricks 083",
+  "category": "masonry-wall",
+  "tags": [
+    "beige",
+    "bricks",
+    "medieval",
+    "sandstone"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    3000,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks083",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

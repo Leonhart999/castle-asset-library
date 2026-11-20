@@ -1,0 +1,36 @@
+{
+  "id": "Ground108",
+  "name": "Ground 108",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "debris",
+    "dirt",
+    "gravel",
+    "gray",
+    "ground",
+    "river",
+    "riverbed",
+    "rocky",
+    "rough",
+    "rubble",
+    "scattered",
+    "uneven"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground108",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

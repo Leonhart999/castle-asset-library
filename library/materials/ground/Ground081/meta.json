@@ -1,0 +1,27 @@
+{
+  "id": "Ground081",
+  "name": "Ground 081",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "dirt",
+    "gravel",
+    "ground",
+    "path",
+    "rocky",
+    "stone"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground081",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

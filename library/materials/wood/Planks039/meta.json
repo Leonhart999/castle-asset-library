@@ -1,0 +1,30 @@
+{
+  "id": "Planks039",
+  "name": "Planks 039",
+  "category": "wood",
+  "tags": [
+    "dirty",
+    "large",
+    "medieval",
+    "old",
+    "planks",
+    "rough",
+    "wooden"
+  ],
+  "ambientcg_category": "Planks",
+  "dimensions_mm": [
+    1500,
+    750
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Planks039",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

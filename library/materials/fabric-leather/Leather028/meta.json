@@ -1,0 +1,26 @@
+{
+  "id": "Leather028",
+  "name": "Leather 028",
+  "category": "fabric-leather",
+  "tags": [
+    "brown",
+    "leather"
+  ],
+  "ambientcg_category": "Leather",
+  "dimensions_mm": [
+    450,
+    450
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Leather028",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

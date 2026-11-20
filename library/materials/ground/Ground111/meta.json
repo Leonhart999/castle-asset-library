@@ -1,0 +1,38 @@
+{
+  "id": "Ground111",
+  "name": "Ground 111",
+  "category": "ground",
+  "tags": [
+    "brick",
+    "brown",
+    "construction",
+    "debris",
+    "dirt",
+    "fragments",
+    "gravel",
+    "gray",
+    "ground",
+    "orange",
+    "rock",
+    "rough",
+    "rubble",
+    "scattered",
+    "urban"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2800,
+    2800
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground111",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

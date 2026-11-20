@@ -5,6 +5,7 @@
 //
 // Usage: node scripts/fetch-materials.mjs [filter]
 //   filter: optional substring matched against the category or the material id.
+//   --index: only rebuild index.json (used by fetch-ambientcg.py, which fetches the ambientCG sets).
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -110,6 +111,10 @@ function rebuildIndex() {
 }
 
 async function main() {
+  if (filter === '--index') {
+    rebuildIndex();
+    return;
+  }
   fs.mkdirSync(outRoot, { recursive: true });
   const tasks = [];
   for (const [category, { res, ids }] of Object.entries(manifest.categories)) {

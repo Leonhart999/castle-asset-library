@@ -1,0 +1,32 @@
+{
+  "id": "Bricks008",
+  "name": "Bricks 008",
+  "category": "masonry-wall",
+  "tags": [
+    "bricks",
+    "church",
+    "clean",
+    "flat",
+    "medieval",
+    "old",
+    "sandstone",
+    "stone",
+    "wall"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    1650,
+    1650
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks008",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

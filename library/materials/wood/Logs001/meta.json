@@ -1,0 +1,26 @@
+{
+  "id": "Logs001",
+  "name": "Logs 001",
+  "category": "wood",
+  "tags": [
+    "fire",
+    "logs",
+    "wood"
+  ],
+  "ambientcg_category": "Logs",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Logs001",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

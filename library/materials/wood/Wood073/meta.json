@@ -1,0 +1,27 @@
+{
+  "id": "Wood073",
+  "name": "Wood 073",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "knothole",
+    "rough",
+    "wood"
+  ],
+  "ambientcg_category": "Wood",
+  "dimensions_mm": [
+    700,
+    700
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Wood073",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

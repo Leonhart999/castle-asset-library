@@ -1,0 +1,36 @@
+{
+  "id": "ScatteredLeaves009",
+  "name": "Scattered Leaves 009",
+  "category": "ground",
+  "tags": [
+    "autumn",
+    "brown",
+    "cover",
+    "dry",
+    "fallen",
+    "forest",
+    "green",
+    "ground",
+    "leaves",
+    "natural",
+    "rough",
+    "scattered",
+    "yellow"
+  ],
+  "ambientcg_category": "Scattered Leaves",
+  "dimensions_mm": [
+    1700,
+    1700
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/ScatteredLeaves009",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "PavingStones139",
+  "name": "Paving Stones 139",
+  "category": "stone-floor",
+  "tags": [
+    "medival",
+    "moss",
+    "old",
+    "overgrown",
+    "pavement",
+    "paving",
+    "pebbles",
+    "rocks",
+    "stones"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": [
+    1550,
+    1550
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones139",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

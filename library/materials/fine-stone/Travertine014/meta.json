@@ -1,0 +1,28 @@
+{
+  "id": "Travertine014",
+  "name": "Travertine 014",
+  "category": "fine-stone",
+  "tags": [
+    "gray",
+    "marble",
+    "rough",
+    "stone",
+    "travertine"
+  ],
+  "ambientcg_category": "Travertine",
+  "dimensions_mm": [
+    1200,
+    1200
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Travertine014",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Metal052C",
+  "name": "Metal 052 C",
+  "category": "metal",
+  "tags": [
+    "impure",
+    "iron",
+    "metal",
+    "rough"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal052C",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

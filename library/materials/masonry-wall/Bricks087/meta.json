@@ -1,0 +1,29 @@
+{
+  "id": "Bricks087",
+  "name": "Bricks 087",
+  "category": "masonry-wall",
+  "tags": [
+    "beige",
+    "bricks",
+    "brown",
+    "medieval",
+    "stones",
+    "wall"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    1300,
+    1300
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks087",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "Grass004",
+  "name": "Grass 004",
+  "category": "ground",
+  "tags": [
+    "dense",
+    "garden",
+    "grass",
+    "green",
+    "ground",
+    "lawn",
+    "lush",
+    "natural",
+    "park",
+    "short",
+    "soft",
+    "suburban"
+  ],
+  "ambientcg_category": "Grass",
+  "dimensions_mm": [
+    1400,
+    1400
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Grass004",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

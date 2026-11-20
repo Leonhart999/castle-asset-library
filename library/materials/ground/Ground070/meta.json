@@ -1,0 +1,30 @@
+{
+  "id": "Ground070",
+  "name": "Ground 070",
+  "category": "ground",
+  "tags": [
+    "autumn",
+    "brown",
+    "fall",
+    "forest",
+    "ground",
+    "leaves",
+    "roots"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2600,
+    2600
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground070",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

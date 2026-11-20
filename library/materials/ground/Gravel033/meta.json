@@ -1,0 +1,27 @@
+{
+  "id": "Gravel033",
+  "name": "Gravel 033",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "gravel",
+    "ground",
+    "rocks"
+  ],
+  "ambientcg_category": "Gravel",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Gravel033",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

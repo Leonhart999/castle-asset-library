@@ -1,0 +1,28 @@
+{
+  "id": "Metal054B",
+  "name": "Metal 054 B",
+  "category": "metal",
+  "tags": [
+    "iron",
+    "metal",
+    "rusted",
+    "scratched"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal054B",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

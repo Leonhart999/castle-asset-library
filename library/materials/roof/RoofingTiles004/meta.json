@@ -1,0 +1,26 @@
+{
+  "id": "RoofingTiles004",
+  "name": "Roofing Tiles 004",
+  "category": "roof",
+  "tags": [
+    "clean",
+    "roofing",
+    "round",
+    "slate",
+    "tiles"
+  ],
+  "ambientcg_category": "Roofing Tiles",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/RoofingTiles004",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "MetalPlates011",
+  "name": "Metal Plates 011",
+  "category": "metal",
+  "tags": [
+    "metal",
+    "plates",
+    "rust",
+    "rusted"
+  ],
+  "ambientcg_category": "Metal Plates",
+  "dimensions_mm": [
+    1600,
+    1600
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/MetalPlates011"
+}

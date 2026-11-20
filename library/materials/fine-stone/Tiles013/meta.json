@@ -1,0 +1,29 @@
+{
+  "id": "Tiles013",
+  "name": "Tiles 013",
+  "category": "fine-stone",
+  "tags": [
+    "checker",
+    "floor",
+    "light",
+    "marble",
+    "pattern",
+    "tiles",
+    "white",
+    "yellow"
+  ],
+  "ambientcg_category": "Tiles",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Tiles013",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

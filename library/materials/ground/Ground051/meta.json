@@ -1,0 +1,27 @@
+{
+  "id": "Ground051",
+  "name": "Ground 051",
+  "category": "ground",
+  "tags": [
+    "dark",
+    "dirt",
+    "ground",
+    "mud"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground051",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Planks030C",
+  "name": "Planks 030 C",
+  "category": "wood",
+  "tags": [
+    "moss",
+    "plank",
+    "planks",
+    "wood"
+  ],
+  "ambientcg_category": "Planks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Planks030C"
+}

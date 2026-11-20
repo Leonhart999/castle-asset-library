@@ -1,0 +1,26 @@
+{
+  "id": "Moss001",
+  "name": "Moss 001",
+  "category": "ground",
+  "tags": [
+    "ground",
+    "moss",
+    "mossy"
+  ],
+  "ambientcg_category": "Moss",
+  "dimensions_mm": [
+    450,
+    450
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Moss001",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "TreeEnd003",
+  "name": "Tree End 003",
+  "category": "wood",
+  "tags": [
+    "cut",
+    "end",
+    "forest",
+    "stump",
+    "tree",
+    "wood"
+  ],
+  "ambientcg_category": "Tree End",
+  "dimensions_mm": [
+    600,
+    600
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg",
+    "opacity_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/TreeEnd003",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

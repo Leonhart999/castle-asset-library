@@ -1,0 +1,25 @@
+{
+  "id": "Rock003",
+  "name": "Rock 003",
+  "category": "rock-cliff",
+  "tags": [
+    "beige",
+    "cliff",
+    "rock",
+    "rough",
+    "stone"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock003",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

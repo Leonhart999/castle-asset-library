@@ -1,0 +1,25 @@
+{
+  "id": "Ground068",
+  "name": "Ground 068",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "ground",
+    "moss",
+    "rock",
+    "stone"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground068",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

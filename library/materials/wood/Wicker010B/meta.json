@@ -1,0 +1,25 @@
+{
+  "id": "Wicker010B",
+  "name": "Wicker 010 B",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "dirty",
+    "old",
+    "wicker"
+  ],
+  "ambientcg_category": "Wicker",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg",
+    "opacity_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Wicker010B",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

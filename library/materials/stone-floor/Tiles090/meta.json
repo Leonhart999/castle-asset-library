@@ -1,0 +1,28 @@
+{
+  "id": "Tiles090",
+  "name": "Tiles 090",
+  "category": "stone-floor",
+  "tags": [
+    "black",
+    "dark",
+    "old",
+    "random",
+    "tiles"
+  ],
+  "ambientcg_category": "Tiles",
+  "dimensions_mm": [
+    2450,
+    2450
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Tiles090",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

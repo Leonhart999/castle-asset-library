@@ -1,0 +1,25 @@
+{
+  "id": "PavingStones042",
+  "name": "Paving Stones 042",
+  "category": "stone-floor",
+  "tags": [
+    "grey",
+    "medieval",
+    "old",
+    "paving",
+    "stones"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones042",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

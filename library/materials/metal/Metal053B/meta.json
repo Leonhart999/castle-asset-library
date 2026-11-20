@@ -1,0 +1,27 @@
+{
+  "id": "Metal053B",
+  "name": "Metal 053 B",
+  "category": "metal",
+  "tags": [
+    "iron",
+    "metal",
+    "rusty"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal053B",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

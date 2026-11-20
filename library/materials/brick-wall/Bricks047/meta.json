@@ -1,0 +1,29 @@
+{
+  "id": "Bricks047",
+  "name": "Bricks 047",
+  "category": "brick-wall",
+  "tags": [
+    "brick",
+    "bricks",
+    "broken",
+    "mortar",
+    "old",
+    "orange",
+    "sloppy",
+    "stone",
+    "wall"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks047",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

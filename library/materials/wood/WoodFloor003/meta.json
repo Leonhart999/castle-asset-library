@@ -1,0 +1,26 @@
+{
+  "id": "WoodFloor003",
+  "name": "Wood Floor 003",
+  "category": "wood",
+  "tags": [
+    "floor",
+    "old",
+    "parquet",
+    "rough",
+    "used",
+    "wood"
+  ],
+  "ambientcg_category": "Wood Floor",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/WoodFloor003",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Ground037",
+  "name": "Ground 037",
+  "category": "ground",
+  "tags": [
+    "damp",
+    "earth",
+    "forest",
+    "grass",
+    "green",
+    "ground",
+    "moss",
+    "natural",
+    "overgrown",
+    "rough",
+    "woodland"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2100,
+    2100
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground037",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

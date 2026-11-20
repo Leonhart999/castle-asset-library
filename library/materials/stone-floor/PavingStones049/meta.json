@@ -1,0 +1,31 @@
+{
+  "id": "PavingStones049",
+  "name": "Paving Stones 049",
+  "category": "stone-floor",
+  "tags": [
+    "arches",
+    "cobble",
+    "cobblestone",
+    "dark",
+    "gray",
+    "grey",
+    "medieval",
+    "paving",
+    "stone",
+    "stones",
+    "wave"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones049",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

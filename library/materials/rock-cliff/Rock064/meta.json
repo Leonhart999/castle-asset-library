@@ -1,0 +1,32 @@
+{
+  "id": "Rock064",
+  "name": "Rock 064",
+  "category": "rock-cliff",
+  "tags": [
+    "forest",
+    "gray",
+    "green",
+    "irregular",
+    "moss",
+    "mossy",
+    "natural",
+    "old",
+    "rock",
+    "rough",
+    "stacked",
+    "stone"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock064",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

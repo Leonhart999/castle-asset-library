@@ -1,0 +1,39 @@
+{
+  "id": "Ground107",
+  "name": "Ground 107",
+  "category": "ground",
+  "tags": [
+    "brick",
+    "brown",
+    "debris",
+    "dirt",
+    "fragments",
+    "gray",
+    "ground",
+    "old",
+    "path",
+    "red",
+    "rough",
+    "rubble",
+    "scattered",
+    "stones",
+    "uneven",
+    "urban"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2800,
+    2800
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground107",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

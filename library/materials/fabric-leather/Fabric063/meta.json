@@ -1,0 +1,25 @@
+{
+  "id": "Fabric063",
+  "name": "Fabric 063",
+  "category": "fabric-leather",
+  "tags": [
+    "fabric",
+    "rough"
+  ],
+  "ambientcg_category": "Fabric",
+  "dimensions_mm": [
+    400,
+    400
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Fabric063",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

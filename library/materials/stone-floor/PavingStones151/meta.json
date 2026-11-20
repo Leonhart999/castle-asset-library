@@ -1,0 +1,39 @@
+{
+  "id": "PavingStones151",
+  "name": "Paving Stones 151",
+  "category": "stone-floor",
+  "tags": [
+    "arch",
+    "arches",
+    "beige",
+    "cobblestone",
+    "european",
+    "gray",
+    "grid",
+    "mosaic",
+    "old",
+    "paving",
+    "pedestrian",
+    "rough",
+    "stone",
+    "stones",
+    "street",
+    "urban"
+  ],
+  "ambientcg_category": "Paving Stones",
+  "dimensions_mm": [
+    5400,
+    5400
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PavingStones151",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

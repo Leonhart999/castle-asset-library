@@ -1,0 +1,25 @@
+{
+  "id": "Rocks001",
+  "name": "Rocks 001",
+  "category": "masonry-wall",
+  "tags": [
+    "boulder",
+    "cliff",
+    "rocks",
+    "stones",
+    "wall"
+  ],
+  "ambientcg_category": "Rocks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rocks001",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

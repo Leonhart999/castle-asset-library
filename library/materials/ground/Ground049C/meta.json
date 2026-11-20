@@ -1,0 +1,24 @@
+{
+  "id": "Ground049C",
+  "name": "Ground 049 C",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "gravel",
+    "ground",
+    "mud"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground049C",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

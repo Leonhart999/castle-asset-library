@@ -1,0 +1,24 @@
+{
+  "id": "Plaster004",
+  "name": "Plaster 004",
+  "category": "plaster",
+  "tags": [
+    "plaster",
+    "wall",
+    "white"
+  ],
+  "ambientcg_category": "Plaster",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Plaster004",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

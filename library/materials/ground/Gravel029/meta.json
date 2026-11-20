@@ -1,0 +1,31 @@
+{
+  "id": "Gravel029",
+  "name": "Gravel 029",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "gravel",
+    "ground",
+    "grunge",
+    "moss",
+    "pebbles",
+    "stone",
+    "wet"
+  ],
+  "ambientcg_category": "Gravel",
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Gravel029",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Bricks074",
+  "name": "Bricks 074",
+  "category": "brick-wall",
+  "tags": [
+    "bricks",
+    "patched",
+    "patchwork"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks074",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

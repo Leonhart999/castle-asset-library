@@ -1,0 +1,29 @@
+{
+  "id": "RoofingTiles001",
+  "name": "Roofing Tiles 001",
+  "category": "roof",
+  "tags": [
+    "city",
+    "house",
+    "old",
+    "roof",
+    "roofing",
+    "slate",
+    "stone",
+    "tiles"
+  ],
+  "ambientcg_category": "Roofing Tiles",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/RoofingTiles001",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

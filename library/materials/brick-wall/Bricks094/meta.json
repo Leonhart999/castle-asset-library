@@ -1,0 +1,31 @@
+{
+  "id": "Bricks094",
+  "name": "Bricks 094",
+  "category": "brick-wall",
+  "tags": [
+    "bricks",
+    "brown",
+    "dirty",
+    "medival",
+    "old",
+    "red",
+    "stone",
+    "wall"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    1800,
+    900
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks094",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Rock037",
+  "name": "Rock 037",
+  "category": "rock-cliff",
+  "tags": [
+    "black",
+    "cliff",
+    "dirty",
+    "leaks",
+    "rock",
+    "stone"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock037",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

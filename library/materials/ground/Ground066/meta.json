@@ -1,0 +1,25 @@
+{
+  "id": "Ground066",
+  "name": "Ground 066",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "dirt",
+    "forest",
+    "ground",
+    "soil"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground066",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

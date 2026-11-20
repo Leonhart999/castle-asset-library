@@ -1,0 +1,27 @@
+{
+  "id": "Rock044",
+  "name": "Rock 044",
+  "category": "rock-cliff",
+  "tags": [
+    "cliff",
+    "large",
+    "rock",
+    "rough"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": [
+    1150,
+    1150
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock044",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

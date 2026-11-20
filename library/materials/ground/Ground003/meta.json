@@ -1,0 +1,25 @@
+{
+  "id": "Ground003",
+  "name": "Ground 003",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "grass",
+    "green",
+    "ground"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground003",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

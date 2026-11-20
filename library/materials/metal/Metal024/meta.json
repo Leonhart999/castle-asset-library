@@ -1,0 +1,31 @@
+{
+  "id": "Metal024",
+  "name": "Metal 024",
+  "category": "metal",
+  "tags": [
+    "leaks",
+    "metal",
+    "old",
+    "rust",
+    "rusty",
+    "spots",
+    "steel"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal024",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

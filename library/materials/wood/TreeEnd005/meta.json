@@ -1,0 +1,29 @@
+{
+  "id": "TreeEnd005",
+  "name": "Tree End 005",
+  "category": "wood",
+  "tags": [
+    "cut",
+    "end",
+    "tree",
+    "wood"
+  ],
+  "ambientcg_category": "Tree End",
+  "dimensions_mm": [
+    450,
+    450
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg",
+    "opacity_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/TreeEnd005",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

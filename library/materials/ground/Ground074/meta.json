@@ -1,0 +1,30 @@
+{
+  "id": "Ground074",
+  "name": "Ground 074",
+  "category": "ground",
+  "tags": [
+    "brown",
+    "dirt",
+    "ground",
+    "pathway",
+    "rocks",
+    "rocky",
+    "sand"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    1800,
+    1800
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground074",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Marble010",
+  "name": "Marble 010",
+  "category": "fine-stone",
+  "tags": [
+    "gray",
+    "grey",
+    "light",
+    "marble",
+    "rough",
+    "stone"
+  ],
+  "ambientcg_category": "Marble",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Marble010",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

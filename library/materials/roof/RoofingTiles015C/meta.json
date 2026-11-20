@@ -1,0 +1,31 @@
+{
+  "id": "RoofingTiles015C",
+  "name": "Roofing Tiles 015 C",
+  "category": "roof",
+  "tags": [
+    "brown",
+    "clay",
+    "dirty",
+    "roof",
+    "roofing",
+    "tiles",
+    "tiling"
+  ],
+  "ambientcg_category": "Roofing Tiles",
+  "dimensions_mm": [
+    2900,
+    2900
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg",
+    "opacity_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/RoofingTiles015C",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

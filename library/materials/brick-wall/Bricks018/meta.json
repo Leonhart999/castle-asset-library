@@ -1,0 +1,26 @@
+{
+  "id": "Bricks018",
+  "name": "Bricks 018",
+  "category": "brick-wall",
+  "tags": [
+    "bricks",
+    "dark",
+    "medieval",
+    "old",
+    "vintage"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks018",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

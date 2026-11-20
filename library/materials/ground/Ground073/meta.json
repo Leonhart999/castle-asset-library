@@ -1,0 +1,28 @@
+{
+  "id": "Ground073",
+  "name": "Ground 073",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "forest",
+    "gravel",
+    "ground",
+    "sticks"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": [
+    2000,
+    2000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground073",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

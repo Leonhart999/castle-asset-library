@@ -1,0 +1,27 @@
+{
+  "id": "Bricks082A",
+  "name": "Bricks 082 A",
+  "category": "brick-wall",
+  "tags": [
+    "bricks",
+    "brown",
+    "dark",
+    "red"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": [
+    1500,
+    1500
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks082A",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

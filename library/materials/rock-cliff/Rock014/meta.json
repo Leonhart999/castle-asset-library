@@ -1,0 +1,26 @@
+{
+  "id": "Rock014",
+  "name": "Rock 014",
+  "category": "rock-cliff",
+  "tags": [
+    "cliff",
+    "dark",
+    "grey",
+    "moss",
+    "rock",
+    "stone"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock014",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

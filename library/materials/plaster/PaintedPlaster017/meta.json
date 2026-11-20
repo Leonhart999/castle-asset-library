@@ -1,0 +1,25 @@
+{
+  "id": "PaintedPlaster017",
+  "name": "Painted Plaster 017",
+  "category": "plaster",
+  "tags": [
+    "paint",
+    "painted",
+    "plaster",
+    "white"
+  ],
+  "ambientcg_category": "Painted Plaster",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/PaintedPlaster017",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

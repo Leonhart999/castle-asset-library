@@ -1,0 +1,30 @@
+{
+  "id": "Metal019",
+  "name": "Metal 019",
+  "category": "metal",
+  "tags": [
+    "dark",
+    "dirty",
+    "metal",
+    "rough",
+    "smooth",
+    "smudge"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal019",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

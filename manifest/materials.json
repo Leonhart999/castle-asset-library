@@ -1,5 +1,5 @@
 {
-  "source": "Poly Haven (https://polyhaven.com), CC0",
+  "source": "Poly Haven (https://polyhaven.com) and ambientCG (https://ambientcg.com), CC0",
   "maps": ["diff", "nor", "arm"],
   "categories": {
     "masonry-wall": {
@@ -19,7 +19,15 @@
         "sandstone_blocks_08", "sandstone_brick_wall_01", "large_sandstone_blocks_01",
         "white_sandstone_bricks", "white_sandstone_bricks_03", "old_sandstone_02", "mossy_sandstone",
         "red_sandstone_wall", "seaworn_sandstone_brick", "granite_wall", "yellow_stone_wall",
-        "slumped_mortar_brick"
+        "slumped_mortar_brick",
+        "broken_wall", "rabdentse_ruins_wall", "coral_fort_wall_01", "coral_fort_wall_03",
+        "coral_stone_wall", "volcanic_rock_tiles"
+      ],
+      "ambientcg": [
+        "Bricks008", "Bricks075B", "Bricks076A", "Bricks076B", "Bricks076C", "Bricks078", "Bricks083",
+        "Bricks084", "Bricks087", "Bricks089", "Bricks091", "Bricks095", "Bricks096", "Bricks098",
+        "Bricks099", "Bricks100", "Bricks102", "Bricks106A", "Bricks107A", "Bricks108A", "Bricks109A",
+        "Bricks110A", "Bricks111A", "Bricks112A", "Bricks113A", "Rocks001", "Rocks025"
       ]
     },
     "brick-wall": {
@@ -31,7 +39,13 @@
         "brick_wall_07", "brick_wall_08", "brick_wall_09", "brick_wall_10", "brick_wall_11",
         "brick_wall_12", "brick_wall_13", "red_brick", "red_brick_03", "red_bricks_02", "red_bricks_04",
         "large_red_bricks", "brown_brick_02", "yellow_brick", "yellow_bricks", "white_bricks",
-        "patterned_brick_wall", "patterned_brick_wall_02", "patterned_brick_wall_03"
+        "patterned_brick_wall", "patterned_brick_wall_02", "patterned_brick_wall_03",
+        "brick_4", "red_brick_plaster_patch_02"
+      ],
+      "ambientcg": [
+        "Bricks003", "Bricks014", "Bricks018", "Bricks023", "Bricks026", "Bricks037", "Bricks039",
+        "Bricks042", "Bricks046", "Bricks047", "Bricks049", "Bricks054", "Bricks073A", "Bricks073C",
+        "Bricks074", "Bricks077", "Bricks082A", "Bricks082C", "Bricks094", "Bricks097"
       ]
     },
     "rock-cliff": {
@@ -39,7 +53,15 @@
       "ids": [
         "dark_rock", "dark_rock_02", "lichen_rock", "rock_face", "rock_face_03", "rock_face_04",
         "rock_surface", "rock_boulder_cracked", "rock_boulder_dry", "rock_04", "rock_05", "rock_06",
-        "aerial_rocks_01", "aerial_rocks_02", "aerial_rocks_04"
+        "aerial_rocks_01", "aerial_rocks_02", "aerial_rocks_04",
+        "quarry_wall", "quarry_wall_02", "marble_cliff_01", "marble_cliff_03", "marble_cliff_05",
+        "seaside_rock", "rock_01", "rock_08", "rock_2", "rock_3", "gray_rocks", "worn_rock_natural_01",
+        "sandstone_cracks", "dry_riverbed_rock"
+      ],
+      "ambientcg": [
+        "Rock003", "Rock006", "Rock011", "Rock012", "Rock014", "Rock016", "Rock022", "Rock023",
+        "Rock030", "Rock034", "Rock035", "Rock036", "Rock037", "Rock040", "Rock044", "Rock045",
+        "Rock051", "Rock057", "Rock059", "Rock062", "Rock063", "Rock064", "Rocks011", "Rocks016"
       ]
     },
     "stone-floor": {
@@ -53,7 +75,21 @@
         "cobblestone_floor_07", "cobblestone_floor_08", "cobblestone_floor_09", "cobblestone_floor_13",
         "cobblestone_pavement", "grey_stone_path", "stone_pathway_02", "stone_pavers", "slate_floor_03",
         "rock_tile_floor", "rock_tile_floor_02", "mossy_brick_floor", "worn_brick_path", "brick_floor",
-        "square_brick_floor", "patterned_paving", "rock_path", "terracotta_floor_tiles"
+        "square_brick_floor", "patterned_paving", "rock_path", "terracotta_floor_tiles",
+        "cobblestone_floor_001", "cobblestone_square", "grassy_cobblestone", "brick_floor_02",
+        "brick_floor_04", "brick_villa_floor", "floor_klinkers_01", "floor_klinkers_04",
+        "recycled_brick_floor", "square_brick_paving", "embedded_rock_floor", "mixed_rock_tiles",
+        "slab_tiles", "red_sandstone_tiles", "worn_tile_floor", "multicolored_pebble_floor"
+      ],
+      "ambientcg": [
+        "PavingStones005", "PavingStones033", "PavingStones036", "PavingStones040", "PavingStones041",
+        "PavingStones042", "PavingStones046", "PavingStones047", "PavingStones049", "PavingStones051",
+        "PavingStones054", "PavingStones055", "PavingStones056", "PavingStones068", "PavingStones070",
+        "PavingStones084", "PavingStones113", "PavingStones115A", "PavingStones115C", "PavingStones119",
+        "PavingStones121", "PavingStones122", "PavingStones131", "PavingStones134", "PavingStones138",
+        "PavingStones139", "PavingStones141", "PavingStones147", "PavingStones148", "PavingStones150",
+        "PavingStones151", "Tiles083", "Tiles085", "Tiles087", "Tiles089", "Tiles090", "Tiles092",
+        "Tiles098", "Tiles130"
       ]
     },
     "fine-stone": {
@@ -62,6 +98,10 @@
         "marble_01", "marble_tiles", "marble_mosaic_tiles", "marble_rock_01", "marble_rock_02",
         "marble_rock_03", "granite_tile", "granite_tile_02", "granite_tile_03", "granite_tile_04",
         "old_mosaic_floor", "terrazzo_tiles", "patterned_slate_tiles"
+      ],
+      "ambientcg": [
+        "Marble007", "Marble010", "Marble011", "Marble014", "Marble018", "Tiles012", "Tiles013",
+        "Tiles078", "Tiles131", "Travertine001", "Travertine004", "Travertine009", "Travertine014"
       ]
     },
     "plaster": {
@@ -76,7 +116,13 @@
         "rough_plaster_brick_02", "rough_plaster_brick_04", "rough_plasterbrick_05", "rough_plaster_broken",
         "worn_cracked_plaster", "yellow_plaster_02", "red_plaster_weathered", "peeling_painted_wall",
         "whitewashed_brick", "patterned_clay_plaster", "painted_plaster_wall", "plaster_brick_01",
-        "plaster_brick_pattern", "wall_bricks_plaster"
+        "plaster_brick_pattern", "wall_bricks_plaster",
+        "clay_block_wall", "plaster_grey_04", "coral_fort_wall_02"
+      ],
+      "ambientcg": [
+        "PaintedPlaster009", "PaintedPlaster010", "PaintedPlaster012", "PaintedPlaster016",
+        "PaintedPlaster017", "PaintedPlaster018", "Plaster002", "Plaster003", "Plaster004",
+        "Plaster007"
       ]
     },
     "wood": {
@@ -92,7 +138,17 @@
         "rough_wood", "worn_planks", "wood_trunk_wall", "wood_plank_wall", "wooden_planks", "wooden_barrel",
         "wood_table", "wood_table_001", "old_wooden_floor_01", "old_wooden_floor_02", "old_wooden_floor_03",
         "stair_planks", "distressed_painted_planks", "green_rough_planks", "wood_peeling_paint_weathered",
-        "bark_brown_01", "bark_brown_02", "pine_bark", "tree_bark_03"
+        "bark_brown_01", "bark_brown_02", "pine_bark", "tree_bark_03",
+        "plank_flooring_03", "raw_wooden_floor_01", "wooden_floor_02", "wood_floor_deck",
+        "wooden_panels", "moss_wood", "fine_grained_wood", "wood_chips", "wood_cabinet_worn_long",
+        "embedded_plank_flooring", "bark_willow", "jolcham_oak_bark_01", "knotted_pine_bark"
+      ],
+      "ambientcg": [
+        "Bark006", "Bark008", "Bark012", "Bark013", "Bark014", "Logs001", "Planks001", "Planks003",
+        "Planks011", "Planks013", "Planks015", "Planks023A", "Planks024A", "Planks026A", "Planks026C",
+        "Planks027C", "Planks030A", "Planks030C", "Planks031B", "Planks038", "Planks039", "TreeEnd001",
+        "TreeEnd003", "TreeEnd005", "Wicker008B", "Wicker010B", "Wood011", "Wood035", "Wood036",
+        "Wood040", "Wood059", "Wood060", "Wood062", "Wood064", "Wood073", "Wood076", "WoodFloor003"
       ]
     },
     "roof": {
@@ -101,7 +157,14 @@
         "roof_slates_02", "roof_slates_03", "clay_roof_tiles", "clay_roof_tiles_02", "red_slate_roof_tiles_01",
         "thatch_roof_angled", "reed_roof_03", "roof_tiles", "castle_wall_slates", "grey_roof_tiles",
         "clay_roof_tiles_03", "grey_roof_01", "grey_roof_tiles_02", "roof_07", "roof_09", "roof_3",
-        "roof_tiles_14", "ceramic_roof_01", "reed_roof_04"
+        "roof_tiles_14", "ceramic_roof_01", "reed_roof_04",
+        "riet_01"
+      ],
+      "ambientcg": [
+        "RoofingTiles001", "RoofingTiles002", "RoofingTiles004", "RoofingTiles005", "RoofingTiles011A",
+        "RoofingTiles012A", "RoofingTiles014B", "RoofingTiles014C", "RoofingTiles014D",
+        "RoofingTiles015A", "RoofingTiles015C", "ThatchedRoof001A", "ThatchedRoof001B",
+        "ThatchedRoof002A", "ThatchedRoof002B"
       ]
     },
     "metal": {
@@ -111,6 +174,13 @@
         "metal_plate", "metal_plate_02", "metal_grate_rusty", "rusty_metal_grid", "rust_coarse_01",
         "rusty_metal_sheet", "rusty_painted_metal", "green_metal_rust", "rusty_metal_shutter",
         "rusty_corrugated_iron", "worn_corrugated_iron", "painted_metal_shutter", "blue_metal_plate"
+      ],
+      "ambientcg": [
+        "Chainmail001", "Chainmail004", "Metal013", "Metal015", "Metal017", "Metal019", "Metal020",
+        "Metal022", "Metal024", "Metal026", "Metal041B", "Metal041C", "Metal042B", "Metal043B",
+        "Metal047B", "Metal048C", "Metal052C", "Metal053B", "Metal053C", "Metal054B", "Metal055B",
+        "Metal056A", "Metal058B", "Metal058C", "Metal064", "MetalPlates010", "MetalPlates011",
+        "MetalPlates012", "MetalPlates013", "Rust002", "Rust004", "Rust007", "Rust009"
       ]
     },
     "fabric-leather": {
@@ -119,7 +189,13 @@
         "brown_leather", "leather_red_02", "fabric_leather_01", "dirty_carpet",
         "quatrefoil_jacquard_fabric", "wool_boucle", "poly_wool_herringbone",
         "leather_red_03", "leather_white", "fabric_leather_02", "fabric_pattern_05", "fabric_pattern_07",
-        "rough_linen"
+        "rough_linen",
+        "hessian_230", "hessian_380", "velour_velvet", "caban", "floral_jacquard", "crepe_satin"
+      ],
+      "ambientcg": [
+        "Fabric001", "Fabric011", "Fabric016", "Fabric019", "Fabric031", "Fabric034", "Fabric053",
+        "Fabric061", "Fabric063", "Leather006", "Leather007", "Leather014", "Leather021", "Leather028",
+        "Leather030", "Leather033A", "Leather033C", "Rope001", "Rope003"
       ]
     },
     "ground": {
@@ -132,7 +208,25 @@
         "gravel_floor_02", "gravel_floor_03", "gravel_floor_04", "gravel_ground_01", "rocky_trail_02",
         "stony_dirt_path", "grass_path_3", "grass_ground", "withered_grass", "dirt", "raked_dirt",
         "farm_soil", "roots", "snow_01", "snow_02", "pebble_ground_01", "dry_ground_rocks",
-        "muddy_tracks", "sandy_gravel", "rock_ground"
+        "muddy_tracks", "sandy_gravel", "rock_ground",
+        "brown_mud_dry", "burned_ground_01", "dry_decay_leaves", "dry_ground_01", "forest_leaves_02",
+        "forest_leaves_03", "forest_leaves_04", "gravel", "gravel_stones", "leaf_scattered_gravel",
+        "rocky_gravel", "rocky_terrain", "rocky_terrain_02", "rocky_terrain_03", "rocks_ground_01",
+        "rocks_ground_02", "rocks_ground_03", "rocks_ground_05", "rocks_ground_06", "rocks_ground_08",
+        "river_small_rocks", "mud_cracked_dry_03", "red_mud_stones", "snow_03", "winter_leaves",
+        "wood_chip_path", "wood_stone_pathway", "farm_furrows", "flower_scattered_dirt",
+        "clean_pebbles", "pebbles", "dry_river_pebbles", "damp_sand"
+      ],
+      "ambientcg": [
+        "Grass001", "Grass002", "Grass004", "Grass007", "Gravel006", "Gravel015", "Gravel027",
+        "Gravel029", "Gravel033", "Gravel040", "Ground003", "Ground004", "Ground012", "Ground013",
+        "Ground015", "Ground018", "Ground019", "Ground020", "Ground023", "Ground024", "Ground025",
+        "Ground032", "Ground036", "Ground037", "Ground038", "Ground040", "Ground048", "Ground049A",
+        "Ground049C", "Ground050", "Ground051", "Ground066", "Ground067", "Ground068", "Ground070",
+        "Ground071", "Ground073", "Ground074", "Ground076", "Ground078", "Ground081", "Ground085",
+        "Ground086", "Ground102", "Ground103", "Ground107", "Ground108", "Ground111", "Moss001",
+        "Moss002", "Moss004", "Rocks002", "ScatteredLeaves001", "ScatteredLeaves009", "Snow007C",
+        "Snow011", "Snow012", "Snow013", "Snow015"
       ]
     }
   }

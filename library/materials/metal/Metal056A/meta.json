@@ -1,0 +1,29 @@
+{
+  "id": "Metal056A",
+  "name": "Metal 056 A",
+  "category": "metal",
+  "tags": [
+    "damaged",
+    "iron",
+    "metal",
+    "rusted",
+    "scratched"
+  ],
+  "ambientcg_category": "Metal",
+  "dimensions_mm": [
+    1000,
+    1000
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Metal056A",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Tiles089",
+  "name": "Tiles 089",
+  "category": "stone-floor",
+  "tags": [
+    "broken",
+    "grey",
+    "medieval",
+    "stone",
+    "tiles"
+  ],
+  "ambientcg_category": "Tiles",
+  "dimensions_mm": [
+    2450,
+    2450
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Tiles089",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Bricks073C",
+  "name": "Bricks 073 C",
+  "category": "brick-wall",
+  "tags": [
+    "bricks",
+    "dirty",
+    "moss"
+  ],
+  "ambientcg_category": "Bricks",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Bricks073C",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

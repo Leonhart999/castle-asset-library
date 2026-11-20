@@ -1,0 +1,30 @@
+{
+  "id": "ScatteredLeaves001",
+  "name": "Scattered Leaves 001",
+  "category": "ground",
+  "tags": [
+    "autumn",
+    "brown",
+    "fall",
+    "floor",
+    "leaf",
+    "leaves",
+    "orange",
+    "scattered"
+  ],
+  "ambientcg_category": "Scattered Leaves",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg",
+    "opacity_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/ScatteredLeaves001",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

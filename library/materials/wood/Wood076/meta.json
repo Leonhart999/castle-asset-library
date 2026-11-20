@@ -1,0 +1,27 @@
+{
+  "id": "Wood076",
+  "name": "Wood 076",
+  "category": "wood",
+  "tags": [
+    "brown",
+    "dark",
+    "rough",
+    "wood"
+  ],
+  "ambientcg_category": "Wood",
+  "dimensions_mm": [
+    700,
+    700
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Wood076",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

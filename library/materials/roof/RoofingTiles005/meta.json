@@ -1,0 +1,26 @@
+{
+  "id": "RoofingTiles005",
+  "name": "Roofing Tiles 005",
+  "category": "roof",
+  "tags": [
+    "hexagon",
+    "moss",
+    "roofing",
+    "slate",
+    "tiles"
+  ],
+  "ambientcg_category": "Roofing Tiles",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/RoofingTiles005",
+  "arm_filled": {
+    "AmbientOcclusion": 255,
+    "Metalness": 0
+  }
+}

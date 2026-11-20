@@ -1,5 +1,37 @@
 [
   {
+    "id": "brick_4",
+    "name": "Brick 4",
+    "category": "brick-wall",
+    "tags": [
+      "red",
+      "moss",
+      "urban",
+      "city",
+      "damp",
+      "wet"
+    ],
+    "polyhaven_categories": [
+      "wall",
+      "man made",
+      "dirty",
+      "outdoor",
+      "brick"
+    ],
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/brick_4"
+  },
+  {
     "id": "brick_wall_001",
     "name": "Brick Wall 001",
     "category": "brick-wall",
@@ -439,6 +471,539 @@
     "source": "https://polyhaven.com/a/brick_wall_13"
   },
   {
+    "id": "Bricks003",
+    "name": "Bricks 003",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "dark",
+      "medieval",
+      "old",
+      "red",
+      "vintage",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1250,
+      800
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks003",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks014",
+    "name": "Bricks 014",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "broken",
+      "dark",
+      "medieval",
+      "old",
+      "red",
+      "rough"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks014",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks018",
+    "name": "Bricks 018",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "dark",
+      "medieval",
+      "old",
+      "vintage"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks018",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks023",
+    "name": "Bricks 023",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "old",
+      "red",
+      "rustic",
+      "vintage"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks023",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks026",
+    "name": "Bricks 026",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "old",
+      "red",
+      "vintage",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks026",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks037",
+    "name": "Bricks 037",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "old",
+      "rustic",
+      "sloppy",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks037",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks039",
+    "name": "Bricks 039",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "mortar",
+      "orange",
+      "sloppy",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks039",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks042",
+    "name": "Bricks 042",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "mortar",
+      "red",
+      "sloppy",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks042",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks046",
+    "name": "Bricks 046",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "mortar",
+      "old",
+      "sloppy",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks046",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks047",
+    "name": "Bricks 047",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "broken",
+      "mortar",
+      "old",
+      "orange",
+      "sloppy",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks047",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks049",
+    "name": "Bricks 049",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "dark",
+      "mortar",
+      "sloppy",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks049",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks054",
+    "name": "Bricks 054",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "brown",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1050,
+      1050
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks054",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks073A",
+    "name": "Bricks 073 A",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "clean"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks073A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks073C",
+    "name": "Bricks 073 C",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "moss"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks073C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks074",
+    "name": "Bricks 074",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "patched",
+      "patchwork"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks074",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks077",
+    "name": "Bricks 077",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "red"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks077",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks082A",
+    "name": "Bricks 082 A",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "brown",
+      "dark",
+      "red"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks082A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks082C",
+    "name": "Bricks 082 C",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "brown",
+      "dark",
+      "red"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks082C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks094",
+    "name": "Bricks 094",
+    "category": "brick-wall",
+    "tags": [
+      "bricks",
+      "brown",
+      "dirty",
+      "medival",
+      "old",
+      "red",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1800,
+      900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks094",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks097",
+    "name": "Bricks 097",
+    "category": "brick-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "brown",
+      "damaged",
+      "dirty",
+      "factory",
+      "industrial",
+      "old",
+      "red",
+      "stone",
+      "stones",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks097",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "broken_brick_wall",
     "name": "Broken Brick Wall",
     "category": "brick-wall",
@@ -833,6 +1398,43 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/red_brick_03"
+  },
+  {
+    "id": "red_brick_plaster_patch_02",
+    "name": "Red Brick Plaster Patch 02",
+    "category": "brick-wall",
+    "tags": [
+      "red",
+      "rough",
+      "broken",
+      "bricks",
+      "crumbling",
+      "timeworn",
+      "worn down",
+      "exposed brick",
+      "plaster",
+      "deteriorating facade",
+      "deteriorated"
+    ],
+    "polyhaven_categories": [
+      "outdoor",
+      "wall",
+      "dirty",
+      "man made",
+      "brick"
+    ],
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/red_brick_plaster_patch_02"
   },
   {
     "id": "red_bricks_02",
@@ -1272,6 +1874,268 @@
     "source": "https://polyhaven.com/a/fabric_pattern_07"
   },
   {
+    "id": "Fabric001",
+    "name": "Fabric 001",
+    "category": "fabric-leather",
+    "tags": [
+      "cloth",
+      "fabric",
+      "old",
+      "white"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric001",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric011",
+    "name": "Fabric 011",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "fabric",
+      "light",
+      "pattern",
+      "weave",
+      "woven"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric011",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric016",
+    "name": "Fabric 016",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "red",
+      "weave",
+      "wool",
+      "woven"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric016",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric019",
+    "name": "Fabric 019",
+    "category": "fabric-leather",
+    "tags": [
+      "cloth",
+      "fabric",
+      "weave",
+      "white",
+      "wool",
+      "woven"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric019",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric031",
+    "name": "Fabric 031",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "grey",
+      "large",
+      "weave",
+      "wool",
+      "woven"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric031",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric034",
+    "name": "Fabric 034",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "felt",
+      "grey",
+      "white"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric034",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric053",
+    "name": "Fabric 053",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "pattern",
+      "red",
+      "tartan"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric053",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric061",
+    "name": "Fabric 061",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "rough"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      400,
+      400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric061",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Fabric063",
+    "name": "Fabric 063",
+    "category": "fabric-leather",
+    "tags": [
+      "fabric",
+      "rough"
+    ],
+    "ambientcg_category": "Fabric",
+    "dimensions_mm": [
+      400,
+      400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Fabric063",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "leather_red_02",
     "name": "Leather Red 02",
     "category": "fabric-leather",
@@ -1369,6 +2233,234 @@
     "source": "https://polyhaven.com/a/leather_white"
   },
   {
+    "id": "Leather006",
+    "name": "Leather 006",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "dark",
+      "leather",
+      "rough",
+      "used"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather006",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather007",
+    "name": "Leather 007",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "dark",
+      "leather",
+      "rough",
+      "used"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather007",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather014",
+    "name": "Leather 014",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "leather",
+      "old",
+      "scratched",
+      "scratches",
+      "scuffs",
+      "used",
+      "vintage"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather014",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather021",
+    "name": "Leather 021",
+    "category": "fabric-leather",
+    "tags": [
+      "black",
+      "brown",
+      "dark",
+      "leather",
+      "smooth"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather021",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather028",
+    "name": "Leather 028",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "leather"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      450,
+      450
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather028",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather030",
+    "name": "Leather 030",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "dark",
+      "leather"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      450,
+      450
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather030",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather033A",
+    "name": "Leather 033 A",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "leather"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      300,
+      300
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather033A",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Leather033C",
+    "name": "Leather 033 C",
+    "category": "fabric-leather",
+    "tags": [
+      "brown",
+      "leather"
+    ],
+    "ambientcg_category": "Leather",
+    "dimensions_mm": [
+      300,
+      300
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Leather033C",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
     "id": "poly_wool_herringbone",
     "name": "Poly Wool Herringbone",
     "category": "fabric-leather",
@@ -1435,6 +2527,63 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/quatrefoil_jacquard_fabric"
+  },
+  {
+    "id": "Rope001",
+    "name": "Rope 001",
+    "category": "fabric-leather",
+    "tags": [
+      "beige",
+      "light",
+      "rope",
+      "string"
+    ],
+    "ambientcg_category": "Rope",
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rope001",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Rope003",
+    "name": "Rope 003",
+    "category": "fabric-leather",
+    "tags": [
+      "beige",
+      "dark",
+      "light",
+      "rope",
+      "string"
+    ],
+    "ambientcg_category": "Rope",
+    "dimensions_mm": [
+      500,
+      500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rope003",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
   },
   {
     "id": "rough_linen",
@@ -1851,6 +3000,137 @@
     "source": "https://polyhaven.com/a/marble_tiles"
   },
   {
+    "id": "Marble007",
+    "name": "Marble 007",
+    "category": "fine-stone",
+    "tags": [
+      "beige",
+      "light",
+      "marble",
+      "smooth",
+      "stone"
+    ],
+    "ambientcg_category": "Marble",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Marble007",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Marble010",
+    "name": "Marble 010",
+    "category": "fine-stone",
+    "tags": [
+      "gray",
+      "grey",
+      "light",
+      "marble",
+      "rough",
+      "stone"
+    ],
+    "ambientcg_category": "Marble",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Marble010",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Marble011",
+    "name": "Marble 011",
+    "category": "fine-stone",
+    "tags": [
+      "brown",
+      "light",
+      "marble",
+      "rough",
+      "stone"
+    ],
+    "ambientcg_category": "Marble",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Marble011",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Marble014",
+    "name": "Marble 014",
+    "category": "fine-stone",
+    "tags": [
+      "beige",
+      "light",
+      "marble",
+      "smooth",
+      "stone"
+    ],
+    "ambientcg_category": "Marble",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Marble014",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Marble018",
+    "name": "Marble 018",
+    "category": "fine-stone",
+    "tags": [
+      "beige",
+      "bright",
+      "marble",
+      "rough",
+      "white"
+    ],
+    "ambientcg_category": "Marble",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Marble018",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
     "id": "old_mosaic_floor",
     "name": "Old Mosaic Floor",
     "category": "fine-stone",
@@ -1952,6 +3232,233 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/terrazzo_tiles"
+  },
+  {
+    "id": "Tiles012",
+    "name": "Tiles 012",
+    "category": "fine-stone",
+    "tags": [
+      "black",
+      "checker",
+      "floor",
+      "marble",
+      "pattern",
+      "tiles",
+      "white"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles012",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles013",
+    "name": "Tiles 013",
+    "category": "fine-stone",
+    "tags": [
+      "checker",
+      "floor",
+      "light",
+      "marble",
+      "pattern",
+      "tiles",
+      "white",
+      "yellow"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles013",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles078",
+    "name": "Tiles 078",
+    "category": "fine-stone",
+    "tags": [
+      "floor",
+      "marble",
+      "stone",
+      "tiled",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles078",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles131",
+    "name": "Tiles 131",
+    "category": "fine-stone",
+    "tags": [
+      "detailed",
+      "floor",
+      "intricate",
+      "mosaic",
+      "stone",
+      "tiled",
+      "tiles",
+      "yellow"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles131",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Travertine001",
+    "name": "Travertine 001",
+    "category": "fine-stone",
+    "tags": [
+      "beige",
+      "marble",
+      "stone",
+      "travertine"
+    ],
+    "ambientcg_category": "Travertine",
+    "dimensions_mm": [
+      1200,
+      1200
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Travertine001",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Travertine004",
+    "name": "Travertine 004",
+    "category": "fine-stone",
+    "tags": [
+      "brown",
+      "gray",
+      "marble",
+      "stone",
+      "travertine"
+    ],
+    "ambientcg_category": "Travertine",
+    "dimensions_mm": [
+      1200,
+      1200
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Travertine004",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Travertine009",
+    "name": "Travertine 009",
+    "category": "fine-stone",
+    "tags": [
+      "beige",
+      "light",
+      "marble",
+      "stone",
+      "travertine",
+      "white"
+    ],
+    "ambientcg_category": "Travertine",
+    "dimensions_mm": [
+      1200,
+      1200
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Travertine009",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Travertine014",
+    "name": "Travertine 014",
+    "category": "fine-stone",
+    "tags": [
+      "gray",
+      "marble",
+      "rough",
+      "stone",
+      "travertine"
+    ],
+    "ambientcg_category": "Travertine",
+    "dimensions_mm": [
+      1200,
+      1200
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Travertine014",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "brown_mud",
@@ -2631,6 +4138,127 @@
     "source": "https://polyhaven.com/a/grass_path_3"
   },
   {
+    "id": "Grass001",
+    "name": "Grass 001",
+    "category": "ground",
+    "tags": [
+      "cover",
+      "dark",
+      "dense",
+      "fresh",
+      "garden",
+      "grass",
+      "green",
+      "ground",
+      "lawn",
+      "natural",
+      "park",
+      "short",
+      "soft"
+    ],
+    "ambientcg_category": "Grass",
+    "dimensions_mm": [
+      1400,
+      1400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Grass001",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Grass002",
+    "name": "Grass 002",
+    "category": "ground",
+    "tags": [
+      "grass",
+      "green",
+      "ground"
+    ],
+    "ambientcg_category": "Grass",
+    "dimensions_mm": [
+      1400,
+      1400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Grass002",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Grass004",
+    "name": "Grass 004",
+    "category": "ground",
+    "tags": [
+      "dense",
+      "garden",
+      "grass",
+      "green",
+      "ground",
+      "lawn",
+      "lush",
+      "natural",
+      "park",
+      "short",
+      "soft",
+      "suburban"
+    ],
+    "ambientcg_category": "Grass",
+    "dimensions_mm": [
+      1400,
+      1400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Grass004",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Grass007",
+    "name": "Grass 007",
+    "category": "ground",
+    "tags": [
+      "grass",
+      "lawn",
+      "moss",
+      "weeds"
+    ],
+    "ambientcg_category": "Grass",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Grass007",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "gravel_floor",
     "name": "Gravel Floor",
     "category": "ground",
@@ -2810,6 +4438,1206 @@
     "source": "https://polyhaven.com/a/gravel_ground_01"
   },
   {
+    "id": "Gravel006",
+    "name": "Gravel 006",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dark",
+      "dirt",
+      "gravel"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel006",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Gravel015",
+    "name": "Gravel 015",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "gravel",
+      "ground",
+      "pebbles",
+      "rocky",
+      "stones"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel015",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Gravel027",
+    "name": "Gravel 027",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "gravel",
+      "ground",
+      "pebbles",
+      "stone",
+      "yellow"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel027",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Gravel029",
+    "name": "Gravel 029",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "gravel",
+      "ground",
+      "grunge",
+      "moss",
+      "pebbles",
+      "stone",
+      "wet"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel029",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Gravel033",
+    "name": "Gravel 033",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "gravel",
+      "ground",
+      "rocks"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel033",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Gravel040",
+    "name": "Gravel 040",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "floor",
+      "gravel",
+      "gray",
+      "rocks",
+      "rocky",
+      "slate",
+      "stone"
+    ],
+    "ambientcg_category": "Gravel",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Gravel040",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground003",
+    "name": "Ground 003",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "grass",
+      "green",
+      "ground"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground003",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground004",
+    "name": "Ground 004",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground004",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground012",
+    "name": "Ground 012",
+    "category": "ground",
+    "tags": [
+      "forest",
+      "ground",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground012",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground013",
+    "name": "Ground 013",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "grass",
+      "green",
+      "ground"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground013",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground015",
+    "name": "Ground 015",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground",
+      "mud",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground015",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground018",
+    "name": "Ground 018",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground018",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground019",
+    "name": "Ground 019",
+    "category": "ground",
+    "tags": [
+      "autumn",
+      "dirt",
+      "forest",
+      "ground",
+      "leaves",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground019",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground020",
+    "name": "Ground 020",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "grass",
+      "ground",
+      "leaves"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground020",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground023",
+    "name": "Ground 023",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "forest",
+      "ground",
+      "leaves",
+      "mud",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground023",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground024",
+    "name": "Ground 024",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground",
+      "moss",
+      "mud",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground024",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground025",
+    "name": "Ground 025",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "clay",
+      "dirt",
+      "ground",
+      "mud",
+      "wet"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground025",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground032",
+    "name": "Ground 032",
+    "category": "ground",
+    "tags": [
+      "gravel",
+      "ground",
+      "path",
+      "pathway"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground032",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground036",
+    "name": "Ground 036",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "ground",
+      "mud",
+      "soil"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground036",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground037",
+    "name": "Ground 037",
+    "category": "ground",
+    "tags": [
+      "damp",
+      "earth",
+      "forest",
+      "grass",
+      "green",
+      "ground",
+      "moss",
+      "natural",
+      "overgrown",
+      "rough",
+      "woodland"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2100,
+      2100
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground037",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground038",
+    "name": "Ground 038",
+    "category": "ground",
+    "tags": [
+      "branches",
+      "dirt",
+      "forest",
+      "ground",
+      "leaves",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground038",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground040",
+    "name": "Ground 040",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "ground",
+      "leaves",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground040",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground048",
+    "name": "Ground 048",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "ground",
+      "soil"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      1400,
+      1400
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground048",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground049A",
+    "name": "Ground 049 A",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "ground",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground049A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground049C",
+    "name": "Ground 049 C",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "gravel",
+      "ground",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground049C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground050",
+    "name": "Ground 050",
+    "category": "ground",
+    "tags": [
+      "ground",
+      "mud",
+      "puddle"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground050",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground051",
+    "name": "Ground 051",
+    "category": "ground",
+    "tags": [
+      "dark",
+      "dirt",
+      "ground",
+      "mud"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground051",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground066",
+    "name": "Ground 066",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "forest",
+      "ground",
+      "soil"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground066",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground067",
+    "name": "Ground 067",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "forest",
+      "ground",
+      "rocky"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground067",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground068",
+    "name": "Ground 068",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "ground",
+      "moss",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground068",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground070",
+    "name": "Ground 070",
+    "category": "ground",
+    "tags": [
+      "autumn",
+      "brown",
+      "fall",
+      "forest",
+      "ground",
+      "leaves",
+      "roots"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2600,
+      2600
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground070",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground071",
+    "name": "Ground 071",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground",
+      "mud",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      1750,
+      1750
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground071",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground073",
+    "name": "Ground 073",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "gravel",
+      "ground",
+      "sticks"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground073",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground074",
+    "name": "Ground 074",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "ground",
+      "pathway",
+      "rocks",
+      "rocky",
+      "sand"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      1800,
+      1800
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground074",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground076",
+    "name": "Ground 076",
+    "category": "ground",
+    "tags": [
+      "forest",
+      "ground",
+      "leaves",
+      "roots",
+      "tree"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground076",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground078",
+    "name": "Ground 078",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "floor",
+      "forest",
+      "ground",
+      "path",
+      "rocky",
+      "sand",
+      "stones"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground078",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground081",
+    "name": "Ground 081",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "gravel",
+      "ground",
+      "path",
+      "rocky",
+      "stone"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground081",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground085",
+    "name": "Ground 085",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "forest",
+      "ground",
+      "rocky",
+      "stones"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground085",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground086",
+    "name": "Ground 086",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "forest",
+      "ground",
+      "path",
+      "rocky",
+      "stones"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground086",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground102",
+    "name": "Ground 102",
+    "category": "ground",
+    "tags": [
+      "beige",
+      "brown",
+      "compressed",
+      "dirt",
+      "dry",
+      "ground",
+      "outdoor",
+      "rough",
+      "sand",
+      "stamped",
+      "uneven"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground102",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground103",
+    "name": "Ground 103",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirt",
+      "earth",
+      "ground",
+      "natural",
+      "old",
+      "outdoor",
+      "rough",
+      "soil",
+      "uneven"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground103",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground107",
+    "name": "Ground 107",
+    "category": "ground",
+    "tags": [
+      "brick",
+      "brown",
+      "debris",
+      "dirt",
+      "fragments",
+      "gray",
+      "ground",
+      "old",
+      "path",
+      "red",
+      "rough",
+      "rubble",
+      "scattered",
+      "stones",
+      "uneven",
+      "urban"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2800,
+      2800
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground107",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground108",
+    "name": "Ground 108",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "debris",
+      "dirt",
+      "gravel",
+      "gray",
+      "ground",
+      "river",
+      "riverbed",
+      "rocky",
+      "rough",
+      "rubble",
+      "scattered",
+      "uneven"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground108",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Ground111",
+    "name": "Ground 111",
+    "category": "ground",
+    "tags": [
+      "brick",
+      "brown",
+      "construction",
+      "debris",
+      "dirt",
+      "fragments",
+      "gravel",
+      "gray",
+      "ground",
+      "orange",
+      "rock",
+      "rough",
+      "rubble",
+      "scattered",
+      "urban"
+    ],
+    "ambientcg_category": "Ground",
+    "dimensions_mm": [
+      2800,
+      2800
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Ground111",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "leafy_grass",
     "name": "Leafy Grass",
     "category": "ground",
@@ -2876,6 +5704,78 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/leaves_forest_ground"
+  },
+  {
+    "id": "Moss001",
+    "name": "Moss 001",
+    "category": "ground",
+    "tags": [
+      "ground",
+      "moss",
+      "mossy"
+    ],
+    "ambientcg_category": "Moss",
+    "dimensions_mm": [
+      450,
+      450
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Moss001",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Moss002",
+    "name": "Moss 002",
+    "category": "ground",
+    "tags": [
+      "green",
+      "moss",
+      "mossy"
+    ],
+    "ambientcg_category": "Moss",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Moss002",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Moss004",
+    "name": "Moss 004",
+    "category": "ground",
+    "tags": [
+      "green",
+      "moss",
+      "mossy"
+    ],
+    "ambientcg_category": "Moss",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Moss004",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "mossy_rock",
@@ -3125,6 +6025,30 @@
     "source": "https://polyhaven.com/a/rock_pitted_mossy"
   },
   {
+    "id": "Rocks002",
+    "name": "Rocks 002",
+    "category": "ground",
+    "tags": [
+      "boulder",
+      "cliff",
+      "rocks",
+      "stones"
+    ],
+    "ambientcg_category": "Rocks",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rocks002",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "rocky_trail",
     "name": "Rocky Trail",
     "category": "ground",
@@ -3279,6 +6203,72 @@
     "source": "https://polyhaven.com/a/sandy_gravel"
   },
   {
+    "id": "ScatteredLeaves001",
+    "name": "Scattered Leaves 001",
+    "category": "ground",
+    "tags": [
+      "autumn",
+      "brown",
+      "fall",
+      "floor",
+      "leaf",
+      "leaves",
+      "orange",
+      "scattered"
+    ],
+    "ambientcg_category": "Scattered Leaves",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ScatteredLeaves001",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "ScatteredLeaves009",
+    "name": "Scattered Leaves 009",
+    "category": "ground",
+    "tags": [
+      "autumn",
+      "brown",
+      "cover",
+      "dry",
+      "fallen",
+      "forest",
+      "green",
+      "ground",
+      "leaves",
+      "natural",
+      "rough",
+      "scattered",
+      "yellow"
+    ],
+    "ambientcg_category": "Scattered Leaves",
+    "dimensions_mm": [
+      1700,
+      1700
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ScatteredLeaves009",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "snow_01",
     "name": "Snow 01",
     "category": "ground",
@@ -3342,6 +6332,148 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/snow_02"
+  },
+  {
+    "id": "Snow007C",
+    "name": "Snow 007 C",
+    "category": "ground",
+    "tags": [
+      "snow",
+      "trampled"
+    ],
+    "ambientcg_category": "Snow",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Snow007C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Snow011",
+    "name": "Snow 011",
+    "category": "ground",
+    "tags": [
+      "dirt",
+      "dirty",
+      "floor",
+      "ground",
+      "snow"
+    ],
+    "ambientcg_category": "Snow",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Snow011",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Snow012",
+    "name": "Snow 012",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "dirty",
+      "grey",
+      "molten",
+      "path",
+      "snow"
+    ],
+    "ambientcg_category": "Snow",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Snow012",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Snow013",
+    "name": "Snow 013",
+    "category": "ground",
+    "tags": [
+      "dirty",
+      "footprints",
+      "footsteps",
+      "frosty",
+      "frozen",
+      "gray",
+      "ice",
+      "outdoor",
+      "rough",
+      "snow",
+      "uneven",
+      "white",
+      "winter"
+    ],
+    "ambientcg_category": "Snow",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Snow013",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Snow015",
+    "name": "Snow 015",
+    "category": "ground",
+    "tags": [
+      "brown",
+      "cold",
+      "dirty",
+      "frozen",
+      "grass",
+      "green",
+      "ground",
+      "icy",
+      "melting",
+      "natural",
+      "outdoor",
+      "rough",
+      "snow",
+      "wet",
+      "white",
+      "winter"
+    ],
+    "ambientcg_category": "Snow",
+    "dimensions_mm": null,
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Snow015",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "sparse_grass",
@@ -3449,6 +6581,687 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/withered_grass"
+  },
+  {
+    "id": "Bricks008",
+    "name": "Bricks 008",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "church",
+      "clean",
+      "flat",
+      "medieval",
+      "old",
+      "sandstone",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1650,
+      1650
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks008",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks075B",
+    "name": "Bricks 075 B",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "mossy",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      2000,
+      1000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks075B",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks076A",
+    "name": "Bricks 076 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "medieval",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks076A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks076B",
+    "name": "Bricks 076 B",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "medieval",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks076B",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks076C",
+    "name": "Bricks 076 C",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "medieval",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks076C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks078",
+    "name": "Bricks 078",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "medieval",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks078",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks083",
+    "name": "Bricks 083",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "medieval",
+      "sandstone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      3000,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks083",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks084",
+    "name": "Bricks 084",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "sandstone",
+      "yellow"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks084",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks087",
+    "name": "Bricks 087",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "brown",
+      "medieval",
+      "stones",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      1300,
+      1300
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks087",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks089",
+    "name": "Bricks 089",
+    "category": "masonry-wall",
+    "tags": [
+      "brick",
+      "bricks",
+      "dark",
+      "gray",
+      "medieval",
+      "random",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": [
+      2200,
+      1100
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks089",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks091",
+    "name": "Bricks 091",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "brown",
+      "old"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks091",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks095",
+    "name": "Bricks 095",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dirty",
+      "medival",
+      "old",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks095",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks096",
+    "name": "Bricks 096",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "dark",
+      "grey",
+      "medival",
+      "old",
+      "stone",
+      "stones",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks096",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks098",
+    "name": "Bricks 098",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "brown",
+      "gray",
+      "grey",
+      "medival",
+      "old",
+      "stone",
+      "stones",
+      "uneven",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks098",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks099",
+    "name": "Bricks 099",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "bricks",
+      "medival",
+      "old",
+      "standstone",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks099",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks100",
+    "name": "Bricks 100",
+    "category": "masonry-wall",
+    "tags": [
+      "beige",
+      "brick",
+      "bricks",
+      "medival",
+      "old",
+      "stone",
+      "stones",
+      "wall"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks100",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks102",
+    "name": "Bricks 102",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "brown",
+      "medieval",
+      "old",
+      "stones"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks102",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks106A",
+    "name": "Bricks 106 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks106A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks107A",
+    "name": "Bricks 107 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks107A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks108A",
+    "name": "Bricks 108 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks108A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks109A",
+    "name": "Bricks 109 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks109A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks110A",
+    "name": "Bricks 110 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks110A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks111A",
+    "name": "Bricks 111 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks111A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks112A",
+    "name": "Bricks 112 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks112A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bricks113A",
+    "name": "Bricks 113 A",
+    "category": "masonry-wall",
+    "tags": [
+      "bricks",
+      "natural",
+      "stone"
+    ],
+    "ambientcg_category": "Bricks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bricks113A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "broken_wall",
+    "name": "Broken Wall",
+    "category": "masonry-wall",
+    "tags": [
+      "rough",
+      "wall",
+      "stacked",
+      "stones",
+      "castle",
+      "old",
+      "ancient",
+      "modern"
+    ],
+    "polyhaven_categories": [
+      "rock",
+      "outdoor",
+      "indoor",
+      "wall",
+      "man made"
+    ],
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/broken_wall"
   },
   {
     "id": "castle_brick_01",
@@ -4877,6 +8690,59 @@
     "source": "https://polyhaven.com/a/rock_wall_17"
   },
   {
+    "id": "Rocks001",
+    "name": "Rocks 001",
+    "category": "masonry-wall",
+    "tags": [
+      "boulder",
+      "cliff",
+      "rocks",
+      "stones",
+      "wall"
+    ],
+    "ambientcg_category": "Rocks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rocks001",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rocks025",
+    "name": "Rocks 025",
+    "category": "masonry-wall",
+    "tags": [
+      "floor",
+      "medieval",
+      "rocks",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rocks",
+    "dimensions_mm": [
+      1900,
+      1900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rocks025",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "rough_block_wall",
     "name": "Rough Block Wall",
     "category": "masonry-wall",
@@ -5699,6 +9565,68 @@
     "source": "https://polyhaven.com/a/blue_metal_plate"
   },
   {
+    "id": "Chainmail001",
+    "name": "Chainmail 001",
+    "category": "metal",
+    "tags": [
+      "chainmail",
+      "clothing",
+      "fabric",
+      "knight",
+      "medieval",
+      "metal"
+    ],
+    "ambientcg_category": "Chainmail",
+    "dimensions_mm": [
+      300,
+      300
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Chainmail001",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Chainmail004",
+    "name": "Chainmail 004",
+    "category": "metal",
+    "tags": [
+      "chainmail",
+      "clothing",
+      "fabric",
+      "knight",
+      "medieval",
+      "metal"
+    ],
+    "ambientcg_category": "Chainmail",
+    "dimensions_mm": [
+      300,
+      300
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg",
+      "opacity_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Chainmail004",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
     "id": "forged_steel",
     "name": "Forged Weapon Steel",
     "category": "metal",
@@ -5873,6 +9801,766 @@
     "source": "https://polyhaven.com/a/metal_plate_02"
   },
   {
+    "id": "Metal013",
+    "name": "Metal 013",
+    "category": "metal",
+    "tags": [
+      "bronze",
+      "dark",
+      "eroded",
+      "erosion",
+      "metal",
+      "old",
+      "rough"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal013",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal015",
+    "name": "Metal 015",
+    "category": "metal",
+    "tags": [
+      "bronze",
+      "brown",
+      "dark",
+      "eroded",
+      "erosion",
+      "metal",
+      "rough",
+      "scratched",
+      "scuffed"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal015",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal017",
+    "name": "Metal 017",
+    "category": "metal",
+    "tags": [
+      "bronze",
+      "dark",
+      "erode",
+      "erosion",
+      "metal",
+      "old",
+      "scratched",
+      "scratches"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal017",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal019",
+    "name": "Metal 019",
+    "category": "metal",
+    "tags": [
+      "dark",
+      "dirty",
+      "metal",
+      "rough",
+      "smooth",
+      "smudge"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal019",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal020",
+    "name": "Metal 020",
+    "category": "metal",
+    "tags": [
+      "leaks",
+      "metal",
+      "old",
+      "rust",
+      "rusty",
+      "spots",
+      "steel"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal020",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal022",
+    "name": "Metal 022",
+    "category": "metal",
+    "tags": [
+      "leaks",
+      "metal",
+      "old",
+      "rust",
+      "rusty",
+      "spots",
+      "steel"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal022",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal024",
+    "name": "Metal 024",
+    "category": "metal",
+    "tags": [
+      "leaks",
+      "metal",
+      "old",
+      "rust",
+      "rusty",
+      "spots",
+      "steel"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal024",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal026",
+    "name": "Metal 026",
+    "category": "metal",
+    "tags": [
+      "leaks",
+      "metal",
+      "old",
+      "rust",
+      "rusty",
+      "spots",
+      "steel"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal026",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal041B",
+    "name": "Metal 041 B",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "metal",
+      "rust"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal041B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal041C",
+    "name": "Metal 041 C",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "metal",
+      "rust"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal041C",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal042B",
+    "name": "Metal 042 B",
+    "category": "metal",
+    "tags": [
+      "dirty",
+      "gold",
+      "metal"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal042B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal043B",
+    "name": "Metal 043 B",
+    "category": "metal",
+    "tags": [
+      "copper",
+      "dirty",
+      "metal"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal043B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal047B",
+    "name": "Metal 047 B",
+    "category": "metal",
+    "tags": [
+      "copper",
+      "dirty",
+      "metal"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal047B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal048C",
+    "name": "Metal 048 C",
+    "category": "metal",
+    "tags": [
+      "gold",
+      "impure",
+      "metal",
+      "rough"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal048C",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal052C",
+    "name": "Metal 052 C",
+    "category": "metal",
+    "tags": [
+      "impure",
+      "iron",
+      "metal",
+      "rough"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal052C",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal053B",
+    "name": "Metal 053 B",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "metal",
+      "rusty"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal053B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal053C",
+    "name": "Metal 053 C",
+    "category": "metal",
+    "tags": [
+      "damaged",
+      "iron",
+      "metal",
+      "old",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal053C",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal054B",
+    "name": "Metal 054 B",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "metal",
+      "rusted",
+      "scratched"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal054B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal055B",
+    "name": "Metal 055 B",
+    "category": "metal",
+    "tags": [
+      "iron",
+      "metal",
+      "rusted",
+      "rusty"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal055B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal056A",
+    "name": "Metal 056 A",
+    "category": "metal",
+    "tags": [
+      "damaged",
+      "iron",
+      "metal",
+      "rusted",
+      "scratched"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal056A",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal058B",
+    "name": "Metal 058 B",
+    "category": "metal",
+    "tags": [
+      "copper",
+      "metal",
+      "oxidation"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal058B",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal058C",
+    "name": "Metal 058 C",
+    "category": "metal",
+    "tags": [
+      "copper",
+      "metal",
+      "oxidation"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal058C",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Metal064",
+    "name": "Metal 064",
+    "category": "metal",
+    "tags": [
+      "damaged",
+      "metal",
+      "rust",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Metal064",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "MetalPlates010",
+    "name": "Metal Plates 010",
+    "category": "metal",
+    "tags": [
+      "metal",
+      "plates",
+      "rust",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal Plates",
+    "dimensions_mm": [
+      1600,
+      1600
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/MetalPlates010"
+  },
+  {
+    "id": "MetalPlates011",
+    "name": "Metal Plates 011",
+    "category": "metal",
+    "tags": [
+      "metal",
+      "plates",
+      "rust",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal Plates",
+    "dimensions_mm": [
+      1600,
+      1600
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/MetalPlates011"
+  },
+  {
+    "id": "MetalPlates012",
+    "name": "Metal Plates 012",
+    "category": "metal",
+    "tags": [
+      "metal",
+      "plates",
+      "rust",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal Plates",
+    "dimensions_mm": [
+      3200,
+      3200
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/MetalPlates012"
+  },
+  {
+    "id": "MetalPlates013",
+    "name": "Metal Plates 013",
+    "category": "metal",
+    "tags": [
+      "metal",
+      "plates",
+      "rust",
+      "rusted"
+    ],
+    "ambientcg_category": "Metal Plates",
+    "dimensions_mm": [
+      1600,
+      1600
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/MetalPlates013"
+  },
+  {
     "id": "painted_metal_shutter",
     "name": "Painted Metal Shutter",
     "category": "metal",
@@ -5941,6 +10629,126 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/rust_coarse_01"
+  },
+  {
+    "id": "Rust002",
+    "name": "Rust 002",
+    "category": "metal",
+    "tags": [
+      "brown",
+      "industrial",
+      "old",
+      "rust",
+      "rusted",
+      "rusty"
+    ],
+    "ambientcg_category": "Rust",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rust002",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Rust004",
+    "name": "Rust 004",
+    "category": "metal",
+    "tags": [
+      "brown",
+      "industrial",
+      "old",
+      "rust",
+      "rusted",
+      "rusty"
+    ],
+    "ambientcg_category": "Rust",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rust004",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "AmbientOcclusion": 255
+    }
+  },
+  {
+    "id": "Rust007",
+    "name": "Rust 007",
+    "category": "metal",
+    "tags": [
+      "brown",
+      "damaged",
+      "old",
+      "rust",
+      "rusted",
+      "rusty"
+    ],
+    "ambientcg_category": "Rust",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rust007",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rust009",
+    "name": "Rust 009",
+    "category": "metal",
+    "tags": [
+      "brown",
+      "damaged",
+      "old",
+      "rust",
+      "rusted",
+      "rusty"
+    ],
+    "ambientcg_category": "Rust",
+    "dimensions_mm": [
+      1000,
+      1000
+    ],
+    "res": "1k",
+    "maps": [
+      "arm_1k.jpg",
+      "diff_1k.jpg",
+      "nor_1k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rust009",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "rusty_corrugated_iron",
@@ -6579,6 +11387,163 @@
     "source": "https://polyhaven.com/a/painted_plaster_wall"
   },
   {
+    "id": "PaintedPlaster009",
+    "name": "Painted Plaster 009",
+    "category": "plaster",
+    "tags": [
+      "bricks",
+      "broken",
+      "old",
+      "paint",
+      "painted",
+      "plaster",
+      "wall"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster009",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PaintedPlaster010",
+    "name": "Painted Plaster 010",
+    "category": "plaster",
+    "tags": [
+      "bricks",
+      "broken",
+      "old",
+      "paint",
+      "painted",
+      "plaster",
+      "wall"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster010",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PaintedPlaster012",
+    "name": "Painted Plaster 012",
+    "category": "plaster",
+    "tags": [
+      "broken",
+      "old",
+      "paint",
+      "painted",
+      "plaster",
+      "wall"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster012",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PaintedPlaster016",
+    "name": "Painted Plaster 016",
+    "category": "plaster",
+    "tags": [
+      "bricks",
+      "broken",
+      "old",
+      "paint",
+      "painted",
+      "plaster",
+      "wall",
+      "white"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster016",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PaintedPlaster017",
+    "name": "Painted Plaster 017",
+    "category": "plaster",
+    "tags": [
+      "paint",
+      "painted",
+      "plaster",
+      "white"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster017",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PaintedPlaster018",
+    "name": "Painted Plaster 018",
+    "category": "plaster",
+    "tags": [
+      "damaged",
+      "painted",
+      "plaster",
+      "yellow"
+    ],
+    "ambientcg_category": "Painted Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PaintedPlaster018",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "patterned_clay_plaster",
     "name": "Patterned Clay Plaster",
     "category": "plaster",
@@ -6793,6 +11758,108 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/plaster_stone_wall_02"
+  },
+  {
+    "id": "Plaster002",
+    "name": "Plaster 002",
+    "category": "plaster",
+    "tags": [
+      "clean",
+      "plaster",
+      "rough",
+      "wall",
+      "white"
+    ],
+    "ambientcg_category": "Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Plaster002",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Plaster003",
+    "name": "Plaster 003",
+    "category": "plaster",
+    "tags": [
+      "clean",
+      "plaster",
+      "rough",
+      "wall",
+      "white"
+    ],
+    "ambientcg_category": "Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Plaster003",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Plaster004",
+    "name": "Plaster 004",
+    "category": "plaster",
+    "tags": [
+      "plaster",
+      "wall",
+      "white"
+    ],
+    "ambientcg_category": "Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Plaster004",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Plaster007",
+    "name": "Plaster 007",
+    "category": "plaster",
+    "tags": [
+      "broken",
+      "old",
+      "paint",
+      "plaster",
+      "wall",
+      "white"
+    ],
+    "ambientcg_category": "Plaster",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Plaster007",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "plastered_stone_wall",
@@ -8241,6 +13308,638 @@
     "source": "https://polyhaven.com/a/rock_surface"
   },
   {
+    "id": "Rock003",
+    "name": "Rock 003",
+    "category": "rock-cliff",
+    "tags": [
+      "beige",
+      "cliff",
+      "rock",
+      "rough",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock003",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock006",
+    "name": "Rock 006",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "mountain",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock006",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock011",
+    "name": "Rock 011",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "grey",
+      "moss",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock011",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock012",
+    "name": "Rock 012",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "dark",
+      "grey",
+      "moss",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock012",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock014",
+    "name": "Rock 014",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "dark",
+      "grey",
+      "moss",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock014",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock016",
+    "name": "Rock 016",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "dark",
+      "grey",
+      "moss",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock016",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock022",
+    "name": "Rock 022",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "rock",
+      "rocks",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock022",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock023",
+    "name": "Rock 023",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "rock",
+      "rocks",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock023",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock030",
+    "name": "Rock 030",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "grey",
+      "rock",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock030",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock034",
+    "name": "Rock 034",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "grey",
+      "rock",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock034",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock035",
+    "name": "Rock 035",
+    "category": "rock-cliff",
+    "tags": [
+      "black",
+      "cave",
+      "cliff",
+      "grey",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock035",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock036",
+    "name": "Rock 036",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "moss",
+      "mossy",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock036",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock037",
+    "name": "Rock 037",
+    "category": "rock-cliff",
+    "tags": [
+      "black",
+      "cliff",
+      "dirty",
+      "leaks",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock037",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock040",
+    "name": "Rock 040",
+    "category": "rock-cliff",
+    "tags": [
+      "beige",
+      "detailed",
+      "moss",
+      "mossy",
+      "rock",
+      "smooth"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock040",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock044",
+    "name": "Rock 044",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "large",
+      "rock",
+      "rough"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": [
+      1150,
+      1150
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock044",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock045",
+    "name": "Rock 045",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "jagged",
+      "rock"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": [
+      2400,
+      2400
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock045",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock051",
+    "name": "Rock 051",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "mountain",
+      "rock",
+      "stone",
+      "wall"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock051"
+  },
+  {
+    "id": "Rock057",
+    "name": "Rock 057",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "green",
+      "grey",
+      "mossy",
+      "rock",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock057",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock059",
+    "name": "Rock 059",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "green",
+      "grey",
+      "moss",
+      "mossy",
+      "rock"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock059",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock062",
+    "name": "Rock 062",
+    "category": "rock-cliff",
+    "tags": [
+      "cracked",
+      "eroded",
+      "grey",
+      "natural",
+      "outdoor",
+      "rock",
+      "rough",
+      "rugged",
+      "sand",
+      "stone",
+      "uneven"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock062",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock063",
+    "name": "Rock 063",
+    "category": "rock-cliff",
+    "tags": [
+      "aged",
+      "cliff",
+      "cracked",
+      "damaged",
+      "dirty",
+      "eroded",
+      "gray",
+      "green",
+      "layered",
+      "mossy",
+      "natural",
+      "outdoor",
+      "rock",
+      "rough",
+      "rustic",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock063",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rock064",
+    "name": "Rock 064",
+    "category": "rock-cliff",
+    "tags": [
+      "forest",
+      "gray",
+      "green",
+      "irregular",
+      "moss",
+      "mossy",
+      "natural",
+      "old",
+      "rock",
+      "rough",
+      "stacked",
+      "stone"
+    ],
+    "ambientcg_category": "Rock",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rock064",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rocks011",
+    "name": "Rocks 011",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "ground",
+      "rock",
+      "rocks",
+      "stone",
+      "stones"
+    ],
+    "ambientcg_category": "Rocks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rocks011",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Rocks016",
+    "name": "Rocks 016",
+    "category": "rock-cliff",
+    "tags": [
+      "cliff",
+      "rocks",
+      "stone"
+    ],
+    "ambientcg_category": "Rocks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Rocks016",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
     "id": "castle_wall_slates",
     "name": "Castle Wall Slates",
     "category": "roof",
@@ -8867,6 +14566,332 @@
     "source": "https://polyhaven.com/a/roof_tiles_14"
   },
   {
+    "id": "RoofingTiles001",
+    "name": "Roofing Tiles 001",
+    "category": "roof",
+    "tags": [
+      "city",
+      "house",
+      "old",
+      "roof",
+      "roofing",
+      "slate",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles001",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles002",
+    "name": "Roofing Tiles 002",
+    "category": "roof",
+    "tags": [
+      "clean",
+      "roofing",
+      "round",
+      "slate",
+      "tiles"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles002",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles004",
+    "name": "Roofing Tiles 004",
+    "category": "roof",
+    "tags": [
+      "clean",
+      "roofing",
+      "round",
+      "slate",
+      "tiles"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles004",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles005",
+    "name": "Roofing Tiles 005",
+    "category": "roof",
+    "tags": [
+      "hexagon",
+      "moss",
+      "roofing",
+      "slate",
+      "tiles"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles005",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles011A",
+    "name": "Roofing Tiles 011 A",
+    "category": "roof",
+    "tags": [
+      "clay",
+      "roof",
+      "roofing",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles011A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles012A",
+    "name": "Roofing Tiles 012 A",
+    "category": "roof",
+    "tags": [
+      "clay",
+      "roof",
+      "roofing",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles012A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles014B",
+    "name": "Roofing Tiles 014 B",
+    "category": "roof",
+    "tags": [
+      "clay",
+      "dirty",
+      "old",
+      "roof",
+      "roofing",
+      "sbsar",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles014B",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles014C",
+    "name": "Roofing Tiles 014 C",
+    "category": "roof",
+    "tags": [
+      "broken",
+      "clay",
+      "dirty",
+      "old",
+      "roof",
+      "roofing",
+      "sbsar",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles014C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles014D",
+    "name": "Roofing Tiles 014 D",
+    "category": "roof",
+    "tags": [
+      "broken",
+      "brown",
+      "clay",
+      "old",
+      "orange",
+      "roof",
+      "roofing",
+      "ruin",
+      "sbsar",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles014D",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles015A",
+    "name": "Roofing Tiles 015 A",
+    "category": "roof",
+    "tags": [
+      "clay",
+      "grey",
+      "roof",
+      "roofing",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles015A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "RoofingTiles015C",
+    "name": "Roofing Tiles 015 C",
+    "category": "roof",
+    "tags": [
+      "brown",
+      "clay",
+      "dirty",
+      "roof",
+      "roofing",
+      "tiles",
+      "tiling"
+    ],
+    "ambientcg_category": "Roofing Tiles",
+    "dimensions_mm": [
+      2900,
+      2900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/RoofingTiles015C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "thatch_roof_angled",
     "name": "Thatch Roof Angled",
     "category": "roof",
@@ -8904,6 +14929,110 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/thatch_roof_angled"
+  },
+  {
+    "id": "ThatchedRoof001A",
+    "name": "Thatched Roof 001 A",
+    "category": "roof",
+    "tags": [
+      "brown",
+      "medieval",
+      "roof",
+      "roofing",
+      "straw",
+      "thatched"
+    ],
+    "ambientcg_category": "Thatched Roof",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ThatchedRoof001A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "ThatchedRoof001B",
+    "name": "Thatched Roof 001 B",
+    "category": "roof",
+    "tags": [
+      "brown",
+      "medieval",
+      "roof",
+      "roofing",
+      "straw",
+      "thatched"
+    ],
+    "ambientcg_category": "Thatched Roof",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ThatchedRoof001B",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "ThatchedRoof002A",
+    "name": "Thatched Roof 002 A",
+    "category": "roof",
+    "tags": [
+      "brown",
+      "medieval",
+      "roof",
+      "roofing",
+      "straw",
+      "thatched"
+    ],
+    "ambientcg_category": "Thatched Roof",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ThatchedRoof002A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "ThatchedRoof002B",
+    "name": "Thatched Roof 002 B",
+    "category": "roof",
+    "tags": [
+      "brown",
+      "medieval",
+      "roof",
+      "roofing",
+      "straw",
+      "thatched"
+    ],
+    "ambientcg_category": "Thatched Roof",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/ThatchedRoof002B",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "brick_floor",
@@ -9744,6 +15873,880 @@
     "source": "https://polyhaven.com/a/patterned_paving"
   },
   {
+    "id": "PavingStones005",
+    "name": "Paving Stones 005",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "pavement",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1250,
+      1250
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones005",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones033",
+    "name": "Paving Stones 033",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "grey",
+      "old",
+      "pavement",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones033",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones036",
+    "name": "Paving Stones 036",
+    "category": "stone-floor",
+    "tags": [
+      "dark",
+      "moss",
+      "parking",
+      "paving",
+      "stone",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones036",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones040",
+    "name": "Paving Stones 040",
+    "category": "stone-floor",
+    "tags": [
+      "herringbone",
+      "moss",
+      "mossy",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones040",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones041",
+    "name": "Paving Stones 041",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "fine",
+      "grey",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones041",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones042",
+    "name": "Paving Stones 042",
+    "category": "stone-floor",
+    "tags": [
+      "grey",
+      "medieval",
+      "old",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones042",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones046",
+    "name": "Paving Stones 046",
+    "category": "stone-floor",
+    "tags": [
+      "cobble",
+      "cobblestone",
+      "gray",
+      "grey",
+      "medieval",
+      "paving",
+      "stone",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones046",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones047",
+    "name": "Paving Stones 047",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "cobble",
+      "cobblestone",
+      "floor",
+      "gray",
+      "grey",
+      "medieval",
+      "paving",
+      "stone",
+      "stones",
+      "wave"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones047",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones049",
+    "name": "Paving Stones 049",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "cobble",
+      "cobblestone",
+      "dark",
+      "gray",
+      "grey",
+      "medieval",
+      "paving",
+      "stone",
+      "stones",
+      "wave"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones049",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones051",
+    "name": "Paving Stones 051",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "cobble",
+      "cobblestone",
+      "gray",
+      "grey",
+      "medieval",
+      "paving",
+      "stone",
+      "stones",
+      "wave"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones051",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones054",
+    "name": "Paving Stones 054",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "old",
+      "paved",
+      "pavement",
+      "paving",
+      "road",
+      "roman",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1900,
+      3800
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones054",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones055",
+    "name": "Paving Stones 055",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "old",
+      "paved",
+      "pavement",
+      "paving",
+      "pebbles",
+      "road",
+      "rocks",
+      "roman",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      3000,
+      3000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones055",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones056",
+    "name": "Paving Stones 056",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "floor",
+      "herringbone",
+      "old",
+      "paved",
+      "pavement",
+      "paving",
+      "stone",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones056",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones068",
+    "name": "Paving Stones 068",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "old",
+      "paved",
+      "pavement",
+      "paving",
+      "square",
+      "stones",
+      "tiles"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones068",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones070",
+    "name": "Paving Stones 070",
+    "category": "stone-floor",
+    "tags": [
+      "cobble",
+      "old",
+      "pavement",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1150,
+      1150
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones070",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones084",
+    "name": "Paving Stones 084",
+    "category": "stone-floor",
+    "tags": [
+      "old",
+      "pavement",
+      "paving",
+      "road",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones084",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones113",
+    "name": "Paving Stones 113",
+    "category": "stone-floor",
+    "tags": [
+      "mossy",
+      "old",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1500,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones113",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones115A",
+    "name": "Paving Stones 115 A",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "paving",
+      "puddles",
+      "stones",
+      "wet"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones115A",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones115C",
+    "name": "Paving Stones 115 C",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "paving",
+      "puddles",
+      "stones",
+      "wet"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones115C",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones119",
+    "name": "Paving Stones 119",
+    "category": "stone-floor",
+    "tags": [
+      "cobble",
+      "cobblestone",
+      "gray",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1150,
+      1150
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones119",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones121",
+    "name": "Paving Stones 121",
+    "category": "stone-floor",
+    "tags": [
+      "paving",
+      "random",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones121",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones122",
+    "name": "Paving Stones 122",
+    "category": "stone-floor",
+    "tags": [
+      "brown",
+      "old",
+      "orange",
+      "pavement",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      3000,
+      1500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones122",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones131",
+    "name": "Paving Stones 131",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "old",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones131",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones134",
+    "name": "Paving Stones 134",
+    "category": "stone-floor",
+    "tags": [
+      "old",
+      "paving",
+      "random",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones134",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones138",
+    "name": "Paving Stones 138",
+    "category": "stone-floor",
+    "tags": [
+      "clean",
+      "gray",
+      "medival",
+      "moss",
+      "old",
+      "paving",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1250,
+      2500
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones138",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones139",
+    "name": "Paving Stones 139",
+    "category": "stone-floor",
+    "tags": [
+      "medival",
+      "moss",
+      "old",
+      "overgrown",
+      "pavement",
+      "paving",
+      "pebbles",
+      "rocks",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      1550,
+      1550
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones139",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones141",
+    "name": "Paving Stones 141",
+    "category": "stone-floor",
+    "tags": [
+      "cobblestone",
+      "floor",
+      "medival",
+      "old",
+      "paving",
+      "rocks",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones141",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones147",
+    "name": "Paving Stones 147",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "cobble",
+      "old",
+      "paving",
+      "stone",
+      "stones"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones147",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones148",
+    "name": "Paving Stones 148",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "old",
+      "pavement",
+      "paving",
+      "stones",
+      "uneven"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones148",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones150",
+    "name": "Paving Stones 150",
+    "category": "stone-floor",
+    "tags": [
+      "arches",
+      "beige",
+      "cobble",
+      "cobblestone",
+      "floor",
+      "gray",
+      "historic",
+      "natural",
+      "old",
+      "outdoor",
+      "patterned",
+      "pavement",
+      "paving",
+      "rough",
+      "rustic",
+      "stone",
+      "stones",
+      "urban"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      900,
+      900
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones150",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "PavingStones151",
+    "name": "Paving Stones 151",
+    "category": "stone-floor",
+    "tags": [
+      "arch",
+      "arches",
+      "beige",
+      "cobblestone",
+      "european",
+      "gray",
+      "grid",
+      "mosaic",
+      "old",
+      "paving",
+      "pedestrian",
+      "rough",
+      "stone",
+      "stones",
+      "street",
+      "urban"
+    ],
+    "ambientcg_category": "Paving Stones",
+    "dimensions_mm": [
+      5400,
+      5400
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/PavingStones151",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "rock_path",
     "name": "Rock Path",
     "category": "stone-floor",
@@ -10262,6 +17265,230 @@
     "source": "https://polyhaven.com/a/terracotta_floor_tiles"
   },
   {
+    "id": "Tiles083",
+    "name": "Tiles 083",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "grey",
+      "medieval",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles083",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles085",
+    "name": "Tiles 085",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "grey",
+      "medieval",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles085",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles087",
+    "name": "Tiles 087",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "grey",
+      "medieval",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles087",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles089",
+    "name": "Tiles 089",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "grey",
+      "medieval",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles089",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles090",
+    "name": "Tiles 090",
+    "category": "stone-floor",
+    "tags": [
+      "black",
+      "dark",
+      "old",
+      "random",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles090",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles092",
+    "name": "Tiles 092",
+    "category": "stone-floor",
+    "tags": [
+      "black",
+      "dark",
+      "old",
+      "random",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2450,
+      2450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles092",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles098",
+    "name": "Tiles 098",
+    "category": "stone-floor",
+    "tags": [
+      "medieval",
+      "paving",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      1850,
+      1850
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles098",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Tiles130",
+    "name": "Tiles 130",
+    "category": "stone-floor",
+    "tags": [
+      "broken",
+      "castle",
+      "floor",
+      "medieval",
+      "old",
+      "stone",
+      "tiles"
+    ],
+    "ambientcg_category": "Tiles",
+    "dimensions_mm": [
+      2300,
+      1150
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Tiles130",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "worn_brick_floor",
     "name": "Worn Brick Floor",
     "category": "stone-floor",
@@ -10397,6 +17624,134 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/bark_brown_02"
+  },
+  {
+    "id": "Bark006",
+    "name": "Bark 006",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "brown",
+      "dark",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Bark",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bark006",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bark008",
+    "name": "Bark 008",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "brown",
+      "green",
+      "moss",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Bark",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bark008",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bark012",
+    "name": "Bark 012",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "brown",
+      "oak",
+      "tree"
+    ],
+    "ambientcg_category": "Bark",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bark012",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bark013",
+    "name": "Bark 013",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "green",
+      "mossy",
+      "tree"
+    ],
+    "ambientcg_category": "Bark",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bark013",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Bark014",
+    "name": "Bark 014",
+    "category": "wood",
+    "tags": [
+      "bark",
+      "brown",
+      "fir",
+      "forest",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Bark",
+    "dimensions_mm": [
+      1200,
+      1200
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Bark014",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "beam_wall_01",
@@ -10869,6 +18224,32 @@
     "source": "https://polyhaven.com/a/green_rough_planks"
   },
   {
+    "id": "Logs001",
+    "name": "Logs 001",
+    "category": "wood",
+    "tags": [
+      "fire",
+      "logs",
+      "wood"
+    ],
+    "ambientcg_category": "Logs",
+    "dimensions_mm": [
+      2000,
+      2000
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Logs001",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "medieval_wood",
     "name": "Medieval Wood",
     "category": "wood",
@@ -11160,6 +18541,343 @@
     "source": "https://polyhaven.com/a/planks_brown_10"
   },
   {
+    "id": "Planks001",
+    "name": "Planks 001",
+    "category": "wood",
+    "tags": [
+      "nails",
+      "planks",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks001",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Planks003",
+    "name": "Planks 003",
+    "category": "wood",
+    "tags": [
+      "nailed",
+      "nails",
+      "planks",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks003",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Planks011",
+    "name": "Planks 011",
+    "category": "wood",
+    "tags": [
+      "nailed",
+      "nails",
+      "planks",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks011"
+  },
+  {
+    "id": "Planks013",
+    "name": "Planks 013",
+    "category": "wood",
+    "tags": [
+      "nailed",
+      "nails",
+      "planks",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks013"
+  },
+  {
+    "id": "Planks015",
+    "name": "Planks 015",
+    "category": "wood",
+    "tags": [
+      "nailed",
+      "nails",
+      "planks",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks015"
+  },
+  {
+    "id": "Planks023A",
+    "name": "Planks 023 A",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks023A"
+  },
+  {
+    "id": "Planks024A",
+    "name": "Planks 024 A",
+    "category": "wood",
+    "tags": [
+      "black",
+      "dark",
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks024A"
+  },
+  {
+    "id": "Planks026A",
+    "name": "Planks 026 A",
+    "category": "wood",
+    "tags": [
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks026A"
+  },
+  {
+    "id": "Planks026C",
+    "name": "Planks 026 C",
+    "category": "wood",
+    "tags": [
+      "moldy",
+      "mossy",
+      "planks"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks026C"
+  },
+  {
+    "id": "Planks027C",
+    "name": "Planks 027 C",
+    "category": "wood",
+    "tags": [
+      "moldy",
+      "mossy",
+      "planks"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks027C"
+  },
+  {
+    "id": "Planks030A",
+    "name": "Planks 030 A",
+    "category": "wood",
+    "tags": [
+      "plank",
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks030A"
+  },
+  {
+    "id": "Planks030C",
+    "name": "Planks 030 C",
+    "category": "wood",
+    "tags": [
+      "moss",
+      "plank",
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks030C"
+  },
+  {
+    "id": "Planks031B",
+    "name": "Planks 031 B",
+    "category": "wood",
+    "tags": [
+      "moss",
+      "plank",
+      "planks",
+      "wood"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks031B"
+  },
+  {
+    "id": "Planks038",
+    "name": "Planks 038",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "dirt",
+      "green",
+      "mold",
+      "moss",
+      "planks"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": [
+      1100,
+      550
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks038",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Planks039",
+    "name": "Planks 039",
+    "category": "wood",
+    "tags": [
+      "dirty",
+      "large",
+      "medieval",
+      "old",
+      "planks",
+      "rough",
+      "wooden"
+    ],
+    "ambientcg_category": "Planks",
+    "dimensions_mm": [
+      1500,
+      750
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Planks039",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "raw_plank_wall",
     "name": "Raw Plank Wall",
     "category": "wood",
@@ -11373,6 +19091,95 @@
     "source": "https://polyhaven.com/a/tree_bark_03"
   },
   {
+    "id": "TreeEnd001",
+    "name": "Tree End 001",
+    "category": "wood",
+    "tags": [
+      "end",
+      "log",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Tree End",
+    "dimensions_mm": [
+      600,
+      600
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/TreeEnd001",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "TreeEnd003",
+    "name": "Tree End 003",
+    "category": "wood",
+    "tags": [
+      "cut",
+      "end",
+      "forest",
+      "stump",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Tree End",
+    "dimensions_mm": [
+      600,
+      600
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/TreeEnd003",
+    "dimensions_estimated": true,
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "TreeEnd005",
+    "name": "Tree End 005",
+    "category": "wood",
+    "tags": [
+      "cut",
+      "end",
+      "tree",
+      "wood"
+    ],
+    "ambientcg_category": "Tree End",
+    "dimensions_mm": [
+      450,
+      450
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/TreeEnd005",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
     "id": "weathered_brown_planks",
     "name": "Weathered Brown Planks",
     "category": "wood",
@@ -11527,6 +19334,57 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/weathered_planks"
+  },
+  {
+    "id": "Wicker008B",
+    "name": "Wicker 008 B",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "grey",
+      "light",
+      "old",
+      "wicker"
+    ],
+    "ambientcg_category": "Wicker",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wicker008B",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wicker010B",
+    "name": "Wicker 010 B",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "dirty",
+      "old",
+      "wicker"
+    ],
+    "ambientcg_category": "Wicker",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg",
+      "opacity_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wicker010B",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "wood_floor_worn",
@@ -11971,6 +19829,252 @@
     "source": "https://polyhaven.com/a/wood_trunk_wall"
   },
   {
+    "id": "Wood011",
+    "name": "Wood 011",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "dark",
+      "raw",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood011",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood035",
+    "name": "Wood 035",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "old",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood035",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood036",
+    "name": "Wood 036",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "old",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood036",
+    "arm_filled": {
+      "AmbientOcclusion": 255,
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood040",
+    "name": "Wood 040",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "old",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood040",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood059",
+    "name": "Wood 059",
+    "category": "wood",
+    "tags": [
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood059",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood060",
+    "name": "Wood 060",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood060",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood062",
+    "name": "Wood 062",
+    "category": "wood",
+    "tags": [
+      "dark",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood062",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood064",
+    "name": "Wood 064",
+    "category": "wood",
+    "tags": [
+      "green",
+      "mossy",
+      "rough",
+      "wet",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood064",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood073",
+    "name": "Wood 073",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "knothole",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": [
+      700,
+      700
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood073",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
+    "id": "Wood076",
+    "name": "Wood 076",
+    "category": "wood",
+    "tags": [
+      "brown",
+      "dark",
+      "rough",
+      "wood"
+    ],
+    "ambientcg_category": "Wood",
+    "dimensions_mm": [
+      700,
+      700
+    ],
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/Wood076",
+    "arm_filled": {
+      "Metalness": 0
+    }
+  },
+  {
     "id": "wooden_barrel",
     "name": "Wooden Barrel",
     "category": "wood",
@@ -12108,6 +20212,32 @@
     ],
     "license": "CC0",
     "source": "https://polyhaven.com/a/wooden_rough_planks"
+  },
+  {
+    "id": "WoodFloor003",
+    "name": "Wood Floor 003",
+    "category": "wood",
+    "tags": [
+      "floor",
+      "old",
+      "parquet",
+      "rough",
+      "used",
+      "wood"
+    ],
+    "ambientcg_category": "Wood Floor",
+    "dimensions_mm": null,
+    "res": "2k",
+    "maps": [
+      "arm_2k.jpg",
+      "diff_2k.jpg",
+      "nor_2k.jpg"
+    ],
+    "license": "CC0",
+    "source": "https://ambientcg.com/a/WoodFloor003",
+    "arm_filled": {
+      "Metalness": 0
+    }
   },
   {
     "id": "worn_planks",

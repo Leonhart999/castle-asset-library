@@ -1,0 +1,31 @@
+{
+  "id": "Chainmail004",
+  "name": "Chainmail 004",
+  "category": "metal",
+  "tags": [
+    "chainmail",
+    "clothing",
+    "fabric",
+    "knight",
+    "medieval",
+    "metal"
+  ],
+  "ambientcg_category": "Chainmail",
+  "dimensions_mm": [
+    300,
+    300
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg",
+    "opacity_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Chainmail004",
+  "dimensions_estimated": true,
+  "arm_filled": {
+    "AmbientOcclusion": 255
+  }
+}

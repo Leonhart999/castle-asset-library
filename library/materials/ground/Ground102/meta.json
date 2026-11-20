@@ -1,0 +1,31 @@
+{
+  "id": "Ground102",
+  "name": "Ground 102",
+  "category": "ground",
+  "tags": [
+    "beige",
+    "brown",
+    "compressed",
+    "dirt",
+    "dry",
+    "ground",
+    "outdoor",
+    "rough",
+    "sand",
+    "stamped",
+    "uneven"
+  ],
+  "ambientcg_category": "Ground",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Ground102",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

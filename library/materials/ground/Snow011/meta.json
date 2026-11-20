@@ -1,0 +1,25 @@
+{
+  "id": "Snow011",
+  "name": "Snow 011",
+  "category": "ground",
+  "tags": [
+    "dirt",
+    "dirty",
+    "floor",
+    "ground",
+    "snow"
+  ],
+  "ambientcg_category": "Snow",
+  "dimensions_mm": null,
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Snow011",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

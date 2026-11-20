@@ -1,0 +1,34 @@
+{
+  "id": "broken_wall",
+  "name": "Broken Wall",
+  "category": "masonry-wall",
+  "tags": [
+    "rough",
+    "wall",
+    "stacked",
+    "stones",
+    "castle",
+    "old",
+    "ancient",
+    "modern"
+  ],
+  "polyhaven_categories": [
+    "rock",
+    "outdoor",
+    "indoor",
+    "wall",
+    "man made"
+  ],
+  "dimensions_mm": [
+    3000,
+    3000
+  ],
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/broken_wall"
+}

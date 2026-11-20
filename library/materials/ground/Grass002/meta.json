@@ -1,0 +1,26 @@
+{
+  "id": "Grass002",
+  "name": "Grass 002",
+  "category": "ground",
+  "tags": [
+    "grass",
+    "green",
+    "ground"
+  ],
+  "ambientcg_category": "Grass",
+  "dimensions_mm": [
+    1400,
+    1400
+  ],
+  "res": "1k",
+  "maps": [
+    "arm_1k.jpg",
+    "diff_1k.jpg",
+    "nor_1k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Grass002",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}

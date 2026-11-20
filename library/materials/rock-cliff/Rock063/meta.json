@@ -1,0 +1,36 @@
+{
+  "id": "Rock063",
+  "name": "Rock 063",
+  "category": "rock-cliff",
+  "tags": [
+    "aged",
+    "cliff",
+    "cracked",
+    "damaged",
+    "dirty",
+    "eroded",
+    "gray",
+    "green",
+    "layered",
+    "mossy",
+    "natural",
+    "outdoor",
+    "rock",
+    "rough",
+    "rustic",
+    "stone"
+  ],
+  "ambientcg_category": "Rock",
+  "dimensions_mm": null,
+  "res": "2k",
+  "maps": [
+    "arm_2k.jpg",
+    "diff_2k.jpg",
+    "nor_2k.jpg"
+  ],
+  "license": "CC0",
+  "source": "https://ambientcg.com/a/Rock063",
+  "arm_filled": {
+    "Metalness": 0
+  }
+}
