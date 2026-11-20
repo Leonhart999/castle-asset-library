@@ -266,6 +266,1088 @@
     "glb_bytes": 4384500
   },
   {
+    "id": "wall_loophole_cross",
+    "name": "Curtain wall, crosslet loop",
+    "category": "defence",
+    "description": "4 m curtain wall with a crosslet opening, tapered courtyard recess and slit merlons; walkway at y = 8.",
+    "size_m": [
+      4,
+      10.2,
+      2.91
+    ],
+    "triangles": 3802,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/wall_loophole_cross.glb",
+    "preview": "previews/wall_loophole_cross.png",
+    "glb_bytes": 3437828
+  },
+  {
+    "id": "wall_bastion_square",
+    "name": "Curtain wall, square flanking spur",
+    "category": "defence",
+    "description": "Square medieval mural projection with three perforated faces and a projecting wall-walk.",
+    "size_m": [
+      4,
+      10.15,
+      5.17
+    ],
+    "triangles": 10605,
+    "materials": [
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/wall_bastion_square.glb",
+    "preview": "previews/wall_bastion_square.png",
+    "glb_bytes": 4870192
+  },
+  {
+    "id": "wall_bastion_round",
+    "name": "Curtain wall, round flanking spur",
+    "category": "defence",
+    "description": "Rounded medieval mural projection, radial corbels and a curved crenellated parapet.",
+    "size_m": [
+      4,
+      10.15,
+      4.22
+    ],
+    "triangles": 9032,
+    "materials": [
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/wall_bastion_round.glb",
+    "preview": "previews/wall_bastion_round.png",
+    "glb_bytes": 4829820
+  },
+  {
+    "id": "wall_postern",
+    "name": "Curtain wall, postern",
+    "category": "defence",
+    "description": "Small recessed side gate with a masonry screen wall, raised threshold and ironbound oak leaf.",
+    "size_m": [
+      4,
+      10.2,
+      3.59
+    ],
+    "triangles": 8348,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "cobblestone_floor_01",
+      "mossy_stone_wall"
+    ],
+    "file": "glb/wall_postern.glb",
+    "preview": "previews/wall_postern.png",
+    "glb_bytes": 5618408
+  },
+  {
+    "id": "wall_machicolation",
+    "name": "Curtain wall, stone machicolation",
+    "category": "defence",
+    "description": "Projecting stone parapet on stepped corbels with open slots between the bridge stones.",
+    "size_m": [
+      4,
+      10.2,
+      3.26
+    ],
+    "triangles": 2868,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/wall_machicolation.glb",
+    "preview": "previews/wall_machicolation.png",
+    "glb_bytes": 3401408
+  },
+  {
+    "id": "wall_hoarding",
+    "name": "Curtain wall, timber hoarding",
+    "category": "defence",
+    "description": "Covered cantilevered timber gallery over an 8 m curtain wall.",
+    "size_m": [
+      4,
+      10.98,
+      3.77
+    ],
+    "triangles": 5740,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01",
+      "dark_wood",
+      "oak_wood_planks",
+      "weathered_planks",
+      "wooden_gate",
+      "wrought_iron",
+      "roof_planks"
+    ],
+    "file": "glb/wall_hoarding.glb",
+    "preview": "previews/wall_hoarding.png",
+    "glb_bytes": 6495724
+  },
+  {
+    "id": "hoarding_straight",
+    "name": "Timber hoarding, separate bay",
+    "category": "defence",
+    "description": "Separate 4 m timber gallery. Set the origin at y = 6.45, z = 1 for a plain curtain wall.",
+    "size_m": [
+      4,
+      4.53,
+      2.72
+    ],
+    "triangles": 5544,
+    "materials": [
+      "dark_wood",
+      "large_sandstone_blocks",
+      "oak_wood_planks",
+      "weathered_planks",
+      "wooden_gate",
+      "wrought_iron",
+      "roof_planks"
+    ],
+    "file": "glb/hoarding_straight.glb",
+    "preview": "previews/hoarding_straight.png",
+    "glb_bytes": 3956528
+  },
+  {
+    "id": "battlement_shuttered",
+    "name": "Battlement, hinged timber shutter",
+    "category": "defence",
+    "description": "4 m battlement with a partly opened oak shutter. Use at y = 8 over the plain curtain module.",
+    "size_m": [
+      4,
+      2.2,
+      1.06
+    ],
+    "triangles": 1480,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "wrought_iron",
+      "dark_wood"
+    ],
+    "file": "glb/battlement_shuttered.glb",
+    "preview": "previews/battlement_shuttered.png",
+    "glb_bytes": 3710412
+  },
+  {
+    "id": "keep_norman",
+    "name": "Norman rectangular keep",
+    "category": "defence",
+    "description": "Rectangular donjon with raised courtyard entry, forebuilding stairs, paired Romanesque windows and corner turrets.",
+    "size_m": [
+      12.42,
+      20.37,
+      11.63
+    ],
+    "triangles": 35656,
+    "materials": [
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "cobblestone_floor_01",
+      "old_stone_wall",
+      "roof_slates_03"
+    ],
+    "file": "glb/keep_norman.glb",
+    "preview": "previews/keep_norman.png",
+    "glb_bytes": 8668248
+  },
+  {
+    "id": "keep_round",
+    "name": "Round stone keep",
+    "category": "defence",
+    "description": "Tall round donjon with battered base, staggered windows, stone crown gallery and a recessed slate roof.",
+    "size_m": [
+      12.36,
+      24.06,
+      14.53
+    ],
+    "triangles": 38976,
+    "materials": [
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "cobblestone_floor_01",
+      "old_stone_wall",
+      "roof_slates_03",
+      "aged_brass"
+    ],
+    "file": "glb/keep_round.glb",
+    "preview": "previews/keep_round.png",
+    "glb_bytes": 8755320
+  },
+  {
+    "id": "tower_corner_round",
+    "name": "Round corner tower",
+    "category": "defence",
+    "description": "Round tower with wall-walk entries facing -X and -Z at y = 8; place adjoining walls about 5.4 m from the tower centre.",
+    "size_m": [
+      8.31,
+      14.11,
+      8.31
+    ],
+    "triangles": 18968,
+    "materials": [
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "castle_wall_slates",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/tower_corner_round.glb",
+    "preview": "previews/tower_corner_round.png",
+    "glb_bytes": 4819572
+  },
+  {
+    "id": "tower_bartizan",
+    "name": "Corner bartizan",
+    "category": "defence",
+    "description": "Corbelled stone lookout and slate spire over a corner curtain wall. Wall arms end at x = -2 and z = -2.",
+    "size_m": [
+      4.74,
+      14.43,
+      4.74
+    ],
+    "triangles": 9958,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "void",
+      "roof_slates_03",
+      "wrought_iron",
+      "aged_brass"
+    ],
+    "file": "glb/tower_bartizan.glb",
+    "preview": "previews/tower_bartizan.png",
+    "glb_bytes": 3756168
+  },
+  {
+    "id": "tower_octagonal",
+    "name": "Octagonal watchtower",
+    "category": "defence",
+    "description": "Faceted stone tower with quoins, splayed recesses, bracketed eaves and a slate spire.",
+    "size_m": [
+      7.76,
+      18.73,
+      7.76
+    ],
+    "triangles": 22033,
+    "materials": [
+      "large_sandstone_blocks",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "roof_slates_03",
+      "aged_brass"
+    ],
+    "file": "glb/tower_octagonal.glb",
+    "preview": "previews/tower_octagonal.png",
+    "glb_bytes": 6168440
+  },
+  {
+    "id": "gatehouse_barbican",
+    "name": "Twin-towered gatehouse",
+    "category": "defence",
+    "description": "Through passage with a raised iron grille, open timber leaves and a stone gallery between projecting flanking towers.",
+    "size_m": [
+      13.51,
+      14.11,
+      6.78
+    ],
+    "triangles": 33369,
+    "materials": [
+      "large_sandstone_blocks",
+      "void",
+      "castle_wall_slates",
+      "cobblestone_floor_01",
+      "wrought_iron",
+      "dark_wood",
+      "mossy_stone_wall"
+    ],
+    "file": "glb/gatehouse_barbican.glb",
+    "preview": "previews/gatehouse_barbican.png",
+    "glb_bytes": 6428980
+  },
+  {
+    "id": "drawbridge_lowered",
+    "name": "Drawbridge, lowered",
+    "category": "defence",
+    "description": "Lowered plank deck between a stone portal and landing pier, with iron furniture and two lifting chains.",
+    "size_m": [
+      5.43,
+      6.66,
+      7.77
+    ],
+    "triangles": 13491,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "mossy_stone_wall",
+      "cobblestone_floor_01",
+      "wrought_iron",
+      "wooden_gate",
+      "dark_wood"
+    ],
+    "file": "glb/drawbridge_lowered.glb",
+    "preview": "previews/drawbridge_lowered.png",
+    "glb_bytes": 6379640
+  },
+  {
+    "id": "drawbridge_raised",
+    "name": "Drawbridge, raised",
+    "category": "defence",
+    "description": "Companion raised pose. Portal, hinge origin and opposing landing align with the lowered model.",
+    "size_m": [
+      5.43,
+      6.66,
+      7.77
+    ],
+    "triangles": 8091,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "mossy_stone_wall",
+      "cobblestone_floor_01",
+      "wrought_iron",
+      "wooden_gate",
+      "dark_wood"
+    ],
+    "file": "glb/drawbridge_raised.glb",
+    "preview": "previews/drawbridge_raised.png",
+    "glb_bytes": 6164212
+  },
+  {
+    "id": "portcullis_gate",
+    "name": "Portcullis and loft",
+    "category": "defence",
+    "description": "Ironbound timber grille in a stone arch, with an open upper timber loft and windlass.",
+    "size_m": [
+      4.73,
+      7.3,
+      1.67
+    ],
+    "triangles": 9184,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01",
+      "wrought_iron",
+      "dark_wood",
+      "wooden_gate",
+      "weathered_planks"
+    ],
+    "file": "glb/portcullis_gate.glb",
+    "preview": "previews/portcullis_gate.png",
+    "glb_bytes": 5557728
+  },
+  {
+    "id": "moat_straight",
+    "name": "Wet moat, straight",
+    "category": "defence",
+    "description": "4 m repeating wet ditch module. Water at y = 1.45; join at x = ±2.",
+    "size_m": [
+      4,
+      2.39,
+      9
+    ],
+    "triangles": 38,
+    "materials": [
+      "brown_mud_rocks_01",
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "grass_ground",
+      "moat_water"
+    ],
+    "file": "glb/moat_straight.glb",
+    "preview": "previews/moat_straight.png",
+    "glb_bytes": 6339012
+  },
+  {
+    "id": "moat_corner",
+    "name": "Wet moat, corner",
+    "category": "defence",
+    "description": "Mitered 9 m square corner. Straight sections centre at (-6.5, 0) and (0, -6.5) in XZ; rotate the latter +90°.",
+    "size_m": [
+      9,
+      2.39,
+      9
+    ],
+    "triangles": 58,
+    "materials": [
+      "brown_mud_rocks_01",
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "grass_ground",
+      "moat_water"
+    ],
+    "file": "glb/moat_corner.glb",
+    "preview": "previews/moat_corner.png",
+    "glb_bytes": 6340548
+  },
+  {
+    "id": "moat_dry",
+    "name": "Dry ditch, straight",
+    "category": "defence",
+    "description": "Same scarp and turf bank profile as the wet straight module, without the water surface.",
+    "size_m": [
+      4,
+      2.39,
+      9
+    ],
+    "triangles": 36,
+    "materials": [
+      "brown_mud_rocks_01",
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "mossy_stone_wall",
+      "grass_ground"
+    ],
+    "file": "glb/moat_dry.glb",
+    "preview": "previews/moat_dry.png",
+    "glb_bytes": 6337712
+  },
+  {
+    "id": "moat_bridge_stone",
+    "name": "Fixed stone causeway",
+    "category": "defence",
+    "description": "Cobble-topped causeway with a segmental barrel arch, wet stone at the feet and parapet coping.",
+    "size_m": [
+      5.02,
+      3.22,
+      8.32
+    ],
+    "triangles": 656,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "mossy_stone_wall",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/moat_bridge_stone.glb",
+    "preview": "previews/moat_bridge_stone.png",
+    "glb_bytes": 4518312
+  },
+  {
+    "id": "bailey_wall_stone",
+    "name": "Bailey partition wall",
+    "category": "defence",
+    "description": "Lower 4 m stone partition for the inner and outer baileys, with a crosslet opening and walkway at y = 5.5.",
+    "size_m": [
+      4,
+      7.52,
+      1.85
+    ],
+    "triangles": 4181,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01"
+    ],
+    "file": "glb/bailey_wall_stone.glb",
+    "preview": "previews/bailey_wall_stone.png",
+    "glb_bytes": 3446096
+  },
+  {
+    "id": "bailey_gate_stone",
+    "name": "Bailey partition gate",
+    "category": "defence",
+    "description": "Arched stone partition with a recessed ironbound oak gate. Matches the bailey wall profile.",
+    "size_m": [
+      4,
+      7.52,
+      1.85
+    ],
+    "triangles": 8503,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "cobblestone_floor_01",
+      "wooden_gate",
+      "void",
+      "wrought_iron",
+      "dark_wood"
+    ],
+    "file": "glb/bailey_gate_stone.glb",
+    "preview": "previews/bailey_gate_stone.png",
+    "glb_bytes": 4985892
+  },
+  {
+    "id": "bailey_palisade",
+    "name": "Bailey timber palisade",
+    "category": "defence",
+    "description": "4 m timber stockade with a turf bank, oak walkway and access ladder.",
+    "size_m": [
+      4,
+      3.81,
+      2.71
+    ],
+    "triangles": 4496,
+    "materials": [
+      "brown_mud_rocks_01",
+      "grass_ground",
+      "pine_bark",
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron"
+    ],
+    "file": "glb/bailey_palisade.glb",
+    "preview": "previews/bailey_palisade.png",
+    "glb_bytes": 5514272
+  },
+  {
+    "id": "arch_pointed",
+    "name": "Gothic pointed arch",
+    "category": "arch",
+    "description": "Standalone 3.4 m Gothic pointed stone arch bay with clustered nook-shafts, capitals, chamfered inner rib, radial voussoirs and hood mould.",
+    "size_m": [
+      3.44,
+      4.78,
+      1
+    ],
+    "triangles": 6194,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates"
+    ],
+    "file": "glb/arch_pointed.glb",
+    "preview": "previews/arch_pointed.png",
+    "glb_bytes": 2523112
+  },
+  {
+    "id": "arch_round",
+    "name": "Romanesque round arch",
+    "category": "arch",
+    "description": "Standalone 3.5 m Romanesque semicircular arch with cushion capitals, recessed inner ring, stepped dressed voussoirs and keystone.",
+    "size_m": [
+      3.58,
+      3.85,
+      1.06
+    ],
+    "triangles": 4228,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates"
+    ],
+    "file": "glb/arch_round.glb",
+    "preview": "previews/arch_round.png",
+    "glb_bytes": 2460468
+  },
+  {
+    "id": "arch_ribbed",
+    "name": "Gothic ribbed arch",
+    "category": "arch",
+    "description": "4 m span Gothic transverse rib arch with tripled wall-shaft responds, annulet rings, keel-moulded rib profile and carved keystone boss.",
+    "size_m": [
+      4.1,
+      4.58,
+      0.72
+    ],
+    "triangles": 4522,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates"
+    ],
+    "file": "glb/arch_ribbed.glb",
+    "preview": "previews/arch_ribbed.png",
+    "glb_bytes": 2449452
+  },
+  {
+    "id": "vault_ribbed",
+    "name": "Quadripartite rib vault",
+    "category": "arch",
+    "description": "4 x 4 m Gothic quadripartite stone rib-vaulted ceiling bay on clustered corner piers, with diagonal and transverse ribs, stone webbing and central boss.",
+    "size_m": [
+      4.04,
+      5.2,
+      4.04
+    ],
+    "triangles": 13364,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates"
+    ],
+    "file": "glb/vault_ribbed.glb",
+    "preview": "previews/vault_ribbed.png",
+    "glb_bytes": 3086548
+  },
+  {
+    "id": "window_slit",
+    "name": "Splayed arrow-slit window",
+    "category": "window",
+    "description": "Masonry arrow-slit window bay with deeply splayed interior embrasure, chamfered exterior frame, wrought-iron security grille and leaded pane.",
+    "size_m": [
+      1.48,
+      2.8,
+      0.93
+    ],
+    "triangles": 1171,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "wrought_iron",
+      "leaded_glass"
+    ],
+    "file": "glb/window_slit.glb",
+    "preview": "previews/window_slit.png",
+    "glb_bytes": 2479356
+  },
+  {
+    "id": "window_pointed",
+    "name": "Gothic pointed tracery window",
+    "category": "window",
+    "description": "Two-light Gothic pointed stone window with central octagonal mullion, trefoil sub-arches, quatrefoil oculus and leaded diamond glass.",
+    "size_m": [
+      2.1,
+      3.4,
+      0.85
+    ],
+    "triangles": 6938,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "leaded_glass",
+      "lead_came",
+      "wrought_iron"
+    ],
+    "file": "glb/window_pointed.glb",
+    "preview": "previews/window_pointed.png",
+    "glb_bytes": 2758904
+  },
+  {
+    "id": "window_rose",
+    "name": "Gothic rose window",
+    "category": "window",
+    "description": "Circular Gothic wheel/rose window in a dressed stone spandrel frame with 12 radiating colonnette spokes, cusp arches and jewel stained glass.",
+    "size_m": [
+      3.12,
+      3.2,
+      0.74
+    ],
+    "triangles": 12374,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "lead_came",
+      "stained_glass_ruby",
+      "stained_glass_amber",
+      "stained_glass_cobalt",
+      "stained_glass_emerald",
+      "wrought_iron"
+    ],
+    "file": "glb/window_rose.glb",
+    "preview": "previews/window_rose.png",
+    "glb_bytes": 3090224
+  },
+  {
+    "id": "window_stained",
+    "name": "Stained-glass lancet window",
+    "category": "window",
+    "description": "Tall pointed Gothic stained-glass window with ruby, cobalt, amber and emerald leaded glass mosaic, lead cames and iron saddle bars.",
+    "size_m": [
+      1.9,
+      3.8,
+      0.8
+    ],
+    "triangles": 7576,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "stained_glass_amber",
+      "stained_glass_ruby",
+      "stained_glass_cobalt",
+      "lead_came",
+      "stained_glass_emerald",
+      "wrought_iron"
+    ],
+    "file": "glb/window_stained.glb",
+    "preview": "previews/window_stained.png",
+    "glb_bytes": 2783068
+  },
+  {
+    "id": "stair_spiral",
+    "name": "Spiral turnpike staircase",
+    "category": "stair",
+    "description": "Stone spiral staircase rising 4.0 m per full turn (20 wedge treads) with central turned newel, cutaway masonry drum and helical iron handrail.",
+    "size_m": [
+      2.74,
+      4.16,
+      2.74
+    ],
+    "triangles": 3544,
+    "materials": [
+      "large_sandstone_blocks",
+      "monastery_stone_floor",
+      "castle_wall_slates",
+      "wrought_iron"
+    ],
+    "file": "glb/stair_spiral.glb",
+    "preview": "previews/stair_spiral.png",
+    "glb_bytes": 3504916
+  },
+  {
+    "id": "stair_straight",
+    "name": "Straight stone staircase",
+    "category": "stair",
+    "description": "10-step castle straight stone flight (2.0 m rise over 2.8 m run) with sloped masonry cheek walls, slate bullnose treads and oak-and-stone balustrade.",
+    "size_m": [
+      1.8,
+      3.17,
+      2.9
+    ],
+    "triangles": 5628,
+    "materials": [
+      "castle_wall_slates",
+      "large_sandstone_blocks",
+      "monastery_stone_floor",
+      "oak_wood_planks"
+    ],
+    "file": "glb/stair_straight.glb",
+    "preview": "previews/stair_straight.png",
+    "glb_bytes": 4081712
+  },
+  {
+    "id": "ladder_straight",
+    "name": "Straight oak ladder",
+    "category": "stair",
+    "description": "2.55 m timber ladder with eight rounded rungs and visible wedged through-tenons, exported upright for placement at any angle.",
+    "size_m": [
+      0.66,
+      2.55,
+      0.09
+    ],
+    "triangles": 2808,
+    "materials": [
+      "oak_wood_planks",
+      "weathered_planks",
+      "dark_wood"
+    ],
+    "file": "glb/ladder_straight.glb",
+    "preview": "previews/ladder_straight.png",
+    "glb_bytes": 1891360
+  },
+  {
+    "id": "landing_platform",
+    "name": "Corbelled landing platform",
+    "category": "stair",
+    "description": "4.0 x 2.5 m arched stone-and-timber gallery landing at y = 2.0 m with octagonal piers, oak joists, flagstone deck and stone balustrade.",
+    "size_m": [
+      4.03,
+      3.15,
+      2.55
+    ],
+    "triangles": 8748,
+    "materials": [
+      "large_sandstone_blocks",
+      "oak_wood_planks",
+      "monastery_stone_floor"
+    ],
+    "file": "glb/landing_platform.glb",
+    "preview": "previews/landing_platform.png",
+    "glb_bytes": 2686208
+  },
+  {
+    "id": "fireplace_hearth",
+    "name": "Great hall stone fireplace",
+    "category": "hearth",
+    "description": "Monumental medieval stone fireplace with raised slate hearth, brick fireback, carved mantel lintel, tapered chimney hood, iron andirons and hearth fire.",
+    "size_m": [
+      2.5,
+      3.61,
+      1.24
+    ],
+    "triangles": 4922,
+    "materials": [
+      "monastery_stone_floor",
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "medieval_red_brick",
+      "soot_stone",
+      "void",
+      "wrought_iron",
+      "aged_brass",
+      "glowing_charcoal",
+      "bark_brown_01",
+      "flame_core",
+      "flame_outer"
+    ],
+    "file": "glb/fireplace_hearth.glb",
+    "preview": "previews/fireplace_hearth.png",
+    "glb_bytes": 7253596
+  },
+  {
+    "id": "chimney_stack",
+    "name": "Stone & brick chimney stack",
+    "category": "hearth",
+    "description": "Tall battered stone chimney breast with quoins, lead flashing collar, brick shaft, corbelled cornice and twin crenellated octagonal chimney flues.",
+    "size_m": [
+      1.74,
+      5.27,
+      1.28
+    ],
+    "triangles": 3944,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "lead_came",
+      "medieval_red_brick",
+      "soot_stone",
+      "void"
+    ],
+    "file": "glb/chimney_stack.glb",
+    "preview": "previews/chimney_stack.png",
+    "glb_bytes": 4396988
+  },
+  {
+    "id": "roof_slate",
+    "name": "Slate gable roof bay",
+    "category": "roof",
+    "description": "4 m modular steep-pitched castle slate roof bay over oak rafters and collar ties, with 7 stepped slate courses and dressed ridge saddle tiles.",
+    "size_m": [
+      4,
+      2.65,
+      4.94
+    ],
+    "triangles": 4304,
+    "materials": [
+      "castle_wall_slates",
+      "oak_wood_planks",
+      "weathered_planks",
+      "roof_slates_02",
+      "large_sandstone_blocks"
+    ],
+    "file": "glb/roof_slate.glb",
+    "preview": "previews/roof_slate.png",
+    "glb_bytes": 4810468
+  },
+  {
+    "id": "roof_clay_tile",
+    "name": "Clay barrel-tile roof bay",
+    "category": "roof",
+    "description": "4 m modular terracotta clay tile roof bay over oak rafters, built with curved 3D pan-and-cover barrel tiles and ridge cap tiles.",
+    "size_m": [
+      4,
+      2.38,
+      5.01
+    ],
+    "triangles": 19192,
+    "materials": [
+      "castle_wall_slates",
+      "oak_wood_planks",
+      "weathered_planks",
+      "clay_roof_tiles_02"
+    ],
+    "file": "glb/roof_clay_tile.glb",
+    "preview": "previews/roof_clay_tile.png",
+    "glb_bytes": 4725544
+  },
+  {
+    "id": "roof_thatch",
+    "name": "Reed thatch roof bay",
+    "category": "roof",
+    "description": "4 m modular medieval reed thatch roof bay on round pole rafters, with thick bell-cast eaves, braided straw ridge, hazel liggers and crossed gable finials.",
+    "size_m": [
+      4.08,
+      3.41,
+      5.04
+    ],
+    "triangles": 2420,
+    "materials": [
+      "castle_wall_slates",
+      "dark_wood",
+      "weathered_planks",
+      "thatch_roof_angled"
+    ],
+    "file": "glb/roof_thatch.glb",
+    "preview": "previews/roof_thatch.png",
+    "glb_bytes": 4412284
+  },
+  {
+    "id": "truss_timber",
+    "name": "Oak roof truss",
+    "category": "structure",
+    "description": "6 m span medieval oak king-post & arch-braced roof truss on stone corbels with cambered tie beam, raking struts, draw-bore pegs and iron T-straps.",
+    "size_m": [
+      6.21,
+      3.97,
+      0.56
+    ],
+    "triangles": 2956,
+    "materials": [
+      "large_sandstone_blocks",
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron"
+    ],
+    "file": "glb/truss_timber.glb",
+    "preview": "previews/truss_timber.png",
+    "glb_bytes": 2291504
+  },
+  {
+    "id": "pillar_beam_stone",
+    "name": "Stone pillar & beam bay",
+    "category": "structure",
+    "description": "4 m castle stone arcade pier & lintel bay with octagonal shaft bases, bell capitals, corbel haunches, moulded stone cornice and iron tie anchors.",
+    "size_m": [
+      4.06,
+      3.84,
+      0.77
+    ],
+    "triangles": 2648,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "wrought_iron"
+    ],
+    "file": "glb/pillar_beam_stone.glb",
+    "preview": "previews/pillar_beam_stone.png",
+    "glb_bytes": 2517636
+  },
+  {
+    "id": "pillar_beam_timber",
+    "name": "Timber post & beam bay",
+    "category": "structure",
+    "description": "4 m medieval oak post-and-beam bay on stone damp-course pads with curved knee-braces, chamfered summer beam, ceiling joists and iron stirrup straps.",
+    "size_m": [
+      4,
+      3.44,
+      0.92
+    ],
+    "triangles": 2168,
+    "materials": [
+      "large_sandstone_blocks",
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron"
+    ],
+    "file": "glb/pillar_beam_timber.glb",
+    "preview": "previews/pillar_beam_timber.png",
+    "glb_bytes": 2260084
+  },
+  {
+    "id": "gargoyle_spout",
+    "name": "Gothic stone gargoyle",
+    "category": "structure",
+    "description": "Carved limestone Gothic winged gargoyle waterspout crouching on a stepped cornice corbel with drainage runnel, clawed paws, horns and roaring spout.",
+    "size_m": [
+      0.66,
+      1.05,
+      1.43
+    ],
+    "triangles": 2224,
+    "materials": [
+      "large_sandstone_blocks",
+      "void"
+    ],
+    "file": "glb/gargoyle_spout.glb",
+    "preview": "previews/gargoyle_spout.png",
+    "glb_bytes": 853828
+  },
+  {
+    "id": "door_ironbound",
+    "name": "Iron-bound oak door",
+    "category": "door",
+    "description": "Pointed stone doorway with planked oak castle door, rear Z-bracing, scrolled wrought-iron strap hinges, dome studs, lock plate and ring pull.",
+    "size_m": [
+      2.16,
+      3.26,
+      0.7
+    ],
+    "triangles": 4836,
+    "materials": [
+      "large_sandstone_blocks",
+      "castle_wall_slates",
+      "wooden_gate",
+      "dark_wood",
+      "wrought_iron",
+      "aged_brass"
+    ],
+    "file": "glb/door_ironbound.glb",
+    "preview": "previews/door_ironbound.png",
+    "glb_bytes": 3992552
+  },
+  {
+    "id": "hardware_knocker",
+    "name": "Forged door knocker",
+    "category": "door",
+    "description": "Gothic wrought-iron & aged-brass rosette door knocker with pyramid rivets, heavy ring pull and strike anvil.",
+    "size_m": [
+      0.24,
+      0.34,
+      0.11
+    ],
+    "triangles": 1104,
+    "materials": [
+      "wrought_iron",
+      "aged_brass"
+    ],
+    "file": "glb/hardware_knocker.glb",
+    "preview": "previews/hardware_knocker.png",
+    "glb_bytes": 336008
+  },
+  {
+    "id": "hardware_hinge",
+    "name": "Scrolled iron strap hinge",
+    "category": "door",
+    "description": "Medieval wrought-iron door strap hinge with vertical pintle bracket, barrel knuckle, fleur-de-lis finial, symmetric foliate scrolls and brass rivets.",
+    "size_m": [
+      0.91,
+      0.26,
+      0.06
+    ],
+    "triangles": 1580,
+    "materials": [
+      "wrought_iron",
+      "aged_brass"
+    ],
+    "file": "glb/hardware_hinge.glb",
+    "preview": "previews/hardware_hinge.png",
+    "glb_bytes": 359748
+  },
+  {
+    "id": "hardware_latch",
+    "name": "Forged sliding door latch",
+    "category": "door",
+    "description": "Heavy wrought-iron sliding deadbolt latch with riveted backplates, bridged keeper staples, strike catch, scrolled upright handle and brass knob.",
+    "size_m": [
+      0.61,
+      0.24,
+      0.09
+    ],
+    "triangles": 1988,
+    "materials": [
+      "wrought_iron",
+      "aged_brass"
+    ],
+    "file": "glb/hardware_latch.glb",
+    "preview": "previews/hardware_latch.png",
+    "glb_bytes": 369496
+  },
+  {
     "id": "table_banquet",
     "name": "Banquet table",
     "category": "furniture",
@@ -567,6 +1649,436 @@
     "file": "glb/archery_target.glb",
     "preview": "previews/archery_target.png",
     "glb_bytes": 4552176
+  },
+  {
+    "id": "sword_longsword",
+    "name": "Hand-and-a-half longsword",
+    "category": "weapon",
+    "description": "Museum-style hand-and-a-half sword replica, 1.2 m overall: 0.9 m hexagonal-section blade with a short fuller, straight crossguard with central block, cord-ribbed leather grip and pear-shaped pommel with a peened button.",
+    "size_m": [
+      0.22,
+      1.2,
+      0.05
+    ],
+    "triangles": 2644,
+    "materials": [
+      "forged_steel",
+      "wrought_iron",
+      "brown_leather"
+    ],
+    "file": "glb/sword_longsword.glb",
+    "preview": "previews/sword_longsword.png",
+    "glb_bytes": 1667840
+  },
+  {
+    "id": "sword_scabbarded",
+    "name": "Scabbarded longsword",
+    "category": "weapon",
+    "description": "The longsword sheathed in a leather-covered wooden scabbard with brass locket and chape, wrapped by a sword belt with an iron buckle; stands on the chape, 1.23 m tall.",
+    "size_m": [
+      0.22,
+      1.23,
+      0.05
+    ],
+    "triangles": 4366,
+    "materials": [
+      "brown_leather",
+      "aged_brass",
+      "forged_steel",
+      "bellows_leather",
+      "wrought_iron"
+    ],
+    "file": "glb/sword_scabbarded.glb",
+    "preview": "previews/sword_scabbarded.png",
+    "glb_bytes": 2289220
+  },
+  {
+    "id": "spear_infantry",
+    "name": "Infantry spear",
+    "category": "weapon",
+    "description": "Infantry spear, 2.4 m overall: ash shaft, leaf-shaped socketed head with midrib, nail through the socket, two riveted iron straps and a pointed iron butt ferrule.",
+    "size_m": [
+      0.06,
+      2.4,
+      0.04
+    ],
+    "triangles": 1440,
+    "materials": [
+      "wrought_iron",
+      "forged_steel",
+      "oak_wood_planks"
+    ],
+    "file": "glb/spear_infantry.glb",
+    "preview": "previews/spear_infantry.png",
+    "glb_bytes": 1094532
+  },
+  {
+    "id": "glaive",
+    "name": "Glaive",
+    "category": "weapon",
+    "description": "Glaive, 2.4 m: 0.5 m single-edged convex steel head with a back fluke on a socket with riveted side langets, a rondel disc and an octagonal ash shaft with iron butt cap.",
+    "size_m": [
+      0.15,
+      2.4,
+      0.14
+    ],
+    "triangles": 1318,
+    "materials": [
+      "wrought_iron",
+      "oak_wood_planks",
+      "forged_steel"
+    ],
+    "file": "glb/glaive.glb",
+    "preview": "previews/glaive.png",
+    "glb_bytes": 1083336
+  },
+  {
+    "id": "poleaxe",
+    "name": "Poleaxe",
+    "category": "weapon",
+    "description": "Poleaxe, 1.92 m: axe blade, four-tooth crowned hammer and top spike on a steel socket with four riveted langets, a rondel guard and an iron butt cap.",
+    "size_m": [
+      0.24,
+      1.92,
+      0.15
+    ],
+    "triangles": 1992,
+    "materials": [
+      "wrought_iron",
+      "oak_wood_planks",
+      "forged_steel"
+    ],
+    "file": "glb/poleaxe.glb",
+    "preview": "previews/poleaxe.png",
+    "glb_bytes": 1103336
+  },
+  {
+    "id": "axe_battle",
+    "name": "Bearded battle axe",
+    "category": "weapon",
+    "description": "Bearded battle axe on a 0.8 m oval ash haft with leather grip wrap; forged head with lipped eye, driven wedge, poll and iron cheek straps.",
+    "size_m": [
+      0.22,
+      0.83,
+      0.04
+    ],
+    "triangles": 4132,
+    "materials": [
+      "oak_wood_planks",
+      "brown_leather",
+      "forged_steel",
+      "wrought_iron"
+    ],
+    "file": "glb/axe_battle.glb",
+    "preview": "previews/axe_battle.png",
+    "glb_bytes": 2406524
+  },
+  {
+    "id": "mace_flanged",
+    "name": "Flanged mace",
+    "category": "weapon",
+    "description": "Flanged mace, 0.6 m: round steel head with seven flanges and a spike finial, ash haft with leather grip and an iron lug with a wrist-strap hole.",
+    "size_m": [
+      0.12,
+      0.59,
+      0.12
+    ],
+    "triangles": 3524,
+    "materials": [
+      "wrought_iron",
+      "oak_wood_planks",
+      "brown_leather",
+      "forged_steel"
+    ],
+    "file": "glb/mace_flanged.glb",
+    "preview": "previews/mace_flanged.png",
+    "glb_bytes": 2412608
+  },
+  {
+    "id": "bow_longbow",
+    "name": "English Yew Longbow",
+    "category": "weapon",
+    "description": "A strung English yew longbow, 1.9 m nock to nock, with a D-section stave of pale sapwood back and dark heartwood belly, horn nocks, a leather-wrapped grip and a waxed linen string at about 0.17 m brace height.",
+    "size_m": [
+      0.04,
+      1.9,
+      0.31
+    ],
+    "triangles": 4270,
+    "materials": [
+      "yew_sapwood",
+      "yew_wood",
+      "brown_leather",
+      "polished_horn",
+      "waxed_string"
+    ],
+    "file": "glb/bow_longbow.glb",
+    "preview": "previews/bow_longbow.png",
+    "glb_bytes": 2362568
+  },
+  {
+    "id": "arrow_sheaf",
+    "name": "Sheaf of War Arrows",
+    "category": "weapon",
+    "description": "A sheaf of 24 ash war arrows, 0.76 m long with bodkin and barbed heads and grey goose fletching, bound at the waist with two linen ties and lying on the ground.",
+    "size_m": [
+      0.79,
+      0.11,
+      0.1
+    ],
+    "triangles": 6744,
+    "materials": [
+      "forged_steel",
+      "arrow_shaft_ash",
+      "polished_horn",
+      "goose_feather",
+      "waxed_string",
+      "rough_linen"
+    ],
+    "file": "glb/arrow_sheaf.glb",
+    "preview": "previews/arrow_sheaf.png",
+    "glb_bytes": 2865244
+  },
+  {
+    "id": "armour_stand_plate",
+    "name": "Plate armour on stand",
+    "category": "armour",
+    "description": "Late-15th-century Gothic plate harness at human scale (about 1.9 m) on a wooden stand with square plinth: armet with bevor, gorget, breastplate with plackart, fauld, tassets, pauldrons, couters, gauntlets, cuisses, poleyns, greaves and sabatons.",
+    "size_m": [
+      0.74,
+      1.91,
+      0.62
+    ],
+    "triangles": 39868,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "aged_brass",
+      "brown_leather",
+      "forged_steel",
+      "void"
+    ],
+    "file": "glb/armour_stand_plate.glb",
+    "preview": "previews/armour_stand_plate.png",
+    "glb_bytes": 4293136
+  },
+  {
+    "id": "armour_stand_mail",
+    "name": "Mail hauberk on T-stand",
+    "category": "armour",
+    "description": "Knee-length short-sleeved mail hauberk with mail coif, gambeson hems and a belted crimson surcoat on a T-shaped oak stand, topped by a flat-topped great helm.",
+    "size_m": [
+      1.1,
+      1.78,
+      0.7
+    ],
+    "triangles": 7714,
+    "materials": [
+      "oak_wood_planks",
+      "wrought_iron",
+      "aged_brass",
+      "dark_wood",
+      "steel_mail_rings",
+      "gambeson_quilt",
+      "crimson_fabric",
+      "brown_leather",
+      "void",
+      "forged_steel"
+    ],
+    "file": "glb/armour_stand_mail.glb",
+    "preview": "previews/armour_stand_mail.png",
+    "glb_bytes": 5317356
+  },
+  {
+    "id": "helmet_great",
+    "name": "Great helm",
+    "category": "armour",
+    "description": "13th-century flat-topped great helm, 0.32 m high, with eye slit, breathing holes, and a brass cross of riveted straps; standing on its base rim.",
+    "size_m": [
+      0.24,
+      0.32,
+      0.24
+    ],
+    "triangles": 3018,
+    "materials": [
+      "forged_steel",
+      "aged_brass",
+      "void",
+      "wrought_iron"
+    ],
+    "file": "glb/helmet_great.glb",
+    "preview": "previews/helmet_great.png",
+    "glb_bytes": 577852
+  },
+  {
+    "id": "helmet_sallet",
+    "name": "Sallet with bevor",
+    "category": "armour",
+    "description": "German sallet with long tail and closed visor slit, 0.27 m long, with a separate three-lame bevor lying beside it.",
+    "size_m": [
+      0.5,
+      0.26,
+      0.41
+    ],
+    "triangles": 4020,
+    "materials": [
+      "forged_steel",
+      "aged_brass",
+      "void"
+    ],
+    "file": "glb/helmet_sallet.glb",
+    "preview": "previews/helmet_sallet.png",
+    "glb_bytes": 466580
+  },
+  {
+    "id": "trebuchet",
+    "name": "Counterweight trebuchet",
+    "category": "siege",
+    "description": "Cocked 13th-century counterweight trebuchet about 12.6 m long: 9.5 m tapered arm with iron bands and rope lashings on a 5.8 m axle between two A-frame trestles, hinged stone-filled counterweight box, windlass, release hook and a stone shot in its sling.",
+    "size_m": [
+      3.18,
+      7.11,
+      12.66
+    ],
+    "triangles": 25484,
+    "materials": [
+      "siege_timber",
+      "end_grain",
+      "wrought_iron",
+      "forged_steel",
+      "dark_wood",
+      "hemp_rope",
+      "boulder",
+      "brown_leather",
+      "oak_wood_planks"
+    ],
+    "file": "glb/trebuchet.glb",
+    "preview": "previews/trebuchet.png",
+    "glb_bytes": 8124368
+  },
+  {
+    "id": "ballista",
+    "name": "Field ballista",
+    "category": "siege",
+    "description": "Wheeled field ballista about 2.6 m long and 2 m wide: oak frame with two rope torsion skeins, iron washers and levers, bowstring drawn to the claw, a 1.1 m iron-headed bolt, ratchet winch and a pivoting two-wheeled carriage with trail.",
+    "size_m": [
+      2,
+      1.7,
+      2.66
+    ],
+    "triangles": 12400,
+    "materials": [
+      "dark_wood",
+      "wrought_iron",
+      "siege_timber",
+      "oak_wood_planks",
+      "hemp_rope",
+      "forged_steel",
+      "waxed_string",
+      "goose_feather"
+    ],
+    "file": "glb/ballista.glb",
+    "preview": "previews/ballista.png",
+    "glb_bytes": 4892312
+  },
+  {
+    "id": "ram_log",
+    "name": "Ram Log",
+    "category": "siege",
+    "description": "Hand-carried oak battering ram about 4 m long and 0.34 m thick, hewn with bark left in places, with an iron striking cap, flange straps, three iron bands and five pairs of rope handles.",
+    "size_m": [
+      0.88,
+      0.38,
+      3.98
+    ],
+    "triangles": 8772,
+    "materials": [
+      "oak_wood_planks",
+      "end_grain",
+      "bark_brown_01",
+      "wrought_iron",
+      "hemp_rope"
+    ],
+    "file": "glb/ram_log.glb",
+    "preview": "previews/ram_log.png",
+    "glb_bytes": 4768468
+  },
+  {
+    "id": "logs_rolling",
+    "name": "Rolling logs store",
+    "category": "siege-defence",
+    "description": "Six 2.4 m pine logs stacked 3-2-1 on chocked sole beams, two of them studded with iron spikes, plus a loose log and an iron-shod pry bar for levering them over the parapet.",
+    "size_m": [
+      2.58,
+      1.04,
+      2.35
+    ],
+    "triangles": 18564,
+    "materials": [
+      "siege_timber",
+      "dark_wood",
+      "wrought_iron",
+      "pine_bark",
+      "end_grain",
+      "void",
+      "debarked_log",
+      "oak_wood_planks",
+      "hemp_rope"
+    ],
+    "file": "glb/logs_rolling.glb",
+    "preview": "previews/logs_rolling.png",
+    "glb_bytes": 6473556
+  },
+  {
+    "id": "rocks_drop_pile",
+    "name": "Drop stones bin",
+    "category": "siege-defence",
+    "description": "Iron-strapped plank bin (1.5 x 0.8 m) heaped with rough drop stones, with four dressed 0.34 m stone shot and two loose boulders beside it.",
+    "size_m": [
+      1.75,
+      1.03,
+      1.65
+    ],
+    "triangles": 9080,
+    "materials": [
+      "siege_timber",
+      "oak_wood_planks",
+      "wrought_iron",
+      "hemp_rope",
+      "boulder",
+      "hearth_stone"
+    ],
+    "file": "glb/rocks_drop_pile.glb",
+    "preview": "previews/rocks_drop_pile.png",
+    "glb_bytes": 5647512
+  },
+  {
+    "id": "oil_cauldron",
+    "name": "Tipping pitch cauldron",
+    "category": "siege-defence",
+    "description": "0.75 m iron cauldron of hot pitch hung on trunnions in a timber gallows over a charcoal fire basket, with a chained tipping lever, pour lip, ladle and pitch bucket.",
+    "size_m": [
+      1.8,
+      1.95,
+      1.64
+    ],
+    "triangles": 15144,
+    "materials": [
+      "hearth_stone",
+      "siege_timber",
+      "wrought_iron",
+      "sooty_iron",
+      "glowing_charcoal",
+      "flame_core",
+      "flame_outer",
+      "hot_pitch",
+      "oak_wood_planks",
+      "wooden_barrel",
+      "hemp_rope"
+    ],
+    "file": "glb/oil_cauldron.glb",
+    "preview": "previews/oil_cauldron.png",
+    "glb_bytes": 6241488
   },
   {
     "id": "torch_wall",
@@ -991,6 +2503,185 @@
     "file": "glb/arms_shield_wall.glb",
     "preview": "previews/arms_shield_wall.png",
     "glb_bytes": 1771604
+  },
+  {
+    "id": "books_leather_stack",
+    "name": "Leather-bound books",
+    "category": "study",
+    "description": "Stack of five gilt-banded leather and cloth bound books, two loose books and an open book with a fan of loose pages.",
+    "size_m": [
+      0.76,
+      0.22,
+      0.61
+    ],
+    "triangles": 7259,
+    "materials": [
+      "brown_leather",
+      "parchment",
+      "aged_brass",
+      "crimson_fabric",
+      "bellows_leather",
+      "azure_fabric"
+    ],
+    "file": "glb/books_leather_stack.glb",
+    "preview": "previews/books_leather_stack.png",
+    "glb_bytes": 2965668
+  },
+  {
+    "id": "scrolls_parchment_rack",
+    "name": "Parchment scrolls and rack",
+    "category": "study",
+    "description": "Pile of tied parchment scrolls with wooden dowels, a wicker scroll basket and a 3 x 2 oak cubby rack holding rolled scrolls.",
+    "size_m": [
+      0.96,
+      0.54,
+      0.81
+    ],
+    "triangles": 20952,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "parchment",
+      "brown_leather",
+      "thatch_roof_angled"
+    ],
+    "file": "glb/scrolls_parchment_rack.glb",
+    "preview": "previews/scrolls_parchment_rack.png",
+    "glb_bytes": 4482772
+  },
+  {
+    "id": "alchemist_glassware",
+    "name": "Alchemist glassware table",
+    "category": "study",
+    "description": "Small oak table (top at 0.78 m) with an alembic and receiver, a retort on a ring stand, round flasks and stoppered bottles of coloured liquids.",
+    "size_m": [
+      0.86,
+      1.09,
+      0.5
+    ],
+    "triangles": 13924,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "lab_glass",
+      "amber_tincture",
+      "water",
+      "wine"
+    ],
+    "file": "glb/alchemist_glassware.glb",
+    "preview": "previews/alchemist_glassware.png",
+    "glb_bytes": 1808896
+  },
+  {
+    "id": "balance_scale_brass",
+    "name": "Brass balance scale",
+    "category": "study",
+    "description": "Brass beam balance on a turned column and wooden base, two chained pans with weights and a leather pouch, spare weights on the base.",
+    "size_m": [
+      0.66,
+      0.44,
+      0.16
+    ],
+    "triangles": 3688,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "polished_brass",
+      "aged_brass",
+      "bellows_leather"
+    ],
+    "file": "glb/balance_scale_brass.glb",
+    "preview": "previews/balance_scale_brass.png",
+    "glb_bytes": 2774160
+  },
+  {
+    "id": "stable_hay_rack",
+    "name": "Hay rack and manger",
+    "category": "stable",
+    "description": "Plank feed trough on four braced legs with iron straps, under a V-shaped slatted hay rack filled with hay.",
+    "size_m": [
+      1.9,
+      1.71,
+      1.54
+    ],
+    "triangles": 9488,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "wrought_iron",
+      "forged_steel",
+      "thatch_roof_angled"
+    ],
+    "file": "glb/stable_hay_rack.glb",
+    "preview": "previews/stable_hay_rack.png",
+    "glb_bytes": 3151852
+  },
+  {
+    "id": "stable_hay_bales",
+    "name": "Hay bales and loose hay",
+    "category": "stable",
+    "description": "Three twine-bound hay bales (two below, one across) with a lumpy loose hay heap and straw scattered on the floor.",
+    "size_m": [
+      2.01,
+      0.82,
+      2.16
+    ],
+    "triangles": 12404,
+    "materials": [
+      "thatch_roof_angled",
+      "rough_linen"
+    ],
+    "file": "glb/stable_hay_bales.glb",
+    "preview": "previews/stable_hay_bales.png",
+    "glb_bytes": 2655588
+  },
+  {
+    "id": "stable_saddle_stand",
+    "name": "Saddle on wooden stand",
+    "category": "stable",
+    "description": "Leather saddle with dished seat, raised pommel and cantle, skirts, stirrup leathers and iron stirrups on a wooden saddle horse.",
+    "size_m": [
+      0.64,
+      1.01,
+      0.82
+    ],
+    "triangles": 6444,
+    "materials": [
+      "dark_wood",
+      "wrought_iron",
+      "bellows_leather",
+      "brown_leather",
+      "forged_steel",
+      "aged_brass"
+    ],
+    "file": "glb/stable_saddle_stand.glb",
+    "preview": "previews/stable_saddle_stand.png",
+    "glb_bytes": 2899172
+  },
+  {
+    "id": "stable_tack_wall",
+    "name": "Tack wall",
+    "category": "stable",
+    "description": "Free-standing plank panel with peg rails holding a bridle with bit, a rope coil, a horse collar with hames and trace chains, and a halter.",
+    "size_m": [
+      1.52,
+      1.6,
+      0.4
+    ],
+    "triangles": 9516,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "brown_leather",
+      "forged_steel",
+      "aged_brass",
+      "rough_linen"
+    ],
+    "file": "glb/stable_tack_wall.glb",
+    "preview": "previews/stable_tack_wall.png",
+    "glb_bytes": 4277816
   },
   {
     "id": "well_stone",

@@ -102,7 +102,29 @@ launches the viewer directly on Windows):
 | chapel | `altar_stone`, `pew_wooden`, `lectern_book`, `font_baptismal` |
 | heraldry | `banner_standing`, `arms_shield_wall` (wall-mounted, back at `z = 0`) |
 
-Review tooling: `npm run review <filter|all> [cols] [rows] [views|none]` checks every matching module (NaN and zero-area triangles, lowest point at y = 0, triangles per material) and prints ASCII renders from several directions. Filters are comma-separated id substrings or `cat:<category>`, and work the same way in `npm run build:models`, in the viewer (`?filter=`) and in the review script.
+Review tooling: `npm run review <filter|all> [cols] [rows] [views|none]` checks every matching module (NaN and zero-area triangles, lowest point at y = 0, triangles per material) and prints ASCII renders from several directions. Filters are comma-separated ID substrings, exact IDs (`=id`), or `cat:<category>`, and work the same way in `npm run build:models`, in the viewer (`?filter=`) and in the review script.
+
+## Stage 5: architectural elements
+
+25 standalone European medieval building components. The freestanding arches complement the existing curtain-wall arch modules; window models include their own masonry surrounds.
+
+| Family | Models |
+| --- | --- |
+| Arches and vault | `arch_pointed`, `arch_round`, `arch_ribbed`, `vault_ribbed` |
+| Windows | `window_slit`, `window_pointed`, `window_rose`, `window_stained` |
+| Access | `stair_spiral`, `stair_straight`, `ladder_straight`, `landing_platform` |
+| Fireplace and chimney | `fireplace_hearth`, `chimney_stack` |
+| Roofs | `roof_slate`, `roof_clay_tile`, `roof_thatch` |
+| Structures and carving | `truss_timber`, `pillar_beam_stone`, `pillar_beam_timber`, `gargoyle_spout` |
+| Door and ironwork | `door_ironbound`, `hardware_knocker`, `hardware_hinge`, `hardware_latch` |
+
+Assets use metres and Y-up. Roof bays have a nominal 4 m repeat along X; the thatch ridge cap projects 4 cm at each end. The straight stair rises 2 m to the landing datum. The timber ladder is exported upright so its angle can be set in the destination scene. Standalone door hardware faces +Z with its mounting plane at z = 0.
+
+```bash
+npm run build:models -- "=arch_pointed,=arch_round,=arch_ribbed,=vault_ribbed,cat:window,cat:stair,cat:hearth,cat:roof,cat:structure,cat:door"
+```
+
+See [the model index](library/models/index.json) for measured bounds, triangle counts and preview paths.
 
 ## Planned next stages
 

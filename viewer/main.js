@@ -11,13 +11,17 @@ import { loadMaterialIndex, setMaxAnisotropy, texturesReady } from '../src/lib/m
 import { makeMaterials } from '../src/lib/kit.js';
 import { MODULES } from '../src/modules/index.js';
 import { buildDemo } from '../src/modules/demo.js';
+import { buildDefenceDemo } from '../src/modules/demo_defence.js';
 
 const params = new URLSearchParams(location.search);
 const shot = params.has('shot');
-// ?filter=<text>[,<text>] builds only the modules whose id contains the text (cat:<name> matches a whole category),
-// so single-module rebuilds and reviews stay fast even though the registry holds many modules.
+// ?filter=<text>[,<text>] accepts ID substrings, exact IDs (=id), or cat:<name>.
 const filters = (params.get('filter') || '').split(',').filter(Boolean);
-const wanted = (def) => !filters.length || filters.some((f) => (f.startsWith('cat:') ? def.category === f.slice(4) : def.id.includes(f)));
+const wanted = (def) => !filters.length || filters.some((f) => {
+  if (f.startsWith('cat:')) return def.category === f.slice(4);
+  if (f.startsWith('=')) return def.id === f.slice(1);
+  return def.id.includes(f);
+});
 
 function measure(group) {
   const box = new THREE.Box3().setFromObject(group);
@@ -38,7 +42,7 @@ async function main() {
   renderer.setSize(window.innerWidth, window.innerHeight);
   renderer.toneMapping = THREE.ACESFilmicToneMapping;
   renderer.shadowMap.enabled = true;
-  renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+  renderer.shadowMap.type = THREE.PCFShadowMap;
   document.body.appendChild(renderer.domElement);
 
   const scene = new THREE.Scene();
@@ -106,9 +110,20 @@ async function main() {
 
   function frame(box, dir) {
     const c = box.getCenter(new THREE.Vector3());
-    const r = box.getSize(new THREE.Vector3()).length() / 2;
-    const dist = (r / Math.sin(THREE.MathUtils.degToRad(camera.fov / 2))) * 0.9;
-    camera.position.copy(c).addScaledVector(dir.clone().normalize(), dist);
+    const half = box.getSize(new THREE.Vector3()).multiplyScalar(0.5);
+    const r = half.length();
+    const back = dir.clone().normalize();
+    const right = new THREE.Vector3().crossVectors(camera.up, back).normalize();
+    const up = new THREE.Vector3().crossVectors(back, right);
+    const tanY = Math.tan(THREE.MathUtils.degToRad(camera.fov / 2));
+    const tanX = tanY * camera.aspect;
+    let dist = 0;
+    for (const sx of [-1, 1]) for (const sy of [-1, 1]) for (const sz of [-1, 1]) {
+      const p = new THREE.Vector3(sx * half.x, sy * half.y, sz * half.z);
+      const fit = Math.max(Math.abs(p.dot(right)) / tanX, Math.abs(p.dot(up)) / tanY);
+      dist = Math.max(dist, p.dot(back) + Math.max(1.12 * fit, camera.near * 1.1));
+    }
+    camera.position.copy(c).addScaledVector(back, dist);
     controls.target.copy(c);
     controls.update();
     sun.position.copy(c).add(new THREE.Vector3(0.6, 1.0, 0.8).normalize().multiplyScalar(dist));
@@ -118,18 +133,19 @@ async function main() {
     sun.shadow.camera.updateProjectionMatrix();
   }
 
-  let demoGroup = null;
-  function getDemo() {
-    if (demoGroup) return demoGroup;
-    demoGroup = buildDemo(M);
+  const demos = new Map();
+  function getDemo(id) {
+    if (demos.has(id)) return demos.get(id);
+    const demoGroup = id === '__defence__' ? buildDefenceDemo(M) : buildDemo(M);
     demoGroup.traverse((o) => {
       if (o.isMesh) {
-        o.castShadow = true;
+        o.castShadow = !o.material.transparent;
         o.receiveShadow = true;
       }
     });
     scene.add(demoGroup);
     demoGroup.box = new THREE.Box3().setFromObject(demoGroup);
+    demos.set(id, demoGroup);
     return demoGroup;
   }
 
@@ -149,6 +165,7 @@ async function main() {
   };
   addButton('All modules', null);
   addButton('Assembly demo', '__demo__');
+  addButton('Defence assembly', '__defence__');
   let lastCat = '';
   for (const e of entries) {
     if (e.def.category !== lastCat) {
@@ -166,25 +183,27 @@ async function main() {
   document.body.appendChild(hud);
 
   function show(id) {
-    const isDemo = id === '__demo__';
+    const isDemo = id === '__demo__' || id === '__defence__';
     const only = !isDemo && id ? entries.find((e) => e.def.id === id) : null;
     if (!isDemo && id && !only) throw new Error('Unknown module ' + id);
-    if (demoGroup) demoGroup.visible = false;
+    for (const demo of demos.values()) demo.visible = false;
     for (const e of entries) {
       e.group.visible = !isDemo && (!only || e === only);
       if (only) e.group.position.set(0, 0, 0);
       else e.group.position.copy(e.home);
     }
     if (isDemo) {
-      const dg = getDemo();
+      const dg = getDemo(id);
       dg.visible = true;
-      frame(dg.box, new THREE.Vector3(0.4, 0.9, 1.2));
+      frame(dg.box, id === '__defence__' ? new THREE.Vector3(0.72, 0.95, 1.2) : new THREE.Vector3(0.4, 0.9, 1.2));
     } else {
       frame(only ? only.box : galleryBox, only ? new THREE.Vector3(1, 0.55, 1.4) : new THREE.Vector3(0.3, 1, 1.1));
     }
     for (const [key, btn] of buttons) btn.classList.toggle('on', key === id);
     info.textContent = isDemo
-      ? 'Assembled castle wall run: gatehouse, arches, towers, walls and corner.'
+      ? id === '__defence__'
+        ? 'Defence assembly: two-tower gatehouse, modular walls, wet ditch, causeway, bailey and keep.'
+        : 'Assembled castle wall run: gatehouse, arches, towers, walls and corner.'
       : only
         ? only.def.description + '  ' + only.size.toArray().map((v) => v.toFixed(2)).join(' x ') + ' m, ' + only.tris + ' tris'
         : '';
@@ -240,13 +259,15 @@ async function main() {
     return buf.byteLength;
   };
 
+  const initialDemo = params.get('demo') === 'defence' ? '__defence__' : params.has('demo') ? '__demo__' : null;
+  if (initialDemo) getDemo(initialDemo);
   await texturesReady();
-  show(params.has('demo') ? '__demo__' : params.get('module'));
+  show(initialDemo ?? params.get('module'));
   // Axis views (?view=front|back|side|top) use a narrow field of view so elevations read like orthographic drawings.
   const AXES = { front: [0, 0.02, 1], back: [0, 0.02, -1], side: [1, 0.02, 0], top: [0, 1, 0.001] };
   const axis = AXES[params.get('view')];
   const focusEntry = entries.find((e) => e.def.id === params.get('module'));
-  const focus = params.has('demo') ? getDemo().box : focusEntry ? focusEntry.box : galleryBox;
+  const focus = initialDemo ? getDemo(initialDemo).box : focusEntry ? focusEntry.box : galleryBox;
   if (axis) {
     camera.fov = 10;
     camera.updateProjectionMatrix();
