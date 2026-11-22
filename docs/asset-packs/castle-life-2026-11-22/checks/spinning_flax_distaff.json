@@ -1,0 +1,55 @@
+{
+  "id": "spinning_flax_distaff",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2404,
+      "vertices": 4470,
+      "meshes": 3,
+      "size_m": [
+        0.547,
+        1.606,
+        0.475
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 5860,
+      "vertices": 6480,
+      "meshes": 3,
+      "size_m": [
+        0.538,
+        1.602,
+        0.468
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 15380,
+      "vertices": 18463,
+      "meshes": 6,
+      "size_m": [
+        0.538,
+        1.602,
+        0.468
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 4788,
+      "vertices": 6598,
+      "meshes": 6,
+      "size_m": [
+        0.538,
+        1.602,
+        0.468
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3526024,
+  "embedded_images": 15
+}

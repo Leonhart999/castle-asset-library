@@ -1,0 +1,55 @@
+{
+  "id": "pantry_rotary_quern",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2588,
+      "vertices": 1944,
+      "meshes": 4,
+      "size_m": [
+        0.681,
+        0.92,
+        0.637
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3900,
+      "vertices": 2973,
+      "meshes": 5,
+      "size_m": [
+        0.681,
+        0.92,
+        0.637
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 8668,
+      "vertices": 6426,
+      "meshes": 6,
+      "size_m": [
+        0.681,
+        0.92,
+        0.762
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 4096,
+      "vertices": 3332,
+      "meshes": 6,
+      "size_m": [
+        0.681,
+        0.919,
+        0.762
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3646368,
+  "embedded_images": 18
+}

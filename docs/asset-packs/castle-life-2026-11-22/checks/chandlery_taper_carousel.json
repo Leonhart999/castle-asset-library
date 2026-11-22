@@ -1,0 +1,55 @@
+{
+  "id": "chandlery_taper_carousel",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 1604,
+      "vertices": 1130,
+      "meshes": 3,
+      "size_m": [
+        0.816,
+        1.38,
+        0.816
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3732,
+      "vertices": 2832,
+      "meshes": 3,
+      "size_m": [
+        0.722,
+        1.4,
+        0.816
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 20412,
+      "vertices": 13033,
+      "meshes": 5,
+      "size_m": [
+        0.828,
+        1.4,
+        0.828
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 6588,
+      "vertices": 4657,
+      "meshes": 5,
+      "size_m": [
+        0.828,
+        1.4,
+        0.828
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3704516,
+  "embedded_images": 15
+}

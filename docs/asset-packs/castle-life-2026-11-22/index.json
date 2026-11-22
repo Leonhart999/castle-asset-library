@@ -1,0 +1,604 @@
+[
+  {
+    "id": "apiary_straw_skep",
+    "name": "Coiled straw skep on stool",
+    "category": "apiary",
+    "description": "Raised oak hive stool with a coiled straw dome, hand-sewn binding and a notched flight entrance.",
+    "size_m": [
+      0.56,
+      0.82,
+      0.67
+    ],
+    "triangles": 18004,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "thatch_roof_angled",
+      "rough_linen"
+    ],
+    "file": "glb/apiary_straw_skep.glb",
+    "preview": "previews/apiary_straw_skep.png",
+    "glb_bytes": 3916912,
+    "sha256": "2d54140436d34b9aabfff4aff1f7c9abc6ba38788e74122123c8bf8b6387e388"
+  },
+  {
+    "id": "bakery_kneading_trough",
+    "name": "Baker’s kneading trough",
+    "category": "bakery",
+    "description": "Hollow oak dough trough on splayed trestles, with a draped linen cloth and three pieces of dough.",
+    "size_m": [
+      1.79,
+      1.04,
+      0.7
+    ],
+    "triangles": 2904,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "floured_dough",
+      "rough_linen"
+    ],
+    "file": "glb/bakery_kneading_trough.glb",
+    "preview": "previews/bakery_kneading_trough.png",
+    "glb_bytes": 3502700,
+    "sha256": "4bc9c27bd5826ba16b231b61bb60932c8be1a1d633e3e42636ba47ee1b9c1beb"
+  },
+  {
+    "id": "bakery_peel_horse",
+    "name": "Bakery peel horse",
+    "category": "bakery",
+    "description": "A freestanding trestle with two distinct oak oven peels, tapered blades and bound necks.",
+    "size_m": [
+      0.84,
+      2.11,
+      0.53
+    ],
+    "triangles": 1968,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "rough_linen",
+      "wrought_iron"
+    ],
+    "file": "glb/bakery_peel_horse.glb",
+    "preview": "previews/bakery_peel_horse.png",
+    "glb_bytes": 2449556,
+    "sha256": "9b924b8de8080436174ee7589a659616efa475c770223ac2e32cebfa9d8a1cbf"
+  },
+  {
+    "id": "bindery_sewing_frame",
+    "name": "Bookbinder’s sewing frame",
+    "category": "bindery",
+    "description": "Oak frame holding eleven folded gatherings against five raised cords, with tension nuts and a trailing thread.",
+    "size_m": [
+      0.66,
+      0.54,
+      0.41
+    ],
+    "triangles": 6070,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "folded_vellum",
+      "rough_linen",
+      "brown_leather",
+      "wrought_iron"
+    ],
+    "file": "glb/bindery_sewing_frame.glb",
+    "preview": "previews/bindery_sewing_frame.png",
+    "glb_bytes": 3813592,
+    "sha256": "599a6cd3125ca8a57cee2f2241f03767a0701be4a90dc7951ef50b6de52f8af4"
+  },
+  {
+    "id": "chandlery_taper_carousel",
+    "name": "Chandler’s hanging taper carousel",
+    "category": "chandlery",
+    "description": "Six radial arms support paired hand-dipped tapers above a shallow iron drip tray.",
+    "size_m": [
+      0.83,
+      1.4,
+      0.83
+    ],
+    "triangles": 6588,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "beeswax",
+      "rough_linen",
+      "wrought_iron"
+    ],
+    "file": "glb/chandlery_taper_carousel.glb",
+    "preview": "previews/chandlery_taper_carousel.png",
+    "glb_bytes": 3704516,
+    "sha256": "67371559c3053845c482c6d41dbf03515b16928d4e5146f3e60e81b5d4cec8f8"
+  },
+  {
+    "id": "cloister_lavabo_canopy",
+    "name": "Cloister lavabo pavilion",
+    "category": "cloister",
+    "description": "Hexagonal vaulted arcade, ribbed slate canopy and a marble washing basin with four running brass spouts.",
+    "size_m": [
+      2.91,
+      3.61,
+      2.95
+    ],
+    "triangles": 4140,
+    "materials": [
+      "old_sandstone_02",
+      "large_sandstone_blocks",
+      "roof_slates_02",
+      "marble_white",
+      "water",
+      "aged_brass"
+    ],
+    "file": "glb/cloister_lavabo_canopy.glb",
+    "preview": "previews/cloister_lavabo_canopy.png",
+    "glb_bytes": 3330424,
+    "sha256": "3f1855e82acd4b0136d232f91ab1f197bd07abaf8adcffdb6ec15f8bdf8728de"
+  },
+  {
+    "id": "courtyard_post_dovecote",
+    "name": "Post-mounted courtyard dovecote",
+    "category": "courtyard",
+    "description": "Hexagonal nest house on a braced oak post with twelve arched entrances and individual landing shelves.",
+    "size_m": [
+      1.19,
+      2.99,
+      1.37
+    ],
+    "triangles": 6780,
+    "materials": [
+      "old_sandstone_02",
+      "oak_wood_planks",
+      "dark_wood",
+      "roof_slates_02",
+      "aged_brass"
+    ],
+    "file": "glb/courtyard_post_dovecote.glb",
+    "preview": "previews/courtyard_post_dovecote.png",
+    "glb_bytes": 3626276,
+    "sha256": "09abbbcebde4d00bae65129368c53cd564c69cbb99102bebaf3129ed72119891"
+  },
+  {
+    "id": "dairy_dash_churn",
+    "name": "Staved dash butter churn",
+    "category": "dairy",
+    "description": "Tapered sixteen-stave churn with three iron hoops, twin lid loops and a turned dash handle.",
+    "size_m": [
+      0.43,
+      1.19,
+      0.44
+    ],
+    "triangles": 3804,
+    "materials": [
+      "oak_wood_planks",
+      "wrought_iron",
+      "dark_wood"
+    ],
+    "file": "glb/dairy_dash_churn.glb",
+    "preview": "previews/dairy_dash_churn.png",
+    "glb_bytes": 1545640,
+    "sha256": "113088ae3f20752a8b9df324482ba29b837b829a47de26e668dce3b7648912a4"
+  },
+  {
+    "id": "dairy_lever_cheese_press",
+    "name": "Weighted lever cheese press",
+    "category": "dairy",
+    "description": "Twin-cheek timber press with a staved cheese mould, fitted follower, suspended fieldstone and nested whey bowls.",
+    "size_m": [
+      2.06,
+      1.56,
+      0.72
+    ],
+    "triangles": 5980,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "wrought_iron",
+      "rough_linen",
+      "old_sandstone_02",
+      "terracotta"
+    ],
+    "file": "glb/dairy_lever_cheese_press.glb",
+    "preview": "previews/dairy_lever_cheese_press.png",
+    "glb_bytes": 3783080,
+    "sha256": "7398166d05534ba0b6e3b704220e2555bf9a020c75d643cb77b782e69aacec1b"
+  },
+  {
+    "id": "dyer_set_pot",
+    "name": "Masonry-set dye kettle",
+    "category": "dyer",
+    "description": "A rolled-rim copper dyepot seated in a circular masonry furnace with an open stokehole and a stirring paddle.",
+    "size_m": [
+      1.38,
+      0.97,
+      1.27
+    ],
+    "triangles": 3704,
+    "materials": [
+      "hearth_stone",
+      "old_sandstone_02",
+      "dark_hammered_copper",
+      "madder_bath",
+      "wrought_iron",
+      "dark_wood",
+      "oak_wood_planks"
+    ],
+    "file": "glb/dyer_set_pot.glb",
+    "preview": "previews/dyer_set_pot.png",
+    "glb_bytes": 3419796,
+    "sha256": "5894e696740ae88a489645923933d7c4aad037cec49ce62b234025dc323bc201"
+  },
+  {
+    "id": "dyer_skein_horse",
+    "name": "Dyer’s skein horse",
+    "category": "dyer",
+    "description": "A braced trestle carrying three loose hanks of madder, woad and weld coloured yarn.",
+    "size_m": [
+      2.04,
+      1.49,
+      0.8
+    ],
+    "triangles": 18532,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "woad_yarn",
+      "rough_linen",
+      "madder_yarn",
+      "weld_yarn"
+    ],
+    "file": "glb/dyer_skein_horse.glb",
+    "preview": "previews/dyer_skein_horse.png",
+    "glb_bytes": 2861996,
+    "sha256": "0fd6af4185a096184be34dd61346575811d86f89bee460178f89885577744dce"
+  },
+  {
+    "id": "herbarium_drying_tree",
+    "name": "Herbalist’s radial drying tree",
+    "category": "herbarium",
+    "description": "Freestanding drying crown with cord stays and eight suspended, tied herb bunches.",
+    "size_m": [
+      1.03,
+      1.55,
+      1.03
+    ],
+    "triangles": 10648,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "rough_linen",
+      "green_leaf",
+      "sage_leaf",
+      "dried_flower"
+    ],
+    "file": "glb/herbarium_drying_tree.glb",
+    "preview": "previews/herbarium_drying_tree.png",
+    "glb_bytes": 3460000,
+    "sha256": "9d10def609c84b82e8c4345b6ca4dac9b9a6dbfdef44ad486f4ced40f2754363"
+  },
+  {
+    "id": "laundry_linen_smoothing_set",
+    "name": "Linen smoothing bench and roller",
+    "category": "laundry",
+    "description": "Braced plank bench with a wrapped roller, ornamental handled mangle board and folded linen.",
+    "size_m": [
+      1.05,
+      0.97,
+      0.63
+    ],
+    "triangles": 3104,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "rough_linen",
+      "aged_brass"
+    ],
+    "file": "glb/laundry_linen_smoothing_set.glb",
+    "preview": "previews/laundry_linen_smoothing_set.png",
+    "glb_bytes": 2460440,
+    "sha256": "510bfecf64478763f8c61024b378b9a20db4fd9d7a655ecec737bc92f20cf928"
+  },
+  {
+    "id": "laundry_wash_tub",
+    "name": "Wash tub with linen and paddle",
+    "category": "laundry",
+    "description": "Wide hooped oak tub with pierced lugs, a wooden laundry bat and folded linen draped over its rim.",
+    "size_m": [
+      0.91,
+      0.68,
+      0.92
+    ],
+    "triangles": 2672,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "wrought_iron",
+      "water",
+      "rough_linen"
+    ],
+    "file": "glb/laundry_wash_tub.glb",
+    "preview": "previews/laundry_wash_tub.png",
+    "glb_bytes": 2501484,
+    "sha256": "9fa4beb93f934f33dcf89f70be66df731defb4e945f39f6b2fafa3ba4d506f7e"
+  },
+  {
+    "id": "mews_block_perch",
+    "name": "Rush-capped block perch",
+    "category": "mews",
+    "description": "Turned wooden block with a woven cap, swivel ring and a loose leather leash coiled at the foot.",
+    "size_m": [
+      0.74,
+      0.52,
+      0.49
+    ],
+    "triangles": 4528,
+    "materials": [
+      "oak_wood_planks",
+      "woven_rush_pad",
+      "wrought_iron",
+      "dark_wood",
+      "brown_leather",
+      "rough_linen"
+    ],
+    "file": "glb/mews_block_perch.glb",
+    "preview": "previews/mews_block_perch.png",
+    "glb_bytes": 4963976,
+    "sha256": "8ada750fa7688b8724bc4f015e2c64164bee05a75e8118d10d5b784cd3f78c81"
+  },
+  {
+    "id": "minstrel_pillar_harp",
+    "name": "Bowed-pillar hall harp",
+    "category": "music",
+    "description": "Standing timber harp with 21 individual strings, bronze pins, curved pillar and diamond inlay.",
+    "size_m": [
+      0.74,
+      1.2,
+      0.28
+    ],
+    "triangles": 3962,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "rough_linen",
+      "aged_brass"
+    ],
+    "file": "glb/minstrel_pillar_harp.glb",
+    "preview": "previews/minstrel_pillar_harp.png",
+    "glb_bytes": 2538668,
+    "sha256": "238311577cb3fa046bd12021a7734c7275d5754286ee5de768a06d44df243025"
+  },
+  {
+    "id": "minstrel_table_psaltery",
+    "name": "Double-rosette table psaltery",
+    "category": "music",
+    "description": "Trapezoidal plucked zither with fifteen brass strings, open rosettes and low bridge rails.",
+    "size_m": [
+      0.85,
+      0.13,
+      0.49
+    ],
+    "triangles": 5836,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "aged_brass",
+      "wrought_iron"
+    ],
+    "file": "glb/minstrel_table_psaltery.glb",
+    "preview": "previews/minstrel_table_psaltery.png",
+    "glb_bytes": 1753304,
+    "sha256": "5f04c93f53cc42eebde2c4116162cc97bbcb70f170f007984d79f087129b12bc"
+  },
+  {
+    "id": "pantry_rotary_quern",
+    "name": "Rotary hand quern on bench",
+    "category": "pantry",
+    "description": "Stone handmill with bored runner stone, off-centre handle and a collection bowl beneath the work surface.",
+    "size_m": [
+      0.68,
+      0.92,
+      0.76
+    ],
+    "triangles": 4096,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "old_sandstone_02",
+      "hearth_stone",
+      "wrought_iron",
+      "terracotta"
+    ],
+    "file": "glb/pantry_rotary_quern.glb",
+    "preview": "previews/pantry_rotary_quern.png",
+    "glb_bytes": 3646368,
+    "sha256": "b9b5327406f06ef497936c9fba5d6591668641ed6c6f0c8e54daec2f4390af8b"
+  },
+  {
+    "id": "parchmenter_skin_stretcher",
+    "name": "Parchmenter’s hoop stretcher",
+    "category": "bindery",
+    "description": "Freestanding braced hoop with a pierced, scraped skin tensioned by eighteen paired laces.",
+    "size_m": [
+      1.72,
+      2.04,
+      0.76
+    ],
+    "triangles": 7020,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "scraped_parchment",
+      "brown_leather",
+      "rough_linen",
+      "wrought_iron"
+    ],
+    "file": "glb/parchmenter_skin_stretcher.glb",
+    "preview": "previews/parchmenter_skin_stretcher.png",
+    "glb_bytes": 4544412,
+    "sha256": "ed8fcf66ad4a4c5159250801171dd8abd80339027234622c3e4a29d87ca3d1f9"
+  },
+  {
+    "id": "physic_garden_wattle_bed",
+    "name": "Wattle-edged physic garden bed",
+    "category": "garden",
+    "description": "A low round garden bed with continuous basketry, seventeen stakes and nine leaf rosettes.",
+    "size_m": [
+      1.1,
+      0.43,
+      1.1
+    ],
+    "triangles": 8108,
+    "materials": [
+      "garden_earth",
+      "dark_wood",
+      "oak_wood_planks",
+      "sage_leaf",
+      "green_leaf",
+      "dried_flower"
+    ],
+    "file": "glb/physic_garden_wattle_bed.glb",
+    "preview": "previews/physic_garden_wattle_bed.png",
+    "glb_bytes": 3293700,
+    "sha256": "c4e132fb93e6da7f2c8df361a698f605e95325ca2e5f9c2530f08ab8576d4f9e"
+  },
+  {
+    "id": "pottery_kick_wheel",
+    "name": "Potter’s tread wheel",
+    "category": "pottery",
+    "description": "Seated kick wheel with weighted flywheel, central bearing and an open clay vessel on the throwing head.",
+    "size_m": [
+      1.03,
+      1.05,
+      1.1
+    ],
+    "triangles": 5384,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "wrought_iron",
+      "terracotta"
+    ],
+    "file": "glb/pottery_kick_wheel.glb",
+    "preview": "previews/pottery_kick_wheel.png",
+    "glb_bytes": 1955344,
+    "sha256": "e45c4aaff831892df105be884e0f1b9a409004d0c74fc3da0a0fbe931d760131"
+  },
+  {
+    "id": "pottery_updraft_kiln",
+    "name": "Updraft pottery kiln",
+    "category": "pottery",
+    "description": "Tapered masonry kiln with a genuine stoke opening, arch stones, chimney throat and resting billets.",
+    "size_m": [
+      1.72,
+      1.66,
+      2.04
+    ],
+    "triangles": 9620,
+    "materials": [
+      "kiln_fired_brick",
+      "terracotta",
+      "hearth_stone",
+      "old_sandstone_02",
+      "dark_wood",
+      "wrought_iron"
+    ],
+    "file": "glb/pottery_updraft_kiln.glb",
+    "preview": "previews/pottery_updraft_kiln.png",
+    "glb_bytes": 3313428,
+    "sha256": "80787775a246482820194d14ec9daba7f4188b24dd88fe8425d25fc720069518"
+  },
+  {
+    "id": "refectory_bird_aquamanile",
+    "name": "Bird-form bronze aquamanile",
+    "category": "refectory",
+    "description": "Bird-shaped bronze hand-washing ewer with a hollow beak, feathered wings, dorsal filling mouth and arched handle.",
+    "size_m": [
+      0.21,
+      0.34,
+      0.44
+    ],
+    "triangles": 5334,
+    "materials": [
+      "cast_bronze_ewer",
+      "aged_brass",
+      "void",
+      "wrought_iron"
+    ],
+    "file": "glb/refectory_bird_aquamanile.glb",
+    "preview": "previews/refectory_bird_aquamanile.png",
+    "glb_bytes": 435612,
+    "sha256": "b39d99f63628378426c6e1439199f6b398422dd8fb35f2d972876d7cf7cb8585"
+  },
+  {
+    "id": "spinning_flax_distaff",
+    "name": "Loaded floor distaff with drop spindle",
+    "category": "spinning",
+    "description": "Tripod flax staff with forked crown, bound stricks of fibre and a suspended clay-whorl spindle.",
+    "size_m": [
+      0.54,
+      1.6,
+      0.47
+    ],
+    "triangles": 4788,
+    "materials": [
+      "dark_wood",
+      "oak_wood_planks",
+      "unbleached_flax_stricks",
+      "crimson_fabric",
+      "terracotta",
+      "rough_linen"
+    ],
+    "file": "glb/spinning_flax_distaff.glb",
+    "preview": "previews/spinning_flax_distaff.png",
+    "glb_bytes": 3526024,
+    "sha256": "9aaa93b15355dd8f94d6ddb34ad5ba0debb6fb8819761e11e566df39187366fa"
+  },
+  {
+    "id": "spinning_great_wheel",
+    "name": "Great spindle wheel",
+    "category": "spinning",
+    "description": "Walking wheel with a tall grooved rim, twelve spokes, a tangent drive cord and a separate spindle whorl.",
+    "size_m": [
+      1.87,
+      1.62,
+      0.7
+    ],
+    "triangles": 6108,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "wrought_iron",
+      "rough_linen"
+    ],
+    "file": "glb/spinning_great_wheel.glb",
+    "preview": "previews/spinning_great_wheel.png",
+    "glb_bytes": 2562032,
+    "sha256": "6788df80efd8eb96ff8efcc97cb966715fab418e1e560de507fbeaaa60d9b8c5"
+  },
+  {
+    "id": "weavery_tapestry_loom",
+    "name": "High-warp tapestry loom",
+    "category": "weavery",
+    "description": "Freestanding oak loom with braced sled feet, exposed linen warp and a partially woven madder-and-indigo lozenge hanging.",
+    "size_m": [
+      1.88,
+      2.22,
+      1.02
+    ],
+    "triangles": 5522,
+    "materials": [
+      "oak_wood_planks",
+      "dark_wood",
+      "azure_fabric",
+      "crimson_fabric",
+      "rough_linen",
+      "wrought_iron"
+    ],
+    "file": "glb/weavery_tapestry_loom.glb",
+    "preview": "previews/weavery_tapestry_loom.png",
+    "glb_bytes": 3629484,
+    "sha256": "5720ecbd6d179df2a1f02c030fb5a754b6e03dc482d76aed982b2dea551186f8"
+  }
+]

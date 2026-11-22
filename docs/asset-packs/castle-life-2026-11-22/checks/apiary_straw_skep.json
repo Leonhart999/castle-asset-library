@@ -1,0 +1,55 @@
+{
+  "id": "apiary_straw_skep",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 17724,
+      "vertices": 9938,
+      "meshes": 2,
+      "size_m": [
+        0.575,
+        0.824,
+        0.603
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 37068,
+      "vertices": 20823,
+      "meshes": 3,
+      "size_m": [
+        0.563,
+        0.824,
+        0.603
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 55200,
+      "vertices": 32399,
+      "meshes": 4,
+      "size_m": [
+        0.563,
+        0.824,
+        0.666
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 18004,
+      "vertices": 11777,
+      "meshes": 4,
+      "size_m": [
+        0.563,
+        0.824,
+        0.666
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3916912,
+  "embedded_images": 12
+}

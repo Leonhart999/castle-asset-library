@@ -1,0 +1,55 @@
+{
+  "id": "dyer_set_pot",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2044,
+      "vertices": 1659,
+      "meshes": 4,
+      "size_m": [
+        1.268,
+        0.872,
+        1.267
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 5568,
+      "vertices": 4430,
+      "meshes": 5,
+      "size_m": [
+        1.268,
+        0.875,
+        1.267
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 7064,
+      "vertices": 5913,
+      "meshes": 7,
+      "size_m": [
+        1.38,
+        0.971,
+        1.267
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 3704,
+      "vertices": 3683,
+      "meshes": 7,
+      "size_m": [
+        1.38,
+        0.971,
+        1.267
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3419796,
+  "embedded_images": 18
+}

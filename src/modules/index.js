@@ -33,6 +33,36 @@ import { roofModules } from './roofs.js';
 import { structureModules } from './structure.js';
 import { doorModules } from './doors.js';
 
+import { weaveryModules } from './weavery_loom.js';
+
+import { dairyModules } from './dairy_press.js';
+
+import { bakeryModules } from './bakery_trough.js';
+
+import { peelModules } from './bakery_peels.js';
+
+import { dyerModules } from './dyer_yard.js';
+
+import { apiaryModules } from './apiary_chandlery.js';
+
+import { lavaboModules } from './cloister_lavabo.js';
+
+import { spinModules } from './spinning_room.js';
+
+import { musicModules } from './minstrel_music.js';
+
+import { mewsModules } from './courtyard_mews.js';
+
+import { binderyModules } from './bindery.js';
+
+import { provisionModules } from './pantry_provisions.js';
+
+import { herbCourtModules } from './herb_court.js';
+
+import { potteryModules } from './pottery_court.js';
+
+import { laundryModules } from './laundry_court.js';
+
 export const MODULES = [
   ...wallModules,
   ...towerModules,
@@ -66,6 +96,21 @@ export const MODULES = [
   ...stableModules,
   ...courtyardModules,
   ...dungeonModules,
+  ...weaveryModules,
+  ...dairyModules,
+  ...bakeryModules,
+  ...peelModules,
+  ...dyerModules,
+  ...apiaryModules,
+  ...lavaboModules,
+  ...spinModules,
+  ...musicModules,
+  ...mewsModules,
+  ...binderyModules,
+  ...provisionModules,
+  ...herbCourtModules,
+  ...potteryModules,
+  ...laundryModules,
 ];
 
 export function byId(id) {

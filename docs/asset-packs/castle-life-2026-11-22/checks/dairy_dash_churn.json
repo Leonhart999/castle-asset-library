@@ -1,0 +1,55 @@
+{
+  "id": "dairy_dash_churn",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 3008,
+      "vertices": 2311,
+      "meshes": 3,
+      "size_m": [
+        0.426,
+        1.17,
+        0.426
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 4272,
+      "vertices": 3480,
+      "meshes": 3,
+      "size_m": [
+        0.426,
+        1.194,
+        0.426
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 13824,
+      "vertices": 9268,
+      "meshes": 3,
+      "size_m": [
+        0.426,
+        1.194,
+        0.44
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 3804,
+      "vertices": 3336,
+      "meshes": 3,
+      "size_m": [
+        0.426,
+        1.194,
+        0.44
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 1545640,
+  "embedded_images": 9
+}

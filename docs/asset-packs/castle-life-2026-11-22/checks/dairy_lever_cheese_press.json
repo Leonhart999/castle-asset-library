@@ -1,0 +1,55 @@
+{
+  "id": "dairy_lever_cheese_press",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 1928,
+      "vertices": 1843,
+      "meshes": 5,
+      "size_m": [
+        2.026,
+        1.56,
+        0.72
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 5276,
+      "vertices": 4481,
+      "meshes": 5,
+      "size_m": [
+        2.061,
+        1.56,
+        0.72
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 8672,
+      "vertices": 7669,
+      "meshes": 6,
+      "size_m": [
+        2.061,
+        1.56,
+        0.72
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 5980,
+      "vertices": 5257,
+      "meshes": 6,
+      "size_m": [
+        2.061,
+        1.56,
+        0.72
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3783080,
+  "embedded_images": 18
+}

@@ -1,0 +1,55 @@
+{
+  "id": "dyer_skein_horse",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 27152,
+      "vertices": 15336,
+      "meshes": 3,
+      "size_m": [
+        2.04,
+        1.458,
+        0.219
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 28140,
+      "vertices": 16236,
+      "meshes": 4,
+      "size_m": [
+        2.04,
+        1.486,
+        0.803
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 87324,
+      "vertices": 49476,
+      "meshes": 7,
+      "size_m": [
+        2.04,
+        1.486,
+        0.803
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 18532,
+      "vertices": 11728,
+      "meshes": 7,
+      "size_m": [
+        2.04,
+        1.486,
+        0.803
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 2861996,
+  "embedded_images": 12
+}

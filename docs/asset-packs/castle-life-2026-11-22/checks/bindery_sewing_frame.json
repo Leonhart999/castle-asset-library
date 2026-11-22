@@ -1,0 +1,55 @@
+{
+  "id": "bindery_sewing_frame",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 948,
+      "vertices": 932,
+      "meshes": 4,
+      "size_m": [
+        0.656,
+        0.53,
+        0.411
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3348,
+      "vertices": 2762,
+      "meshes": 4,
+      "size_m": [
+        0.656,
+        0.543,
+        0.411
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 21476,
+      "vertices": 13762,
+      "meshes": 6,
+      "size_m": [
+        0.656,
+        0.543,
+        0.411
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 6070,
+      "vertices": 4679,
+      "meshes": 6,
+      "size_m": [
+        0.656,
+        0.543,
+        0.411
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3813592,
+  "embedded_images": 15
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pottery_kick_wheel",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2040,
+      "vertices": 1649,
+      "meshes": 3,
+      "size_m": [
+        1.029,
+        0.84,
+        1.1
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 4968,
+      "vertices": 3840,
+      "meshes": 3,
+      "size_m": [
+        1.029,
+        0.84,
+        1.1
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 11992,
+      "vertices": 8231,
+      "meshes": 4,
+      "size_m": [
+        1.029,
+        1.047,
+        1.1
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 5384,
+      "vertices": 4089,
+      "meshes": 4,
+      "size_m": [
+        1.029,
+        1.047,
+        1.1
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 1955344,
+  "embedded_images": 12
+}

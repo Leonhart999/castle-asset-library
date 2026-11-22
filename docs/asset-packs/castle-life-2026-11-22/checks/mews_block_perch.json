@@ -1,0 +1,55 @@
+{
+  "id": "mews_block_perch",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 1584,
+      "vertices": 1165,
+      "meshes": 2,
+      "size_m": [
+        0.41,
+        0.519,
+        0.41
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3616,
+      "vertices": 2533,
+      "meshes": 4,
+      "size_m": [
+        0.48,
+        0.519,
+        0.48
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 17824,
+      "vertices": 10539,
+      "meshes": 6,
+      "size_m": [
+        0.739,
+        0.519,
+        0.489
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 4528,
+      "vertices": 3013,
+      "meshes": 6,
+      "size_m": [
+        0.738,
+        0.519,
+        0.489
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 4963976,
+  "embedded_images": 18
+}

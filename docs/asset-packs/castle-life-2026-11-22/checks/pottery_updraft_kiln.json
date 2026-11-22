@@ -1,0 +1,55 @@
+{
+  "id": "pottery_updraft_kiln",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 5312,
+      "vertices": 7192,
+      "meshes": 3,
+      "size_m": [
+        1.72,
+        1.664,
+        1.71
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 14980,
+      "vertices": 22590,
+      "meshes": 4,
+      "size_m": [
+        1.719,
+        1.664,
+        1.757
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 22908,
+      "vertices": 28986,
+      "meshes": 6,
+      "size_m": [
+        1.719,
+        1.664,
+        2.045
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 9620,
+      "vertices": 13918,
+      "meshes": 6,
+      "size_m": [
+        1.72,
+        1.664,
+        2.045
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3313428,
+  "embedded_images": 15
+}

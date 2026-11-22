@@ -1,0 +1,55 @@
+{
+  "id": "cloister_lavabo_canopy",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2596,
+      "vertices": 1772,
+      "meshes": 4,
+      "size_m": [
+        2.907,
+        3.415,
+        2.952
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 4612,
+      "vertices": 4208,
+      "meshes": 4,
+      "size_m": [
+        2.907,
+        3.415,
+        2.952
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 9508,
+      "vertices": 7243,
+      "meshes": 6,
+      "size_m": [
+        2.907,
+        3.614,
+        2.952
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 4140,
+      "vertices": 3423,
+      "meshes": 6,
+      "size_m": [
+        2.907,
+        3.614,
+        2.952
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3330424,
+  "embedded_images": 15
+}

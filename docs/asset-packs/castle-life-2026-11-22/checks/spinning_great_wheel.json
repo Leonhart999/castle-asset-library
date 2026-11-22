@@ -1,0 +1,55 @@
+{
+  "id": "spinning_great_wheel",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 4960,
+      "vertices": 3477,
+      "meshes": 3,
+      "size_m": [
+        1.87,
+        1.601,
+        0.535
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 13664,
+      "vertices": 8691,
+      "meshes": 3,
+      "size_m": [
+        1.869,
+        1.615,
+        0.695
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 27592,
+      "vertices": 23009,
+      "meshes": 4,
+      "size_m": [
+        1.872,
+        1.617,
+        0.696
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 6108,
+      "vertices": 4847,
+      "meshes": 4,
+      "size_m": [
+        1.871,
+        1.617,
+        0.696
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 2562032,
+  "embedded_images": 12
+}

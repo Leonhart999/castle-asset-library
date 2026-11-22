@@ -1,0 +1,55 @@
+{
+  "id": "minstrel_table_psaltery",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 1680,
+      "vertices": 1662,
+      "meshes": 3,
+      "size_m": [
+        0.854,
+        0.129,
+        0.493
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 15384,
+      "vertices": 10048,
+      "meshes": 3,
+      "size_m": [
+        0.854,
+        0.129,
+        0.493
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 20824,
+      "vertices": 15928,
+      "meshes": 4,
+      "size_m": [
+        0.854,
+        0.133,
+        0.493
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 5836,
+      "vertices": 5094,
+      "meshes": 4,
+      "size_m": [
+        0.854,
+        0.133,
+        0.493
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 1753304,
+  "embedded_images": 12
+}

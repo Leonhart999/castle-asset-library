@@ -1,0 +1,55 @@
+{
+  "id": "parchmenter_skin_stretcher",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 4968,
+      "vertices": 3197,
+      "meshes": 4,
+      "size_m": [
+        1.72,
+        2.041,
+        0.4
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 10456,
+      "vertices": 6717,
+      "meshes": 5,
+      "size_m": [
+        1.72,
+        2.041,
+        0.76
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 33854,
+      "vertices": 22047,
+      "meshes": 6,
+      "size_m": [
+        1.72,
+        2.041,
+        0.76
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 7020,
+      "vertices": 5730,
+      "meshes": 6,
+      "size_m": [
+        1.72,
+        2.041,
+        0.76
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 4544412,
+  "embedded_images": 17
+}

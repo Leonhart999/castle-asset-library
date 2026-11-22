@@ -1,0 +1,55 @@
+{
+  "id": "physic_garden_wattle_bed",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 7664,
+      "vertices": 5446,
+      "meshes": 5,
+      "size_m": [
+        1.073,
+        0.353,
+        1.078
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 22048,
+      "vertices": 13508,
+      "meshes": 5,
+      "size_m": [
+        1.101,
+        0.353,
+        1.097
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 30832,
+      "vertices": 23116,
+      "meshes": 6,
+      "size_m": [
+        1.101,
+        0.431,
+        1.097
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 8108,
+      "vertices": 7992,
+      "meshes": 6,
+      "size_m": [
+        1.101,
+        0.431,
+        1.096
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3293700,
+  "embedded_images": 12
+}

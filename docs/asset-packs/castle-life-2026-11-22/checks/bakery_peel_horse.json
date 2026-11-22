@@ -1,0 +1,55 @@
+{
+  "id": "bakery_peel_horse",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 384,
+      "vertices": 504,
+      "meshes": 2,
+      "size_m": [
+        0.842,
+        2.088,
+        0.36
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 1536,
+      "vertices": 1550,
+      "meshes": 2,
+      "size_m": [
+        0.842,
+        2.108,
+        0.53
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 4544,
+      "vertices": 4726,
+      "meshes": 4,
+      "size_m": [
+        0.842,
+        2.108,
+        0.53
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 1968,
+      "vertices": 2108,
+      "meshes": 4,
+      "size_m": [
+        0.842,
+        2.108,
+        0.53
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 2449556,
+  "embedded_images": 12
+}

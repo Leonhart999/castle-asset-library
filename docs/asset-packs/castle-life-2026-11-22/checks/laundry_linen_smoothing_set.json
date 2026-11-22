@@ -1,0 +1,55 @@
+{
+  "id": "laundry_linen_smoothing_set",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 2692,
+      "vertices": 1723,
+      "meshes": 2,
+      "size_m": [
+        1.055,
+        0.97,
+        0.626
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 4000,
+      "vertices": 2779,
+      "meshes": 2,
+      "size_m": [
+        1.055,
+        0.97,
+        0.626
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 5904,
+      "vertices": 4563,
+      "meshes": 4,
+      "size_m": [
+        1.055,
+        0.97,
+        0.626
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 3104,
+      "vertices": 2661,
+      "meshes": 4,
+      "size_m": [
+        1.055,
+        0.97,
+        0.626
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 2460440,
+  "embedded_images": 12
+}

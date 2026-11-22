@@ -1,0 +1,55 @@
+{
+  "id": "courtyard_post_dovecote",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 1364,
+      "vertices": 1879,
+      "meshes": 4,
+      "size_m": [
+        1.188,
+        2.875,
+        1.372
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3132,
+      "vertices": 4055,
+      "meshes": 4,
+      "size_m": [
+        1.188,
+        2.875,
+        1.372
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 8372,
+      "vertices": 8761,
+      "meshes": 5,
+      "size_m": [
+        1.194,
+        2.989,
+        1.373
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 6780,
+      "vertices": 6605,
+      "meshes": 5,
+      "size_m": [
+        1.194,
+        2.989,
+        1.373
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3626276,
+  "embedded_images": 15
+}

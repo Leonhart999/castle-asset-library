@@ -1,0 +1,55 @@
+{
+  "id": "bakery_kneading_trough",
+  "checks": [
+    {
+      "stage": 0,
+      "triangles": 132,
+      "vertices": 236,
+      "meshes": 2,
+      "size_m": [
+        1.792,
+        0.954,
+        0.638
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 1,
+      "triangles": 3328,
+      "vertices": 5420,
+      "meshes": 2,
+      "size_m": [
+        1.792,
+        1.016,
+        0.703
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 2,
+      "triangles": 9016,
+      "vertices": 10349,
+      "meshes": 4,
+      "size_m": [
+        1.792,
+        1.038,
+        0.703
+      ],
+      "degenerate": 0
+    },
+    {
+      "stage": 3,
+      "triangles": 2904,
+      "vertices": 3821,
+      "meshes": 4,
+      "size_m": [
+        1.792,
+        1.038,
+        0.703
+      ],
+      "degenerate": 0
+    }
+  ],
+  "glb_bytes": 3502700,
+  "embedded_images": 12
+}
